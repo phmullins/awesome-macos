@@ -7,17 +7,16 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
   * [Cleanup](#cleanup)
   * [Communication](#communication)
   * [Compression](#compression)
-  * [Document Management](#document-management)
   * [Encryption](#encryption)
   * [Graphics](#graphics)
   * [Journaling](#journaling)
+  * [Knowledge Management](#knowledge-management)
   * [Markdown](#markdown)
   * [Network](#network)
   * [Office Suites](#office-suites)
   * [Password Management](#password-management)
   * [Programming Utilities](#programming-utilities)
   * [Remote Administration](#remote-administration)
-  * [Software Management](#software-management)
   * [Source Control](#source-control)
   * [System Tools](#system-tools)
   * [Task Management](#task-management)
@@ -58,10 +57,6 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 
 * [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for OS X's default compression app.
 
-## Document Management
-
-* [DEVONthink Personal](http://www.devontechnologies.com/products/devonthink/devonthink-personal.html) - Document/Note manager.
-
 ## Encryption
 *Encryption Tools.*
 
@@ -77,6 +72,10 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 *Journaling.*
 
 * [Day One](http://dayoneapp.com/) - A journal, diary, text-logging application.
+
+## Knowledge Management
+
+* [DEVONthink Pro Office](http://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html) - Document/Note manager.
 
 ## Markdown
 *Markdown Editors*
@@ -97,11 +96,11 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 
 * [1Password](https://agilebits.com/onepassword) - Password Manager.
 
-## Programming
+## Programming Utilities
 *Various tools to aid in programming.*
 
 * [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets.
-* [Xcode](https://developer.apple.com/xcode/) - Xcode 7 includes everything you need to create amazing apps for iPhone, iPad, Mac, and Apple Watch.
+* [Xcode](https://developer.apple.com/xcode/) - Apple's Swift/Objective-C deveolpment environment.
 
 ## Remote Administration
 *Tools to help with remote administration*
@@ -151,7 +150,6 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox.
 * [Google Chrome](https://encrypted.google.com/chrome) - Google Chrome is a freeware web browser developed by Google.
-* [Opera](http://www.opera.com/) - Opera is a web browser developed by Opera Software.
 
 ## Virtualization
 *Virtualization tools.*
