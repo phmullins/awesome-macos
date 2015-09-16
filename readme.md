@@ -1,7 +1,6 @@
 # Awesome OS X
 A curated list of fantastically awesome software for Apple OS X inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin).
 
-* Awesome OS X
   * [Audio](#audio)
   * [Backups](#backups)
   * [Cleanup](#cleanup)
@@ -155,6 +154,9 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 *Virtualization tools.*
 
 * [VMware Fusion](http://www.vmware.com/products/fusion/) - Run Windows and Linux on your Mac.
+
+## Author
+Created by [Patrick H. Mullins](http://www.pmullins.net/aboutme/). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
 
 ## License
 Source is released under the MIT (Massachusetts Institute of Technology) [license](license.md).
