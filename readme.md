@@ -1,13 +1,13 @@
 # Awesome OS X
 A curated list of fantastically awesome software for Apple OS X inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin).
 
-* [Awesome OS X](#awesome-osxapps)
+* Awesome OS X
   * [Audio](#audio)
   * [Backups](#backups)
   * [Cleanup](#cleanup)
   * [Communication](#communication)
   * [Compression](#compression)
-  * [Document Management](#document)
+  * [Document Management](#Document Management)
   * [Encryption](#encryption)
   * [Graphics](#graphics)
   * [Journaling](#journaling)
