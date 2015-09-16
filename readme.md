@@ -59,7 +59,6 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 * [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for OS X's default compression app.
 
 ## Document Management
-*Document/Note Managers.*
 
 * [DEVONthink Personal](http://www.devontechnologies.com/products/devonthink/devonthink-personal.html) - Document/Note manager.
 
@@ -90,13 +89,11 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 * [Transmit](https://www.panic.com/transmit/) - FTP client that supports SFTP, S3, WebDAV, and more.
 
 ## Office Suites
-*Office Suites.*
 
 * [Apache OpenOffice](http://www.openoffice.org/) - Apache's free and open source productivity suite.
 * [Office 2016 for Mac](https://products.office.com/en-US/mac/microsoft-office-for-mac) - The latest verion of Office from the folks in Redmond.
 
 ## Password Management
-*Password Managers*
 
 * [1Password](https://agilebits.com/onepassword) - Password Manager.
 
