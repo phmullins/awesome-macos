@@ -1,0 +1,4 @@
+# Ignore OS X system and other misc files
+.DS_Store
+
+
