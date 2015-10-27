@@ -55,7 +55,7 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 *Tools for the compression and decompression of user files.*
 
 * [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for OS X's default compression app.
-* [p7zip](http://p7zip.sourceforge.net/) - Open Source port of 7zip for POSIX systems.
+* [p7zip](http://p7zip.sourceforge.net/) - Open Source port of 7-Zip for POSIX systems.
 
 ## Encryption
 *Encryption Tools.*
