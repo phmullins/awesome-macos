@@ -14,6 +14,7 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
   * [Network](#network)
   * [Office Suites](#office-suites)
   * [Password Management](#password-management)
+  * [Photo Management](#photo-management)
   * [Programming Utilities](#programming-utilities)
   * [Remote Administration](#remote-administration)
   * [Source Control](#source-control)
@@ -21,7 +22,7 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
   * [Task Management](#task-management)
   * [Terminal](#terminal)
   * [Text Editors](#text-editors)
-  * [Web Browsers](#web-browsers) 
+  * [Web Browsers](#web-browsers)
   * [Virtualization](#virtualization)
 
 ## Audio
@@ -41,7 +42,7 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 *Tools to uninstall software and keep your system clean*
 
 * [Disk Doctor](https://fiplab.com/apps/disk-doctor-for-mac) - Removes tons of unneeded files.
-* [Duplicate Detective](https://fiplab.com/apps/duplicate-detective-for-mac) - Remove duplicate files from your Mac. 
+* [Duplicate Detective](https://fiplab.com/apps/duplicate-detective-for-mac) - Remove duplicate files from your Mac.
 * [TrashMe](http://www.jibapps.com/en/products/trashme/) - Uninstaller for the Mac with other great useful tools.
 
 ## Communication
@@ -81,6 +82,7 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 *Markdown Editors*
 
 * [Byword](http://www.bywordapp.com/) - Excellent markdown editor
+* [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for macOS.
 
 ## Network
 *Networking tools*
@@ -96,9 +98,14 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 
 * [1Password](https://agilebits.com/onepassword) - Password Manager.
 
+## Photo Management
+
+* [Pixave](http://www.pixaveapp.com/) - The ultimate image organizer.
+
 ## Programming Utilities
 *Various tools to aid in programming.*
 
+* [CodeRunner 2](https://coderunnerapp.com/) - Easy-to-use programming editor for your Mac.
 * [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets.
 * [Xcode](https://developer.apple.com/xcode/) - Apple's Swift/Objective-C deveolpment environment.
 
@@ -120,6 +127,7 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 * [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases.
 * [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode.
 * [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
+* [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
 * [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar.
 * [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
 * [Monolingual](http://ingmarstein.github.io/Monolingual/) - Frees up disk space by removing unused languages files.
@@ -139,8 +147,8 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 ## Text Editors
 *Text Editors.*
 
+* [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
 * [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that dosen't suck.
-* [Espresso](http://macrabbit.com/espresso/) - 
 * [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers.
 * [TextWrangler](http://www.barebones.com/products/textwrangler/) - BBedit's free little brother.
 * [Visual Studio Code](https://code.visualstudio.com/) - Excellent cross-platform text editor from Microsoft.
