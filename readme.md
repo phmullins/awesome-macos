@@ -97,6 +97,8 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 ## Password Management
 
 * [1Password](https://agilebits.com/onepassword) - Password Manager.
+* [KeepassX](https://www.keepassx.org/) - Open Source password manager.
+* [MacPass](http://mstarke.github.io/MacPass/) - A native OS X KeePass client.
 
 ## Photo Management
 
