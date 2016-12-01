@@ -138,6 +138,7 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 ## Task Management
 *Task managers to help get things done.*
 
+* [JustFocus](http://climstudio.com/justfocus/) - Focus on What's Important.
 * [OmniFocus](https://www.omnigroup.com/omnifocus) - One of the best GTD/Task managers money can buy.
 
 ## Terminal
