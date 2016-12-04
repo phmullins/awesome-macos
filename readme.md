@@ -144,8 +144,9 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 ## Terminal
 *Awesome command-line tools*
 
-* [Homebrew](http://brew.sh/) - The missing package manager for OS X.
+* [Homebrew](http://brew.sh/) - The missing package manager for MacOS.
 * [iTerm 2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm.
+* [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS!
 
 ## Text Editors
 *Text Editors.*
@@ -168,7 +169,7 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 * [VMware Fusion](http://www.vmware.com/products/fusion/) - Run Windows and Linux on your Mac.
 
 ## Author
-Created by [Patrick H. Mullins](http://www.pmullins.net/aboutme/). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
+Created by [Patrick H. Mullins](http://www.pmullins.net). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
 
 ## License
 Source is released under the FreeBSD (BSD-2-Clause) License [license](license.md).
