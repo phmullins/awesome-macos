@@ -6,6 +6,7 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
   * [Cleanup](#cleanup)
   * [Communication](#communication)
   * [Compression](#compression)
+  * [Databases](#databases)
   * [Encryption](#encryption)
   * [Graphics](#graphics)
   * [Journaling](#journaling)
@@ -57,6 +58,12 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 
 * [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for OS X's default compression app.
 * [p7zip](http://p7zip.sourceforge.net/) - Open Source port of 7-Zip for POSIX systems.
+
+## Databases
+
+* [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases
+* [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS
+
 
 ## Encryption
 *Encryption Tools.*
