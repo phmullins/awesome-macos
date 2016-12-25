@@ -1,5 +1,5 @@
-## Awesome OS X
-A curated list of fantastically awesome software for Apple OS X inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin).
+## Awesome MacOS
+A curated list of fantastically awesome software for Apple's MacOS inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin).
 
   * [Audio](#audio)
   * [Backups](#backups)
@@ -49,14 +49,14 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 ## Communication
 *Communication tools.*
 
-* [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for Mac OS X.
+* [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for MacOS.
 * [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app.
 * [Reeder](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, and more.
 
 ## Compression
 *Tools for the compression and decompression of user files.*
 
-* [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for OS X's default compression app.
+* [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for MacOS' default compression app.
 * [p7zip](http://p7zip.sourceforge.net/) - Open Source port of 7-Zip for POSIX systems.
 
 ## Databases
@@ -68,7 +68,7 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 ## Encryption
 *Encryption Tools.*
 
-* [GPG Tools](https://gpgtools.org/) - GPG Suite for OS X.
+* [GPG Tools](https://gpgtools.org/) - GPG Suite for MacOS.
 * [Keybase](https://keybase.io/) - Keybase is a directory of public keys and the proofs of who owns them.
 
 ## Graphics
@@ -89,7 +89,7 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 *Markdown Editors*
 
 * [Byword](http://www.bywordapp.com/) - Excellent markdown editor
-* [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for macOS.
+* [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS.
 
 ## Network
 *Networking tools*
@@ -105,7 +105,7 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 
 * [1Password](https://agilebits.com/onepassword) - Password Manager.
 * [KeepassX](https://www.keepassx.org/) - Open Source password manager.
-* [MacPass](http://mstarke.github.io/MacPass/) - A native OS X KeePass client.
+* [MacPass](http://mstarke.github.io/MacPass/) - A native MacOS KeePass client.
 
 ## Photo Management
 
@@ -126,7 +126,7 @@ A curated list of fantastically awesome software for Apple OS X inspired by [Awe
 ## Source Control
 *Source Control.*
 
-* [GitHub Desktop](https://desktop.github.com/) - The official GitHub client for OS X.
+* [GitHub Desktop](https://desktop.github.com/) - The official GitHub client for MacOS.
 * [Tower 2](http://www.git-tower.com/) - Advanced Git version control.
 
 ## System Tools
