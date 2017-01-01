@@ -110,6 +110,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 ## Photo Management
 
 * [Pixave](http://www.pixaveapp.com/) - The ultimate image organizer.
+* [Pixelmator](http://www.pixelmator.com) - Full-featured image editor for Mac.
 
 ## Programming Utilities
 *Various tools to aid in programming.*
