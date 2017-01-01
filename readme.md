@@ -15,7 +15,6 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
   * [Network](#network)
   * [Office Suites](#office-suites)
   * [Password Management](#password-management)
-  * [Photo Management](#photo-management)
   * [Programming Utilities](#programming-utilities)
   * [Remote Administration](#remote-administration)
   * [Source Control](#source-control)
@@ -52,6 +51,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 * [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for MacOS.
 * [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app.
 * [Reeder](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, and more.
+* [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
 
 ## Compression
 *Tools for the compression and decompression of user files.*
@@ -74,7 +74,8 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 ## Graphics
 *Tools to manipulate images.*
 
-* [Pixelmator](http://www.pixelmator.com/mac/) - Extremely powerful image editor.
+* [Pixave](http://www.pixaveapp.com/) - The ultimate image organizer.
+* [Pixelmator](http://www.pixelmator.com) - Full-featured image editor for Mac.
 
 ## Journaling
 *Journaling.*
@@ -106,11 +107,6 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 * [1Password](https://agilebits.com/onepassword) - Password Manager.
 * [KeepassX](https://www.keepassx.org/) - Open Source password manager.
 * [MacPass](http://mstarke.github.io/MacPass/) - A native MacOS KeePass client.
-
-## Photo Management
-
-* [Pixave](http://www.pixaveapp.com/) - The ultimate image organizer.
-* [Pixelmator](http://www.pixelmator.com) - Full-featured image editor for Mac.
 
 ## Programming Utilities
 *Various tools to aid in programming.*
