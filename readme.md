@@ -81,6 +81,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 *Journaling.*
 
 * [Day One](http://dayoneapp.com/) - A journal, diary, text-logging application.
+* [jrnl](http://jrnl.sh/) - Command-line journaling application.
 
 ## Knowledge Management
 
