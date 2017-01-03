@@ -37,6 +37,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 
 * [Arq](https://www.arqbackup.com/) - Backup your files to Google Drive, Amazon Glacier, SFTP, and more.
 * [Carbon Copy Cloner](http://bombich.com/) - Create a bit-perfect clone of your Mac's hard drive.
+* [Rclone](http://rclone.org/) - Sync files and directories to and from multiple services.
 
 ## Cleanup
 *Tools to uninstall software and keep your system clean*
