@@ -140,6 +140,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 * [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
 * [Monolingual](http://ingmarstein.github.io/Monolingual/) - Frees up disk space by removing unused languages files.
 * [TotalSpaces2](http://totalspaces.binaryage.com/) - The ultimate grid spaces manager for your Mac.
+* [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers.
 
 ## Task Management
 *Task managers to help get things done.*
