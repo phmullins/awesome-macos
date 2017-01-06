@@ -102,6 +102,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 ## Office Suites
 
 * [Apache OpenOffice](http://www.openoffice.org/) - Apache's free and open source productivity suite.
+* [Calibre](http://calibre-ebook.com/) - Complete e-book library management system.
 * [Office 2016 for Mac](https://products.office.com/en-US/mac/microsoft-office-for-mac) - The latest verion of Office from the folks in Redmond.
 
 ## Password Management
