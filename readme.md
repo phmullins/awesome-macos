@@ -135,6 +135,8 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 * [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac.
 * [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases.
 * [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode.
+* [Dr. Cleaner](http://appletuner.trendmicro.com/drcleaner/?ct=appletunercom&mt=12&at=1000l6jv) - System, Memory, & Disk optimization.
+* [Dr. Unarchiver](http://appletuner.trendmicro.com/dr-unarchiver/?ct=appletunercom&mt=12&at=1000l6jv) - File Archive Utility for Mac.
 * [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
 * [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
 * [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar.
