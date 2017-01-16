@@ -97,6 +97,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 ## Network
 *Networking tools*
 
+* [Murus](http://www.murusfirewall.com/) - A GUI for the MacOS PF firewall.
 * [Transmit](https://www.panic.com/transmit/) - FTP client that supports SFTP, S3, WebDAV, and more.
 
 ## Office Suites
