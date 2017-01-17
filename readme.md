@@ -62,9 +62,10 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 
 ## Databases
 
+* [DBGlass](http://dbglass.web-pal.com/) - Simple, modern and fast PostgreSQL client
+* [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management
 * [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases
 * [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS
-
 
 ## Encryption
 *Encryption Tools.*
@@ -97,6 +98,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 ## Network
 *Networking tools*
 
+* [Caddy](https://caddyserver.com/) - The HTTP/2 web server with automatic HTTPS.
 * [Murus](http://www.murusfirewall.com/) - A GUI for the MacOS PF firewall.
 * [Transmit](https://www.panic.com/transmit/) - FTP client that supports SFTP, S3, WebDAV, and more.
 
