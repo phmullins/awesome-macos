@@ -1,6 +1,7 @@
 ## Awesome MacOS
 A curated list of fantastically awesome software for Apple's MacOS inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin).
 
+  * [Academics](#academics)
   * [Audio](#audio)
   * [Backups](#backups)
   * [Cleanup](#cleanup)
@@ -24,6 +25,11 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
   * [Text Editors](#text-editors)
   * [Web Browsers](#web-browsers)
   * [Virtualization](#virtualization)
+
+## Academics
+
+* [Manuscripts](http://www.manuscriptsapp.com/) - A writing tool like nothing you have seen before.
+* [Studies](http://www.studiesapp.com/) - Master Your Studies.
 
 ## Audio
 *Audio players, editors, and converters.*
