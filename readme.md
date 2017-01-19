@@ -12,7 +12,6 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
   * [Graphics](#graphics)
   * [Journaling](#journaling)
   * [Knowledge Management](#knowledge-management)
-  * [Markdown](#markdown)
   * [Network](#network)
   * [Office Suites](#office-suites)
   * [Password Management](#password-management)
@@ -95,12 +94,6 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 
 * [DEVONthink Pro Office](http://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html) - Document/Note manager.
 
-## Markdown
-*Markdown Editors*
-
-* [Byword](http://www.bywordapp.com/) - Excellent markdown editor
-* [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS.
-
 ## Network
 *Networking tools*
 
@@ -171,9 +164,12 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 *Text Editors.*
 
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
-* [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that dosen't suck.
+* [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that doesn't suck.
+* [Byword](http://www.bywordapp.com/) - Excellent markdown editor.
+* [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS.
 * [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers.
 * [TextWrangler](http://www.barebones.com/products/textwrangler/) - BBedit's free little brother.
+* [Ulysses](https://ulyssesapp.com/) - The Ultimate Writing App for Mac, iPad and iPhone.
 * [Visual Studio Code](https://code.visualstudio.com/) - Excellent cross-platform text editor from Microsoft.
 
 ## Web Browsers
