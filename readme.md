@@ -15,7 +15,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
   * [Network](#network)
   * [Office Suites](#office-suites)
   * [Password Management](#password-management)
-  * [Programming Utilities](#programming-utilities)
+  * [Programming](#programming)
   * [Remote Administration](#remote-administration)
   * [Source Control](#source-control)
   * [System Tools](#system-tools)
@@ -98,6 +98,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 *Networking tools*
 
 * [Caddy](https://caddyserver.com/) - The HTTP/2 web server with automatic HTTPS.
+* [FileZilla](https://filezilla-project.org/) - Open source FTP client.
 * [Murus](http://www.murusfirewall.com/) - A GUI for the MacOS PF firewall.
 * [Transmit](https://www.panic.com/transmit/) - FTP client that supports SFTP, S3, WebDAV, and more.
 
@@ -113,9 +114,10 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 * [KeepassX](https://www.keepassx.org/) - Open Source password manager.
 * [MacPass](http://mstarke.github.io/MacPass/) - A native MacOS KeePass client.
 
-## Programming Utilities
+## Programming
 *Various tools to aid in programming.*
 
+* [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Open-source Arduino Software (IDE).
 * [CodeRunner 2](https://coderunnerapp.com/) - Easy-to-use programming editor for your Mac.
 * [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets.
 * [Xcode](https://developer.apple.com/xcode/) - Apple's Swift/Objective-C deveolpment environment.
