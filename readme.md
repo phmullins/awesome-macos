@@ -26,6 +26,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
   * [Virtualization](#virtualization)
 
 ## Academics
+*Misc academic tools and utilities*
 
 * [Manuscripts](http://www.manuscriptsapp.com/) - A writing tool like nothing you have seen before.
 * [Studies](http://www.studiesapp.com/) - Master Your Studies.
@@ -48,7 +49,9 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 *Tools to uninstall software and keep your system clean*
 
 * [Disk Doctor](https://fiplab.com/apps/disk-doctor-for-mac) - Removes tons of unneeded files.
+* [Dr. Cleaner](http://appletuner.trendmicro.com/drcleaner/?ct=appletunercom&mt=12&at=1000l6jv) - System, Memory, & Disk optimization.
 * [Duplicate Detective](https://fiplab.com/apps/duplicate-detective-for-mac) - Remove duplicate files from your Mac.
+* [Monolingual](http://ingmarstein.github.io/Monolingual/) - Frees up disk space by removing unused languages files.
 * [TrashMe](http://www.jibapps.com/en/products/trashme/) - Uninstaller for the Mac with other great useful tools.
 
 ## Communication
@@ -62,10 +65,12 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 ## Compression
 *Tools for the compression and decompression of user files.*
 
+* [Dr. Unarchiver](http://appletuner.trendmicro.com/dr-unarchiver/?ct=appletunercom&mt=12&at=1000l6jv) - File Archive Utility for Mac.
 * [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for MacOS' default compression app.
 * [p7zip](http://p7zip.sourceforge.net/) - Open Source port of 7-Zip for POSIX systems.
 
 ## Databases
+*Databases and database utilities*
 
 * [DBGlass](http://dbglass.web-pal.com/) - Simple, modern and fast PostgreSQL client
 * [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management
@@ -73,7 +78,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 * [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS
 
 ## Encryption
-*Encryption Tools.*
+*Encryption Tools. Use these!*
 
 * [GPG Tools](https://gpgtools.org/) - GPG Suite for MacOS.
 * [Keybase](https://keybase.io/) - Keybase is a directory of public keys and the proofs of who owns them.
@@ -91,6 +96,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 * [jrnl](http://jrnl.sh/) - Command-line journaling application.
 
 ## Knowledge Management
+*Data and Knowledge Management*
 
 * [DEVONthink Pro Office](http://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html) - Document/Note manager.
 
@@ -103,12 +109,14 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 * [Transmit](https://www.panic.com/transmit/) - FTP client that supports SFTP, S3, WebDAV, and more.
 
 ## Office Suites
+*Office suites and other misc office utilities*
 
 * [Apache OpenOffice](http://www.openoffice.org/) - Apache's free and open source productivity suite.
 * [Calibre](http://calibre-ebook.com/) - Complete e-book library management system.
 * [Office 2016 for Mac](https://products.office.com/en-US/mac/microsoft-office-for-mac) - The latest verion of Office from the folks in Redmond.
 
 ## Password Management
+*Password management utilities*
 
 * [1Password](https://agilebits.com/onepassword) - Password Manager.
 * [KeepassX](https://www.keepassx.org/) - Open Source password manager.
@@ -139,13 +147,10 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 * [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac.
 * [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases.
 * [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode.
-* [Dr. Cleaner](http://appletuner.trendmicro.com/drcleaner/?ct=appletunercom&mt=12&at=1000l6jv) - System, Memory, & Disk optimization.
-* [Dr. Unarchiver](http://appletuner.trendmicro.com/dr-unarchiver/?ct=appletunercom&mt=12&at=1000l6jv) - File Archive Utility for Mac.
 * [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
 * [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
 * [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar.
 * [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
-* [Monolingual](http://ingmarstein.github.io/Monolingual/) - Frees up disk space by removing unused languages files.
 * [TotalSpaces2](http://totalspaces.binaryage.com/) - The ultimate grid spaces manager for your Mac.
 * [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers.
 
