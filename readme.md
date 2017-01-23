@@ -17,12 +17,14 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
   * [Password Management](#password-management)
   * [Programming](#programming)
   * [Remote Administration](#remote-administration)
+  * [Social Media](#social-media)
   * [Source Control](#source-control)
   * [System Tools](#system-tools)
   * [Task Management](#task-management)
   * [Terminal](#terminal)
   * [Text Editors](#text-editors)
   * [Web Browsers](#web-browsers)
+  * [Video Utilities](#video-utilities)
   * [Virtualization](#virtualization)
 
 ## Academics
@@ -72,6 +74,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 ## Databases
 *Databases and database utilities*
 
+* [DB Browser for SQLite](http://sqlitebrowser.org/) - SQLite Database Browser.
 * [DBGlass](http://dbglass.web-pal.com/) - Simple, modern and fast PostgreSQL client
 * [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management
 * [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases
@@ -118,7 +121,8 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 ## Password Management
 *Password management utilities*
 
-* [1Password](https://agilebits.com/onepassword) - Password Manager.
+* [Avast](https://www.avast.com/passwords-mac) - Avast Passwords for Mac.
+* [1Password](https://agilebits.com/onepassword) - Best Password Manager out there!
 * [KeepassX](https://www.keepassx.org/) - Open Source password manager.
 * [MacPass](http://mstarke.github.io/MacPass/) - A native MacOS KeePass client.
 
@@ -134,6 +138,11 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 *Tools to help with remote administration*
 
 * [Jump Desktop](http://jumpdesktop.com/) - Secure RDP & VNC client.
+
+## Social Media
+*Misc Social media applications*
+
+* [Flume](https://flumeapp.com/) - A beautiful Instagram experience for your desktop.
 
 ## Source Control
 *Source Control.*
@@ -184,6 +193,11 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox.
 * [Google Chrome](https://encrypted.google.com/chrome) - Google Chrome is a freeware web browser developed by Google.
+* [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser.
+
+## Video Utilities
+
+* [HandBrake](https://handbrake.fr/) - The open source video transcoder.
 
 ## Virtualization
 *Virtualization tools.*
