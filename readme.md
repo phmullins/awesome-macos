@@ -8,6 +8,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
   * [Communication](#communication)
   * [Compression](#compression)
   * [Databases](#databases)
+  * [DevOps](#devops)
   * [Encryption](#encryption)
   * [Graphics](#graphics)
   * [Journaling](#journaling)
@@ -74,11 +75,15 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 ## Databases
 *Databases and database utilities*
 
+* [DBeaver](http://dbeaver.jkiss.org/) - Free Universal SQL Client.
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - SQLite Database Browser.
 * [DBGlass](http://dbglass.web-pal.com/) - Simple, modern and fast PostgreSQL client
 * [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management
 * [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases
 * [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS
+
+## DevOps
+* [Docker](https://www.docker.com/) - The world’s leading software containerization platform.
 
 ## Encryption
 *Encryption Tools. Use these!*
