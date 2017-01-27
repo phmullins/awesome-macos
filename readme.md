@@ -10,6 +10,8 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
   * [Databases](#databases)
   * [DevOps](#devops)
   * [Encryption](#encryption)
+  * [Email](#email)
+  * [Electronic Books](#electronic-books)
   * [Graphics](#graphics)
   * [Journaling](#journaling)
   * [Knowledge Management](#knowledge-management)
@@ -45,7 +47,9 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 *Backup software.*
 
 * [Arq](https://www.arqbackup.com/) - Backup your files to Google Drive, Amazon Glacier, SFTP, and more.
+* [Box Sync](https://www.box.com/personal) - Online synchronization tool.
 * [Carbon Copy Cloner](http://bombich.com/) - Create a bit-perfect clone of your Mac's hard drive.
+* [Dropbox](https://www.dropbox.com) - Cloud backup and synchronization tool.
 * [Rclone](http://rclone.org/) - Sync files and directories to and from multiple services.
 
 ## Cleanup
@@ -91,6 +95,19 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 * [GPG Tools](https://gpgtools.org/) - GPG Suite for MacOS.
 * [Keybase](https://keybase.io/) - Keybase is a directory of public keys and the proofs of who owns them.
 
+## Email
+*Email clients and utilities*
+
+* [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Cross-platform e-mail and news (NNTP) client.
+* [Postbox](https://www.postbox-inc.com/) - Powerful and flexible email client.
+
+## Electronic Books
+*Electronic Book readers and other book utilities*
+
+* [Calibre](http://calibre-ebook.com/) - Complete e-book library management system.
+* [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) - Read Kindle books on your Mac.
+* [Kitabu](https://www.kitabu.me/) - Kitabu is your EPUB reading application and cloud library.
+
 ## Graphics
 *Tools to manipulate images.*
 
@@ -120,7 +137,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 *Office suites and other misc office utilities*
 
 * [Apache OpenOffice](http://www.openoffice.org/) - Apache's free and open source productivity suite.
-* [Calibre](http://calibre-ebook.com/) - Complete e-book library management system.
+* [LibreOffice](http://www.libreoffice.org/download/libreoffice-fresh/) - A powerful, free office suite.
 * [Office 2016 for Mac](https://products.office.com/en-US/mac/microsoft-office-for-mac) - The latest verion of Office from the folks in Redmond.
 
 ## Password Management
@@ -148,12 +165,16 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 *Misc Social media applications*
 
 * [Flume](https://flumeapp.com/) - A beautiful Instagram experience for your desktop.
+* [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram desktop app.
 
 ## Source Control
 *Source Control.*
 
+* [Fork](https://git-fork.com/) - A fast and friendly git client for Mac.
 * [GitHub Desktop](https://desktop.github.com/) - The official GitHub client for MacOS.
-* [Tower 2](http://www.git-tower.com/) - Advanced Git version control.
+* [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client.
+* [SourceTree](https://www.sourcetreeapp.com/) - Easy way to work with Git and Mercurial.
+* [Tower](http://www.git-tower.com/) - Advanced Git version control.
 
 ## System Tools
 *System Tools.*
