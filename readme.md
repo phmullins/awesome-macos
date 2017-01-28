@@ -40,6 +40,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 *Audio players, editors, and converters.*
 
 * [Cog](http://cogx.org/) - Audio player similar to Foobar 2000.
+* [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files.
 * [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor.
 * [X Lossless Decoder](http://tmkk.undo.jp/xld/index_e.html) - Decode/Convert to and from dozens of audio file types.
 
@@ -151,6 +152,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 ## Programming
 *Various tools to aid in programming.*
 
+* [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Open-source Arduino Software (IDE).
 * [CodeRunner 2](https://coderunnerapp.com/) - Easy-to-use programming editor for your Mac.
 * [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets.
@@ -185,6 +187,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 * [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
 * [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
 * [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar.
+* [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services.
 * [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
 * [TotalSpaces2](http://totalspaces.binaryage.com/) - The ultimate grid spaces manager for your Mac.
 * [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers.
@@ -198,6 +201,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 ## Terminal
 *Awesome command-line tools*
 
+* [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century.
 * [Homebrew](http://brew.sh/) - The missing package manager for MacOS.
 * [iTerm 2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm.
 * [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS!
@@ -209,6 +213,7 @@ A curated list of fantastically awesome software for Apple's MacOS inspired by [
 * [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that doesn't suck.
 * [Byword](http://www.bywordapp.com/) - Excellent markdown editor.
 * [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS.
+* [Moeditor](https://moeditor.org/) - Your all-purpose markdown editor.
 * [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers.
 * [TextWrangler](http://www.barebones.com/products/textwrangler/) - BBedit's free little brother.
 * [Ulysses](https://ulyssesapp.com/) - The Ultimate Writing App for Mac, iPad and iPhone.
