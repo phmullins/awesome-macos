@@ -212,6 +212,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
 * [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that doesn't suck.
 * [Byword](http://www.bywordapp.com/) - Excellent markdown editor.
+* [iAWriter](https://ia.net/writer/) - Designed to provide the best digital writing experience.
 * [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS.
 * [Moeditor](https://moeditor.org/) - Your all-purpose markdown editor.
 * [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers.
