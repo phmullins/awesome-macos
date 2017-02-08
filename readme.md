@@ -12,6 +12,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
   * [Encryption](#encryption)
   * [Email](#email)
   * [Electronic Books](#electronic-books)
+  * [File Synchronization](#file-synchronization)
   * [Graphics](#graphics)
   * [Journaling](#journaling)
   * [Knowledge Management](#knowledge-management)
@@ -108,6 +109,14 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Calibre](http://calibre-ebook.com/) - Complete e-book library management system.
 * [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) - Read Kindle books on your Mac.
 * [Kitabu](https://www.kitabu.me/) - Kitabu is your EPUB reading application and cloud library.
+
+## File Synchronization
+*Tools for syncing files to and from the cloud*
+
+* [Box](https://www.box.com/personal) - Online synchronization tool for box.net.
+* [Dropbox](https://www.dropbox.com/) - Cloud backup and synchronization tool.
+* [Google Drive](https://tools.google.com/dlpage/drive/index.html?pli=1) - File backup and sharing tool.
+* [OneDrive](https://onedrive.live.com) - Access your Microsoft OneDrive.
 
 ## Graphics
 *Tools to manipulate images.*
