@@ -13,6 +13,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
   * [Email](#email)
   * [Electronic Books](#electronic-books)
   * [File Synchronization](#file-synchronization)
+  * [File Management](#file-management)
   * [Graphics](#graphics)
   * [Journaling](#journaling)
   * [Knowledge Management](#knowledge-management)
@@ -118,6 +119,10 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Dropbox](https://www.dropbox.com/) - Cloud backup and synchronization tool.
 * [Google Drive](https://tools.google.com/dlpage/drive/index.html?pli=1) - File backup and sharing tool.
 * [OneDrive](https://onedrive.live.com) - Access your Microsoft OneDrive.
+
+## File Management
+
+* [Forklift](http://binarynights.com/forklift/) -  Advanced file manager and FTP client.
 
 ## Graphics
 *Tools to manipulate images.*
