@@ -246,6 +246,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 ## Video Utilities
 
 * [HandBrake](https://handbrake.fr/) - The open source video transcoder.
+* [mpv](https://mpv.io/) - A free, open source, and cross-platform media player.
 
 ## Virtualization
 *Virtualization tools.*
