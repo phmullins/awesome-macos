@@ -205,6 +205,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar.
 * [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services.
 * [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
+* [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS.
 * [TotalSpaces2](http://totalspaces.binaryage.com/) - The ultimate grid spaces manager for your Mac.
 * [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers.
 
