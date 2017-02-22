@@ -67,6 +67,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 ## Communication
 *Communication tools.*
 
+* [Chime](https://chime.aws/) - Amazon Chime communications service.
 * [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for MacOS.
 * [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app.
 * [Reeder](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, and more.
