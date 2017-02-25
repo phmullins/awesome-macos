@@ -123,7 +123,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 ## File Management
 
-* [Forklift](http://binarynights.com/forklift/) -  Advanced file manager and FTP client.
+* [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual pane file manager.
 
 ## Graphics
 *Tools to manipulate images.*
