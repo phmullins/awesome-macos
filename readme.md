@@ -129,6 +129,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 ## Graphics
 *Tools to manipulate images.*
 
+* [Couleurs](http://couleursapp.com/) - A simple but powerful color grabber.
 * [Kap](https://getkap.co/) - Capture your screen.
 * [Pixave](http://www.pixaveapp.com/) - The ultimate image organizer.
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editor for Mac.
