@@ -201,6 +201,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *System Tools.*
 
 * [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac.
+* [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager for macOS.
 * [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases.
 * [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode.
 * [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
