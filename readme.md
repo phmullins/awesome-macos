@@ -202,6 +202,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 * [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac.
 * [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager for macOS.
+* [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS.
 * [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases.
 * [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode.
 * [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
@@ -210,7 +211,6 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services.
 * [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
 * [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS.
-* [TotalSpaces2](http://totalspaces.binaryage.com/) - The ultimate grid spaces manager for your Mac.
 * [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers.
 
 ## Task Management
