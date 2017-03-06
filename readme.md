@@ -104,8 +104,9 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 ## Email
 *Email clients and utilities*
 
-* [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Cross-platform e-mail and news (NNTP) client.
+* [Canary Mail](https://canarymail.io/) - Secure Email App for Mac and iPhone.
 * [Postbox](https://www.postbox-inc.com/) - Powerful and flexible email client.
+* [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Cross-platform e-mail and news (NNTP) client.
 
 ## Electronic Books
 *Electronic Book readers and other book utilities*
