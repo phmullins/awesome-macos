@@ -36,6 +36,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Misc academic tools and utilities*
 
 * [Manuscripts](http://www.manuscriptsapp.com/) - A writing tool like nothing you have seen before.
+* [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
 * [Studies](http://www.studiesapp.com/) - Master Your Studies.
 
 ## Audio
