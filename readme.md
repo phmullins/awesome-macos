@@ -69,6 +69,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Communication tools.*
 
 * [Chime](https://chime.aws/) - Amazon Chime communications service.
+* [Gitter](https://gitter.im/) - A chat and networking platform.
 * [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for MacOS.
 * [Slack](https://slack.com/) - Team-based collaboration tool.
 * [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app.
@@ -163,7 +164,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 * [Apache OpenOffice](http://www.openoffice.org/) - Apache's free and open source productivity suite.
 * [LibreOffice](http://www.libreoffice.org/download/libreoffice-fresh/) - A powerful, free office suite.
-* [Office 2016 for Mac](https://products.office.com/en-US/mac/microsoft-office-for-mac) - The latest verion of Office from the folks in Redmond.
+* [Office 2016 for Mac](https://products.office.com/en-US/mac/microsoft-office-for-mac) - The latest version of Office from the folks in Redmond.
 
 ## Password Management
 *Password management utilities*
@@ -181,7 +182,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [CodeRunner 2](https://coderunnerapp.com/) - Easy-to-use programming editor for your Mac.
 * [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets.
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Diff manager for MacOS.
-* [Xcode](https://developer.apple.com/xcode/) - Apple's Swift/Objective-C deveolpment environment.
+* [Xcode](https://developer.apple.com/xcode/) - Apple's Swift/Objective-C development environment.
 
 ## Remote Administration
 *Tools to help with remote administration*
