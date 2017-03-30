@@ -202,6 +202,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Fork](https://git-fork.com/) - A fast and friendly git client for Mac.
 * [GitHub Desktop](https://desktop.github.com/) - The official GitHub client for MacOS.
 * [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client.
+* [Gitscout](https://gitscout.com/) - A beautiful GitHub Issues experience for MacOS.
 * [SourceTree](https://www.sourcetreeapp.com/) - Easy way to work with Git and Mercurial.
 * [Tower](http://www.git-tower.com/) - Advanced Git version control.
 
