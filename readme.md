@@ -200,6 +200,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Source Control.*
 
 * [Fork](https://git-fork.com/) - A fast and friendly git client for Mac.
+* [Gitea](https://gitea.io/en-US/) - A painless self-hosted Git service.
 * [GitHub Desktop](https://desktop.github.com/) - The official GitHub client for MacOS.
 * [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client.
 * [Gitscout](https://gitscout.com/) - A beautiful GitHub Issues experience for MacOS.
