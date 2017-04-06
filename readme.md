@@ -158,6 +158,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Caddy](https://caddyserver.com/) - The HTTP/2 web server with automatic HTTPS.
 * [FileZilla](https://filezilla-project.org/) - Open source FTP client.
 * [Murus](http://www.murusfirewall.com/) - A GUI for the MacOS PF firewall.
+* [NetSpot](https://www.netspotapp.com/) - Wireless survey tool.
 * [Transmit](https://www.panic.com/transmit/) - FTP client that supports SFTP, S3, WebDAV, and more.
 
 ## Office Suites
