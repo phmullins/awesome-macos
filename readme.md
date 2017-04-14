@@ -221,6 +221,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS.
 * [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases.
 * [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode.
+* [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS.
 * [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
 * [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
 * [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar.
