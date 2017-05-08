@@ -275,6 +275,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Virtualization tools.*
 
 * [Parallels Desktop](http://www.parallels.com) - Run Windows apps without rebooting.
+* [Veertu](https://veertu.com/) - Native Virtualization For macOS.
 * [VirtualBox](https://www.virtualbox.org/) - x86 virtualization software.
 * [VMware Fusion](http://www.vmware.com/products/fusion/) - Run Windows and Linux on your Mac.
 
