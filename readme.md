@@ -267,6 +267,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox.
 * [Google Chrome](https://encrypted.google.com/chrome) - Google Chrome is a freeware web browser developed by Google.
 * [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser.
+* [Vivaldi](https://vivaldi.com/) - A Browser for Our Friends.
 
 ## Video Utilities
 
