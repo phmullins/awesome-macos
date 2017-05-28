@@ -108,7 +108,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 ## Email
 *Email clients and utilities*
 
-* [Canary Mail](https://canarymail.io/) - Secure Email App for Mac and iPhone.
+* [Canary](https://canarymail.io/) - Secure Email App for Mac and iPhone.
 * [Polymail](https://polymail.io/) - Simple, beautiful, powerful e-mail.
 * [Postbox](https://www.postbox-inc.com/) - Powerful and flexible email client.
 * [Spark](https://sparkmailapp.com/) - Email client for Apple devices.
