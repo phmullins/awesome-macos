@@ -164,6 +164,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Murus](http://www.murusfirewall.com/) - A GUI for the MacOS PF firewall.
 * [NetSpot](https://www.netspotapp.com/) - Wireless survey tool.
 * [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS.
+* [Surge](http://nssurge.com/) - Advanced Web Debugging Proxy for macOS & iOS.
 * [Transmit](https://www.panic.com/transmit/) - FTP client that supports SFTP, S3, WebDAV, and more.
 * [WhatRoute](https://www.whatroute.net/) - Graphical IP tracer.
 
