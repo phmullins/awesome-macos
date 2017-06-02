@@ -22,6 +22,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
   * [Password Management](#password-management)
   * [Programming](#programming)
   * [Remote Administration](#remote-administration)
+  * [Security](#security)
   * [Social Media](#social-media)
   * [Source Control](#source-control)
   * [System Tools](#system-tools)
@@ -201,6 +202,10 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Tools to help with remote administration*
 
 * [Jump Desktop](http://jumpdesktop.com/) - Secure RDP & VNC client.
+
+## Security
+
+* [Santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for macOS.
 
 ## Social Media
 *Misc Social media applications*
