@@ -97,6 +97,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS
 
 ## DevOps
+* [Captain](https://getcaptain.co) - Manage Docker containers.
 * [Docker](https://www.docker.com/) - The world’s leading software containerization platform.
 
 ## Encryption
