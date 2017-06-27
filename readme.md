@@ -158,6 +158,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Data and Knowledge Management*
 
 * [DEVONthink Pro Office](http://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html) - Document/Note manager.
+* [Reader](http://reederapp.com/mac/) - A RSS/Feedly news reader.
 
 ## Network
 *Networking tools*
