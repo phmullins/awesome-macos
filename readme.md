@@ -73,7 +73,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Gitter](https://gitter.im/) - A chat and networking platform.
 * [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for MacOS.
 * [Messenger](https://fbmacmessenger.rsms.me) - Facebook Messenger client.
-* [Messenger](https://www.messengerfordesktop.org/) - A simple & beautiful app for Facebook Messenger. 
+* [Messenger](https://www.messengerfordesktop.org/) - A simple & beautiful app for Facebook Messenger.
 * [Slack](https://slack.com/) - Team-based collaboration tool.
 * [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app.
 * [Textual](https://github.com/Codeux-Software/Textual) - Lightweight IRC client.
@@ -289,6 +289,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 ## Video Utilities
 
 * [HandBrake](https://handbrake.fr/) - The open source video transcoder.
+* [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS. 
 * [mpv](https://mpv.io/) - A free, open source, and cross-platform media player.
 
 ## Virtualization
