@@ -92,10 +92,11 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 * [DBeaver](http://dbeaver.jkiss.org/) - Free Universal SQL Client.
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - SQLite Database Browser.
-* [DBGlass](http://dbglass.web-pal.com/) - Simple, modern and fast PostgreSQL client
-* [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management
-* [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases
-* [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS
+* [DBGlass](http://dbglass.web-pal.com/) - Simple, modern and fast PostgreSQL client.
+* [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management.
+* [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases.
+* [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS.
+* [Robomongo](https://robomongo.org/) - Cross-platform MongoDB client.
 
 ## DevOps
 * [Captain](https://getcaptain.co) - Manage Docker containers.
