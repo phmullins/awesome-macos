@@ -202,6 +202,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Sketch](https://www.sketchapp.com/) - Professional digital design for Mac.
 * [SnippetsLab](http://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager.
 * [Xcode](https://developer.apple.com/xcode/) - Apple's Swift/Objective-C development environment.
+* [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace.
 
 ## Remote Administration
 *Tools to help with remote administration*
@@ -289,7 +290,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 ## Video Utilities
 
 * [HandBrake](https://handbrake.fr/) - The open source video transcoder.
-* [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS. 
+* [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS.
 * [mpv](https://mpv.io/) - A free, open source, and cross-platform media player.
 
 ## Virtualization
