@@ -255,6 +255,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Task managers to help get things done.*
 
 * [JustFocus](http://climstudio.com/justfocus/) - Focus on What's Important.
+* [Kanbanier](http://www.kanbanier.com/en/) - Kanban Boards for macOS.
 * [OmniFocus](https://www.omnigroup.com/omnifocus) - One of the best GTD/Task managers money can buy.
 * [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - A minimal, focused outlining experience for Mac.
 * [Tracktiq](http://www.tracktiq.com/) - Easy time tracking.
