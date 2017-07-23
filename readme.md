@@ -79,6 +79,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Textual](https://github.com/Codeux-Software/Textual) - Lightweight IRC client.
 * [Reeder](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, and more.
 * [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
+* [Wire](https://wire.com/en/) - Secure communication. Full privacy.
 
 ## Compression
 *Tools for the compression and decompression of user files.*
@@ -95,7 +96,6 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management.
 * [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases.
 * [Postbird](https://github.com/paxa/postbird) - Open source PostgreSQL GUI client for macOs.
-* [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS.
 * [Robomongo](https://robomongo.org/) - Cross-platform MongoDB client.
 * [TablePlus](https://tableplus.io/) - Awesome PostgreSQL database client.
 
