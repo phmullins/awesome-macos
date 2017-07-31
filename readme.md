@@ -223,6 +223,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 * [Flume](https://flumeapp.com/) - A beautiful Instagram experience for your desktop.
 * [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram desktop app.
+* [Reeddit for Mac](http://mac.reedditapp.com/) - Minimal, elastic Reddit client for MacOS.
 
 ## Source Control
 *Source Control.*
