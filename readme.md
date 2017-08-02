@@ -254,6 +254,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS.
 * [Muzzle](https://muzzleapp.com/) - Disable notifications while screen sharing.
 * [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease.
+* [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
 * [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers.
 
 ## Task Management
