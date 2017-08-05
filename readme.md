@@ -56,6 +56,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Carbon Copy Cloner](http://bombich.com/) - Create a bit-perfect clone of your Mac's hard drive.
 * [Dropbox](https://www.dropbox.com) - Cloud backup and synchronization tool.
 * [Rclone](http://rclone.org/) - Sync files and directories to and from multiple services.
+* [Rsync Client](http://bonhardcomputing.com/rsync-client/) - A simple GUI for managing your remote files.
 
 ## Cleanup
 *Tools to uninstall software and keep your system clean*
