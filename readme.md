@@ -254,6 +254,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services.
 * [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
 * [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS.
+* [Marta](https://marta.yanex.org/) - File Manager for macOS.
 * [Muzzle](https://muzzleapp.com/) - Disable notifications while screen sharing.
 * [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease.
 * [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
