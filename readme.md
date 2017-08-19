@@ -58,6 +58,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Rclone](http://rclone.org/) - Sync files and directories to and from multiple services.
 * [Resilio](https://www.resilio.com/individuals/) - All Your Data, Across All Your Devices.
 * [Rsync Client](http://bonhardcomputing.com/rsync-client/) - A simple GUI for managing your remote files.
+* [Rsync Server](http://bonhardcomputing.com/rsync-server/) - Enable the Rsync service on your Mac.
 * [Syncthing](https://syncthing.net/) - Replaces proprietary sync and cloud services.
 
 ## Cleanup
