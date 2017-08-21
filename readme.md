@@ -152,6 +152,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Icon Bot](http://dev-lux.com/iconbot/) - Hassle free icon converter.
 * [Icon Jar](https://geticonjar.com) - Store all your icons in one place.
 * [Kap](https://getkap.co/) - Capture your screen.
+* [Photos Exif](http://www.exifedit.com/) - Edit EXIF & IPTC metadata.
 * [Pixave](http://www.pixaveapp.com/) - The ultimate image organizer.
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editor for Mac.
 
