@@ -253,6 +253,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases.
 * [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode.
 * [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks.
+* [Dat](https://datproject.org/) - Distributed data sharing tool.
 * [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS.
 * [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
 * [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
