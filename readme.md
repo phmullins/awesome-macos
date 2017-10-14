@@ -17,6 +17,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
   * [Graphics](#graphics)
   * [Journaling](#journaling)
   * [Knowledge Management](#knowledge-management)
+  * [Miscellaneous](#miscellaneous)
   * [Network](#network)
   * [Office Suites](#office-suites)
   * [Password Management](#password-management)
@@ -167,6 +168,10 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 * [DEVONthink Pro Office](http://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html) - Document/Note manager.
 * [Reader](http://reederapp.com/mac/) - A RSS/Feedly news reader.
+
+## Miscellaneous
+
+* [FS-UAE](https://fs-uae.net/) - Amiga Emulator.
 
 ## Network
 *Networking tools*
