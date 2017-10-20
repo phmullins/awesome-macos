@@ -216,6 +216,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets.
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Diff manager for MacOS.
 * [Kotlin](http://kotlinlang.org/) - Concise, simple and very easy to read (and write).
+* [Matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
 * [Origami Studio](http://origami.design/) - Design Prototyping.
 * [Platypus](http://sveinbjorn.org/platypus) - Create MacOS applications from Bash scripts.
 * [Sketch](https://www.sketchapp.com/) - Professional digital design for Mac.
