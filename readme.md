@@ -171,6 +171,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 ## Miscellaneous
 
+* [Fokus](http://www.fohkuhs.com) - A Beautiful Focus Timer.
 * [FS-UAE](https://fs-uae.net/) - Amiga Emulator.
 
 ## Network
