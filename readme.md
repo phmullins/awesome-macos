@@ -228,6 +228,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 ## Remote Administration
 *Tools to help with remote administration*
 
+* [AnyDesk](https://anydesk.com/remote-desktop) - Your desk @ any desk.
 * [Jump Desktop](http://jumpdesktop.com/) - Secure RDP & VNC client.
 
 ## Security
