@@ -306,6 +306,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Lime](http://limetext.org/) - Open Source, Elegant, and Free Text Editor.
 * [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS.
 * [Moeditor](https://moeditor.org/) - Your all-purpose markdown editor.
+* [MWeb](http://www.mweb.im/) - Pro Markdown writing and note taking editor.
 * [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers.
 * [TextWrangler](http://www.barebones.com/products/textwrangler/) - BBedit's free little brother.
 * [Ulysses](https://ulyssesapp.com/) - The Ultimate Writing App for Mac, iPad and iPhone.
