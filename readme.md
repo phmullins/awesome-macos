@@ -173,7 +173,6 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 ## Miscellaneous
 
-* [Fokus](http://www.fohkuhs.com) - A Beautiful Focus Timer.
 * [FS-UAE](https://fs-uae.net/) - Amiga Emulator.
 
 ## Network
@@ -283,6 +282,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 ## Task Management
 *Task managers to help get things done.*
 
+* [Fokus](http://www.fohkuhs.com) - A Beautiful Focus Timer.
 * [JustFocus](http://climstudio.com/justfocus/) - Focus on What's Important.
 * [Kanbanier](http://www.kanbanier.com/en/) - Kanban Boards for macOS.
 * [OmniFocus](https://www.omnigroup.com/omnifocus) - One of the best GTD/Task managers money can buy.
