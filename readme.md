@@ -85,6 +85,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Reeder](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, and more.
 * [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
 * [Wire](https://wire.com/en/) - Secure communication. Full privacy.
+* [Workplace by Facebook](https://www.facebook.com/workplace) - Change the way you work.
 
 ## Compression
 *Tools for the compression and decompression of user files.*
