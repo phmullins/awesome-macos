@@ -268,6 +268,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS.
 * [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
 * [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
+* [Gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for MacOS.
 * [Hyper](https://hyper.is/) - A JS/HTML/CSS Terminal.
 * [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar.
 * [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services.
