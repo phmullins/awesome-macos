@@ -78,7 +78,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Gitter](https://gitter.im/) - A chat and networking platform.
 * [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for MacOS.
 * [Messenger](https://fbmacmessenger.rsms.me) - Facebook Messenger client.
-* [Messenger](https://www.messengerfordesktop.org/) - A simple & beautiful app for Facebook Messenger.
+* [Messenger for Desktop 2](https://www.messengerfordesktop.org/) - A simple & beautiful app for Facebook Messenger.
 * [Slack](https://slack.com/) - Team-based collaboration tool.
 * [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app.
 * [Textual](https://github.com/Codeux-Software/Textual) - Lightweight IRC client.
@@ -102,6 +102,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management.
 * [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases.
 * [Postbird](https://github.com/paxa/postbird) - Open source PostgreSQL GUI client for macOs.
+* [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac.
 * [Robomongo](https://robomongo.org/) - Cross-platform MongoDB client.
 * [TablePlus](https://tableplus.io/) - Awesome PostgreSQL database client.
 
