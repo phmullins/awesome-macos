@@ -222,6 +222,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Kotlin](http://kotlinlang.org/) - Concise, simple and very easy to read (and write).
 * [Matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
 * [Origami Studio](http://origami.design/) - Design Prototyping.
+* [Paw](https://paw.cloud/) - The most advanced API tool for Mac.
 * [Platypus](http://sveinbjorn.org/platypus) - Create MacOS applications from Bash scripts.
 * [Sketch](https://www.sketchapp.com/) - Professional digital design for Mac.
 * [SnippetsLab](http://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager.
