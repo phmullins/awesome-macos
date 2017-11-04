@@ -102,6 +102,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management.
 * [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases.
 * [Postbird](https://github.com/paxa/postbird) - Open source PostgreSQL GUI client for macOs.
+* [Postgres.app](http://postgresapp.com/) - PostgreSQL for MacOS.
 * [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac.
 * [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS.
 * [Robomongo](https://robomongo.org/) - Cross-platform MongoDB client.
