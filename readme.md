@@ -1,5 +1,8 @@
 ## Awesome MacOS
-A curated list of fantastically awesome GUI-based software for Apple's MacOS operating system. This list was inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin).
+
+A curated list of fantastically awesome GUI-based software for Apple's MacOS operating system. This list was inspired by [Awesome 
+
+Sysadmin](https://github.com/kahun/awesome-sysadmin).
 
   * [Academics](#academics)
   * [Audio](#audio)
@@ -164,6 +167,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Photos Exif](http://www.exifedit.com/) - Edit EXIF & IPTC metadata.
 * [Pixave](http://www.pixaveapp.com/) - The ultimate image organizer.
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editor for Mac.
+* [Sip](http://sipapp.io/) - Collect, organize & share your colors.
 
 ## Journaling
 *Journaling.*
