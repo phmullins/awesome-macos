@@ -226,6 +226,7 @@ Sysadmin](https://github.com/kahun/awesome-sysadmin).
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Open-source Arduino Software (IDE).
 * [CodeRunner 2](https://coderunnerapp.com/) - Easy-to-use programming editor for your Mac.
 * [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets.
+* [Git Bar](https://github.com/Shikkic/gitbar) - Github contribution stats on your MacOS Menu Bar.
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Diff manager for MacOS.
 * [Kotlin](http://kotlinlang.org/) - Concise, simple and very easy to read (and write).
 * [Matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
