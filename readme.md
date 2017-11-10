@@ -232,6 +232,7 @@ Sysadmin](https://github.com/kahun/awesome-sysadmin).
 * [Origami Studio](http://origami.design/) - Design Prototyping.
 * [Paw](https://paw.cloud/) - The most advanced API tool for Mac.
 * [Platypus](http://sveinbjorn.org/platypus) - Create MacOS applications from Bash scripts.
+* [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook.
 * [Sketch](https://www.sketchapp.com/) - Professional digital design for Mac.
 * [SnippetsLab](http://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager.
 * [Xcode](https://developer.apple.com/xcode/) - Apple's Swift/Objective-C development environment.
