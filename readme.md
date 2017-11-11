@@ -223,6 +223,7 @@ Sysadmin](https://github.com/kahun/awesome-sysadmin).
 *Various tools to aid in programming.*
 
 * [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
+* [Anvil](https://anvilformac.com/) - Menubar app for managing local websites.
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Open-source Arduino Software (IDE).
 * [CodeRunner 2](https://coderunnerapp.com/) - Easy-to-use programming editor for your Mac.
 * [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets.
