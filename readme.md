@@ -1,6 +1,6 @@
 ## Awesome MacOS
 
-A curated list of fantastically awesome GUI-based software for Apple's MacOS operating system. This list was inspired by [Awesome 
+A curated list of fantastically awesome GUI-based software for Apple's MacOS operating system. This list was inspired by [Awesome
 
 Sysadmin](https://github.com/kahun/awesome-sysadmin).
 
@@ -179,6 +179,7 @@ Sysadmin](https://github.com/kahun/awesome-sysadmin).
 *Data and Knowledge Management*
 
 * [DEVONthink Pro Office](http://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html) - Document/Note manager.
+* [fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS.
 * [Reader](http://reederapp.com/mac/) - A RSS/Feedly news reader.
 
 ## Miscellaneous
