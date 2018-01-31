@@ -1,12 +1,6 @@
 ## Awesome MacOS
 
-<<<<<<< HEAD
-A curated list of fantastically awesome GUI-based software for Apple's MacOS operating system. This list was inspired by [Awesome
-
-Sysadmin](https://github.com/kahun/awesome-sysadmin).
-=======
 A curated list of fantastically awesome GUI-based software for Apple's MacOS operating system. This list was inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin).
->>>>>>> 1d0a639b005298f507a552d58a24fe33f39ba958
 
   * [Academics](#academics)
   * [Audio](#audio)
