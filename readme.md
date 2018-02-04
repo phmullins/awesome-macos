@@ -328,6 +328,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [TextWrangler](http://www.barebones.com/products/textwrangler/) - BBedit's free little brother.
 * [Ulysses](https://ulyssesapp.com/) - The Ultimate Writing App for Mac, iPad and iPhone.
 * [Visual Studio Code](https://code.visualstudio.com/) - Excellent cross-platform text editor from Microsoft.
+* [vnote](https://github.com/tamlok/vnote) - A Vim-inspired Markdown note-taking application.
 
 ## Web Browsers
 *The best web brwosers for OS X.*
@@ -356,3 +357,5 @@ Created by [Patrick H. Mullins](http://www.pmullins.net). You can find me on  [T
 
 ## License
 Source is released under the FreeBSD (BSD-2-Clause) License [license](license.md).
+
+
