@@ -47,6 +47,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Audio players, editors, and converters.*
 
 * [Cog](http://cogx.org/) - Audio player similar to Foobar 2000.
+* [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS.
 * [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files.
 * [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor.
 * [Tiny Player](http://www.catnapgames.com/tiny-player-for-mac/) - Tiny FLAC/AAC/MP3/WAV Player.
