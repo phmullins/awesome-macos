@@ -115,6 +115,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 ## DevOps
 * [Captain](https://getcaptain.co) - Manage Docker containers.
+* [Container PS](https://github.com/Toinane/container-ps) - Menu Bar app for Docker.
 * [Docker](https://www.docker.com/) - The world’s leading software containerization platform.
 
 ## Encryption
