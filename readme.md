@@ -156,6 +156,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 ## File Management
 
+* [File Browser](https://filebrowser.github.io/) - A stylish file manager.
 * [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual pane file manager.
 * [Hazel](https://www.noodlesoft.com/) - Automated Organization for Your Mac.
 * [HoudahSpot 4](https://www.houdah.com/houdahSpot/) - Powerful File Search for Mac.
