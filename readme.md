@@ -9,6 +9,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
   * [Communication](#communication)
   * [Compression](#compression)
   * [Databases](#databases)
+  * [Design](#design)
   * [DevOps](#devops)
   * [Encryption](#encryption)
   * [Email](#email)
@@ -112,6 +113,9 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS.
 * [Robomongo](https://robomongo.org/) - Cross-platform MongoDB client.
 * [TablePlus](https://tableplus.io/) - Awesome PostgreSQL database client.
+
+## Design
+* [Origami Studio](https://origami.design/) - Explore, iterate, and test your ideas.
 
 ## DevOps
 * [Captain](https://getcaptain.co) - Manage Docker containers.
