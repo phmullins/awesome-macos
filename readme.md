@@ -33,6 +33,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
   * [Terminal](#terminal)
   * [Text Editors](#text-editors)
   * [Web Browsers](#web-browsers)
+  * [Writing Apps](#writing)
   * [Video Utilities](#video-utilities)
   * [Virtualization](#virtualization)
 
@@ -40,7 +41,6 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Misc academic tools and utilities*
 
 * [Manuscripts](http://www.manuscriptsapp.com/) - A writing tool like nothing you have seen before.
-* [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
 * [Numi](http://numi.io/) - Beautiful calculator app for Mac.
 * [Studies](http://www.studiesapp.com/) - Master Your Studies.
 
@@ -188,6 +188,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 * [DEVONthink Pro Office](http://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html) - Document/Note manager.
 * [fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS.
+* [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
 * [Reader](http://reederapp.com/mac/) - A RSS/Feedly news reader.
 
 ## Miscellaneous
@@ -328,15 +329,8 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
 * [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that doesn't suck.
-* [Byword](http://www.bywordapp.com/) - Excellent markdown editor.
-* [iAWriter](https://ia.net/writer/) - Designed to provide the best digital writing experience.
 * [Lime](http://limetext.org/) - Open Source, Elegant, and Free Text Editor.
-* [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS.
-* [Moeditor](https://moeditor.org/) - Your all-purpose markdown editor.
-* [MWeb](http://www.mweb.im/) - Pro Markdown writing and note taking editor.
-* [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers.
 * [TextWrangler](http://www.barebones.com/products/textwrangler/) - BBedit's free little brother.
-* [Ulysses](https://ulyssesapp.com/) - The Ultimate Writing App for Mac, iPad and iPhone.
 * [Visual Studio Code](https://code.visualstudio.com/) - Excellent cross-platform text editor from Microsoft.
 * [vnote](https://github.com/tamlok/vnote) - A Vim-inspired Markdown note-taking application.
 
@@ -347,6 +341,15 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Google Chrome](https://encrypted.google.com/chrome) - Google Chrome is a freeware web browser developed by Google.
 * [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser.
 * [Vivaldi](https://vivaldi.com/) - A Browser for Our Friends.
+
+## Writing
+* [Byword](http://www.bywordapp.com/) - Excellent markdown editor.
+* [iAWriter](https://ia.net/writer/) - Designed to provide the best digital writing experience.
+* [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS.
+* [Moeditor](https://moeditor.org/) - Your all-purpose markdown editor.
+* [MWeb](http://www.mweb.im/) - Pro Markdown writing and note taking editor.
+* [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers.
+* [Ulysses](https://ulyssesapp.com/) - The Ultimate Writing App for Mac, iPad and iPhone.
 
 ## Video Utilities
 
