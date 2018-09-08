@@ -125,6 +125,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 ## Encryption
 *Encryption Tools. Use these!*
 
+* [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files.
 * [GPG Tools](https://gpgtools.org/) - GPG Suite for MacOS.
 * [Keybase](https://keybase.io/) - Keybase is a directory of public keys and the proofs of who owns them.
 * [Keybase Chat](https://keybase.io/download) - Crypto chat for everyone.
