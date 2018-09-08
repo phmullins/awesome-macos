@@ -81,6 +81,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Communication tools.*
 
 * [Chime](https://chime.aws/) - Amazon Chime communications service.
+* [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers.
 * [Gitter](https://gitter.im/) - A chat and networking platform.
 * [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for MacOS.
 * [Messenger for Desktop 2](https://www.messengerfordesktop.org/) - A simple & beautiful app for Facebook Messenger.
