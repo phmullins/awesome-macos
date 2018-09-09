@@ -202,6 +202,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 * [Caddy](https://caddyserver.com/) - The HTTP/2 web server with automatic HTTPS.
 * [DNSCrypt](https://github.com/alterstep/dnscrypt-osxclient) -  Control the DNSCrypt Proxy.
+* [Fenix](https://fenixwebserver.com/) - Simple static desktop web server.
 * [FileZilla](https://filezilla-project.org/) - Open source FTP client.
 * [Murus](http://www.murusfirewall.com/) - A GUI for the MacOS PF firewall.
 * [NetSpot](https://www.netspotapp.com/) - Wireless survey tool.
