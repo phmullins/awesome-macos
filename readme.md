@@ -178,6 +178,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Pixave](http://www.pixaveapp.com/) - The ultimate image organizer.
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editor for Mac.
 * [Sip](http://sipapp.io/) - Collect, organize & share your colors.
+* [Spect](http://spect-app.com/) - Fast image browser and organizer.
 
 ## Journaling
 *Journaling.*
