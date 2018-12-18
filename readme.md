@@ -49,9 +49,11 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 * [Cog](http://cogx.org/) - Audio player similar to Foobar 2000.
 * [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin.
+* [eqMac2](https://github.com/nodeful/eqMac2) - System-Wide Equalizer for the Mac
 * [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS.
 * [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files.
 * [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor.
+* [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Last.fm scrobbler for the Shazam Mac app.
 * [Tiny Player](http://www.catnapgames.com/tiny-player-for-mac/) - Tiny FLAC/AAC/MP3/WAV Player.
 * [X Lossless Decoder](http://tmkk.undo.jp/xld/index_e.html) - Decode/Convert to and from dozens of audio file types.
 
