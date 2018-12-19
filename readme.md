@@ -199,6 +199,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 ## Miscellaneous
 
 * [FS-UAE](https://fs-uae.net/) - Amiga Emulator.
+* [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version.
 
 ## Network
 *Networking tools*
