@@ -255,6 +255,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook.
 * [Sketch](https://www.sketchapp.com/) - Professional digital design for Mac.
 * [SnippetsLab](http://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager.
+* [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. 
 * [Xcode](https://developer.apple.com/xcode/) - Apple's Swift/Objective-C development environment.
 * [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace.
 
