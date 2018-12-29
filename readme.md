@@ -61,6 +61,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Backup software.*
 
 * [Arq](https://www.arqbackup.com/) - Backup your files to Google Drive, Amazon Glacier, SFTP, and more.
+* [Arq Cloud Backup](https://www.arqbackup.com/arqcloudbackup/) - Backs up all your files automatically.
 * [Box Sync](https://www.box.com/personal) - Online synchronization tool.
 * [Carbon Copy Cloner](http://bombich.com/) - Create a bit-perfect clone of your Mac's hard drive.
 * [Dropbox](https://www.dropbox.com) - Cloud backup and synchronization tool.
