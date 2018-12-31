@@ -300,6 +300,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Dat](https://datproject.org/) - Distributed data sharing tool.
 * [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS.
 * [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
+* [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder.
 * [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
 * [Gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for MacOS.
 * [Hyper](https://hyper.is/) - A JS/HTML/CSS Terminal.
