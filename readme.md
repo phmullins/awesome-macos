@@ -100,6 +100,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Tools for the compression and decompression of user files.*
 
 * [Dr. Unarchiver](http://appletuner.trendmicro.com/dr-unarchiver/?ct=appletunercom&mt=12&at=1000l6jv) - File Archive Utility for Mac.
+* [Keka](https://www.keka.io/en/) - MacOS file archiver. Store more, share with privacy.
 * [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for MacOS' default compression app.
 * [p7zip](http://p7zip.sourceforge.net/) - Open Source port of 7-Zip for POSIX systems.
 
