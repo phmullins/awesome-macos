@@ -167,6 +167,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual pane file manager.
 * [Hazel](https://www.noodlesoft.com/) - Automated Organization for Your Mac.
 * [HoudahSpot 4](https://www.houdah.com/houdahSpot/) - Powerful File Search for Mac.
+* [NameChanger](https://mrrsoftware.com/namechanger/) - Rename a list of files quickly and easily.
 * [Tembo](https://www.houdah.com/tembo/) - Friendly File Search Assistant.
 
 ## Graphics
@@ -309,6 +310,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar.
 * [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services.
 * [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
+* [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly.
 * [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS.
 * [Marta](https://marta.yanex.org/) - File Manager for macOS.
 * [MKS](https://github.com/x0054/MKS) - Mechanical Keyboard Simulator.
