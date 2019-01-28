@@ -318,6 +318,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift.
 * [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease.
 * [Tyke](http://tyke.io/) - A little bit of scratch paper that lives on your Mac menu bar.
+* [UninstallPKG](https://www.corecode.io/uninstallpkg/index.html) - Remove unwanted packages from MacOS.
 * [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
 * [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers.
 
