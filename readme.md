@@ -248,6 +248,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Open-source Arduino Software (IDE).
 * [CodeRunner 2](https://coderunnerapp.com/) - Easy-to-use programming editor for your Mac.
 * [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets.
+- [Fork](https://git-fork.com/) - A fast and friendly git client for Mac.
 * [Git Bar](https://github.com/Shikkic/gitbar) - Github contribution stats on your MacOS Menu Bar.
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Website link checker for MacOS.
 * [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Diff manager for MacOS.
