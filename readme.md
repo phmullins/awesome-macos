@@ -350,6 +350,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that doesn't suck.
 * [Lime](http://limetext.org/) - Open Source, Elegant, and Free Text Editor.
 * [TextWrangler](http://www.barebones.com/products/textwrangler/) - BBedit's free little brother.
+- [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking app that doesn't suck.
 * [Visual Studio Code](https://code.visualstudio.com/) - Excellent cross-platform text editor from Microsoft.
 * [vnote](https://github.com/tamlok/vnote) - A Vim-inspired Markdown note-taking application.
 
