@@ -303,6 +303,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode.
 * [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks.
 * [Dat](https://datproject.org/) - Distributed data sharing tool.
+- [Day-O](https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Simple menu bar clock replacement.
 * [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS.
 * [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder.
