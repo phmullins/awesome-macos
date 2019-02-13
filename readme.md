@@ -308,6 +308,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder.
 * [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
+* [fman](https://fman.io/) - Dual-pane file manager for Mac.
 * [Gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for MacOS.
 * [Hyper](https://hyper.is/) - A JS/HTML/CSS Terminal.
 * [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar.
