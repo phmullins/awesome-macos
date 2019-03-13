@@ -303,6 +303,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases.
 * [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode.
 * [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks.
+- [Core Shell](https://coreshell.app/) - A terminal to make your SSH life easy.
 * [Dat](https://datproject.org/) - Distributed data sharing tool.
 - [Day-O](https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Simple menu bar clock replacement.
 * [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS.
