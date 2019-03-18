@@ -227,7 +227,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 * [Apache OpenOffice](http://www.openoffice.org/) - Apache's free and open source productivity suite.
 * [LibreOffice](http://www.libreoffice.org/download/libreoffice-fresh/) - A powerful, free office suite.
-* [Office 2016 for Mac](https://products.office.com/en-US/mac/microsoft-office-for-mac) - The latest version of Office from the folks in Redmond.
+* [Office 365 for Mac](https://products.office.com/en-US/mac/microsoft-office-for-mac) - The latest version of Office from the folks in Redmond.
 
 ## Password Management
 *Password management utilities*
