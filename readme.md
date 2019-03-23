@@ -16,6 +16,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
   * [Electronic Books](#electronic-books)
   * [File Synchronization](#file-synchronization)
   * [File Management](#file-management)
+  * [Games](#games)
   * [Graphics](#graphics)
   * [Journaling](#journaling)
   * [Knowledge Management](#knowledge-management)
@@ -169,6 +170,9 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [HoudahSpot 4](https://www.houdah.com/houdahSpot/) - Powerful File Search for Mac.
 * [NameChanger](https://mrrsoftware.com/namechanger/) - Rename a list of files quickly and easily.
 * [Tembo](https://www.houdah.com/tembo/) - Friendly File Search Assistant.
+
+## Games
+- [gzdoom](https://zdoom.org/index) - A Doom source port for the modern era.
 
 ## Graphics
 *Tools to manipulate images.*
