@@ -173,6 +173,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 ## Games
 - [gzdoom](https://zdoom.org/index) - A Doom source port for the modern era.
+- [openemu](https://openemu.org/) - Video game emulation.
 
 ## Graphics
 *Tools to manipulate images.*
