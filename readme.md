@@ -333,6 +333,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Tyke](http://tyke.io/) - A little bit of scratch paper that lives on your Mac menu bar.
 * [UninstallPKG](https://www.corecode.io/uninstallpkg/index.html) - Remove unwanted packages from MacOS.
 * [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
+- [Witch](https://manytricks.com/witch/) - ⌘-Tab Everything.
 * [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers.
 
 ## Task Management
