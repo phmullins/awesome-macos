@@ -326,6 +326,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS.
 * [Marta](https://marta.yanex.org/) - File Manager for macOS.
 * [MKS](https://github.com/x0054/MKS) - Mechanical Keyboard Simulator.
+- [Moom](https://manytricks.com/moom/) - Move and zoom windows.
 * [Muzzle](https://muzzleapp.com/) - Disable notifications while screen sharing.
 * [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift.
 * [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease.
