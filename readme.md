@@ -20,6 +20,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
   * [Graphics](#graphics)
   * [Journaling](#journaling)
   * [Knowledge Management](#knowledge-management)
+  * [Messengers](#messengers)
   * [Miscellaneous](#miscellaneous)
   * [Network](#network)
   * [Office Suites](#office-suites)
@@ -205,6 +206,9 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
 * [Reader](http://reederapp.com/mac/) - A RSS/Feedly news reader.
 
+## Messengers
+- [whalebird](https://whalebird.org/en/desktop/contents) - A Mastodon and Pleroma client.
+
 ## Miscellaneous
 
 * [FS-UAE](https://fs-uae.net/) - Amiga Emulator.
@@ -329,6 +333,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows.
 * [Muzzle](https://muzzleapp.com/) - Disable notifications while screen sharing.
 * [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift.
+- [Pock](http://pock.pigigaldi.com/) - Display macOS Dock in Touch Bar.
 * [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease.
 - [Sloth](https://sveinbjorn.org/sloth) - Shows all open files and sockets in use.
 * [Tyke](http://tyke.io/) - A little bit of scratch paper that lives on your Mac menu bar.
