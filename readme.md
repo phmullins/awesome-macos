@@ -55,6 +55,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [eqMac2](https://github.com/nodeful/eqMac2) - System-Wide Equalizer for the Mac
 * [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS.
 * [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files.
+- [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any audio.
 * [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor.
 * [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Last.fm scrobbler for the Shazam Mac app.
 - [Sound Source](https://rogueamoeba.com/soundsource/) - Superior Sound Control.
