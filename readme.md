@@ -52,7 +52,8 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [AirFoil](https://rogueamoeba.com/airfoil/) - Hear Your Audio Everywhere.
 * [Cog](http://cogx.org/) - Audio player similar to Foobar 2000.
 * [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin.
-* [eqMac2](https://github.com/nodeful/eqMac2) - System-Wide Equalizer for the Mac
+* [eqMac2](https://github.com/nodeful/eqMac2) - System-Wide Equalizer for the Mac.
+- [Farrago](https://rogueamoeba.com/farrago/) - Robust, rapid-fire soundboards.
 * [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS.
 * [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files.
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any audio.
