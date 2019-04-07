@@ -58,6 +58,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files.
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any audio.
 - [Fission](https://rogueamoeba.com/fission/) - Fast & lossless audio editing.
+- [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac. 
 * [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor.
 * [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Last.fm scrobbler for the Shazam Mac app.
 - [Sound Source](https://rogueamoeba.com/soundsource/) - Superior Sound Control.
