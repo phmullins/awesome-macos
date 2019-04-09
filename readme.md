@@ -60,6 +60,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Fission](https://rogueamoeba.com/fission/) - Fast & lossless audio editing.
 - [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac. 
 * [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor.
+- [Piezo](https://rogueamoeba.com/piezo/) - Charmingly simple audio recording.
 * [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Last.fm scrobbler for the Shazam Mac app.
 - [Sound Source](https://rogueamoeba.com/soundsource/) - Superior Sound Control.
 * [Tiny Player](http://www.catnapgames.com/tiny-player-for-mac/) - Tiny FLAC/AAC/MP3/WAV Player.
