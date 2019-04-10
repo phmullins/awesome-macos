@@ -252,6 +252,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [1Password](https://agilebits.com/onepassword) - Best Password Manager out there!
 * [Avast](https://www.avast.com/passwords-mac) - Avast Passwords for Mac.
 * [Buttercup](https://buttercup.pw) - The Password Manager You Deserve.
+- [Kaspersky Password Manager](https://usa.kaspersky.com/password-manager) - Password Manager.
 * [KeepassX](https://www.keepassx.org/) - Open Source password manager.
 * [KeePassXC](https://keepassxc.org/) - Cross-Platform password manager.
 * [KeeWeb](https://keeweb.info/) - Password manager compatible with KeePass.
