@@ -98,6 +98,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Gitter](https://gitter.im/) - A chat and networking platform.
 * [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for MacOS.
 * [Messenger for Desktop 2](https://www.messengerfordesktop.org/) - A simple & beautiful app for Facebook Messenger.
+* [Signal](https://www.signal.org/) - Fast, simple, secure.
 * [Slack](https://slack.com/) - Team-based collaboration tool.
 * [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app.
 * [Textual](https://github.com/Codeux-Software/Textual) - Lightweight IRC client.
