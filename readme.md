@@ -127,6 +127,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Postgres.app](http://postgresapp.com/) - PostgreSQL for MacOS.
 * [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac.
 * [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS.
+* [SQLiteStudio](https://sqlitestudio.pl/) - Database manager.
 * [Robomongo](https://robomongo.org/) - Cross-platform MongoDB client.
 * [TablePlus](https://tableplus.io/) - Awesome PostgreSQL database client.
 
