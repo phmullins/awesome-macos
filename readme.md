@@ -198,6 +198,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Photos Exif](http://www.exifedit.com/) - Edit EXIF & IPTC metadata.
 * [Pixave](http://www.pixaveapp.com/) - The ultimate image organizer.
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editor for Mac.
+- [Polarr Photo Editor](https://www.polarr.co/download) - Photo Editor.
 * [Sip](http://sipapp.io/) - Collect, organize & share your colors.
 * [Spect](http://spect-app.com/) - Fast image browser and organizer.
 
