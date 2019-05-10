@@ -221,6 +221,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 ## Miscellaneous
 
+- [Bookpedia](https://www.bruji.com/bookpedia/) - What's on your shelves?
 * [FS-UAE](https://fs-uae.net/) - Amiga Emulator.
 * [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version.
 - [sugarmate](https://sugarmate.io/) - A new way to manage your diabetes.
