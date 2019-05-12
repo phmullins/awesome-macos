@@ -160,6 +160,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Electronic Book readers and other book utilities*
 
 * [Calibre](http://calibre-ebook.com/) - Complete e-book library management system.
+- [Delicious Library 3](https://www.delicious-monster.com/) - Book Manager.
 * [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) - Read Kindle books on your Mac.
 * [Kitabu](https://www.kitabu.me/) - Kitabu is your EPUB reading application and cloud library.
 
@@ -222,6 +223,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 ## Miscellaneous
 
 - [Bookpedia](https://www.bruji.com/bookpedia/) - What's on your shelves?
+- [calibre](https://calibre-ebook.com/) - Powerful and easy to use e-book manager.
 * [FS-UAE](https://fs-uae.net/) - Amiga Emulator.
 * [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version.
 - [sugarmate](https://sugarmate.io/) - A new way to manage your diabetes.
