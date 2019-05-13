@@ -265,6 +265,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [KeeWeb](https://keeweb.info/) - Password manager compatible with KeePass.
 * [MacPass](http://mstarke.github.io/MacPass/) - A native MacOS KeePass client.
 * [Passifox]() - Auto form-fill passwords from KeePass.
+- [qtpass](https://qtpass.org/) - QtPass is a multi-platform GUI for pass.
 
 ## Programming
 *Various tools to aid in programming.*
