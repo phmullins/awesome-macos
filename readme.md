@@ -213,6 +213,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Data and Knowledge Management*
 
 * [DEVONthink Pro Office](http://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html) - Document/Note manager.
+- [DEVONsphere Express](https://www.devontechnologies.com/products/devonsphere/devonsphere-express.html) 
 * [fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS.
 * [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
 * [Reader](http://reederapp.com/mac/) - A RSS/Feedly news reader.
