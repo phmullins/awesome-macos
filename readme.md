@@ -412,6 +412,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 * [HandBrake](https://handbrake.fr/) - The open source video transcoder.
 * [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS.
+- [MakeMKV](https://www.makemkv.com/) - Rip DVD and Blu-ray discs.
 * [mpv](https://mpv.io/) - A free, open source, and cross-platform media player.
 
 ## Virtualization
