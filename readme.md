@@ -352,6 +352,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift.
 - [OpeninTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Open the current directory in Terminal.
 - [Pock](http://pock.pigigaldi.com/) - Display macOS Dock in Touch Bar.
+- [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac.
 * [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease.
 - [Sloth](https://sveinbjorn.org/sloth) - Shows all open files and sockets in use.
 * [Tyke](http://tyke.io/) - A little bit of scratch paper that lives on your Mac menu bar.
