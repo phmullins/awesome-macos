@@ -192,6 +192,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 * [Adapter](https://macroplant.com/adapter) - Adapter Converts Video, Audio and Images.
 * [Couleurs](http://couleursapp.com/) - A simple but powerful color grabber.
+- [Gifox](https://gifox.io/) - Delightful GIF Recording and Sharing App.
 * [Icon Bot](http://dev-lux.com/iconbot/) - Hassle free icon converter.
 * [Icon Jar](https://geticonjar.com) - Store all your icons in one place.
 * [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata.
