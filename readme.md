@@ -50,6 +50,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Audio players, editors, and converters.*
 
 - [AirFoil](https://rogueamoeba.com/airfoil/) - Hear Your Audio Everywhere.
+- [BitPerfect](http://bitperfectsound.com/) - The Audiophile Choice.
 * [Cog](http://cogx.org/) - Audio player similar to Foobar 2000.
 * [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin.
 * [eqMac2](https://github.com/nodeful/eqMac2) - System-Wide Equalizer for the Mac.
