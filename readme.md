@@ -182,6 +182,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual pane file manager.
 * [Hazel](https://www.noodlesoft.com/) - Automated Organization for Your Mac.
 * [HoudahSpot 4](https://www.houdah.com/houdahSpot/) - Powerful File Search for Mac.
+- [Marta](https://marta.yanex.org/) - File Manager for macOS.
 * [NameChanger](https://mrrsoftware.com/namechanger/) - Rename a list of files quickly and easily.
 * [Tembo](https://www.houdah.com/tembo/) - Friendly File Search Assistant.
 
