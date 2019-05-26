@@ -244,6 +244,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [FileZilla](https://filezilla-project.org/) - Open source FTP client.
 * [Murus](http://www.murusfirewall.com/) - A GUI for the MacOS PF firewall.
 * [NetSpot](https://www.netspotapp.com/) - Wireless survey tool.
+- [Network Radar](https://witt-software.com/networkradar/) - Scan and monitor your network.
 * [Shuttle](http://fitztrev.github.io/shuttle/) - A simple SSH shortcut menu for macOS.
 * [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS.
 * [SSH Copy](https://codinn.com/products/ssh-copy/) - Manage remote files with ease.
