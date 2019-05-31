@@ -43,6 +43,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Misc academic tools and utilities*
 
 * [Manuscripts](http://www.manuscriptsapp.com/) - A writing tool like nothing you have seen before.
+- [Mochi](https://mochi.cards/) - Take notes and make flashcards.
 * [Numi](http://numi.io/) - Beautiful calculator app for Mac.
 * [Studies](http://www.studiesapp.com/) - Master Your Studies.
 
