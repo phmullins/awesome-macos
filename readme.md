@@ -402,6 +402,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 ## Web Browsers
 *The best web brwosers for OS X.*
 
+- [Cliqz](https://cliqz.com/en/) - The no-compromise browser.
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox.
 * [Google Chrome](https://encrypted.google.com/chrome) - Google Chrome is a freeware web browser developed by Google.
 * [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser.
