@@ -214,6 +214,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 * [Day One](http://dayoneapp.com/) - A journal, diary, text-logging application.
 * [jrnl](http://jrnl.sh/) - Command-line journaling application.
+- [MacJournal 7](http://danschimpf.com/) - macOS journaling application.
 
 ## Knowledge Management
 *Data and Knowledge Management*
