@@ -418,6 +418,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Moeditor](https://moeditor.org/) - Your all-purpose markdown editor.
 * [MWeb](http://www.mweb.im/) - Pro Markdown writing and note taking editor.
 * [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers.
+- [Typora](https://www.typora.io/) - Live markdown reader and a writer.
 * [Ulysses](https://ulyssesapp.com/) - The Ultimate Writing App for Mac, iPad and iPhone.
 
 ## Video Utilities
