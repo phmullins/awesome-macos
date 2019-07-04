@@ -412,6 +412,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Waterfox](https://www.waterfox.net/) - Browse the web YOUR way.
 
 ## Writing
+- [BookletCreator](https://www.bookletcreator.com/) - Create a booklet from a PDF document.
 * [Byword](http://www.bywordapp.com/) - Excellent markdown editor.
 * [iAWriter](https://ia.net/writer/) - Designed to provide the best digital writing experience.
 * [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS.
