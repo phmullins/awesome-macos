@@ -233,6 +233,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 - [Bookpedia](https://www.bruji.com/bookpedia/) - What's on your shelves?
 - [calibre](https://calibre-ebook.com/) - Powerful and easy to use e-book manager.
+- [Micro.blog](https://s3.amazonaws.com/micro.blog/mac/Micro.blog_1.9.zip) - The official macOS version of Micro.blog.
 * [FS-UAE](https://fs-uae.net/) - Amiga Emulator.
 * [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version.
 - [Time Sink](https://manytricks.com/timesink/) - Track how you're spend your time.
