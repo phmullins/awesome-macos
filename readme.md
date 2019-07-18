@@ -20,7 +20,6 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
   * [Graphics](#graphics)
   * [Journaling](#journaling)
   * [Knowledge Management](#knowledge-management)
-  * [Messengers](#messengers)
   * [Miscellaneous](#miscellaneous)
   * [Network](#network)
   * [Office Suites](#office-suites)
@@ -226,9 +225,6 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
 * [Reader](http://reederapp.com/mac/) - A RSS/Feedly news reader.
 
-## Messengers
-- [whalebird](https://whalebird.org/en/desktop/contents) - A Mastodon and Pleroma client.
-
 ## Miscellaneous
 
 - [Bookpedia](https://www.bruji.com/bookpedia/) - What's on your shelves?
@@ -320,6 +316,8 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Flume](https://flumeapp.com/) - A beautiful Instagram experience for your desktop.
 * [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram desktop app.
 * [Reeddit for Mac](http://mac.reedditapp.com/) - Minimal, elastic Reddit client for MacOS.
+- [whalebird](https://whalebird.org/en/desktop/contents) - A Mastodon and Pleroma client.
+- [Mastonaut](https://mastonaut.app/) - Simple, elegant, and native Mastodon client for Mac.
 
 ## Source Control
 *Source Control.*
