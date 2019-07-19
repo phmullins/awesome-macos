@@ -185,6 +185,8 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Marta](https://marta.yanex.org/) - File Manager for macOS.
 * [NameChanger](https://mrrsoftware.com/namechanger/) - Rename a list of files quickly and easily.
 * [Tembo](https://www.houdah.com/tembo/) - Friendly File Search Assistant.
+- [Trickster](https://www.apparentsoft.com/trickster) - Your recently used files,
+at your fingertips.
 
 ## Games
 - [gzdoom](https://zdoom.org/index) - A Doom source port for the modern era.
