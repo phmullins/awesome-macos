@@ -330,6 +330,7 @@ at your fingertips.
 * [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client.
 * [Gitscout](https://gitscout.com/) - A beautiful GitHub Issues experience for MacOS.
 * [SourceTree](https://www.sourcetreeapp.com/) - Easy way to work with Git and Mercurial.
+- [Thermal](https://thermal.codecarrot.net/) - All-in-one place to manage your Git repository. 
 * [Tower](http://www.git-tower.com/) - Advanced Git version control.
 
 ## System Tools
