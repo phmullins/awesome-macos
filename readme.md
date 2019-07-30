@@ -341,6 +341,7 @@ at your fingertips.
 * [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS.
 * [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases.
 * [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode.
+- [Cakebrew](https://www.cakebrew.com/) - The Mac App for Homebrew. (OSS)
 * [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks.
 - [Core Shell](https://coreshell.app/) - A terminal to make your SSH life easy.
 * [Dat](https://datproject.org/) - Distributed data sharing tool.
