@@ -402,6 +402,7 @@ at your fingertips.
 * [Lime](http://limetext.org/) - Open Source, Elegant, and Free Text Editor.
 * [TextWrangler](http://www.barebones.com/products/textwrangler/) - BBedit's free little brother.
 - [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking app that doesn't suck.
+- [Noto](https://www.brunophilipe.com/software/noto/) - The plain text editor for macOS. (OSS)
 * [Visual Studio Code](https://code.visualstudio.com/) - Excellent cross-platform text editor from Microsoft.
 * [vnote](https://github.com/tamlok/vnote) - A Vim-inspired Markdown note-taking application.
 
