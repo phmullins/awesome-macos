@@ -108,6 +108,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app.
 * [Textual](https://github.com/Codeux-Software/Textual) - Lightweight IRC client.
 * [Reeder](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, and more.
+- [Smuxi](https://smuxi.im/) - GTK+ multi-service client.
 * [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
 * [Wire](https://wire.com/en/) - Secure communication. Full privacy.
 * [Workplace by Facebook](https://www.facebook.com/workplace) - Change the way you work.
