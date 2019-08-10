@@ -99,6 +99,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 * [Chime](https://chime.aws/) - Amazon Chime communications service.
 * [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers.
 * [Gitter](https://gitter.im/) - A chat and networking platform.
+- [HexChat](https://hexchat.github.io/) - IRC client based on XChat.
 - [Irssi](https://irssi.org/) - Your text mode chatting application since 1999.
 - [KVIrc](http://kvirc.net/) - QT IRC Client.
 * [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for MacOS.
