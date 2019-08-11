@@ -373,6 +373,7 @@ at your fingertips.
 - [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac.
 * [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease.
 - [Sloth](https://sveinbjorn.org/sloth) - Shows all open files and sockets in use.
+- [Start](https://start.innovative-bytes.net/) - A superior way to launch applications.
 * [Tyke](http://tyke.io/) - A little bit of scratch paper that lives on your Mac menu bar.
 * [UninstallPKG](https://www.corecode.io/uninstallpkg/index.html) - Remove unwanted packages from MacOS.
 * [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
