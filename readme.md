@@ -345,6 +345,7 @@ at your fingertips.
 * [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS.
 * [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases.
 - [BetterTouchTool](https://folivora.ai/) -  Customize input devices on your Mac.
+- [BitBar](https://www.getbidbar.com/) - Run terminal commands from the menu bar.
 * [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode.
 - [Cakebrew](https://www.cakebrew.com/) - The Mac App for Homebrew. (OSS)
 * [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks.
