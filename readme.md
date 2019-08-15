@@ -360,6 +360,7 @@ at your fingertips.
 * [Gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for MacOS.
 * [Hyper](https://hyper.is/) - A JS/HTML/CSS Terminal.
 * [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar.
+- [Launchey 2](https://www.getniceapps.com/launchey-2) - Lightweight menu bar app launcher.
 * [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services.
 * [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
 * [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly.
