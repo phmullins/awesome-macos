@@ -227,7 +227,8 @@ at your fingertips.
 
 - [DEVONthink Pro Office](http://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html) - Document/Note manager.
 - [DEVONsphere Express](https://www.devontechnologies.com/products/devonsphere/devonsphere-express.html) 
-- [fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS.
+- [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS.
+- [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized.
 - [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
 - [Reader](http://reederapp.com/mac/) - A RSS/Feedly news reader.
 
@@ -265,7 +266,6 @@ at your fingertips.
 - [Apache OpenOffice](http://www.openoffice.org/) - Apache's free and open source productivity suite.
 - [LibreOffice](http://www.libreoffice.org/download/libreoffice-fresh/) - A powerful, free office suite.
 - [Office 365 for Mac](https://products.office.com/en-US/mac/microsoft-office-for-mac) - The latest version of Office from the folks in Redmond.
-- [notion](https://www.notion.so) - Write, plan, collaborate, and get organized.
 
 ## Password Management
 *Password management utilities*
