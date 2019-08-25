@@ -430,6 +430,7 @@ at your fingertips.
 * [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS.
 * [Moeditor](https://moeditor.org/) - Your all-purpose markdown editor.
 * [MWeb](http://www.mweb.im/) - Pro Markdown writing and note taking editor.
+- [Pine](https://lukakerr.github.io/Pine/) - Native markdown editor for macOS.
 * [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers.
 - [Texts](http://www.texts.io/) - Separate Content from Formatting. Store in Markdown.
 - [Typora](https://www.typora.io/) - Live markdown reader and a writer.
