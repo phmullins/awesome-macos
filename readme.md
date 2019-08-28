@@ -3,6 +3,8 @@
 A curated list of fantastically awesome GUI-based software for Apple's MacOS operating system. This list was inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin).
 
 - [Academics](#academics)
+- [Anti-Malware](#anti-malware)
+- [Anti-Virus](#anti-virus)
 - [Audio](#audio)
 - [Backups](#backups)
 - [Cleanup](#cleanup)
@@ -29,6 +31,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Security](#security)
 - [Social Media](#social-media)
 - [Source Control](#source-control)
+- [System Maintenance](#system-maintenance)
 - [System Tools](#system-tools)
 - [Task Management](#task-management)
 - [Terminal](#terminal)
@@ -45,6 +48,19 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Mochi](https://mochi.cards/) - Take notes and make flashcards.
 - [Numi](http://numi.io/) - Beautiful calculator app for Mac.
 - [Studies](http://www.studiesapp.com/) - Master Your Studies.
+
+## Anti-Malware
+*Tools and Utilities to keep your Mac free of malware.*
+
+- [Malwarebytes](https://www.malwarebytes.com/mac/) - Adware removal tool. Free. $$$
+
+## Anti-Virus
+*Tools and Utilities to keep your Mac virus free.*
+
+- [Avast Security for Mac](https://www.avast.com/free-mac-security) - Think different about Mac security. Free.
+- [AVG AntiVirus for Mac](https://www.avg.com/en-us/avg-antivirus-for-mac) - Simply safer with AVG AntiVirus for Mac. Free.
+- [Bitdefender Antivirus](https://www.bitdefender.com/solutions/free.html) - Absolute antivirus protection. Free.
+- [Webroot AntiVirus](https://www.webroot.com/us/en/home/products/av) - Full-scale antivirus program. $$$
 
 ## Audio
 *Audio players, editors, and converters.*
@@ -274,7 +290,7 @@ at your fingertips.
 
 - [1Password](https://agilebits.com/onepassword) - Best Password Manager out there!
 - [Avast](https://www.avast.com/passwords-mac) - Avast Passwords for Mac.
-- [Buttercup](https://buttercup.pw) - The Password Manager You Deserve.
+- [Buttercup](https://buttercup.pw) - The Password Manager You Deserve. ![Open Source][oss]
 - [Kaspersky Password Manager](https://usa.kaspersky.com/password-manager) - Password Manager.
 - [KeepassX](https://www.keepassx.org/) - Open Source password manager. ![Open Source][oss]
 - [KeePassXC](https://keepassxc.org/) - Cross-Platform password manager. ![Open Source][oss]
@@ -282,6 +298,8 @@ at your fingertips.
 - [MacPass](https://macpassapp.org/) - A native MacOS KeePass client. ![Open Source][oss]
 - [Passifox](https://github.com/pfn/passifox) - Auto form-fill passwords from KeePass. ![Open Source][oss]
 - [qtpass](https://qtpass.org/) - QtPass is a multi-platform GUI for pass. ![Open Source][oss]
+- [RememBear](https://www.remembear.com/) - Secure and remember all your passwords...with a Bear.
+- [Strongbox](https://strongboxsafe.com/) - Freemium Open Source Password Manager. ![Open Source][oss]
 
 ## Programming
 *Various tools to aid in programming.*
@@ -312,7 +330,11 @@ at your fingertips.
 
 ## Security
 
+- [Avast SecureLine VPN](https://www.avast.com/secureline-vpn#mac) - Encrypts your Internet connection. $$$
+- [AVG Secure VPN](https://www.avg.com/en-us/secure-vpn) - Secure your Wi-Fi and browse privately. $$$
+- [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy.
 - [Santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for macOS. ![Open Source][oss]
+- [TunnelBear](https://www.tunnelbear.com/) - A more secure way to browse the web.
 
 ## Social Media
 *Misc Social media applications*
@@ -337,6 +359,12 @@ at your fingertips.
 - [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. 
 - [Thermal](https://thermal.codecarrot.net/) - All-in-one place to manage your Git repository. 
 - [Tower](http://www.git-tower.com/) - Advanced Git version control.
+
+## System Maintenance
+*Tools to clean up your Mac.*
+
+- [Avast Cleanup Pro for Mac](https://www.avast.com/cleanup-mac) - Every Mac needs a clean up. Every day. $$$
+- [AVG TuneUp](https://www.avg.com/en-us/avg-tuneup-for-mac) - Speed up, clean up and fix your Mac. $$$
 
 ## System Tools
 *System Tools.*
