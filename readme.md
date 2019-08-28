@@ -239,6 +239,7 @@ at your fingertips.
 - [Micro.blog](https://s3.amazonaws.com/micro.blog/mac/Micro.blog_1.9.zip) - The official macOS version of Micro.blog.
 - [NetNewsWire](https://ranchero.com/netnewswire/) - More news, less junk. Faster.
 - [FS-UAE](https://fs-uae.net/) - Amiga Emulator.
+- [Reeder 3](https://www.reederapp.com/mac/) - The best news reader for macOS.
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version.
 - [Time Sink](https://manytricks.com/timesink/) - Track how you're spend your time.
 - [sugarmate](https://sugarmate.io/) - A new way to manage your diabetes.
