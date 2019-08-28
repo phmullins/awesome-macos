@@ -279,8 +279,8 @@ at your fingertips.
 - [KeepassX](https://www.keepassx.org/) - Open Source password manager. ![Open Source][oss]
 - [KeePassXC](https://keepassxc.org/) - Cross-Platform password manager. ![Open Source][oss]
 - [KeeWeb](https://keeweb.info/) - Password manager compatible with KeePass. ![Open Source][oss]
-- [MacPass](http://mstarke.github.io/MacPass/) - A native MacOS KeePass client. ![Open Source][oss]
-- [Passifox]() - Auto form-fill passwords from KeePass.
+- [MacPass](https://macpassapp.org/) - A native MacOS KeePass client. ![Open Source][oss]
+- [Passifox](https://github.com/pfn/passifox) - Auto form-fill passwords from KeePass.
 - [qtpass](https://qtpass.org/) - QtPass is a multi-platform GUI for pass. ![Open Source][oss]
 
 ## Programming
