@@ -52,8 +52,8 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [AirFoil](https://rogueamoeba.com/airfoil/) - Hear Your Audio Everywhere.
 - [BitPerfect](http://bitperfectsound.com/) - The Audiophile Choice.
 - [Cog](http://cogx.org/) - Audio player similar to Foobar 2000. ![Open Source][oss]
-- [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin.
-- [eqMac2](https://github.com/nodeful/eqMac2) - System-Wide Equalizer for the Mac.
+- [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin. ![Open Source][oss]
+- [eqMac2](https://github.com/nodeful/eqMac2) - System-Wide Equalizer for the Mac. ![Open Source][oss]
 - [Farrago](https://rogueamoeba.com/farrago/) - Robust, rapid-fire soundboards.
 - [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS.
 - [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files.
@@ -61,9 +61,9 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Fission](https://rogueamoeba.com/fission/) - Fast & lossless audio editing.
 - [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac. 
 - [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor.
-- [Mous](https://github.com/bsdelf/mous) - Powerful audio player & converter for FreeBSD/Linux/macOS.
+- [Mous](https://github.com/bsdelf/mous) - Powerful audio player & converter for FreeBSD/Linux/macOS. ![Open Source][oss]
 - [Piezo](https://rogueamoeba.com/piezo/) - Charmingly simple audio recording.
-- [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Last.fm scrobbler for the Shazam Mac app.
+- [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Last.fm scrobbler for the Shazam Mac app. ![Open Source][oss]
 - [sonos](https://www.sonos.com) - Wireless Home Sound System.
 - [Sound Source](https://rogueamoeba.com/soundsource/) - Superior Sound Control.
 - [Tiny Player](http://www.catnapgames.com/tiny-player-for-mac/) - Tiny FLAC/AAC/MP3/WAV Player.
@@ -90,7 +90,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Disk Doctor](https://fiplab.com/apps/disk-doctor-for-mac) - Removes tons of unneeded files.
 - [Dr. Cleaner](http://appletuner.trendmicro.com/drcleaner/?ct=appletunercom&mt=12&at=1000l6jv) - System, Memory, & Disk optimization.
 - [Duplicate Detective](https://fiplab.com/apps/duplicate-detective-for-mac) - Remove duplicate files from your Mac.
-- [Monolingual](http://ingmarstein.github.io/Monolingual/) - Frees up disk space by removing unused languages files.
+- [Monolingual](http://ingmarstein.github.io/Monolingual/) - Frees up disk space by removing unused languages files. ![Open Source][oss]
 - [TrashMe](http://www.jibapps.com/en/products/trashme/) - Uninstaller for the Mac with other great useful tools.
 
 ## Communication
@@ -99,7 +99,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Chime](https://chime.aws/) - Amazon Chime communications service.
 - [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers.
 - [Gitter](https://gitter.im/) - A chat and networking platform.
-- [HexChat](https://hexchat.github.io/) - IRC client based on XChat.
+- [HexChat](https://hexchat.github.io/) - IRC client based on XChat. ![Open Source][oss]
 - [Irssi](https://irssi.org/) - Your text mode chatting application since 1999.
 - [KVIrc](http://kvirc.net/) - QT IRC Client.
 - [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for MacOS.
@@ -107,7 +107,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Signal](https://www.signal.org/) - Fast, simple, secure.
 - [Slack](https://slack.com/) - Team-based collaboration tool.
 - [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app.
-- [Textual](https://github.com/Codeux-Software/Textual) - Lightweight IRC client.
+- [Textual](https://github.com/Codeux-Software/Textual) - Lightweight IRC client. ![Open Source][oss]
 - [Reeder](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, and more.
 - [Smuxi](https://smuxi.im/) - GTK+ multi-service client.
 - [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
@@ -130,7 +130,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager.
 - [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases.
-- [Postbird](https://github.com/paxa/postbird) - Open source PostgreSQL GUI client for macOs.
+- [Postbird](https://github.com/paxa/postbird) - Open source PostgreSQL GUI client for macOs. ![Open Source][oss]
 - [Postgres.app](http://postgresapp.com/) - PostgreSQL for MacOS.
 - [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac.
 - [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS.
@@ -143,7 +143,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 ## DevOps
 - [Captain](https://getcaptain.co) - Manage Docker containers.
-- [Container PS](https://github.com/Toinane/container-ps) - Menu Bar app for Docker.
+- [Container PS](https://github.com/Toinane/container-ps) - Menu Bar app for Docker. ![Open Source][oss]
 - [Docker](https://www.docker.com/) - The world’s leading software containerization platform.
 
 ## Encryption
@@ -193,7 +193,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 at your fingertips.
 
 ## Games
-- [gzdoom](https://zdoom.org/index) - A Doom source port for the modern era.
+- [gzdoom](https://zdoom.org/index) - A Doom source port for the modern era. ![Open Source][oss]
 - [openemu](https://openemu.org/) - Video game emulation.
 
 ## Graphics
@@ -201,7 +201,7 @@ at your fingertips.
 
 - [Adapter](https://macroplant.com/adapter) - Adapter Converts Video, Audio and Images.
 - [Couleurs](http://couleursapp.com/) - A simple but powerful color grabber.
-- [Color Picker Plus](https://github.com/viktorstrate/color-picker-plus) - An Improved Color Picker for macOS.
+- [Color Picker Plus](https://github.com/viktorstrate/color-picker-plus) - An Improved Color Picker for macOS. ![Open Source][oss]
 - [Gifox](https://gifox.io/) - Delightful GIF Recording and Sharing App.
 - [Icon Bot](http://dev-lux.com/iconbot/) - Hassle free icon converter.
 - [Icon Jar](https://geticonjar.com) - Store all your icons in one place.
@@ -240,7 +240,7 @@ at your fingertips.
 - [NetNewsWire](https://ranchero.com/netnewswire/) - More news, less junk. Faster.
 - [FS-UAE](https://fs-uae.net/) - Amiga Emulator. ![Open Source][oss]
 - [Reeder 3](https://www.reederapp.com/mac/) - The best news reader for macOS.
-- [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version.
+- [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![Open Source][oss]
 - [Time Sink](https://manytricks.com/timesink/) - Track how you're spend your time.
 - [sugarmate](https://sugarmate.io/) - A new way to manage your diabetes.
 
@@ -256,7 +256,7 @@ at your fingertips.
 - [NetSpot](https://www.netspotapp.com/) - Wireless survey tool.
 - [Network Radar](https://witt-software.com/networkradar/) - Scan and monitor your network.
 - [Shuttle](http://fitztrev.github.io/shuttle/) - A simple SSH shortcut menu for macOS.
-- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS.
+- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS. ![Open Source][oss]
 - [SSH Copy](https://codinn.com/products/ssh-copy/) - Manage remote files with ease.
 - [Surge](http://nssurge.com/) - Advanced Web Debugging Proxy for macOS & iOS.
 - [Transmit](https://www.panic.com/transmit/) - FTP client that supports SFTP, S3, WebDAV, and more.
@@ -280,7 +280,7 @@ at your fingertips.
 - [KeePassXC](https://keepassxc.org/) - Cross-Platform password manager. ![Open Source][oss]
 - [KeeWeb](https://keeweb.info/) - Password manager compatible with KeePass. ![Open Source][oss]
 - [MacPass](https://macpassapp.org/) - A native MacOS KeePass client. ![Open Source][oss]
-- [Passifox](https://github.com/pfn/passifox) - Auto form-fill passwords from KeePass.
+- [Passifox](https://github.com/pfn/passifox) - Auto form-fill passwords from KeePass. ![Open Source][oss]
 - [qtpass](https://qtpass.org/) - QtPass is a multi-platform GUI for pass. ![Open Source][oss]
 
 ## Programming
@@ -291,20 +291,16 @@ at your fingertips.
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Open-source Arduino Software (IDE).
 - [CodeRunner 2](https://coderunnerapp.com/) - Easy-to-use programming editor for your Mac.
 - [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets.
-- [Fork](https://git-fork.com/) - A fast and friendly git client for Mac.
-- [Fuel](https://fuel-scm.org/fossil/index) -  Front-end for the Fossil SCM.
-- [Git Bar](https://github.com/Shikkic/gitbar) - Github contribution stats on your MacOS Menu Bar.
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Website link checker for MacOS.
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Diff manager for MacOS.
 - [Kotlin](http://kotlinlang.org/) - Concise, simple and very easy to read (and write).
-- [Matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go.
+- [Matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go. ![Open Source][oss]
 - [Origami Studio](http://origami.design/) - Design Prototyping.
 - [Paw](https://paw.cloud/) - The most advanced API tool for Mac.
 - [Platypus](http://sveinbjorn.org/platypus) - Create MacOS applications from Bash scripts.
 - [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook.
 - [Sketch](https://www.sketchapp.com/) - Professional digital design for Mac.
 - [SnippetsLab](http://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager.
-- [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. 
 - [Xcode](https://developer.apple.com/xcode/) - Apple's Swift/Objective-C development environment.
 - [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace.
 
@@ -316,13 +312,13 @@ at your fingertips.
 
 ## Security
 
-- [Santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for macOS.
+- [Santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for macOS. ![Open Source][oss]
 
 ## Social Media
 *Misc Social media applications*
 
 - [Flume](https://flumeapp.com/) - A beautiful Instagram experience for your desktop.
-- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram desktop app.
+- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram desktop app. ![Open Source][oss]
 - [Reeddit for Mac](http://mac.reedditapp.com/) - Minimal, elastic Reddit client for MacOS.
 - [whalebird](https://whalebird.org/en/desktop/contents) - A Mastodon and Pleroma client. ![Open Source][oss]
 - [Mastonaut](https://mastonaut.app/) - Simple, elegant, and native Mastodon client for Mac.
@@ -331,11 +327,14 @@ at your fingertips.
 *Source Control.*
 
 - [Fork](https://git-fork.com/) - A fast and friendly git client for Mac. ![Open Source][oss]
+- [Fuel](https://fuel-scm.org/fossil/index) -  Front-end for the Fossil SCM.
+- [Git Bar](https://github.com/Shikkic/gitbar) - Github contribution stats on your MacOS Menu Bar.
 - [Gitea](https://gitea.io/en-US/) - A painless self-hosted Git service. ![Open Source][oss]
 - [GitHub Desktop](https://desktop.github.com/) - The official GitHub client for MacOS.
 - [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client.
 - [Gitscout](https://gitscout.com/) - A beautiful GitHub Issues experience for MacOS.
 - [SourceTree](https://www.sourcetreeapp.com/) - Easy way to work with Git and Mercurial.
+- [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. 
 - [Thermal](https://thermal.codecarrot.net/) - All-in-one place to manage your Git repository. 
 - [Tower](http://www.git-tower.com/) - Advanced Git version control.
 
