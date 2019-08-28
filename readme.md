@@ -227,8 +227,7 @@ at your fingertips.
 
 - [DEVONthink Pro Office](http://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html) - Document/Note manager.
 - [DEVONsphere Express](https://www.devontechnologies.com/products/devonsphere/devonsphere-express.html) 
-- [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS. ![oss](/assets/oss.png)
-
+- [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS. ![Open Source][oss]
 - [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized.
 - [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
 - [Reader](http://reederapp.com/mac/) - A RSS/Feedly news reader.
@@ -460,4 +459,4 @@ Created by [Patrick H. Mullins](http://www.pmullins.net). You can find me on  [T
 ## License
 Source is released under the MIT License (MIT) [license](license.md).
 
-
+[oss]: /assets/oss.png
