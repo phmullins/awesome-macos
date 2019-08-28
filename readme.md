@@ -51,7 +51,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 - [AirFoil](https://rogueamoeba.com/airfoil/) - Hear Your Audio Everywhere.
 - [BitPerfect](http://bitperfectsound.com/) - The Audiophile Choice.
-- [Cog](http://cogx.org/) - Audio player similar to Foobar 2000.
+- [Cog](http://cogx.org/) - Audio player similar to Foobar 2000. ![Open Source][oss]
 - [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin.
 - [eqMac2](https://github.com/nodeful/eqMac2) - System-Wide Equalizer for the Mac.
 - [Farrago](https://rogueamoeba.com/farrago/) - Robust, rapid-fire soundboards.
@@ -78,7 +78,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Box Sync](https://www.box.com/personal) - Online synchronization tool.
 - [Carbon Copy Cloner](http://bombich.com/) - Create a bit-perfect clone of your Mac's hard drive.
 - [Dropbox](https://www.dropbox.com) - Cloud backup and synchronization tool.
-- [Rclone](http://rclone.org/) - Sync files and directories to and from multiple services.
+- [Rclone](http://rclone.org/) - Sync files and directories to and from multiple services. ![Open Source][oss]
 - [Resilio](https://www.resilio.com/individuals/) - All Your Data, Across All Your Devices.
 - [Rsync Client](http://bonhardcomputing.com/rsync-client/) - A simple GUI for managing your remote files.
 - [Rsync Server](http://bonhardcomputing.com/rsync-server/) - Enable the Rsync service on your Mac.
@@ -120,7 +120,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Dr. Unarchiver](http://appletuner.trendmicro.com/dr-unarchiver/?ct=appletunercom&mt=12&at=1000l6jv) - File Archive Utility for Mac.
 - [Keka](https://www.keka.io/en/) - MacOS file archiver. Store more, share with privacy.
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for MacOS' default compression app.
-- [p7zip](http://p7zip.sourceforge.net/) - Open Source port of 7-Zip for POSIX systems.
+- [p7zip](http://p7zip.sourceforge.net/) - Open Source port of 7-Zip for POSIX systems. ![Open Source][oss]
 
 ## Databases
 *Databases and database utilities*
@@ -161,7 +161,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Polymail](https://polymail.io/) - Simple, beautiful, powerful e-mail.
 - [Postbox](https://www.postbox-inc.com/) - Powerful and flexible email client.
 - [Spark](https://sparkmailapp.com/) - Email client for Apple devices.
-- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Cross-platform e-mail and news (NNTP) client.
+- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Cross-platform e-mail and news (NNTP) client. ![Open Source][oss]
 
 ## Electronic Books
 *Electronic Book readers and other book utilities*
@@ -219,7 +219,7 @@ at your fingertips.
 *Journaling.*
 
 - [Day One](http://dayoneapp.com/) - A journal, diary, text-logging application.
-- [jrnl](http://jrnl.sh/) - Command-line journaling application.
+- [jrnl](http://jrnl.sh/) - Command-line journaling application. ![Open Source][oss]
 - [MacJournal 7](http://danschimpf.com/) - macOS journaling application.
 
 ## Knowledge Management
@@ -228,7 +228,7 @@ at your fingertips.
 - [DEVONthink Pro Office](http://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html) - Document/Note manager.
 - [DEVONsphere Express](https://www.devontechnologies.com/products/devonsphere/devonsphere-express.html) 
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS. ![Open Source][oss]
-- [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized.
+- [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized. ![Open Source][oss]
 - [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
 - [Reader](http://reederapp.com/mac/) - A RSS/Feedly news reader.
 
@@ -238,7 +238,7 @@ at your fingertips.
 - [calibre](https://calibre-ebook.com/) - Powerful and easy to use e-book manager.
 - [Micro.blog](https://s3.amazonaws.com/micro.blog/mac/Micro.blog_1.9.zip) - The official macOS version of Micro.blog.
 - [NetNewsWire](https://ranchero.com/netnewswire/) - More news, less junk. Faster.
-- [FS-UAE](https://fs-uae.net/) - Amiga Emulator.
+- [FS-UAE](https://fs-uae.net/) - Amiga Emulator. ![Open Source][oss]
 - [Reeder 3](https://www.reederapp.com/mac/) - The best news reader for macOS.
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version.
 - [Time Sink](https://manytricks.com/timesink/) - Track how you're spend your time.
@@ -265,8 +265,8 @@ at your fingertips.
 ## Office Suites
 *Office suites and other misc office utilities*
 
-- [Apache OpenOffice](http://www.openoffice.org/) - Apache's free and open source productivity suite.
-- [LibreOffice](http://www.libreoffice.org/download/libreoffice-fresh/) - A powerful, free office suite.
+- [Apache OpenOffice](http://www.openoffice.org/) - Apache's free and open source productivity suite. ![Open Source][oss]
+- [LibreOffice](http://www.libreoffice.org/download/libreoffice-fresh/) - A powerful, free office suite. ![Open Source][oss]
 - [Office 365 for Mac](https://products.office.com/en-US/mac/microsoft-office-for-mac) - The latest version of Office from the folks in Redmond.
 
 ## Password Management
@@ -276,12 +276,12 @@ at your fingertips.
 - [Avast](https://www.avast.com/passwords-mac) - Avast Passwords for Mac.
 - [Buttercup](https://buttercup.pw) - The Password Manager You Deserve.
 - [Kaspersky Password Manager](https://usa.kaspersky.com/password-manager) - Password Manager.
-- [KeepassX](https://www.keepassx.org/) - Open Source password manager.
-- [KeePassXC](https://keepassxc.org/) - Cross-Platform password manager.
-- [KeeWeb](https://keeweb.info/) - Password manager compatible with KeePass.
-- [MacPass](http://mstarke.github.io/MacPass/) - A native MacOS KeePass client.
+- [KeepassX](https://www.keepassx.org/) - Open Source password manager. ![Open Source][oss]
+- [KeePassXC](https://keepassxc.org/) - Cross-Platform password manager. ![Open Source][oss]
+- [KeeWeb](https://keeweb.info/) - Password manager compatible with KeePass. ![Open Source][oss]
+- [MacPass](http://mstarke.github.io/MacPass/) - A native MacOS KeePass client. ![Open Source][oss]
 - [Passifox]() - Auto form-fill passwords from KeePass.
-- [qtpass](https://qtpass.org/) - QtPass is a multi-platform GUI for pass.
+- [qtpass](https://qtpass.org/) - QtPass is a multi-platform GUI for pass. ![Open Source][oss]
 
 ## Programming
 *Various tools to aid in programming.*
@@ -324,14 +324,14 @@ at your fingertips.
 - [Flume](https://flumeapp.com/) - A beautiful Instagram experience for your desktop.
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram desktop app.
 - [Reeddit for Mac](http://mac.reedditapp.com/) - Minimal, elastic Reddit client for MacOS.
-- [whalebird](https://whalebird.org/en/desktop/contents) - A Mastodon and Pleroma client.
+- [whalebird](https://whalebird.org/en/desktop/contents) - A Mastodon and Pleroma client. ![Open Source][oss]
 - [Mastonaut](https://mastonaut.app/) - Simple, elegant, and native Mastodon client for Mac.
 
 ## Source Control
 *Source Control.*
 
-- [Fork](https://git-fork.com/) - A fast and friendly git client for Mac.
-- [Gitea](https://gitea.io/en-US/) - A painless self-hosted Git service.
+- [Fork](https://git-fork.com/) - A fast and friendly git client for Mac. ![Open Source][oss]
+- [Gitea](https://gitea.io/en-US/) - A painless self-hosted Git service. ![Open Source][oss]
 - [GitHub Desktop](https://desktop.github.com/) - The official GitHub client for MacOS.
 - [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client.
 - [Gitscout](https://gitscout.com/) - A beautiful GitHub Issues experience for MacOS.
@@ -399,8 +399,8 @@ at your fingertips.
 *Awesome command-line tools*
 
 - [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century.
-- [Homebrew](http://brew.sh/) - The missing package manager for MacOS.
-- [iTerm 2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm.
+- [Homebrew](http://brew.sh/) - The missing package manager for MacOS. ![Open Source][oss]
+- [iTerm 2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm. ![Open Source][oss]
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS!
 
 ## Text Editors
@@ -419,7 +419,7 @@ at your fingertips.
 *The best web brwosers for OS X.*
 
 - [Cliqz](https://cliqz.com/en/) - The no-compromise browser.
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox.
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox. ![Open Source][oss]
 - [Google Chrome](https://encrypted.google.com/chrome) - Google Chrome is a freeware web browser developed by Google.
 - [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser.
 - [Vivaldi](https://vivaldi.com/) - A Browser for Our Friends.
@@ -429,10 +429,10 @@ at your fingertips.
 - [BookletCreator](https://www.bookletcreator.com/) - Create a booklet from a PDF document.
 - [Byword](http://www.bywordapp.com/) - Excellent markdown editor.
 - [iAWriter](https://ia.net/writer/) - Designed to provide the best digital writing experience.
-- [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS.
+- [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS. ![Open Source][oss]
 - [Moeditor](https://moeditor.org/) - Your all-purpose markdown editor.
 - [MWeb](http://www.mweb.im/) - Pro Markdown writing and note taking editor.
-- [Pine](https://lukakerr.github.io/Pine/) - Native markdown editor for macOS.
+- [Pine](https://lukakerr.github.io/Pine/) - Native markdown editor for macOS. ![Open Source][oss]
 - [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers.
 - [Texts](http://www.texts.io/) - Separate Content from Formatting. Store in Markdown.
 - [Typora](https://www.typora.io/) - Live markdown reader and a writer.
@@ -450,7 +450,7 @@ at your fingertips.
 
 - [Parallels Desktop](http://www.parallels.com) - Run Windows apps without rebooting.
 - [Veertu](https://veertu.com/) - Native Virtualization For macOS.
-- [VirtualBox](https://www.virtualbox.org/) - x86 virtualization software.
+- [VirtualBox](https://www.virtualbox.org/) - x86 virtualization software. ![Open Source][oss]
 - [VMware Fusion](http://www.vmware.com/products/fusion/) - Run Windows and Linux on your Mac.
 
 ## Author
