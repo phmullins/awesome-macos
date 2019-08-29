@@ -46,7 +46,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 - [Manuscripts](http://www.manuscriptsapp.com/) - A writing tool like nothing you have seen before. Free.
 - [Mochi](https://mochi.cards/) - Take notes and make flashcards. Free.
-- [Numi](http://numi.io/) - Beautiful calculator app for Mac. $$$
+- [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Not Free][mon]
 - [Studies](http://www.studiesapp.com/) - Master Your Studies. $$$
 
 ## Anti-Malware
@@ -486,3 +486,4 @@ Created by [Patrick H. Mullins](http://www.pmullins.net). You can find me on  [T
 Source is released under the MIT License (MIT) [license](license.md).
 
 [oss]: /assets/oss.png
+[mon]: /assets/money.png
