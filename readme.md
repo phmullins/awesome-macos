@@ -44,10 +44,10 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 ## Academics
 *Misc academic tools and utilities*
 
-- [Manuscripts](http://www.manuscriptsapp.com/) - A writing tool like nothing you have seen before.
-- [Mochi](https://mochi.cards/) - Take notes and make flashcards.
-- [Numi](http://numi.io/) - Beautiful calculator app for Mac.
-- [Studies](http://www.studiesapp.com/) - Master Your Studies.
+- [Manuscripts](http://www.manuscriptsapp.com/) - A writing tool like nothing you have seen before. Free.
+- [Mochi](https://mochi.cards/) - Take notes and make flashcards. Free.
+- [Numi](http://numi.io/) - Beautiful calculator app for Mac. $$$
+- [Studies](http://www.studiesapp.com/) - Master Your Studies. $$$
 
 ## Anti-Malware
 *Tools and Utilities to keep your Mac free of malware.*
@@ -65,35 +65,35 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 ## Audio
 *Audio players, editors, and converters.*
 
-- [AirFoil](https://rogueamoeba.com/airfoil/) - Hear Your Audio Everywhere.
-- [BitPerfect](http://bitperfectsound.com/) - The Audiophile Choice.
+- [AirFoil](https://rogueamoeba.com/airfoil/) - Hear Your Audio Everywhere. $$$
+- [BitPerfect](http://bitperfectsound.com/) - The Audiophile Choice. Free.
 - [Cog](http://cogx.org/) - Audio player similar to Foobar 2000. ![Open Source][oss]
 - [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin. ![Open Source][oss]
 - [eqMac2](https://github.com/nodeful/eqMac2) - System-Wide Equalizer for the Mac. ![Open Source][oss]
-- [Farrago](https://rogueamoeba.com/farrago/) - Robust, rapid-fire soundboards.
-- [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS.
-- [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files.
-- [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any audio.
-- [Fission](https://rogueamoeba.com/fission/) - Fast & lossless audio editing.
-- [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac. 
-- [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor.
+- [Farrago](https://rogueamoeba.com/farrago/) - Robust, rapid-fire soundboards. $$$
+- [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS. Free.
+- [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files. $$$
+- [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any audio. $$$
+- [Fission](https://rogueamoeba.com/fission/) - Fast & lossless audio editing. $$$ 
+- [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac. $$$
+- [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor. $$$
 - [Mous](https://github.com/bsdelf/mous) - Powerful audio player & converter for FreeBSD/Linux/macOS. ![Open Source][oss]
-- [Piezo](https://rogueamoeba.com/piezo/) - Charmingly simple audio recording.
+- [Piezo](https://rogueamoeba.com/piezo/) - Charmingly simple audio recording. $$$
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Last.fm scrobbler for the Shazam Mac app. ![Open Source][oss]
-- [sonos](https://www.sonos.com) - Wireless Home Sound System.
-- [Sound Source](https://rogueamoeba.com/soundsource/) - Superior Sound Control.
-- [Tiny Player](http://www.catnapgames.com/tiny-player-for-mac/) - Tiny FLAC/AAC/MP3/WAV Player.
-- [TunesArt](https://www.jibapps.com/apps/tunesart/) - Display a gorgeous album cover on your desktop.
-- [X Lossless Decoder](http://tmkk.undo.jp/xld/index_e.html) - Decode/Convert to and from dozens of audio file types.
+- [sonos](https://www.sonos.com) - Wireless Home Sound System. Free.
+- [Sound Source](https://rogueamoeba.com/soundsource/) - Superior Sound Control. $$$
+- [Tiny Player](http://www.catnapgames.com/tiny-player-for-mac/) - Tiny FLAC/AAC/MP3/WAV Player. Free.
+- [TunesArt](https://www.jibapps.com/apps/tunesart/) - Display a gorgeous album cover on your desktop. $$$
+- [X Lossless Decoder](http://tmkk.undo.jp/xld/index_e.html) - Decode/Convert to and from dozens of audio file types. Free.
 
 ## Backups
 *Backup software.*
 
-- [Arq](https://www.arqbackup.com/) - Backup your files to Google Drive, Amazon Glacier, SFTP, and more.
-- [Arq Cloud Backup](https://www.arqbackup.com/arqcloudbackup/) - Backs up all your files automatically.
-- [Box Sync](https://www.box.com/personal) - Online synchronization tool.
-- [Carbon Copy Cloner](http://bombich.com/) - Create a bit-perfect clone of your Mac's hard drive.
-- [Dropbox](https://www.dropbox.com) - Cloud backup and synchronization tool.
+- [Arq](https://www.arqbackup.com/) - Backup your files to Google Drive, Amazon Glacier, SFTP, and more. $$$
+- [Arq Cloud Backup](https://www.arqbackup.com/arqcloudbackup/) - Backs up all your files automatically. $$$
+- [Box Sync](https://www.box.com/personal) - Online synchronization tool. $$$
+- [Carbon Copy Cloner](http://bombich.com/) - Create a bit-perfect clone of your Mac's hard drive. $$$
+- [Dropbox](https://www.dropbox.com) - Cloud backup and synchronization tool. $$$
 - [Rclone](http://rclone.org/) - Sync files and directories to and from multiple services. ![Open Source][oss]
 - [Resilio](https://www.resilio.com/individuals/) - All Your Data, Across All Your Devices.
 - [Rsync Client](http://bonhardcomputing.com/rsync-client/) - A simple GUI for managing your remote files.
@@ -349,7 +349,7 @@ at your fingertips.
 *Source Control.*
 
 - [Fork](https://git-fork.com/) - A fast and friendly git client for Mac. ![Open Source][oss]
-- [Fuel](https://fuel-scm.org/fossil/index) -  Front-end for the Fossil SCM.
+- [Fuel](https://fuel-scm.org/fossil/index) -  Front-end for the Fossil SCM. ![Open Source][oss]
 - [Git Bar](https://github.com/Shikkic/gitbar) - Github contribution stats on your MacOS Menu Bar.
 - [Gitea](https://gitea.io/en-US/) - A painless self-hosted Git service. ![Open Source][oss]
 - [GitHub Desktop](https://desktop.github.com/) - The official GitHub client for MacOS.
@@ -433,14 +433,13 @@ at your fingertips.
 ## Text Editors
 *Text Editors.*
 
-- [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
-- [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that doesn't suck.
-- [Lime](http://limetext.org/) - Open Source, Elegant, and Free Text Editor.
-- [TextWrangler](http://www.barebones.com/products/textwrangler/) - BBedit's free little brother.
-- [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking app that doesn't suck.
-- [Noto](https://www.brunophilipe.com/software/noto/) - The plain text editor for macOS. (OSS)
-- [Visual Studio Code](https://code.visualstudio.com/) - Excellent cross-platform text editor from Microsoft.
-- [vnote](https://github.com/tamlok/vnote) - A Vim-inspired Markdown note-taking application.
+- [Atom](https://atom.io/) - A hackable text editor for the 21st Century. Free.
+- [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that doesn't suck. $$$
+- [Lime](http://limetext.org/) - Open Source, Elegant, and Free Text Editor. ![Open Source][oss]
+- [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking app that doesn't suck. ![Open Source][oss]
+- [Noto](https://www.brunophilipe.com/software/noto/) - The plain text editor for macOS. ![Open Source][oss]
+- [Visual Studio Code](https://code.visualstudio.com/) - Excellent cross-platform text editor from Microsoft. Free.
+- [vnote](https://github.com/tamlok/vnote) - A Vim-inspired Markdown note-taking application. ![Open Source][oss]
 
 ## Web Browsers
 *The best web brwosers for OS X.*
