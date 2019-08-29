@@ -486,4 +486,4 @@ Created by [Patrick H. Mullins](http://www.pmullins.net). You can find me on  [T
 Source is released under the MIT License (MIT) [license](license.md).
 
 [oss]: /assets/oss.png
-[mon]: /assets/money.png
+[mon]: /assets/dollar.png
