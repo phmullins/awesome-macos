@@ -475,7 +475,7 @@ at your fingertips.
 *Virtualization tools.*
 
 - [Parallels Desktop](http://www.parallels.com) - Run Windows apps without rebooting. ![Dollar][mon]
-- [Veertu](https://veertu.com/) - Native Virtualization For macOS.
+- [Veertu](https://veertu.com/) - Native Virtualization For macOS. ![Dollar][mon]
 - [VirtualBox](https://www.virtualbox.org/) - x86 virtualization software. ![Open Source][oss]
 - [VMware Fusion](http://www.vmware.com/products/fusion/) - Run Windows and Linux on your Mac. ![Dollar][mon]
 
