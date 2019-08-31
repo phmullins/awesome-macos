@@ -365,6 +365,7 @@ at your fingertips.
 
 - [Avast Cleanup Pro for Mac](https://www.avast.com/cleanup-mac) - Every Mac needs a clean up. Every day. ![Dollar][mon]
 - [AVG TuneUp](https://www.avg.com/en-us/avg-tuneup-for-mac) - Speed up, clean up and fix your Mac. ![Dollar][mon]
+- [Onyx](https://www.titanium-software.fr/en/onyx.html) - Maintain your Mac for free.
 
 ## System Tools
 *System Tools.*
