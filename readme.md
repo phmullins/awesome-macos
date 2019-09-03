@@ -55,7 +55,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Malwarebytes](https://www.malwarebytes.com/mac/) - Adware removal tool. Free. ![Dollar][mon]
 
 ## Anti-Virus
-*Tools and Utilities to keep your Mac virus free.*
+*Keep your Mac clean with the latest anti-virus and anti-malware.*
 
 - [Avast Security for Mac](https://www.avast.com/free-mac-security) - Think different about Mac security. Free.
 - [AVG AntiVirus for Mac](https://www.avg.com/en-us/avg-antivirus-for-mac) - Simply safer with AVG AntiVirus for Mac. Free.
@@ -286,10 +286,11 @@ at your fingertips.
 - [Office 365 for Mac](https://products.office.com/en-US/mac/microsoft-office-for-mac) - The latest version of Office from the folks in Redmond. ![Dollar][mon]
 
 ## Password Management
-*Password management utilities*
+*Secure your online accounts and passwords with a password manager.*
 
 - [1Password](https://agilebits.com/onepassword) - Best Password Manager out there! ![Dollar][mon]
 - [Avast](https://www.avast.com/passwords-mac) - Avast Passwords for Mac. Free
+- [Bitwarden](https://bitwarden.com/) - Solve your password management problems. Free
 - [Buttercup](https://buttercup.pw) - The Password Manager You Deserve. ![Open Source][oss]
 - [Kaspersky Password Manager](https://usa.kaspersky.com/password-manager) - Password Manager.
 - [KeepassX](https://www.keepassx.org/) - Open Source password manager. ![Open Source][oss]
