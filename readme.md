@@ -292,6 +292,7 @@ at your fingertips.
 - [Avast](https://www.avast.com/passwords-mac) - Avast Passwords for Mac. Free
 - [Bitwarden](https://bitwarden.com/) - Solve your password management problems. Free
 - [Buttercup](https://buttercup.pw) - The Password Manager You Deserve. ![Open Source][oss]
+- [Dashlane](https://www.dashlane.com/) - Never forget another password.
 - [Kaspersky Password Manager](https://usa.kaspersky.com/password-manager) - Password Manager.
 - [KeepassX](https://www.keepassx.org/) - Open Source password manager. ![Open Source][oss]
 - [KeePassXC](https://keepassxc.org/) - Cross-Platform password manager. ![Open Source][oss]
