@@ -282,6 +282,7 @@ at your fingertips.
 *Office suites and other misc office utilities*
 
 - [Apache OpenOffice](http://www.openoffice.org/) - Apache's free and open source productivity suite. ![Open Source][oss]
+- [FreeOffice](https://www.freeoffice.com/en/) - Best Microsoft Office alternative overall. Free
 - [LibreOffice](http://www.libreoffice.org/download/libreoffice-fresh/) - A powerful, free office suite. ![Open Source][oss]
 - [Office 365 for Mac](https://products.office.com/en-US/mac/microsoft-office-for-mac) - The latest version of Office from the folks in Redmond. ![Dollar][mon]
 
