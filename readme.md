@@ -37,6 +37,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Terminal](#terminal)
 - [Text Editors](#text-editors)
 - [Web Browsers](#web-browsers)
+- [Windows Managers](#windows-managers)
 - [Writing Apps](#writing)
 - [Video Utilities](#video-utilities)
 - [Virtualization](#virtualization)
@@ -95,47 +96,43 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Carbon Copy Cloner](http://bombich.com/) - Create a bit-perfect clone of your Mac's hard drive. ![Dollar][mon]
 - [Dropbox](https://www.dropbox.com) - Cloud backup and synchronization tool. ![Dollar][mon]
 - [Rclone](http://rclone.org/) - Sync files and directories to and from multiple services. ![Open Source][oss]
-- [Resilio](https://www.resilio.com/individuals/) - All Your Data, Across All Your Devices.
-- [Rsync Client](http://bonhardcomputing.com/rsync-client/) - A simple GUI for managing your remote files.
-- [Rsync Server](http://bonhardcomputing.com/rsync-server/) - Enable the Rsync service on your Mac.
-- [Syncthing](https://syncthing.net/) - Replaces proprietary sync and cloud services.
+- [Rsync Client](http://bonhardcomputing.com/rsync-client/) - A simple GUI for managing your remote files. ![Dollar][mon]
+- [Rsync Server](http://bonhardcomputing.com/rsync-server/) - Enable the Rsync service on your Mac. ![Dollar][mon]
+- [Syncthing](https://syncthing.net/) - Replaces proprietary sync and cloud services. ![Open Source][oss]
 
 ## Cleanup
 *Tools to uninstall software and keep your system clean*
 
-- [Disk Doctor](https://fiplab.com/apps/disk-doctor-for-mac) - Removes tons of unneeded files.
-- [Dr. Cleaner](http://appletuner.trendmicro.com/drcleaner/?ct=appletunercom&mt=12&at=1000l6jv) - System, Memory, & Disk optimization.
-- [Duplicate Detective](https://fiplab.com/apps/duplicate-detective-for-mac) - Remove duplicate files from your Mac.
+- [Disk Doctor](https://fiplab.com/apps/disk-doctor-for-mac) - Removes tons of unneeded files. ![Dollar][mon]
+- [Duplicate Detective](https://fiplab.com/apps/duplicate-detective-for-mac) - Remove duplicate files from your Mac. ![Dollar][mon]
 - [Monolingual](http://ingmarstein.github.io/Monolingual/) - Frees up disk space by removing unused languages files. ![Open Source][oss]
-- [TrashMe](http://www.jibapps.com/en/products/trashme/) - Uninstaller for the Mac with other great useful tools.
+- [TrashMe](http://www.jibapps.com/en/products/trashme/) - Uninstaller for the Mac with other great useful tools. ![Dollar][mon]
 
 ## Communication
 *Communication tools.*
 
-- [Chime](https://chime.aws/) - Amazon Chime communications service.
-- [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers.
-- [Gitter](https://gitter.im/) - A chat and networking platform.
+- [Chime](https://chime.aws/) - Amazon Chime communications service. ![Dollar][mon]
+- [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers. ![Open Source][oss]
+- [Gitter](https://gitter.im/) - A chat and networking platform. ![Open Source][oss]
 - [HexChat](https://hexchat.github.io/) - IRC client based on XChat. ![Open Source][oss]
-- [Irssi](https://irssi.org/) - Your text mode chatting application since 1999.
-- [KVIrc](http://kvirc.net/) - QT IRC Client.
-- [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for MacOS.
-- [Messenger for Desktop 2](https://www.messengerfordesktop.org/) - A simple & beautiful app for Facebook Messenger.
-- [Signal](https://www.signal.org/) - Fast, simple, secure.
-- [Slack](https://slack.com/) - Team-based collaboration tool.
-- [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app.
-- [Textual](https://github.com/Codeux-Software/Textual) - Lightweight IRC client. ![Open Source][oss]
-- [Reeder](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, and more.
-- [Smuxi](https://smuxi.im/) - GTK+ multi-service client.
-- [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
-- [Wire](https://wire.com/en/) - Secure communication. Full privacy.
-- [Workplace by Facebook](https://www.facebook.com/workplace) - Change the way you work.
+- [Irssi](https://irssi.org/) - Your text mode chatting application since 1999. ![Open Source][oss]
+- [KVIrc](http://kvirc.net/) - QT IRC Client. ![Open Source][oss]
+- [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for MacOS. ![Open Source][oss]
+- [Signal](https://www.signal.org/) - Fast, simple, secure. ![Open Source][oss]
+- [Slack](https://slack.com/) - Team-based collaboration tool. Free.
+- [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app. ![Open Source][oss]
+- [Textual](https://github.com/Codeux-Software/Textual) - Lightweight IRC client. ![Open Source][oss] ![Dollar][mon]
+- [Reeder](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, and more. ![Dollar][mon]
+- [Smuxi](https://smuxi.im/) - GTK+ multi-service client. ![Open Source][oss]
+- [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups. Free.
+- [Wire](https://wire.com/en/) - Secure communication. Full privacy. ![Open Source][oss]
+- [Workplace by Facebook](https://www.facebook.com/workplace) - Change the way you work. Free.
 
 ## Compression
 *Tools for the compression and decompression of user files.*
 
-- [Dr. Unarchiver](http://appletuner.trendmicro.com/dr-unarchiver/?ct=appletunercom&mt=12&at=1000l6jv) - File Archive Utility for Mac.
-- [Keka](https://www.keka.io/en/) - MacOS file archiver. Store more, share with privacy.
-- [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for MacOS' default compression app.
+- [Keka](https://www.keka.io/en/) - MacOS file archiver. Store more, share with privacy. ![Open Source][oss]
+- [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for MacOS' default compression app. Free.
 - [p7zip](http://p7zip.sourceforge.net/) - Open Source port of 7-Zip for POSIX systems. ![Open Source][oss]
 
 ## Databases
@@ -166,7 +163,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 *Encryption Tools. Use these!*
 
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files.
-- [GPG Tools](https://gpgtools.org/) - GPG Suite for MacOS.
+- [GPG Tools](https://gpgtools.org/) - GPG Suite for MacOS. ![Open Source][oss]
 - [Keybase](https://keybase.io/) - Keybase is a directory of public keys and the proofs of who owns them.
 - [Keybase Chat](https://keybase.io/download) - Crypto chat for everyone.
 
@@ -375,7 +372,6 @@ at your fingertips.
 *System Tools.*
 
 - [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac.
-- [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager for macOS.
 - [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS.
 - [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases.
 - [BetterTouchTool](https://folivora.ai/) -  Customize input devices on your Mac.
@@ -398,7 +394,6 @@ at your fingertips.
 - [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services.
 - [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
 - [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly.
-- [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS.
 - [Marta](https://marta.yanex.org/) - File Manager for macOS.
 - [MKS](https://github.com/x0054/MKS) - Mechanical Keyboard Simulator.
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows.
@@ -425,7 +420,7 @@ at your fingertips.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - One of the best GTD/Task managers money can buy. ![Dollar][mon]
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - A minimal, focused outlining experience for Mac. ![Dollar][mon]
 - [Tracktiq](http://www.tracktiq.com/) - Easy time tracking.
-- [Trello](http://labs.pierreorsander.com/trelloapp/) - A simple Trello client.
+- [Trello](http://labs.pierreorsander.com/trelloapp/) - A simple Trello client. Free
 
 ## Terminal
 *Awesome command-line tools*
@@ -449,14 +444,21 @@ at your fingertips.
 ## Web Browsers
 *The best web brwosers for OS X.*
 
-- [Cliqz](https://cliqz.com/en/) - The no-compromise browser.
+- [Cliqz](https://cliqz.com/en/) - The no-compromise browser. Free
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox. ![Open Source][oss]
-- [Google Chrome](https://encrypted.google.com/chrome) - Google Chrome is a freeware web browser developed by Google.
-- [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser.
-- [Vivaldi](https://vivaldi.com/) - A Browser for Our Friends.
-- [Waterfox](https://www.waterfox.net/) - Browse the web YOUR way.
+- [Google Chrome](https://encrypted.google.com/chrome) - Google Chrome is a freeware web browser developed by Google. Free
+- [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser. Free
+- [Vivaldi](https://vivaldi.com/) - A Browser for Our Friends. Free
+- [Waterfox](https://www.waterfox.net/) - Browse the web YOUR way. Free
+
+## Windows Managers
+
+- [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager for macOS. ![Open Source][oss]
+- [BetterSnapTool](https://folivora.ai/bettersnaptool/) - Sasily manage your window positions. ![Dollar][mon]
+- [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS. ![Dollar][mon]
 
 ## Writing
+
 - [BookletCreator](https://www.bookletcreator.com/) - Create a booklet from a PDF document.
 - [Byword](http://www.bywordapp.com/) - Excellent markdown editor. ![Dollar][mon]
 - [iAWriter](https://ia.net/writer/) - Designed to provide the best digital writing experience. ![Dollar][mon]
