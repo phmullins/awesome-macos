@@ -436,6 +436,7 @@ at your fingertips.
 
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century. Free.
 - [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that doesn't suck. ![Dollar][mon]
+- [LightPaper](https://getlightpaper.com/) - Simple, beautiful yet powerful text editor for your Mac. ![Dollar][mon]
 - [Lime](http://limetext.org/) - Open Source, Elegant, and Free Text Editor. ![Open Source][oss]
 - [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking app that doesn't suck. ![Open Source][oss]
 - [Noto](https://www.brunophilipe.com/software/noto/) - The plain text editor for macOS. ![Open Source][oss]
