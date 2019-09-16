@@ -1,6 +1,8 @@
 ## Awesome MacOS
 
-A curated list of fantastically awesome GUI-based software for Apple's MacOS operating system. This list was inspired by [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin).
+A curated list of fantastically awesome software for Apple's macOS operating system. This list was inspired by 
+[Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). Legend: Open Source apps = ![Open Source][oss]. Paid 
+apps = ![Dollar][mon]. If an app dosen't have either icon then it should be considered free. 
 
 - [Academics](#academics)
 - [Anti-Malware](#anti-malware)
@@ -25,6 +27,7 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 - [Miscellaneous](#miscellaneous)
 - [Network](#network)
 - [Office Suites](#office-suites)
+- [Package Management](#package-management)
 - [Password Management](#password-management)
 - [Programming](#programming)
 - [Remote Administration](#remote-administration)
@@ -138,51 +141,51 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 ## Databases
 *Databases and database utilities*
 
-- [DBeaver](http://dbeaver.jkiss.org/) - Free Universal SQL Client.
-- [DB Browser for SQLite](http://sqlitebrowser.org/) - SQLite Database Browser.
-- [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management.
-- [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager.
-- [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases.
+- [DBeaver](http://dbeaver.jkiss.org/) - Free Universal SQL Client. ![Open Source][oss]
+- [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite Database Browser. ![Open Source][oss]
+- [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management. ![Open Source][oss]
+- [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. ![Open Source][oss]
+- [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases. ![Open Source][oss]
 - [Postbird](https://github.com/paxa/postbird) - Open source PostgreSQL GUI client for macOs. ![Open Source][oss]
-- [Postgres.app](http://postgresapp.com/) - PostgreSQL for MacOS.
+- [Postgres.app](http://postgresapp.com/) - PostgreSQL for MacOS. ![Open Source][oss]
 - [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac.
-- [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS.
-- [SQLiteStudio](https://sqlitestudio.pl/) - Database manager.
-- [Robomongo](https://robomongo.org/) - Cross-platform MongoDB client.
-- [TablePlus](https://tableplus.io/) - Awesome PostgreSQL database client.
+- [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS. ![Open Source][oss]
+- [Robomongo](https://robomongo.org/) - Cross-platform MongoDB client. Free.
+- [TablePlus](https://tableplus.io/) - Awesome PostgreSQL database client. ![Dollar][mon]
 
 ## Design
-- [Origami Studio](https://origami.design/) - Explore, iterate, and test your ideas.
+- [Origami Studio](https://origami.design/) - Explore, iterate, and test your ideas. Free.
 
 ## DevOps
-- [Captain](https://getcaptain.co) - Manage Docker containers.
+- [Captain](https://getcaptain.co) - Manage Docker containers. Free.
 - [Container PS](https://github.com/Toinane/container-ps) - Menu Bar app for Docker. ![Open Source][oss]
-- [Docker](https://www.docker.com/) - The world’s leading software containerization platform.
+- [Docker Desktop](https://www.docker.com/products/docker-desktop) - The world’s leading software containerization platform. Free.
 
 ## Encryption
 *Encryption Tools. Use these!*
 
-- [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files.
-- [GPG Tools](https://gpgtools.org/) - GPG Suite for MacOS. ![Open Source][oss]
-- [Keybase](https://keybase.io/) - Keybase is a directory of public keys and the proofs of who owns them.
-- [Keybase Chat](https://keybase.io/download) - Crypto chat for everyone.
+- [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. ![Open Source][oss]
+- [GPG Tools](https://gpgtools.org/) - GPG Suite for macOS. ![Open Source][oss]
+- [Keybase](https://keybase.io/) - Keybase is a directory of public keys and the proofs of who owns them. ![Open Source][oss]
+- [Keybase Chat](https://keybase.io/download) - Crypto chat for everyone. ![Open Source][oss]
 
 ## Email
 *Email clients and utilities*
 
-- [Canary](https://canarymail.io/) - Secure Email App for Mac and iPhone.
-- [Polymail](https://polymail.io/) - Simple, beautiful, powerful e-mail.
-- [Postbox](https://www.postbox-inc.com/) - Powerful and flexible email client.
-- [Spark](https://sparkmailapp.com/) - Email client for Apple devices.
+- [Canary](https://canarymail.io/) - Secure Email App for Mac and iPhone. ![Dollar][mon]
+- [Polymail](https://polymail.io/) - Simple, beautiful, powerful e-mail. ![Dollar][mon]
+- [Postbox](https://www.postbox-inc.com/) - Powerful and flexible email client. ![Dollar][mon]
+- [Spark](https://sparkmailapp.com/) - Email client for Apple devices. Free.
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Cross-platform e-mail and news (NNTP) client. ![Open Source][oss]
 
 ## Electronic Books
 *Electronic Book readers and other book utilities*
 
-- [Calibre](http://calibre-ebook.com/) - Complete e-book library management system.
-- [Delicious Library 3](https://www.delicious-monster.com/) - Book Manager.
-- [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) - Read Kindle books on your Mac.
-- [Kitabu](https://www.kitabu.me/) - Kitabu is your EPUB reading application and cloud library.
+- [Bookpedia](https://www.bruji.com/bookpedia/) - What's on your shelves? ![Dollar][mon]
+- [Calibre](http://calibre-ebook.com/) - Complete e-book library management system. ![Open Source][oss]
+- [Delicious Library 3](https://www.delicious-monster.com/) - Book Manager. ![Dollar][mon]
+- [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) - Read Kindle books on your Mac. Free.
+- [Kitabu](https://www.kitabu.me/) - Kitabu is your EPUB reading application and cloud library. Free.
 
 ## File Synchronization
 *Tools for syncing files to and from the cloud*
@@ -195,45 +198,40 @@ A curated list of fantastically awesome GUI-based software for Apple's MacOS ope
 
 ## File Management
 
-- [File Browser](https://filebrowser.github.io/) - A stylish file manager.
-- [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual pane file manager.
-- [Hazel](https://www.noodlesoft.com/) - Automated Organization for Your Mac.
-- [HoudahSpot 4](https://www.houdah.com/houdahSpot/) - Powerful File Search for Mac.
-- [Marta](https://marta.yanex.org/) - File Manager for macOS.
-- [NameChanger](https://mrrsoftware.com/namechanger/) - Rename a list of files quickly and easily.
-- [Tembo](https://www.houdah.com/tembo/) - Friendly File Search Assistant.
-- [Trickster](https://www.apparentsoft.com/trickster) - Your recently used files,
-at your fingertips.
+- [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual pane file manager. ![Dollar][mon]
+- [Hazel](https://www.noodlesoft.com/) - Automated Organization for Your Mac. ![Dollar][mon]
+- [HoudahSpot 4](https://www.houdah.com/houdahSpot/) - Powerful File Search for Mac. ![Dollar][mon]
+- [Marta](https://marta.yanex.org/) - File Manager for macOS. Free.
+- [NameChanger](https://mrrsoftware.com/namechanger/) - Rename a list of files quickly and easily. Free.
+- [Tembo](https://www.houdah.com/tembo/) - Friendly File Search Assistant. ![Dollar][mon]
+- [Trickster](https://www.apparentsoft.com/trickster) - Your recently used files, at your fingertips. ![Dollar][mon]
 
 ## Games
 - [gzdoom](https://zdoom.org/index) - A Doom source port for the modern era. ![Open Source][oss]
-- [openemu](https://openemu.org/) - Video game emulation.
+- [openemu](https://openemu.org/) - Video game emulation. ![Open Source][oss]
 
 ## Graphics
 *Tools to manipulate images.*
 
-- [Adapter](https://macroplant.com/adapter) - Adapter Converts Video, Audio and Images.
-- [Couleurs](http://couleursapp.com/) - A simple but powerful color grabber.
+- [Adapter](https://macroplant.com/adapter) - Adapter Converts Video, Audio and Images. Free.
+- [Couleurs](http://couleursapp.com/) - A simple but powerful color grabber. Free.
 - [Color Picker Plus](https://github.com/viktorstrate/color-picker-plus) - An Improved Color Picker for macOS. ![Open Source][oss]
-- [Gifox](https://gifox.io/) - Delightful GIF Recording and Sharing App.
-- [Icon Bot](http://dev-lux.com/iconbot/) - Hassle free icon converter.
-- [Icon Jar](https://geticonjar.com) - Store all your icons in one place.
-- [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata.
-- [Kap](https://getkap.co/) - Capture your screen.
-- [Krita](https://krita.org/en/) - A professional FREE and open source painting program.
-- [Photos Exif](http://www.exifedit.com/) - Edit EXIF & IPTC metadata.
-- [Pixave](http://www.pixaveapp.com/) - The ultimate image organizer.
-- [Pixelmator](http://www.pixelmator.com) - Full-featured image editor for Mac.
-- [Polarr Photo Editor](https://www.polarr.co/download) - Photo Editor.
-- [Sip](http://sipapp.io/) - Collect, organize & share your colors.
-- [Spect](http://spect-app.com/) - Fast image browser and organizer.
+- [ColorSlurp](http://colorslurp.com/) - The best Mac color picker in the universe! Free.
+- [Gifox](https://gifox.io/) - Delightful GIF Recording and Sharing App. Free.
+- [Icon Jar](https://geticonjar.com) - Store all your icons in one place. ![Dollar][mon]
+- [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. ![Open Source][oss]
+- [Kap](https://getkap.co/) - Capture your screen. ![Open Source][oss]
+- [Krita](https://krita.org/en/) - A professional FREE and open source painting program. ![Open Source][oss]
+- [Pixelmator](http://www.pixelmator.com) - Full-featured image editor for Mac. ![Dollar][mon]
+- [Sip](http://sipapp.io/) - Collect, organize & share your colors. ![Dollar][mon]
+- [Spect](http://spect-app.com/) - Fast image browser and organizer. ![Dollar][mon]
 
 ## Journaling
 *Journaling.*
 
-- [Day One](http://dayoneapp.com/) - A journal, diary, text-logging application.
+- [Day One](http://dayoneapp.com/) - A journal, diary, text-logging application. ![Dollar][mon]
 - [jrnl](http://jrnl.sh/) - Command-line journaling application. ![Open Source][oss]
-- [MacJournal 7](http://danschimpf.com/) - macOS journaling application.
+- [MacJournal 7](http://danschimpf.com/) - macOS journaling application. Free.
 
 ## Knowledge Management
 *Data and Knowledge Management*
@@ -242,20 +240,18 @@ at your fingertips.
 - [DEVONsphere Express](https://www.devontechnologies.com/products/devonsphere/devonsphere-express.html) ![Dollar][mon]
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS. ![Open Source][oss]
 - [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized. ![Open Source][oss]
-- [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
+- [OneNote](http://www.onenote.com/) - Note manager from Microsoft. Free.
 
 
 ## Miscellaneous
 
-- [Bookpedia](https://www.bruji.com/bookpedia/) - What's on your shelves?
-- [calibre](https://calibre-ebook.com/) - Powerful and easy to use e-book manager.
 - [Micro.blog](https://s3.amazonaws.com/micro.blog/mac/Micro.blog_1.9.zip) - The official macOS version of Micro.blog.
-- [NetNewsWire](https://ranchero.com/netnewswire/) - More news, less junk. Faster.
+- [NetNewsWire](https://ranchero.com/netnewswire/) - More news, less junk. Faster. Free.
 - [FS-UAE](https://fs-uae.net/) - Amiga Emulator. ![Open Source][oss]
 - [Reeder 3](https://www.reederapp.com/mac/) - The best news reader for macOS. ![Dollar][mon]
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![Open Source][oss]
-- [Time Sink](https://manytricks.com/timesink/) - Track how you're spend your time.
-- [sugarmate](https://sugarmate.io/) - A new way to manage your diabetes.
+- [Time Sink](https://manytricks.com/timesink/) - Track how you're spend your time. ![Dollar][mon]
+- [sugarmate](https://sugarmate.io/) - A new way to manage your diabetes. Free. 
 
 ## Network
 *Networking tools*
@@ -282,6 +278,14 @@ at your fingertips.
 - [FreeOffice](https://www.freeoffice.com/en/) - Best Microsoft Office alternative overall. Free
 - [LibreOffice](http://www.libreoffice.org/download/libreoffice-fresh/) - A powerful, free office suite. ![Open Source][oss]
 - [Office 365 for Mac](https://products.office.com/en-US/mac/microsoft-office-for-mac) - The latest version of Office from the folks in Redmond. ![Dollar][mon]
+
+## Package Management
+
+- [Cakebrew](https://www.cakebrew.com/) - The Mac App for Homebrew. ![Open Source][oss]
+- [Fink](http://www.finkproject.org/) - Debian package management for macOS. ![Open Source][oss]
+- [Homebrew](http://brew.sh/) - The missing package manager for macOS. ![Open Source][oss]
+- [MacPorts](https://www.macports.org/) - A package management system for macOS. ![Open Source][oss]
+- [pkgsrc](https://www.pkgsrc.org/) - Package management system for Unix-like operating systems. ![Open Source][oss]
 
 ## Password Management
 *Secure your online accounts and passwords with a password manager.*
@@ -341,9 +345,8 @@ at your fingertips.
 ## Social Media
 *Misc Social media applications*
 
-- [Flume](https://flumeapp.com/) - A beautiful Instagram experience for your desktop.
+- [Flume](https://flumeapp.com/) - A beautiful Instagram experience for your desktop. ![Dollar][mon]
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram desktop app. ![Open Source][oss]
-- [Reeddit for Mac](http://mac.reedditapp.com/) - Minimal, elastic Reddit client for MacOS.
 - [whalebird](https://whalebird.org/en/desktop/contents) - A Mastodon and Pleroma client. ![Open Source][oss]
 - [Mastonaut](https://mastonaut.app/) - Simple, elegant, and native Mastodon client for Mac. ![Dollar][mon]
 
@@ -354,12 +357,12 @@ at your fingertips.
 - [Fuel](https://fuel-scm.org/fossil/index) -  Front-end for the Fossil SCM. ![Open Source][oss]
 - [Git Bar](https://github.com/Shikkic/gitbar) - Github contribution stats on your MacOS Menu Bar.
 - [Gitea](https://gitea.io/en-US/) - A painless self-hosted Git service. ![Open Source][oss]
-- [GitHub Desktop](https://desktop.github.com/) - The official GitHub client for MacOS.
-- [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client.
-- [Gitscout](https://gitscout.com/) - A beautiful GitHub Issues experience for MacOS.
-- [SourceTree](https://www.sourcetreeapp.com/) - Easy way to work with Git and Mercurial.
-- [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. 
-- [Thermal](https://thermal.codecarrot.net/) - All-in-one place to manage your Git repository. 
+- [GitHub Desktop](https://desktop.github.com/) - The official GitHub client for MacOS. Free.
+- [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client. Free.
+- [Gitscout](https://gitscout.com/) - A beautiful GitHub Issues experience for MacOS. Free.
+- [SourceTree](https://www.sourcetreeapp.com/) - Easy way to work with Git and Mercurial. Free.
+- [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. ![Open Source][oss]
+- [Thermal](https://thermal.codecarrot.net/) - All-in-one place to manage your Git repository. ![Open Source][oss]
 - [Tower](http://www.git-tower.com/) - Advanced Git version control. ![Dollar][mon]
 
 ## System Maintenance
@@ -367,18 +370,17 @@ at your fingertips.
 
 - [Avast Cleanup Pro for Mac](https://www.avast.com/cleanup-mac) - Every Mac needs a clean up. Every day. ![Dollar][mon]
 - [AVG TuneUp](https://www.avg.com/en-us/avg-tuneup-for-mac) - Speed up, clean up and fix your Mac. ![Dollar][mon]
-- [Onyx](https://www.titanium-software.fr/en/onyx.html) - Maintain your Mac for free.
+- [Onyx](https://www.titanium-software.fr/en/onyx.html) - Maintain your Mac for free. Free.
 
 ## System Tools
 *System Tools.*
 
-- [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac.
+- [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac. Free & ![Dollar][mon]
 - [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS.
-- [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases.
+- [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases. ![Dollar][mon]
 - [BetterTouchTool](https://folivora.ai/) -  Customize input devices on your Mac.
 - [BitBar](https://www.getbidbar.com/) - Run terminal commands from the menu bar.
 - [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode.
-- [Cakebrew](https://www.cakebrew.com/) - The Mac App for Homebrew. (OSS)
 - [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks.
 - [Core Shell](https://coreshell.app/) - A terminal to make your SSH life easy.
 - [Dat](https://datproject.org/) - Distributed data sharing tool.
@@ -397,7 +399,6 @@ at your fingertips.
 - [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly.
 - [Marta](https://marta.yanex.org/) - File Manager for macOS.
 - [MKS](https://github.com/x0054/MKS) - Mechanical Keyboard Simulator.
-- [Moom](https://manytricks.com/moom/) - Move and zoom windows.
 - [Muzzle](https://muzzleapp.com/) - Disable notifications while screen sharing.
 - [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift.
 - [OpeninTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Open the current directory in Terminal.
@@ -415,21 +416,20 @@ at your fingertips.
 ## Task Management
 *Task managers to help get things done.*
 
-- [Fokus](http://www.fohkuhs.com) - A Beautiful Focus Timer.
-- [JustFocus](http://climstudio.com/justfocus/) - Focus on What's Important.
-- [Kanbanier](http://www.kanbanier.com/en/) - Kanban Boards for macOS.
+- [Fokus](http://www.fohkuhs.com) - A Beautiful Focus Timer. Free.
+- [JustFocus](http://climstudio.com/justfocus/) - Focus on What's Important. Free.
+- [Kanbanier](http://www.kanbanier.com/en/) - Kanban Boards for macOS. Free.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - One of the best GTD/Task managers money can buy. ![Dollar][mon]
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - A minimal, focused outlining experience for Mac. ![Dollar][mon]
-- [Tracktiq](http://www.tracktiq.com/) - Easy time tracking.
+- [Tracktiq](http://www.tracktiq.com/) - Easy time tracking. ![Dollar][mon]
 - [Trello](http://labs.pierreorsander.com/trelloapp/) - A simple Trello client. Free.
 
 ## Terminal
 *Awesome command-line tools*
 
-- [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century.
-- [Homebrew](http://brew.sh/) - The missing package manager for MacOS. ![Open Source][oss]
+- [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century. ![Open Source][oss]
 - [iTerm 2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm. ![Open Source][oss]
-- [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS!
+- [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS! ![Open Source][oss]
 
 ## Text Editors
 *Text Editors.*
@@ -460,6 +460,7 @@ at your fingertips.
 - [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager for macOS. ![Open Source][oss]
 - [BetterSnapTool](https://folivora.ai/bettersnaptool/) - Sasily manage your window positions. ![Dollar][mon]
 - [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS. ![Dollar][mon]
+- [Moom](https://manytricks.com/moom/) - Move and zoom windows.
 
 ## Writing
 
