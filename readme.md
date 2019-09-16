@@ -310,6 +310,7 @@ at your fingertips.
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Open-source Arduino Software (IDE).
 - [CodeRunner 2](https://coderunnerapp.com/) - Easy-to-use programming editor for your Mac.
 - [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets. ![Dollar][mon]
+- [Inkdrop](https://inkdrop.app/) - Organizing your Markdown notes made simple. ![Dollar][mon]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Website link checker for MacOS.
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Diff manager for MacOS. ![Dollar][mon]
 - [Kotlin](http://kotlinlang.org/) - Concise, simple and very easy to read (and write).
