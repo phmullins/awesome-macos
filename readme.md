@@ -421,7 +421,7 @@ at your fingertips.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - One of the best GTD/Task managers money can buy. ![Dollar][mon]
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - A minimal, focused outlining experience for Mac. ![Dollar][mon]
 - [Tracktiq](http://www.tracktiq.com/) - Easy time tracking.
-- [Trello](http://labs.pierreorsander.com/trelloapp/) - A simple Trello client. Free
+- [Trello](http://labs.pierreorsander.com/trelloapp/) - A simple Trello client. Free.
 
 ## Terminal
 *Awesome command-line tools*
@@ -446,12 +446,13 @@ at your fingertips.
 ## Web Browsers
 *The best web brwosers for OS X.*
 
-- [Cliqz](https://cliqz.com/en/) - The no-compromise browser. Free
+- [Brave](https://brave.com/) - On a mission to fix the web. Free.
+- [Cliqz](https://cliqz.com/en/) - The no-compromise browser. Free.
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox. ![Open Source][oss]
 - [Google Chrome](https://encrypted.google.com/chrome) - Google Chrome is a freeware web browser developed by Google. Free
-- [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser. Free
-- [Vivaldi](https://vivaldi.com/) - A Browser for Our Friends. Free
-- [Waterfox](https://www.waterfox.net/) - Browse the web YOUR way. Free
+- [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser. Free.
+- [Vivaldi](https://vivaldi.com/) - A Browser for Our Friends. Free.
+- [Waterfox](https://www.waterfox.net/) - Browse the web YOUR way. Free.
 
 ## Windows Managers
 
