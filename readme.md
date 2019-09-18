@@ -7,9 +7,13 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Academics](#academics)
 - [Anti-Malware](#anti-malware)
 - [Anti-Virus](#anti-virus)
-- [Audio](#audio)
+- [Application Launchers](#application-launchers)
+- [Audio Players](#audio-players)
+- [Audio Utilities](#audio-utilities)
 - [Backups](#backups)
+- [Calendar Applications](#calendar-applications)
 - [Cleanup](#cleanup)
+- [Code Editors](#code-editors)
 - [Communication](#communication)
 - [Compression](#compression)
 - [Databases](#databases)
@@ -22,16 +26,20 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [File Management](#file-management)
 - [Games](#games)
 - [Graphics](#graphics)
+- [IRC Clients](#irc-clients)
 - [Journaling](#journaling)
 - [Knowledge Management](#knowledge-management)
+- [Messenger Applications](#messenger-applications)
 - [Miscellaneous](#miscellaneous)
 - [Network](#network)
 - [Office Suites](#office-suites)
 - [Package Management](#package-management)
 - [Password Management](#password-management)
-- [Programming](#programming)
+- [Programming Languages](#programming-languages)
+- [Programming Utilities](#programming-utilities)
 - [Remote Administration](#remote-administration)
 - [Security](#security)
+- [Search Utilities](#search-utilities)
 - [Social Media](#social-media)
 - [Source Control](#source-control)
 - [System Maintenance](#system-maintenance)
@@ -39,6 +47,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Task Management](#task-management)
 - [Terminal](#terminal)
 - [Text Editors](#text-editors)
+- [Text Expanders](#text-expanders)
 - [Web Browsers](#web-browsers)
 - [Windows Managers](#windows-managers)
 - [Writing Apps](#writing)
@@ -66,27 +75,43 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Bitdefender Antivirus](https://www.bitdefender.com/solutions/free.html) - Absolute antivirus protection. Free & ![Dollar][mon]
 - [Webroot AntiVirus](https://www.webroot.com/us/en/home/products/av) - Full-scale antivirus program. ![Dollar][mon]
 
-## Audio
-*Audio players, editors, and converters.*
+## Application Launchers
+
+- [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac. Free & ![Dollar][mon]
+- [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Powerful file/URL/email launcher utility. ![Dollar][mon]
+- [Launchey 2](https://www.getniceapps.com/launchey-2) - Lightweight menu bar app launcher. ![Dollar][mon]
+- [Overflow](https://stuntsoftware.com/overflow/) - The visual launcher for your Mac. ![Dollar][mon]
+- [Slik](https://apps.inspira.io/en/slik/) - Fast app launcher and web app organizer. ![Dollar][mon]
+- [Start](https://start.innovative-bytes.net/) - A superior way to launch applications. ![Dollar][mon]
+- [Quicksilver](https://qsapp.com/) - Application launcher and much more. ![Open Source][oss]
+- [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers. ![Open Source][oss]
+
+## Audio Players
+
+- [BitPerfect](http://bitperfectsound.com/) - The Audiophile Choice. ![Dollar][mon]
+- [Cog](http://cogx.org/) - Audio player similar to Foobar 2000. ![Open Source][oss]
+- [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS.
+- [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files. ![Dollar][mon]
+- [Mous](https://github.com/bsdelf/mous) - Powerful audio player & converter for FreeBSD/Linux/macOS. ![Open Source][oss]
+- [Sonos](https://www.sonos.com) - Wireless Home Sound System.
+- [Swinsian](https://swinsian.com/) - The Advanced Music Player for Mac. ![Dollar][mon]
+- [Tiny Player](http://www.catnapgames.com/tiny-player-for-mac/) - Tiny FLAC/AAC/MP3/WAV Player.
+
+## Audio Utilities
+
+*Audio utilities, editors, and converters.*
 
 - [AirFoil](https://rogueamoeba.com/airfoil/) - Hear Your Audio Everywhere. ![Dollar][mon]
-- [BitPerfect](http://bitperfectsound.com/) - The Audiophile Choice.
-- [Cog](http://cogx.org/) - Audio player similar to Foobar 2000. ![Open Source][oss]
 - [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin. ![Open Source][oss]
 - [eqMac2](https://github.com/nodeful/eqMac2) - System-Wide Equalizer for the Mac. ![Open Source][oss]
 - [Farrago](https://rogueamoeba.com/farrago/) - Robust, rapid-fire soundboards. ![Dollar][mon]
-- [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS.
-- [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files. ![Dollar][mon]
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any audio. ![Dollar][mon]
 - [Fission](https://rogueamoeba.com/fission/) - Fast & lossless audio editing. ![Dollar][mon]
 - [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac. ![Dollar][mon]
 - [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor. ![Dollar][mon]
-- [Mous](https://github.com/bsdelf/mous) - Powerful audio player & converter for FreeBSD/Linux/macOS. ![Open Source][oss]
 - [Piezo](https://rogueamoeba.com/piezo/) - Charmingly simple audio recording. ![Dollar][mon]
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Last.fm scrobbler for the Shazam Mac app. ![Open Source][oss]
-- [sonos](https://www.sonos.com) - Wireless Home Sound System.
 - [Sound Source](https://rogueamoeba.com/soundsource/) - Superior Sound Control. ![Dollar][mon]
-- [Tiny Player](http://www.catnapgames.com/tiny-player-for-mac/) - Tiny FLAC/AAC/MP3/WAV Player.
 - [TunesArt](https://www.jibapps.com/apps/tunesart/) - Display a gorgeous album cover on your desktop. ![Dollar][mon]
 - [X Lossless Decoder](http://tmkk.undo.jp/xld/index_e.html) - Decode/Convert to and from dozens of audio file types.
 
@@ -103,6 +128,14 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Rsync Server](http://bonhardcomputing.com/rsync-server/) - Enable the Rsync service on your Mac. ![Dollar][mon]
 - [Syncthing](https://syncthing.net/) - Replaces proprietary sync and cloud services. ![Open Source][oss]
 
+## Calendar Applications
+
+- [BusyCal](https://www.busymac.com/busycal/index.html) - The most powerful calendar app for macOS. ![Dollar][mon]
+- [Day-O](https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Simple menu bar clock replacement.
+- [Fantastical 2](https://flexibits.com/fantastical) - The calendar app you won't be able to live without. ![Dollar][mon]
+- [Informant](https://www.pocketinformant.com/products/mac-organizer-app/) - The best calendar app for macOS. ![Dollar][mon]
+- [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar. ![Open Source][oss]
+
 ## Cleanup
 *Tools to uninstall software and keep your system clean*
 
@@ -111,24 +144,30 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Monolingual](http://ingmarstein.github.io/Monolingual/) - Frees up disk space by removing unused languages files. ![Open Source][oss]
 - [TrashMe](http://www.jibapps.com/en/products/trashme/) - Uninstaller for the Mac with other great useful tools. ![Dollar][mon]
 
+## Code Editors
+*Code & Text Editors and Programming IDEs*
+
+- [Atom](https://atom.io/) - A hackable text editor for the 21st Century. ![Open Source][oss]
+- [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Open-source Arduino Code Editor. ![Open Source][oss]
+- [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that doesn't suck. ![Dollar][mon]
+- [Brackets](http://brackets.io/) - Open source text editor that understands web design. ![Open Source][oss]
+- [Coda](https://www.panic.com/coda/) - One-window Web development suite. ![Dollar][mon]
+- [CodeRunner 2](https://coderunnerapp.com/) - Easy-to-use programming editor for your Mac. ![Dollar][mon]
+- [Espresso](https://espressoapp.com/) - Powerful HTML, XML, CSS, and JavaScript development tool. ![Dollar][mon] 
+- [SubEthaEdit 5](https://subethaedit.net/) - Code, Write, Edit. Together. ![Open Source][oss]
+- [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. ![Dollar][mon]
+- [Textmate](https://github.com/textmate/textmate) - Powerful and customizable text editor. ![Open Source][oss]
+- [Visual Studio Code](https://code.visualstudio.com/) - Excellent cross-platform text editor from Microsoft. ![Open Source][oss]
+- [Xcode](https://developer.apple.com/xcode/) - Apple's Swift/Objective-C development environment.
+
 ## Communication
 *Communication tools.*
 
 - [Chime](https://chime.aws/) - Amazon Chime communications service. ![Dollar][mon]
 - [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers. ![Open Source][oss]
 - [Gitter](https://gitter.im/) - A chat and networking platform. ![Open Source][oss]
-- [HexChat](https://hexchat.github.io/) - IRC client based on XChat. ![Open Source][oss]
-- [Irssi](https://irssi.org/) - Your text mode chatting application since 1999. ![Open Source][oss]
-- [KVIrc](http://kvirc.net/) - QT IRC Client. ![Open Source][oss]
-- [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for MacOS. ![Open Source][oss]
-- [Signal](https://www.signal.org/) - Fast, simple, secure. ![Open Source][oss]
 - [Slack](https://slack.com/) - Team-based collaboration tool.
-- [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app. ![Open Source][oss]
-- [Textual](https://github.com/Codeux-Software/Textual) - Lightweight IRC client. ![Open Source][oss] ![Dollar][mon]
-- [Reeder](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler, FeedHQ, and more. ![Dollar][mon]
-- [Smuxi](https://smuxi.im/) - GTK+ multi-service client. ![Open Source][oss]
 - [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
-- [Wire](https://wire.com/en/) - Secure communication. Full privacy. ![Open Source][oss]
 - [Workplace by Facebook](https://www.facebook.com/workplace) - Change the way you work.
 
 ## Compression
@@ -204,14 +243,13 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual pane file manager. ![Dollar][mon]
 - [Hazel](https://www.noodlesoft.com/) - Automated Organization for Your Mac. ![Dollar][mon]
-- [HoudahSpot 4](https://www.houdah.com/houdahSpot/) - Powerful File Search for Mac. ![Dollar][mon]
 - [Marta](https://marta.yanex.org/) - File Manager for macOS.
 - [NameChanger](https://mrrsoftware.com/namechanger/) - Rename a list of files quickly and easily.
-- [Tembo](https://www.houdah.com/tembo/) - Friendly File Search Assistant. ![Dollar][mon]
 - [Trickster](https://www.apparentsoft.com/trickster) - Your recently used files, at your fingertips. ![Dollar][mon]
 - [fman](https://fman.io/) - Dual-pane file manager for Mac. ![Dollar][mon]
 
 ## Games
+
 - [gzdoom](https://zdoom.org/index) - A Doom source port for the modern era. ![Open Source][oss]
 - [openemu](https://openemu.org/) - Video game emulation. ![Open Source][oss]
 
@@ -231,6 +269,15 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Sip](http://sipapp.io/) - Collect, organize & share your colors. ![Dollar][mon]
 - [Spect](http://spect-app.com/) - Fast image browser and organizer. ![Dollar][mon]
 
+## IRC Clients
+
+- [HexChat](https://hexchat.github.io/) - IRC client based on XChat. ![Open Source][oss]
+- [Irssi](https://irssi.org/) - Your text mode chatting application since 1999. ![Open Source][oss]
+- [KVIrc](http://kvirc.net/) - QT IRC Client. ![Open Source][oss]
+- [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for MacOS. ![Open Source][oss]
+- [Textual](https://github.com/Codeux-Software/Textual) - Lightweight IRC client. ![Open Source][oss] ![Dollar][mon]
+- [Smuxi](https://smuxi.im/) - GTK+ multi-service ITC client. ![Open Source][oss]
+
 ## Journaling
 *Journaling.*
 
@@ -247,6 +294,11 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized. ![Open Source][oss]
 - [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
 
+## Messenger Applications
+
+- [Signal](https://www.signal.org/) - Fast, simple, secure. ![Open Source][oss]
+- [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app. ![Open Source][oss]
+- [Wire](https://wire.com/en/) - Secure communication. Full privacy. ![Open Source][oss]
 
 ## Miscellaneous
 
@@ -311,29 +363,44 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [RememBear](https://www.remembear.com/) - Secure and remember all your passwords...with a Bear. ![Dollar][mon]
 - [Strongbox](https://strongboxsafe.com/) - Freemium Open Source Password Manager. ![Open Source][oss]
 
-## Programming
+## Programming Languages
+
+- [Elixir](https://elixir-lang.org/) - A dynamic, functional language. ![Open Source][oss]
+- [Kotlin](http://kotlinlang.org/) - Concise, simple and very easy to read (and write). ![Open Source][oss]
+- [newLISP](http://www.newlisp.org/) - Lisp-like, general-purpose scripting language. ![Open Source][oss]
+- [Python](https://www.python.org/) - Work quickly and integrate systems more effectively. ![Open Source][oss]
+- [Ruby](https://www.ruby-lang.org/en/) - A dynamic, open source programming language. ![Open Source][oss]
+- [Rust](https://www.rust-lang.org/) - A language empowering everyone. ![Open Source][oss]
+- [Swift](https://swift.org/) - A general-purpose programming language.
+
+## Programming Utilities
 *Various tools to aid in programming.*
 
 - [Anvil](https://anvilformac.com/) - Menubar app for managing local websites.
-- [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Open-source Arduino Software (IDE).
-- [CodeRunner 2](https://coderunnerapp.com/) - Easy-to-use programming editor for your Mac. ![Dollar][mon]
-- [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets. ![Dollar][mon]
 - [Inkdrop](https://inkdrop.app/) - Organizing your Markdown notes made simple. ![Dollar][mon]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Website link checker for MacOS.
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Diff manager for MacOS. ![Dollar][mon]
-- [Kotlin](http://kotlinlang.org/) - Concise, simple and very easy to read (and write).
 - [Matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go. ![Open Source][oss]
 - [Paw](https://paw.cloud/) - The most advanced API tool for Mac. ![Dollar][mon]
 - [Platypus](http://sveinbjorn.org/platypus) - Create MacOS applications from Bash scripts.
+- [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets. ![Dollar][mon]
 - [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook. ![Dollar][mon]
 - [SnippetsLab](http://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager. ![Dollar][mon]
-- [Xcode](https://developer.apple.com/xcode/) - Apple's Swift/Objective-C development environment.
 
 ## Remote Administration
 *Tools to help with remote administration*
 
 - [AnyDesk](https://anydesk.com/remote-desktop) - Your desk @ any desk. Free & ![Dollar][mon]
 - [Jump Desktop](http://jumpdesktop.com/) - Secure RDP & VNC client. ![Dollar][mon]
+- [NoMachine](https://www.nomachine.com/) - Remote desktop connections.
+- [Remotix](https://nulana.com/remotix-mac/) - Access all your computers from anywhere. ![Dollar][mon]
+- [Screens](https://edovia.com/en/screens-mac/) - Control any computer from your Mac. ![Dollar][mon]
+
+## Search Utilities
+
+- [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
+- [HoudahSpot 4](https://www.houdah.com/houdahSpot/) - Powerful File Search for Mac. ![Dollar][mon]
+- [Tembo](https://www.houdah.com/tembo/) - Friendly File Search Assistant. ![Dollar][mon]
 
 ## Security
 
@@ -348,7 +415,9 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Flume](https://flumeapp.com/) - A beautiful Instagram experience for your desktop. ![Dollar][mon]
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram desktop app. ![Open Source][oss]
-- [whalebird](https://whalebird.org/en/desktop/contents) - A Mastodon and Pleroma client. ![Open Source][oss]
+- [Tweetbot](https://tapbots.com/tweetbot/mac/) - Popular Twitter client. ![Dollar][mon]
+- [Twitterrific 5](https://twitterrific.com/mac) - Effortlessly read and compose tweets. ![Dollar][mon]
+- [Whalebird](https://whalebird.org/en/desktop/contents) - A Mastodon and Pleroma client. ![Open Source][oss]
 - [Mastonaut](https://mastonaut.app/) - Simple, elegant, and native Mastodon client for Mac. ![Dollar][mon]
 
 ## Source Control
@@ -376,24 +445,17 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## System Tools
 *System Tools.*
 
-- [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac. Free & ![Dollar][mon]
 - [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS. ![Open Source][oss]
-- [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases. ![Dollar][mon]
 - [BetterTouchTool](https://folivora.ai/) -  Customize input devices on your Mac. ![Dollar][mon]
 - [BitBar](https://www.getbidbar.com/) - Run terminal commands from the menu bar. ![Open Source][oss]
 - [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode. ![Open Source][oss]
 - [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks. ![Open Source][oss]
 - [Core Shell](https://coreshell.app/) - A terminal to make your SSH life easy. Free & ![Dollar][mon]
 - [Dat](https://datproject.org/) - Distributed data sharing tool. ![Open Source][oss]
-- [Day-O](https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Simple menu bar clock replacement.
 - [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS. Free & ![Dollar][mon]
-- [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
 - [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. ![Open Source][oss]
 - [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
 - [Gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for MacOS. ![Open Source][oss]
-- [Hyper](https://hyper.is/) - A JS/HTML/CSS Terminal. ![Open Source][oss]
-- [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar. ![Open Source][oss]
-- [Launchey 2](https://www.getniceapps.com/launchey-2) - Lightweight menu bar app launcher. ![Dollar][mon]
 - [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services. ![Open Source][oss]
 - [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
 - [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly. ![Dollar][mon]
@@ -404,11 +466,9 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Pock](http://pock.pigigaldi.com/) - Display macOS Dock in Touch Bar. ![Open Source][oss]
 - [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac.
 - [Sloth](https://sveinbjorn.org/sloth) - Shows all open files and sockets in use. ![Open Source][oss]
-- [Start](https://start.innovative-bytes.net/) - A superior way to launch applications. ![Dollar][mon]
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/index.html) - Remove unwanted packages from MacOS. ![Dollar][mon]
 - [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
 - [Witch](https://manytricks.com/witch/) - ⌘-Tab Everything. ![Dollar][mon]
-- [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers. ![Open Source][oss]
 
 ## Task Management
 *Task managers to help get things done.*
@@ -425,21 +485,25 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 *Awesome command-line tools*
 
 - [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century. ![Open Source][oss]
+- [Hyper](https://hyper.is/) - A JS/HTML/CSS Terminal. ![Open Source][oss]
 - [iTerm 2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm. ![Open Source][oss]
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS! ![Open Source][oss]
 
 ## Text Editors
 *Text Editors.*
 
-- [Atom](https://atom.io/) - A hackable text editor for the 21st Century. ![Open Source][oss]
-- [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that doesn't suck. ![Dollar][mon]
 - [LightPaper](https://getlightpaper.com/) - Simple, beautiful yet powerful text editor for your Mac. ![Dollar][mon]
 - [Lime](http://limetext.org/) - Open Source, Elegant, and Free Text Editor. ![Open Source][oss]
 - [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking app that doesn't suck. ![Open Source][oss]
 - [Noto](https://www.brunophilipe.com/software/noto/) - The plain text editor for macOS. ![Open Source][oss]
-- [Textmate](https://github.com/textmate/textmate) - Powerful and customizable text editor. ![Open Source][oss]
-- [Visual Studio Code](https://code.visualstudio.com/) - Excellent cross-platform text editor from Microsoft. ![Open Source][oss]
 - [vnote](https://github.com/tamlok/vnote) - A Vim-inspired Markdown note-taking application. ![Open Source][oss]
+
+## Text Expanders
+
+- [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac. Free & ![Dollar][mon]
+- [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases. ![Dollar][mon]
+- [Rocket Typist](https://witt-software.com/rockettypist/) - Expand typed abbreviations. ![Dollar][mon]
+- [TextExpander](https://textexpander.com) - Expand keystrokes into frequently-used text and pictures. ![Dollar][mon]
 
 ## Web Browsers
 *The best web brwosers for OS X.*
@@ -447,10 +511,14 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Brave](https://brave.com/) - On a mission to fix the web.
 - [Cliqz](https://cliqz.com/en/) - The no-compromise browser.
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox. ![Open Source][oss]
+- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/channel/desktop/#developer) - Firefox release channel for experimental (beta) builds. ![Open Source][oss]
 - [Google Chrome](https://encrypted.google.com/chrome) - Google Chrome is a freeware web browser developed by Google.
+- [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/) - Chromium-based version of Microsoft Edge (Beta).
 - [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser.
+- [Safari Technology Preview](https://developer.apple.com/safari/) - The newest browser tech from Apple.
 - [Vivaldi](https://vivaldi.com/) - A Browser for Our Friends.
 - [Waterfox](https://www.waterfox.net/) - Browse the web YOUR way.
+- [WebKit](https://webkit.org/) - A fast, open source web browser engine. ![Open Source][oss]
 
 ## Windows Managers
 
@@ -462,6 +530,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Writing
 
+- [Bear](https://bear.app/) - Writing app for notes and prose. ![Dollar][mon]
 - [BookletCreator](https://www.bookletcreator.com/) - Create a booklet from a PDF document. ![Dollar][mon]
 - [Byword](http://www.bywordapp.com/) - Excellent markdown editor. ![Dollar][mon]
 - [iAWriter](https://ia.net/writer/) - Designed to provide the best digital writing experience. ![Dollar][mon]
