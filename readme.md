@@ -14,6 +14,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Calendar Applications](#calendar-applications)
 - [Cleanup](#cleanup)
 - [Code Editors](#code-editors)
+- [Color Pickers](#color-pickers)
 - [Communication](#communication)
 - [Compression](#compression)
 - [Databases](#databases)
@@ -26,14 +27,17 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [File Management](#file-management)
 - [Games](#games)
 - [Graphics](#graphics)
+- [Image Viewers](#image-viewers)
 - [IRC Clients](#irc-clients)
 - [Journaling](#journaling)
 - [Knowledge Management](#knowledge-management)
+- [Markdown Editors](#markdown-editors)
 - [Messenger Applications](#messenger-applications)
 - [Miscellaneous](#miscellaneous)
 - [Network](#network)
 - [Office Suites](#office-suites)
 - [Package Management](#package-management)
+- [Painting Applications](#painting-applications)
 - [Password Management](#password-management)
 - [Programming Languages](#programming-languages)
 - [Programming Utilities](#programming-utilities)
@@ -160,6 +164,14 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Visual Studio Code](https://code.visualstudio.com/) - Excellent cross-platform text editor from Microsoft. ![Open Source][oss]
 - [Xcode](https://developer.apple.com/xcode/) - Apple's Swift/Objective-C development environment.
 
+## Color Pickers
+*Color Pickers, Sorters, and Organizers*
+
+- [Couleurs](http://couleursapp.com/) - A simple but powerful color grabber.
+- [Color Picker Plus](https://github.com/viktorstrate/color-picker-plus) - An Improved Color Picker for macOS. ![Open Source][oss]
+- [ColorSlurp](http://colorslurp.com/) - The best Mac color picker in the universe!
+- [Sip](http://sipapp.io/) - Collect, organize & share your colors. ![Dollar][mon]
+
 ## Communication
 *Communication tools.*
 
@@ -210,7 +222,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. ![Open Source][oss]
 - [GPG Tools](https://gpgtools.org/) - GPG Suite for macOS. ![Open Source][oss]
 - [Keybase](https://keybase.io/) - Keybase is a directory of public keys and the proofs of who owns them. ![Open Source][oss]
-- [Keybase Chat](https://keybase.io/download) - Crypto chat for everyone. ![Open Source][oss]
 
 ## Email
 *Email clients and utilities*
@@ -257,17 +268,27 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 *Tools to manipulate images.*
 
 - [Adapter](https://macroplant.com/adapter) - Adapter Converts Video, Audio and Images.
-- [Couleurs](http://couleursapp.com/) - A simple but powerful color grabber.
-- [Color Picker Plus](https://github.com/viktorstrate/color-picker-plus) - An Improved Color Picker for macOS. ![Open Source][oss]
-- [ColorSlurp](http://colorslurp.com/) - The best Mac color picker in the universe!
 - [Gifox](https://gifox.io/) - Delightful GIF Recording and Sharing App.
 - [Icon Jar](https://geticonjar.com) - Store all your icons in one place. ![Dollar][mon]
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. ![Open Source][oss]
 - [Kap](https://getkap.co/) - Capture your screen. ![Open Source][oss]
-- [Krita](https://krita.org/en/) - A professional FREE and open source painting program. ![Open Source][oss]
+
+## Image Editors
+*Tools for editing images.*
+
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - The first choice for photography and creative professionals. ![Dollar][mon]
+- [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program. ![Open Source][oss]
 - [Pixelmator](http://www.pixelmator.com) - Full-featured image editor for Mac. ![Dollar][mon]
-- [Sip](http://sipapp.io/) - Collect, organize & share your colors. ![Dollar][mon]
+- [Pixelmator Pro](https://www.pixelmator.com/pro/) - Professional image editor. ![Dollar][mon]
+- [Seashore](https://github.com/robaho/seashore) - Easy to use mac osx image editing application. ![Open Source][oss]
+
+## Image Viewers
+*Image Viewers and Utilities*
+
+- [Eagle](https://eagle.cool/) - Photo viewer, manager, and organizer. ![Dollar][mon]
+- [Pixave](http://www.littlehj.com/mac/) - The ultimate image viewer and organizer. ![Dollar][mon]
 - [Spect](http://spect-app.com/) - Fast image browser and organizer. ![Dollar][mon]
+- [Xee](https://theunarchiver.com/xee) - Super fast image viewer. ![Dollar][mon]
 
 ## IRC Clients
 
@@ -294,10 +315,24 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized. ![Open Source][oss]
 - [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
 
+## Markdown Editors
+
+- [Byword](http://www.bywordapp.com/) - Excellent markdown editor. ![Dollar][mon]
+- [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking app that doesn't suck. ![Open Source][oss]
+- [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS. ![Open Source][oss]
+- [MWeb](http://www.mweb.im/) - Pro Markdown writing and note taking editor. ![Dollar][mon]
+- [Pine](https://lukakerr.github.io/Pine/) - Native markdown editor for macOS. ![Open Source][oss]
+- [Texts](http://www.texts.io/) - Separate Content from Formatting. Store in Markdown.
+- [Typora](https://www.typora.io/) - Live markdown reader and a writer.
+
 ## Messenger Applications
 
+- [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook-Messenger client. ![Open Source][oss]
+- [Keybase Chat](https://keybase.io/download) - Crypto chat for everyone. ![Open Source][oss]    
+- [Monal](https://monal.im/) - Secure XMPP chat client. ![Open Source][oss]
 - [Signal](https://www.signal.org/) - Fast, simple, secure. ![Open Source][oss]
 - [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app. ![Open Source][oss]
+- [Tox](https://tox.chat/) - A New Kind of Instant Messaging. ![Open Source][oss]
 - [Wire](https://wire.com/en/) - Secure communication. Full privacy. ![Open Source][oss]
 
 ## Miscellaneous
@@ -343,6 +378,12 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Homebrew](http://brew.sh/) - The missing package manager for macOS. ![Open Source][oss]
 - [MacPorts](https://www.macports.org/) - A package management system for macOS. ![Open Source][oss]
 - [pkgsrc](https://www.pkgsrc.org/) - Package management system for Unix-like operating systems. ![Open Source][oss]
+
+## Painting Applications
+
+- [Artstudio Pro]() - 
+- [Krita](https://krita.org/en/) - A professional free and open source painting program. ![Open Source][oss]
+- [Rebelle](https://www.escapemotions.com/products/rebelle/) - Paint with natural watercolors and acrylics. ![Dollar][mon]
 
 ## Password Management
 *Secure your online accounts and passwords with a password manager.*
@@ -494,7 +535,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [LightPaper](https://getlightpaper.com/) - Simple, beautiful yet powerful text editor for your Mac. ![Dollar][mon]
 - [Lime](http://limetext.org/) - Open Source, Elegant, and Free Text Editor. ![Open Source][oss]
-- [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking app that doesn't suck. ![Open Source][oss]
 - [Noto](https://www.brunophilipe.com/software/noto/) - The plain text editor for macOS. ![Open Source][oss]
 - [vnote](https://github.com/tamlok/vnote) - A Vim-inspired Markdown note-taking application. ![Open Source][oss]
 
@@ -532,14 +572,8 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Bear](https://bear.app/) - Writing app for notes and prose. ![Dollar][mon]
 - [BookletCreator](https://www.bookletcreator.com/) - Create a booklet from a PDF document. ![Dollar][mon]
-- [Byword](http://www.bywordapp.com/) - Excellent markdown editor. ![Dollar][mon]
 - [iAWriter](https://ia.net/writer/) - Designed to provide the best digital writing experience. ![Dollar][mon]
-- [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS. ![Open Source][oss]
-- [MWeb](http://www.mweb.im/) - Pro Markdown writing and note taking editor. ![Dollar][mon]
-- [Pine](https://lukakerr.github.io/Pine/) - Native markdown editor for macOS. ![Open Source][oss]
 - [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers. ![Dollar][mon]
-- [Texts](http://www.texts.io/) - Separate Content from Formatting. Store in Markdown.
-- [Typora](https://www.typora.io/) - Live markdown reader and a writer.
 - [Ulysses](https://ulyssesapp.com/) - The Ultimate Writing App for Mac, iPad and iPhone. ![Dollar][mon]
 
 ## Video Utilities
