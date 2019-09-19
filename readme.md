@@ -25,6 +25,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Electronic Books](#electronic-books)
 - [File Synchronization](#file-synchronization)
 - [File Management](#file-management)
+- [FTP Clients](#ftp-clients)
 - [Games](#games)
 - [Graphics](#graphics)
 - [Image Viewers](#image-viewers)
@@ -252,12 +253,23 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## File Management
 
-- [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual pane file manager. ![Dollar][mon]
+- [Commander One](https://mac.eltima.com/file-manager.html) - Dual-pane file manager for macOS.
+- [CRAX Commander](https://crax.soft4u2.com/) - Dual-pane and multi-tabbed file manager. ![Dollar][mon]
+- [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual-pane FTP/file manager. ![Dollar][mon]
 - [Hazel](https://www.noodlesoft.com/) - Automated Organization for Your Mac. ![Dollar][mon]
 - [Marta](https://marta.yanex.org/) - File Manager for macOS.
 - [NameChanger](https://mrrsoftware.com/namechanger/) - Rename a list of files quickly and easily.
+- [Path Finder](https://cocoatech.com) - Powerful, award-winning Finder alternative. ![Dollar][mon]
+- [TotalFinder](https://totalfinder.binaryage.com/) - For Mac users who demand more from their Finder. ![Dollar][mon]
 - [Trickster](https://www.apparentsoft.com/trickster) - Your recently used files, at your fingertips. ![Dollar][mon]
 - [fman](https://fman.io/) - Dual-pane file manager for Mac. ![Dollar][mon]
+
+## FTP Clients
+
+- [Cyberduck](https://cyberduck.io/) - A libre server and cloud storage browser for Mac.
+- [FileZilla](https://filezilla-project.org/) - Open source FTP client. ![Open Source][oss]
+- [Transmit](https://www.panic.com/transmit/) - FTP client that supports SFTP, S3, WebDAV, and more. ![Dollar][mon]
+- [Viper FTP](https://viperftp.com/) - Simple, user-friendly yet powerful FTP client for Mac. ![Dollar][mon]
 
 ## Games
 
@@ -352,7 +364,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Core Tunnel](https://coretunnel.app/) - Tunnel management made easy. ![Dollar][mon]
 - [DNSCrypt](https://github.com/alterstep/dnscrypt-osxclient) -  Control the DNSCrypt Proxy. ![Open Source][oss]
 - [Fenix](https://fenixwebserver.com/) - Simple static desktop web server. ![Open Source][oss]
-- [FileZilla](https://filezilla-project.org/) - Open source FTP client. ![Open Source][oss]
 - [Murus](http://www.murusfirewall.com/) - A GUI for the MacOS PF firewall. Free & ![Dollar][mon]
 - [NetSpot](https://www.netspotapp.com/) - Wireless survey tool.
 - [Network Radar](https://witt-software.com/networkradar/) - Scan and monitor your network. ![Dollar][mon]
@@ -360,7 +371,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS. ![Open Source][oss]
 - [SSH Copy](https://codinn.com/products/ssh-copy/) - Manage remote files with ease. ![Dollar][mon]
 - [Surge](http://nssurge.com/) - Advanced Web Debugging Proxy for macOS & iOS. ![Dollar][mon]
-- [Transmit](https://www.panic.com/transmit/) - FTP client that supports SFTP, S3, WebDAV, and more. ![Dollar][mon]
 - [WhatRoute](https://www.whatroute.net/) - Graphical IP tracer.
 
 ## Office Suites
