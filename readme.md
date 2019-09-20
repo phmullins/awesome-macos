@@ -417,6 +417,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Programming Languages
 
 - [Elixir](https://elixir-lang.org/) - A dynamic, functional language. ![Open Source][oss]
+- [go](https://golang.org/) - An open source programming language from Google.
 - [Kotlin](http://kotlinlang.org/) - Concise, simple and very easy to read (and write). ![Open Source][oss]
 - [newLISP](http://www.newlisp.org/) - Lisp-like, general-purpose scripting language. ![Open Source][oss]
 - [Python](https://www.python.org/) - Work quickly and integrate systems more effectively. ![Open Source][oss]
