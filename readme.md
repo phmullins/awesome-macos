@@ -1,4 +1,4 @@
-## Awesome MacOS
+## Awesome MacOS Software
 
 A curated list of fantastically awesome software for Apple's macOS operating system. This list was inspired by 
 [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). Legend: Open Source apps = ![Open Source][oss]. Paid 
