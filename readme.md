@@ -332,6 +332,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Byword](http://www.bywordapp.com/) - Excellent markdown editor. ![Dollar][mon]
 - [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking app that doesn't suck. ![Open Source][oss]
 - [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS. ![Open Source][oss]
+- [Mark Text](https://marktext.app/) - Simple and Elegant cross platform Markdown Editor.
 - [MWeb](http://www.mweb.im/) - Pro Markdown writing and note taking editor. ![Dollar][mon]
 - [Pine](https://lukakerr.github.io/Pine/) - Native markdown editor for macOS. ![Open Source][oss]
 - [Texts](http://www.texts.io/) - Separate Content from Formatting. Store in Markdown.
