@@ -458,6 +458,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Security
 
+- [KnockKnock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac.
 - [Avast SecureLine VPN](https://www.avast.com/secureline-vpn#mac) - Encrypts your Internet connection. ![Dollar][mon]
 - [AVG Secure VPN](https://www.avg.com/en-us/secure-vpn) - Secure your Wi-Fi and browse privately. ![Dollar][mon]
 - [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. ![Dollar][mon]
