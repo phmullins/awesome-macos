@@ -458,6 +458,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Security
 
+- [Do Not Disturb](https://objective-see.com/products/dnd.html) - Detects and alerts you of physical access.
 - [KnockKnock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac.
 - [Avast SecureLine VPN](https://www.avast.com/secureline-vpn#mac) - Encrypts your Internet connection. ![Dollar][mon]
 - [AVG Secure VPN](https://www.avg.com/en-us/secure-vpn) - Secure your Wi-Fi and browse privately. ![Dollar][mon]
@@ -524,6 +525,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/index.html) - Remove unwanted packages from MacOS. ![Dollar][mon]
 - [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
 - [Witch](https://manytricks.com/witch/) - ⌘-Tab Everything. ![Dollar][mon]
+- [Hidden Bar](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss]
 
 ## Task Management
 *Task managers to help get things done.*
