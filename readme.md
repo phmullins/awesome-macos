@@ -276,6 +276,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [DOSBox](https://www.dosbox.com) - DOS emulation for macOS.
 - [gzdoom](https://zdoom.org/index) - A Doom source port for the modern era. ![Open Source][oss]
 - [openemu](https://openemu.org/) - Video game emulation. ![Open Source][oss]
+- [Slade](http://slade.mancubus.net) - A modern editor for Doom.
 
 ## Graphics
 *Tools to manipulate images.*
