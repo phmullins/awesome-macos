@@ -589,6 +589,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Bear](https://bear.app/) - Writing app for notes and prose. ![Dollar][mon]
 - [BookletCreator](https://www.bookletcreator.com/) - Create a booklet from a PDF document. ![Dollar][mon]
 - [iAWriter](https://ia.net/writer/) - Designed to provide the best digital writing experience. ![Dollar][mon]
+- [Nisus Thesaurus](https://www.nisus.com/Thesaurus/) - Free Thesaurus for macOS.
 - [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers. ![Dollar][mon]
 - [Ulysses](https://ulyssesapp.com/) - The Ultimate Writing App for Mac, iPad and iPhone. ![Dollar][mon]
 
