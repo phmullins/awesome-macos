@@ -338,6 +338,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Pine](https://lukakerr.github.io/Pine/) - Native markdown editor for macOS. ![Open Source][oss]
 - [Texts](http://www.texts.io/) - Separate Content from Formatting. Store in Markdown.
 - [Typora](https://www.typora.io/) - Live markdown reader and a writer.
+- [vnote](https://github.com/tamlok/vnote) - A Vim-inspired Markdown note-taking application. ![Open Source][oss]
 
 ## Messenger Applications
 
@@ -549,10 +550,10 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Text Editors
 *Text Editors.*
 
+- [BBEdit](https://www.barebones.com/products/bbedit/) - It dosen't suck. ![Dollar][mon]
 - [LightPaper](https://getlightpaper.com/) - Simple, beautiful yet powerful text editor for your Mac. ![Dollar][mon]
 - [Lime](http://limetext.org/) - Open Source, Elegant, and Free Text Editor. ![Open Source][oss]
 - [Noto](https://www.brunophilipe.com/software/noto/) - The plain text editor for macOS. ![Open Source][oss]
-- [vnote](https://github.com/tamlok/vnote) - A Vim-inspired Markdown note-taking application. ![Open Source][oss]
 
 ## Text Expanders
 
