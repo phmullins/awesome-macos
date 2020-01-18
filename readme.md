@@ -604,6 +604,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Virtualization
 *Virtualization tools.*
 
+- [MultiPass](https://multipass.run/) - A mini-cloud on your Mac or Windows workstation.
 - [Parallels Desktop](http://www.parallels.com) - Run Windows apps without rebooting. ![Dollar][mon]
 - [Veertu](https://veertu.com/) - Native Virtualization For macOS. ![Dollar][mon]
 - [VirtualBox](https://www.virtualbox.org/) - x86 virtualization software. ![Open Source][oss]
