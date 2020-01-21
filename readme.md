@@ -275,6 +275,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [DOSBox](https://www.dosbox.com) - DOS emulation for macOS.
 - [gzdoom](https://zdoom.org/index) - A Doom source port for the modern era. ![Open Source][oss]
 - [openemu](https://openemu.org/) - Video game emulation. ![Open Source][oss]
+- [ReDoomEd](http://twilightedge.com/mac/redoomed/) - Port of “DoomEd”, id Software’s Doom map editor for NeXTSTEP (1993).
 - [Slade](http://slade.mancubus.net) - A modern editor for Doom.
 
 ## Graphics
