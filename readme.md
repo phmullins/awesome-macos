@@ -552,6 +552,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 *Text Editors.*
 
 - [BBEdit](https://www.barebones.com/products/bbedit/) - It dosen't suck. ![Dollar][mon]
+- [Drafts](https://getdrafts.com/) - Where Text Starts. ![Dollar][mon]
 - [LightPaper](https://getlightpaper.com/) - Simple, beautiful yet powerful text editor for your Mac. ![Dollar][mon]
 - [Lime](http://limetext.org/) - Open Source, Elegant, and Free Text Editor. ![Open Source][oss]
 - [Noto](https://www.brunophilipe.com/software/noto/) - The plain text editor for macOS. ![Open Source][oss]
