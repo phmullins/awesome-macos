@@ -384,6 +384,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [FreeOffice](https://www.freeoffice.com/en/) - Best Microsoft Office alternative overall.
 - [LibreOffice](http://www.libreoffice.org/download/libreoffice-fresh/) - A powerful, free office suite. ![Open Source][oss]
 - [Office 365 for Mac](https://products.office.com/en-US/mac/microsoft-office-for-mac) - The latest version of Office from the folks in Redmond. ![Dollar][mon]
+- [Softmaker FreeOffice](https://www.freeoffice.com/en/) - Free alternative to Microsoft Office. ![Open Source][oss]
 
 ## Package Management
 
