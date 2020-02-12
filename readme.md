@@ -461,10 +461,11 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Security
 
-- [Do Not Disturb](https://objective-see.com/products/dnd.html) - Detects and alerts you of physical access.
-- [KnockKnock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac.
 - [Avast SecureLine VPN](https://www.avast.com/secureline-vpn#mac) - Encrypts your Internet connection. ![Dollar][mon]
 - [AVG Secure VPN](https://www.avg.com/en-us/secure-vpn) - Secure your Wi-Fi and browse privately. ![Dollar][mon]
+- [Do Not Disturb](https://objective-see.com/products/dnd.html) - Detects and alerts you of physical access.
+- [Knock Knock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac.
+- [LuLu](https://objective-see.com/products/lulu.html) - Open-source macOS firewall.
 - [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. ![Dollar][mon]
 - [Santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for macOS. ![Open Source][oss]
 - [TunnelBear](https://www.tunnelbear.com/) - A more secure way to browse the web. ![Dollar][mon]
