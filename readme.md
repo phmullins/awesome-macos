@@ -470,6 +470,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [OverSight](https://objective-see.com/products/oversight.html) - Monitors a mac's mic and webcam.
 - [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. ![Dollar][mon]
 - [Santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for macOS. ![Open Source][oss]
+- [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all the tasks (processes) running on your Mac.
 - [TunnelBear](https://www.tunnelbear.com/) - A more secure way to browse the web. ![Dollar][mon]
 
 ## Social Media
