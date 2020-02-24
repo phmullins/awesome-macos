@@ -203,7 +203,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac.
 - [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS. ![Open Source][oss]
 - [Robomongo](https://robomongo.org/) - Cross-platform MongoDB client.
-- [TablePlus](https://tableplus.io/) - Awesome PostgreSQL database client. ![Dollar][mon]
+- [TablePlus](https://tableplus.com/) - Modern GUI for MySQL, PostgreSQL, and SQLite. ![Dollar][mon]
 
 ## Design
 
