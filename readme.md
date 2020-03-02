@@ -591,6 +591,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [BetterSnapTool](https://folivora.ai/bettersnaptool/) - Sasily manage your window positions. ![Dollar][mon]
 - [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS. ![Dollar][mon]
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows.
+- [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS. 
 - [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease.
 
 ## Writing
