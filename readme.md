@@ -114,6 +114,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Fission](https://rogueamoeba.com/fission/) - Fast & lossless audio editing. ![Dollar][mon]
 - [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac. ![Dollar][mon]
 - [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor. ![Dollar][mon]
+- [ocenaudio](https://www.ocenaudio.com/en) - Easy, fast and powerful audio editor
 - [Piezo](https://rogueamoeba.com/piezo/) - Charmingly simple audio recording. ![Dollar][mon]
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Last.fm scrobbler for the Shazam Mac app. ![Open Source][oss]
 - [Sound Source](https://rogueamoeba.com/soundsource/) - Superior Sound Control. ![Dollar][mon]
