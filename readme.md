@@ -93,6 +93,8 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Audio Players
 
+*Music players and streaming applications.*
+
 - [BitPerfect](http://bitperfectsound.com/) - The Audiophile Choice. ![Dollar][mon]
 - [Cog](http://cogx.org/) - Audio player similar to Foobar 2000. ![Open Source][oss]
 - [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS.
@@ -100,6 +102,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Mous](https://github.com/bsdelf/mous) - Powerful audio player & converter for FreeBSD/Linux/macOS. ![Open Source][oss]
 - [Sonos](https://www.sonos.com) - Wireless Home Sound System.
 - [Swinsian](https://swinsian.com/) - The Advanced Music Player for Mac. ![Dollar][mon]
+- [Tidal](https://offer.tidal.com/download) - Music streaming service.
 - [Tiny Player](http://www.catnapgames.com/tiny-player-for-mac/) - Tiny FLAC/AAC/MP3/WAV Player.
 
 ## Audio Utilities
