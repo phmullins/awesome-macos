@@ -5,8 +5,7 @@ A curated list of fantastically awesome software for Apple's macOS operating sys
 apps = ![Dollar][mon]. If an app dosen't have either icon then it should be considered free. 
 
 - [Academics](#academics)
-- [Anti-Malware](#anti-malware)
-- [Anti-Virus](#anti-virus)
+- [Anti-Virus](#anti-virus & anti-malware)
 - [Application Launchers](#application-launchers)
 - [Audio Players](#audio-players)
 - [Audio Utilities](#audio-utilities)
@@ -67,17 +66,13 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Dollar][mon]
 - [Studies](http://www.studiesapp.com/) - Master Your Studies. ![Dollar][mon]
 
-## Anti-Malware
-*Tools and Utilities to keep your Mac free of malware.*
-
-- [Malwarebytes](https://www.malwarebytes.com/mac/) - Adware removal tool. Free & ![Dollar][mon]
-
-## Anti-Virus
+## Anti-Virus & Anti-Malware
 *Keep your Mac clean with the latest anti-virus and anti-malware.*
 
 - [Avast Security for Mac](https://www.avast.com/free-mac-security) - Think different about Mac security. Free & ![Dollar][mon]
 - [AVG AntiVirus for Mac](https://www.avg.com/en-us/avg-antivirus-for-mac) - Simply safer with AVG AntiVirus for Mac. Free & ![Dollar][mon]
 - [Bitdefender Antivirus](https://www.bitdefender.com/solutions/free.html) - Absolute antivirus protection. Free & ![Dollar][mon]
+- [Malwarebytes](https://www.malwarebytes.com/mac/) - Adware removal tool. Free & ![Dollar][mon]
 - [Webroot AntiVirus](https://www.webroot.com/us/en/home/products/av) - Full-scale antivirus program. ![Dollar][mon]
 
 ## Application Launchers
