@@ -35,6 +35,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Messenger Applications](#messenger-applications)
 - [Miscellaneous](#miscellaneous)
 - [Network](#network)
+- [Notes](#notes)
 - [Office Suites](#office-suites)
 - [Package Management](#package-management)
 - [Painting Applications](#painting-applications)
@@ -375,6 +376,11 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [SSH Copy](https://codinn.com/products/ssh-copy/) - Manage remote files with ease. ![Dollar][mon]
 - [Surge](http://nssurge.com/) - Advanced Web Debugging Proxy for macOS & iOS. ![Dollar][mon]
 - [WhatRoute](https://www.whatroute.net/) - Graphical IP tracer.
+
+## Notes
+*Note taking apps.*
+
+- [agenda](https://agenda.com/) - Date-focused note taking
 
 ## Office Suites
 *Office suites and other misc office utilities*
