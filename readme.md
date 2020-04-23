@@ -375,6 +375,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS. ![Open Source][oss]
 - [SSH Copy](https://codinn.com/products/ssh-copy/) - Manage remote files with ease. ![Dollar][mon]
 - [Surge](http://nssurge.com/) - Advanced Web Debugging Proxy for macOS & iOS. ![Dollar][mon]
+- [Transmission](https://transmissionbt.com/download/) - Easy, free BitTorrent client. ![Open Source][oss]
 - [WhatRoute](https://www.whatroute.net/) - Graphical IP tracer.
 
 ## Notes
