@@ -424,6 +424,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [qtpass](https://qtpass.org/) - QtPass is a multi-platform GUI for pass. ![Open Source][oss]
 - [RememBear](https://www.remembear.com/) - Secure and remember all your passwords...with a Bear. ![Dollar][mon]
 - [Strongbox](https://strongboxsafe.com/) - Freemium Open Source Password Manager. ![Open Source][oss]
+- [Swifty](https://getswifty.pro/) - Free & Offline Password Manager ![Open Source][oss]
 
 ## Programming Languages
 
