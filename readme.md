@@ -193,6 +193,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Databases
 *Databases and database utilities*
 
+- [Beekeeper Studio](https://www.beekeeperstudio.io/) - Open Source SQL Editor and Database Manager.
 - [DBeaver](http://dbeaver.jkiss.org/) - Free Universal SQL Client. ![Open Source][oss]
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite Database Browser. ![Open Source][oss]
 - [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management. ![Open Source][oss]
