@@ -223,6 +223,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. ![Open Source][oss]
 - [GPG Tools](https://gpgtools.org/) - GPG Suite for macOS. ![Open Source][oss]
+- [keys.pub](https://keys.pub/) - Manage cryptographic keys, sigchains and user identities.
 - [Keybase](https://keybase.io/) - Keybase is a directory of public keys and the proofs of who owns them. ![Open Source][oss]
 
 ## Email
