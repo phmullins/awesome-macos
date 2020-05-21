@@ -518,6 +518,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## System Tools
 *System Tools.*
 
+- [AltTab](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS
 - [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS. ![Open Source][oss]
 - [BetterTouchTool](https://folivora.ai/) -  Customize input devices on your Mac. ![Dollar][mon]
 - [BitBar](https://www.getbidbar.com/) - Run terminal commands from the menu bar. ![Open Source][oss]
