@@ -356,6 +356,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Miscellaneous
 
+- [Contexts](https://contexts.co/) - Radically simpler & faster window switcher.
 - [Micro.blog](https://s3.amazonaws.com/micro.blog/mac/Micro.blog_1.9.zip) - The official macOS version of Micro.blog.
 - [NetNewsWire](https://ranchero.com/netnewswire/) - More news, less junk. Faster.
 - [FS-UAE](https://fs-uae.net/) - Amiga Emulator. ![Open Source][oss]
