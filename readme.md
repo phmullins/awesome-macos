@@ -5,7 +5,7 @@ A curated list of fantastically awesome software for Apple's macOS operating sys
 apps = ![Dollar][mon]. If an app dosen't have either icon then it should be considered free. 
 
 - [Academics](#academics)
-- [Anti-Virus](#anti-virus & anti-malware)
+- [Anti-Virus](#Anti-Virus & Anti-Malware)
 - [Application Launchers](#application-launchers)
 - [Audio Players](#audio-players)
 - [Audio Utilities](#audio-utilities)
@@ -43,6 +43,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Programming Languages](#programming-languages)
 - [Programming Utilities](#programming-utilities)
 - [Remote Administration](#remote-administration)
+- [Science](#science)
 - [Security](#security)
 - [Search Utilities](#search-utilities)
 - [Social Media](#social-media)
@@ -179,6 +180,8 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Chime](https://chime.aws/) - Amazon Chime communications service. ![Dollar][mon]
 - [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers. ![Open Source][oss]
 - [Gitter](https://gitter.im/) - A chat and networking platform. ![Open Source][oss]
+- [Loom](https://www.loom.com/) - Take back your time.
+- [Screen](https://screen.so/#/home) - Work together like you’re in the same room.
 - [Slack](https://slack.com/) - Team-based collaboration tool.
 - [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
 - [Workplace by Facebook](https://www.facebook.com/workplace) - Change the way you work.
@@ -465,6 +468,11 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Remotix](https://nulana.com/remotix-mac/) - Access all your computers from anywhere. ![Dollar][mon]
 - [Screens](https://edovia.com/en/screens-mac/) - Control any computer from your Mac. ![Dollar][mon]
 
+## Science 
+*Science and Engineering Tools*
+
+- [SciLab](https://www.scilab.org/) - Open source software for numerical computation. ![Open Source][oss]
+
 ## Search Utilities
 
 - [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
@@ -543,6 +551,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [OpeninTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Open the current directory in Terminal. ![Open Source][oss]
 - [Pock](http://pock.pigigaldi.com/) - Display macOS Dock in Touch Bar. ![Open Source][oss]
 - [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac.
+- [Service Station](https://servicestation.menu/) - Customize your Right-Click Menu.
 - [Sloth](https://sveinbjorn.org/sloth) - Shows all open files and sockets in use. ![Open Source][oss]
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/index.html) - Remove unwanted packages from MacOS. ![Dollar][mon]
 - [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
