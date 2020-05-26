@@ -5,7 +5,7 @@ A curated list of fantastically awesome software for Apple's macOS operating sys
 apps = ![Dollar][mon]. If an app dosen't have either icon then it should be considered free. 
 
 - [Academics](#academics)
-- [Anti-Virus](#Anti-Virus & Anti-Malware)
+- [Anti-Virus](#anti-virus)
 - [Application Launchers](#application-launchers)
 - [Audio Players](#audio-players)
 - [Audio Utilities](#audio-utilities)
@@ -68,7 +68,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Dollar][mon]
 - [Studies](http://www.studiesapp.com/) - Master Your Studies. ![Dollar][mon]
 
-## Anti-Virus & Anti-Malware
+## Anti-Virus
 *Keep your Mac clean with the latest anti-virus and anti-malware.*
 
 - [Avast Security for Mac](https://www.avast.com/free-mac-security) - Think different about Mac security. Free & ![Dollar][mon]
@@ -471,6 +471,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Science 
 *Science and Engineering Tools*
 
+- [RStudio](https://rstudio.com/) - Professional software for data science. ![Open Source][oss]
 - [SciLab](https://www.scilab.org/) - Open source software for numerical computation. ![Open Source][oss]
 
 ## Search Utilities
