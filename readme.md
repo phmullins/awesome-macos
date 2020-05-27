@@ -92,12 +92,15 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 *Music players and streaming applications.*
 
+- [Auryo](https://auryo.com/) - A SoundCloud client for your desktop. ![Open Source][oss]
 - [BitPerfect](http://bitperfectsound.com/) - The Audiophile Choice. ![Dollar][mon]
 - [Cog](http://cogx.org/) - Audio player similar to Foobar 2000. ![Open Source][oss]
 - [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS.
 - [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files. ![Dollar][mon]
+- [Idagio](https://www.idagio.com/us/) - Classical Music Streaming.
 - [Mous](https://github.com/bsdelf/mous) - Powerful audio player & converter for FreeBSD/Linux/macOS. ![Open Source][oss]
 - [Sonos](https://www.sonos.com) - Wireless Home Sound System.
+- [Soundcleod](https://soundcleod.com/) - SoundCloud for macOS. ![Open Source][oss]
 - [Swinsian](https://swinsian.com/) - The Advanced Music Player for Mac. ![Dollar][mon]
 - [Tidal](https://offer.tidal.com/download) - Music streaming service.
 - [Tiny Player](http://www.catnapgames.com/tiny-player-for-mac/) - Tiny FLAC/AAC/MP3/WAV Player.
@@ -179,6 +182,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Chime](https://chime.aws/) - Amazon Chime communications service. ![Dollar][mon]
 - [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers. ![Open Source][oss]
+- [Feishu](https://www.feishu.cn/en/) - The Only All-in-One Platform You Will Ever Need.
 - [Gitter](https://gitter.im/) - A chat and networking platform. ![Open Source][oss]
 - [Loom](https://www.loom.com/) - Take back your time.
 - [Screen](https://screen.so/#/home) - Work together like you’re in the same room.
@@ -389,7 +393,9 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Notes
 *Note taking apps.*
 
-- [agenda](https://agenda.com/) - Date-focused note taking
+- [Agenda](https://agenda.com/) - Date-focused note taking
+- [Milanote](https://milanote.com/) - Get organized. Stay creative.
+- [Trilium](https://github.com/zadam/trilium) - Build your personal knowledge base. ![Open Source][oss]
 
 ## Office Suites
 *Office suites and other misc office utilities*
@@ -451,13 +457,16 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Anvil](https://anvilformac.com/) - Menubar app for managing local websites.
 - [Inkdrop](https://inkdrop.app/) - Organizing your Markdown notes made simple. ![Dollar][mon]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Website link checker for MacOS.
+- [Flipper](https://fbflipper.com/) - Extensible mobile app debugger. ![Open Source][oss] 
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Diff manager for MacOS. ![Dollar][mon]
 - [Matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go. ![Open Source][oss]
 - [Paw](https://paw.cloud/) - The most advanced API tool for Mac. ![Dollar][mon]
 - [Platypus](http://sveinbjorn.org/platypus) - Create MacOS applications from Bash scripts.
+- [Postman](https://www.postman.com/) - Collaboration Platform for API Development.
 - [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets. ![Dollar][mon]
 - [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook. ![Dollar][mon]
 - [SnippetsLab](http://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager. ![Dollar][mon]
+- [Stoplight Studio](https://stoplight.io/studio/) - Design APIs 10x faster with our free OpenAPI editor. ![Open Source][oss]
 
 ## Remote Administration
 *Tools to help with remote administration*
@@ -526,6 +535,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Avast Cleanup Pro for Mac](https://www.avast.com/cleanup-mac) - Every Mac needs a clean up. Every day. ![Dollar][mon]
 - [AVG TuneUp](https://www.avg.com/en-us/avg-tuneup-for-mac) - Speed up, clean up and fix your Mac. ![Dollar][mon]
 - [Onyx](https://www.titanium-software.fr/en/onyx.html) - Maintain your Mac for free.
+- [Sensei](https://sensei.app/) - The Next Generation Mac performance tool. ![Dollar][mon] 
 
 ## System Tools
 *System Tools.*
@@ -535,11 +545,13 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [BetterTouchTool](https://folivora.ai/) -  Customize input devices on your Mac. ![Dollar][mon]
 - [BitBar](https://www.getbidbar.com/) - Run terminal commands from the menu bar. ![Open Source][oss]
 - [Burn](https://sourceforge.net/projects/burn-osx/) - Simple but advanced disc burning for macOS.
+- [Bunch](https://brettterpstra.com/projects/bunch/) - A Batch Application Launcher for your Dock.
 - [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode. ![Open Source][oss]
 - [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks. ![Open Source][oss]
 - [Core Shell](https://coreshell.app/) - A terminal to make your SSH life easy. Free & ![Dollar][mon]
 - [Dat](https://datproject.org/) - Distributed data sharing tool. ![Open Source][oss]
 - [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS. Free & ![Dollar][mon]
+- [Endurance](https://enduranceapp.com/) - Boots you Mac's battery. ![Dollar][mon]
 - [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. ![Open Source][oss]
 - [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
 - [Gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for MacOS. ![Open Source][oss]
