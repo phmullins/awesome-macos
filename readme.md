@@ -200,6 +200,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Databases
 *Databases and database utilities*
 
+- [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio) - SQL client based on Visual Studio Code.
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Open Source SQL Editor and Database Manager.
 - [DBeaver](http://dbeaver.jkiss.org/) - Free Universal SQL Client. ![Open Source][oss]
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite Database Browser. ![Open Source][oss]
@@ -224,6 +225,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Captain](https://getcaptain.co) - Manage Docker containers. Free.
 - [Container PS](https://github.com/Toinane/container-ps) - Menu Bar app for Docker. ![Open Source][oss]
 - [Docker Desktop](https://www.docker.com/products/docker-desktop) - The world’s leading software containerization platform.
+- [Kitematic](https://kitematic.com/) - Run containers through a GUI. ![Open Source][oss]
 
 ## Encryption
 *Encryption Tools. Use these!*
@@ -266,7 +268,8 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [cryo](https://cryonet.io/) - Visual peer-to-peer file manager.
 - [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual-pane FTP/file manager. ![Dollar][mon]
 - [Hazel](https://www.noodlesoft.com/) - Automated Organization for Your Mac. ![Dollar][mon]
-- [Marta](https://marta.yanex.org/) - File Manager for macOS.
+- [Marta](https://marta.yanex.org/) - File Manager for macOS. 
+- [Mountain Duck](https://mountainduck.io/) - Cyberduck for mounting volumes in the file explorer. ![Dollar][mon]
 - [NameChanger](https://mrrsoftware.com/namechanger/) - Rename a list of files quickly and easily.
 - [Path Finder](https://cocoatech.com) - Powerful, award-winning Finder alternative. ![Dollar][mon]
 - [TotalFinder](https://totalfinder.binaryage.com/) - For Mac users who demand more from their Finder. ![Dollar][mon]
@@ -289,13 +292,14 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Slade](http://slade.mancubus.net) - A modern editor for Doom.
 
 ## Graphics
-*Tools to manipulate images.*
+*Tools to create and manipulate images.*
 
 - [Adapter](https://macroplant.com/adapter) - Adapter Converts Video, Audio and Images.
 - [Gifox](https://gifox.io/) - Delightful GIF Recording and Sharing App.
 - [Icon Jar](https://geticonjar.com) - Store all your icons in one place. ![Dollar][mon]
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. ![Open Source][oss]
 - [Kap](https://getkap.co/) - Capture your screen. ![Open Source][oss]
+- [Storyboarder](https://wonderunit.com/storyboarder/) - The best way to visualize your story.
 
 ## Image Editors
 *Tools for editing images.*
@@ -363,6 +367,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Miscellaneous
 
+- [AirParrot](https://www.airsquirrels.com/airparrot/) - Streaming and Mirroring for macOS. ![Dollar][mon]
 - [Contexts](https://contexts.co/) - Radically simpler & faster window switcher.
 - [Micro.blog](https://s3.amazonaws.com/micro.blog/mac/Micro.blog_1.9.zip) - The official macOS version of Micro.blog.
 - [NetNewsWire](https://ranchero.com/netnewswire/) - More news, less junk. Faster.
@@ -395,6 +400,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Agenda](https://agenda.com/) - Date-focused note taking
 - [Milanote](https://milanote.com/) - Get organized. Stay creative.
+- [QOwnNotes](https://www.qownnotes.org/) - Plain-text file markdown note taking with Nextcloud integration. ![Open Source][oss]
 - [Trilium](https://github.com/zadam/trilium) - Build your personal knowledge base. ![Open Source][oss]
 
 ## Office Suites
@@ -522,6 +528,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Git Bar](https://github.com/Shikkic/gitbar) - Github contribution stats on your MacOS Menu Bar.
 - [Gitea](https://gitea.io/en-US/) - A painless self-hosted Git service. ![Open Source][oss]
 - [GitHub Desktop](https://desktop.github.com/) - The official GitHub client for MacOS.
+- [GitFiend](https://gitfiend.com/overview) - A Git client designed for humans.
 - [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client.
 - [Gitscout](https://gitscout.com/) - A beautiful GitHub Issues experience for MacOS.
 - [SourceTree](https://www.sourcetreeapp.com/) - Easy way to work with Git and Mercurial.
@@ -595,17 +602,18 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 *Text Editors.*
 
 - [BBEdit](https://www.barebones.com/products/bbedit/) - It dosen't suck. ![Dollar][mon]
+- [CotEditor](https://coteditor.com/) - The plain-text editor for macOS. ![Open Source][oss]
 - [Drafts](https://getdrafts.com/) - Where Text Starts. ![Dollar][mon]
 - [LightPaper](https://getlightpaper.com/) - Simple, beautiful yet powerful text editor for your Mac. ![Dollar][mon]
 - [Lime](http://limetext.org/) - Open Source, Elegant, and Free Text Editor. ![Open Source][oss]
-- [Noto](https://www.brunophilipe.com/software/noto/) - The plain text editor for macOS. ![Open Source][oss]
+- [Noto](https://www.brunophilipe.com/software/noto/) - The themeable, plain-text editor for macOS. ![Open Source][oss]
+- [SubEthaEdit 5](https://subethaedit.net/) - Code, Write, Edit. Together.
 
 ## Text Expanders
 
 - [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac. Free & ![Dollar][mon]
 - [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases. ![Dollar][mon]
 - [Rocket Typist](https://witt-software.com/rockettypist/) - Expand typed abbreviations. ![Dollar][mon]
-- [SubEthaEdit 5](https://subethaedit.net/) - Code, Write, Edit. Together.
 - [TextExpander](https://textexpander.com) - Expand keystrokes into frequently-used text and pictures. ![Dollar][mon]
 
 ## Web Browsers
@@ -636,6 +644,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Bear](https://bear.app/) - Writing app for notes and prose. ![Dollar][mon]
 - [BookletCreator](https://www.bookletcreator.com/) - Create a booklet from a PDF document. ![Dollar][mon]
+- [Dictionaries](https://dictionaries.io/) -  Bidirectional translation, spellchecking and pronunciation. ![Dollar][mon]
 - [iAWriter](https://ia.net/writer/) - Designed to provide the best digital writing experience. ![Dollar][mon]
 - [Nisus Thesaurus](https://www.nisus.com/Thesaurus/) - Free Thesaurus for macOS.
 - [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers. ![Dollar][mon]
