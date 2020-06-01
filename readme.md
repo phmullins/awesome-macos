@@ -259,6 +259,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Box](https://www.box.com/personal) - Online synchronization tool for box.net. ![Dollar][mon]
 - [Dropbox](https://www.dropbox.com/) - Cloud backup and synchronization tool. ![Dollar][mon]
 - [Google Drive](https://tools.google.com/dlpage/drive/index.html?pli=1) - File backup and sharing tool. ![Dollar][mon]
+- [oDrive](https://www.odrive.com/) - Make Cloud Storage the way it should be.
 - [OneDrive](https://onedrive.live.com) - Access your Microsoft OneDrive. ![Dollar][mon]
 
 ## File Management
