@@ -12,6 +12,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Backups](#backups)
 - [Calendar Applications](#calendar-applications)
 - [Cleanup](#cleanup)
+- [Cloud Storage](#cloud-storage)
 - [Code Editors](#code-editors)
 - [Color Pickers](#color-pickers)
 - [Communication](#communication)
@@ -129,13 +130,8 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Arq](https://www.arqbackup.com/) - Backup your files to Google Drive, Amazon Glacier, SFTP, and more. ![Dollar][mon]
 - [Arq Cloud Backup](https://www.arqbackup.com/arqcloudbackup/) - Backs up all your files automatically. ![Dollar][mon]
-- [Box Sync](https://www.box.com/personal) - Online synchronization tool. ![Dollar][mon]
 - [Carbon Copy Cloner](http://bombich.com/) - Create a bit-perfect clone of your Mac's hard drive. ![Dollar][mon]
-- [Dropbox](https://www.dropbox.com) - Cloud backup and synchronization tool. ![Dollar][mon]
 - [Rclone](http://rclone.org/) - Sync files and directories to and from multiple services. ![Open Source][oss]
-- [Rsync Client](http://bonhardcomputing.com/rsync-client/) - A simple GUI for managing your remote files. ![Dollar][mon]
-- [Rsync Server](http://bonhardcomputing.com/rsync-server/) - Enable the Rsync service on your Mac. ![Dollar][mon]
-- [Syncthing](https://syncthing.net/) - Replaces proprietary sync and cloud services. ![Open Source][oss]
 
 ## Calendar Applications
 
@@ -152,6 +148,18 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Duplicate Detective](https://fiplab.com/apps/duplicate-detective-for-mac) - Remove duplicate files from your Mac. ![Dollar][mon]
 - [Monolingual](http://ingmarstein.github.io/Monolingual/) - Frees up disk space by removing unused languages files. ![Open Source][oss]
 - [TrashMe](http://www.jibapps.com/en/products/trashme/) - Uninstaller for the Mac with other great useful tools. ![Dollar][mon]
+
+## Cloud Storage
+*Cloud Storage and File Syncing*
+
+- [Box Sync](https://www.box.com/personal) - Online synchronization tool. Free & ![Dollar][mon]
+- [Dropbox](https://www.dropbox.com) - Cloud backup and synchronization tool. Free & ![Dollar][mon]
+- [Google Drive](https://www.google.com/drive/) - Easy and secure access to all of your content. Free & ![Dollar][mon]
+- [Mega](https://mega.nz/startpage) - Secure Cloud Storage and Communication. ![Dollar][mon]
+- [OmniPresence](https://www.omnigroup.com/more) - Document syncing for iOS & macOS.
+- [Rsync Client](http://bonhardcomputing.com/rsync-client/) - A simple GUI for managing your remote files. ![Dollar][mon]
+- [Rsync Server](http://bonhardcomputing.com/rsync-server/) - Enable the Rsync service on your Mac. ![Dollar][mon]
+- [Syncthing](https://syncthing.net/) - Replaces proprietary sync and cloud services. ![Open Source][oss]
 
 ## Code Editors
 *Code & Text Editors and Programming IDEs*
@@ -386,6 +394,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Core Tunnel](https://coretunnel.app/) - Tunnel management made easy. ![Dollar][mon]
 - [DNSCrypt](https://github.com/alterstep/dnscrypt-osxclient) -  Control the DNSCrypt Proxy. ![Open Source][oss]
 - [Fenix](https://fenixwebserver.com/) - Simple static desktop web server. ![Open Source][oss]
+- [iStumbler](https://istumbler.net/index.html) - Wireless Intelligence. ![Dollar][mon]
 - [Murus](http://www.murusfirewall.com/) - A GUI for the MacOS PF firewall. Free & ![Dollar][mon]
 - [NetSpot](https://www.netspotapp.com/) - Wireless survey tool.
 - [Network Radar](https://witt-software.com/networkradar/) - Scan and monitor your network. ![Dollar][mon]
@@ -543,6 +552,8 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Avast Cleanup Pro for Mac](https://www.avast.com/cleanup-mac) - Every Mac needs a clean up. Every day. ![Dollar][mon]
 - [AVG TuneUp](https://www.avg.com/en-us/avg-tuneup-for-mac) - Speed up, clean up and fix your Mac. ![Dollar][mon]
+- [Cocktail](https://www.maintain.se/cocktail/) - A perfect mixture for macOS. ![Dollar][mon]
+- [OmniDiskSweeper](https://www.omnigroup.com/more) - Quickly find large, unwanted files.
 - [Onyx](https://www.titanium-software.fr/en/onyx.html) - Maintain your Mac for free.
 - [Sensei](https://sensei.app/) - The Next Generation Mac performance tool. ![Dollar][mon] 
 
@@ -551,12 +562,14 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [AltTab](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS
 - [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS. ![Open Source][oss]
+- [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac) - Detailed battery information for your MacBook, iPhone & iPad. ![Dollar][mon]
 - [BetterTouchTool](https://folivora.ai/) -  Customize input devices on your Mac. ![Dollar][mon]
 - [BitBar](https://www.getbidbar.com/) - Run terminal commands from the menu bar. ![Open Source][oss]
 - [Burn](https://sourceforge.net/projects/burn-osx/) - Simple but advanced disc burning for macOS.
 - [Bunch](https://brettterpstra.com/projects/bunch/) - A Batch Application Launcher for your Dock.
 - [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode. ![Open Source][oss]
 - [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks. ![Open Source][oss]
+- [coconutBattery 3](https://www.coconut-flavour.com/coconutbattery/) - The standard for battery reading since 2005. ![Dollar][mon] 
 - [Core Shell](https://coreshell.app/) - A terminal to make your SSH life easy. Free & ![Dollar][mon]
 - [Dat](https://datproject.org/) - Distributed data sharing tool. ![Open Source][oss]
 - [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS. Free & ![Dollar][mon]
