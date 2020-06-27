@@ -195,8 +195,8 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Loom](https://www.loom.com/) - Take back your time.
 - [Screen](https://screen.so/#/home) - Work together like you’re in the same room.
 - [Slack](https://slack.com/) - Team-based collaboration tool.
-- [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
 - [Workplace by Facebook](https://www.facebook.com/workplace) - Change the way you work.
+- [Zulip](https://github.com/zulip/zulip-desktop) - Zulip for macOS. ![Open Source][oss]
 
 ## Compression
 *Tools for the compression and decompression of user files.*
@@ -304,6 +304,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 *Tools to create and manipulate images.*
 
 - [Adapter](https://macroplant.com/adapter) - Adapter Converts Video, Audio and Images.
+- [Amadine](https://amadine.com/) - The ultimate vector graphics software for macOS. ![Dollar][mon] 
 - [Gifox](https://gifox.io/) - Delightful GIF Recording and Sharing App.
 - [Icon Jar](https://geticonjar.com) - Store all your icons in one place. ![Dollar][mon]
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. ![Open Source][oss]
@@ -386,6 +387,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![Open Source][oss]
 - [Time Sink](https://manytricks.com/timesink/) - Track how you're spend your time. ![Dollar][mon]
 - [sugarmate](https://sugarmate.io/) - A new way to manage your diabetes.
+- [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
 
 ## Network
 *Networking tools*
@@ -420,6 +422,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Apache OpenOffice](http://www.openoffice.org/) - Apache's free and open source productivity suite. ![Open Source][oss]
 - [FreeOffice](https://www.freeoffice.com/en/) - Best Microsoft Office alternative overall.
 - [LibreOffice](http://www.libreoffice.org/download/libreoffice-fresh/) - A powerful, free office suite. ![Open Source][oss]
+- [NeoOffice](https://www.neooffice.org) - Office suite for Mac that is based on OpenOffice and LibreOffice. ![Dollar][mon]
 - [Office 365 for Mac](https://products.office.com/en-US/mac/microsoft-office-for-mac) - The latest version of Office from the folks in Redmond. ![Dollar][mon]
 - [Softmaker FreeOffice](https://www.freeoffice.com/en/) - Free alternative to Microsoft Office. ![Open Source][oss]
 
@@ -433,7 +436,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Painting Applications
 
-- [Artstudio Pro]() - 
 - [Krita](https://krita.org/en/) - A professional free and open source painting program. ![Open Source][oss]
 - [Rebelle](https://www.escapemotions.com/products/rebelle/) - Paint with natural watercolors and acrylics. ![Dollar][mon]
 
@@ -539,6 +541,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Git Bar](https://github.com/Shikkic/gitbar) - Github contribution stats on your MacOS Menu Bar.
 - [Gitea](https://gitea.io/en-US/) - A painless self-hosted Git service. ![Open Source][oss]
 - [GitHub Desktop](https://desktop.github.com/) - The official GitHub client for MacOS.
+- [GithubPulse](https://github.com/tadeuzagallo/GithubPulse) - Remember to contribute every day. ![Open Source][oss]
 - [GitFiend](https://gitfiend.com/overview) - A Git client designed for humans.
 - [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client.
 - [Gitscout](https://gitscout.com/) - A beautiful GitHub Issues experience for MacOS.
@@ -588,6 +591,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac.
 - [Service Station](https://servicestation.menu/) - Customize your Right-Click Menu.
 - [Sloth](https://sveinbjorn.org/sloth) - Shows all open files and sockets in use. ![Open Source][oss]
+- [Stats](https://github.com/exelban/stats) - Simple macOS system monitor in your menu bar. ![Open Source][oss]
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/index.html) - Remove unwanted packages from MacOS. ![Dollar][mon]
 - [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
 - [Witch](https://manytricks.com/witch/) - ⌘-Tab Everything. ![Dollar][mon]
