@@ -574,6 +574,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks. ![Open Source][oss]
 - [coconutBattery 3](https://www.coconut-flavour.com/coconutbattery/) - The standard for battery reading since 2005. ![Dollar][mon] 
 - [Core Shell](https://coreshell.app/) - A terminal to make your SSH life easy. Free & ![Dollar][mon]
+- [CustomShortcuts](https://www.houdah.com/customShortcuts/) - Customize Mac Menu Keyboard Shortcuts.
 - [Dat](https://datproject.org/) - Distributed data sharing tool. ![Open Source][oss]
 - [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS. Free & ![Dollar][mon]
 - [Endurance](https://enduranceapp.com/) - Boots you Mac's battery. ![Dollar][mon]
