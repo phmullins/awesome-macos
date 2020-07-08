@@ -582,6 +582,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. ![Open Source][oss]
 - [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
 - [Gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for MacOS. ![Open Source][oss]
+- [Hidden Bar](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss]
 - [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services. ![Open Source][oss]
 - [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
 - [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly. ![Dollar][mon]
@@ -597,7 +598,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/index.html) - Remove unwanted packages from MacOS. ![Dollar][mon]
 - [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
 - [Witch](https://manytricks.com/witch/) - ⌘-Tab Everything. ![Dollar][mon]
-- [Hidden Bar](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss]
+- [XMenu](https://www.devontechnologies.com/apps/freeware) - Directly access all your apps from the manu bar.
 
 ## Task Management
 *Task managers to help get things done.*
