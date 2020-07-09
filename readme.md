@@ -447,6 +447,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Bitwarden](https://bitwarden.com/) - Solve your password management problems.
 - [Buttercup](https://buttercup.pw) - The Password Manager You Deserve. ![Open Source][oss]
 - [Dashlane](https://www.dashlane.com/) - Never forget another password. Free & ![Dollar][mon]
+- [Enpass](https://www.enpass.io/) - A secure vault to store everything at one place using a single master password. Desktop: Free. Mobile: ![Dollar][mon]
 - [Kaspersky Password Manager](https://usa.kaspersky.com/password-manager) - Password Manager.
 - [KeepassX](https://www.keepassx.org/) - Open Source password manager. ![Open Source][oss]
 - [KeePassXC](https://keepassxc.org/) - Cross-Platform password manager. ![Open Source][oss]
