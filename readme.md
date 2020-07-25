@@ -29,6 +29,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Games](#games)
 - [Graphics](#graphics)
 - [Image Viewers](#image-viewers)
+- [Internet](#internet)
 - [IRC Clients](#irc-clients)
 - [Journaling](#journaling)
 - [Knowledge Management](#knowledge-management)
@@ -137,13 +138,14 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [BusyCal](https://www.busymac.com/busycal/index.html) - The most powerful calendar app for macOS. ![Dollar][mon]
 - [Day-O](https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Simple menu bar clock replacement.
-- [Fantastical 2](https://flexibits.com/fantastical) - The calendar app you won't be able to live without. ![Dollar][mon]
+- [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without. ![Dollar][mon]
 - [Informant](https://www.pocketinformant.com/products/mac-organizer-app/) - The best calendar app for macOS. ![Dollar][mon]
 - [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar. ![Open Source][oss]
 
 ## Cleanup
 *Tools to uninstall software and keep your system clean*
 
+- [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A macOS system analyser and cleaner.
 - [Disk Doctor](https://fiplab.com/apps/disk-doctor-for-mac) - Removes tons of unneeded files. ![Dollar][mon]
 - [Duplicate Detective](https://fiplab.com/apps/duplicate-detective-for-mac) - Remove duplicate files from your Mac. ![Dollar][mon]
 - [Monolingual](http://ingmarstein.github.io/Monolingual/) - Frees up disk space by removing unused languages files. ![Open Source][oss]
@@ -276,6 +278,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [CRAX Commander](https://crax.soft4u2.com/) - Dual-pane and multi-tabbed file manager. ![Dollar][mon]
 - [cryo](https://cryonet.io/) - Visual peer-to-peer file manager.
 - [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual-pane FTP/file manager. ![Dollar][mon]
+- [Gemini](https://macpaw.com/gemini) - The intelligent duplicate file finder. ![Dollar][mon]
 - [Hazel](https://www.noodlesoft.com/) - Automated Organization for Your Mac. ![Dollar][mon]
 - [Marta](https://marta.yanex.org/) - File Manager for macOS. 
 - [Mountain Duck](https://mountainduck.io/) - Cyberduck for mounting volumes in the file explorer. ![Dollar][mon]
@@ -330,6 +333,10 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Spect](http://spect-app.com/) - Fast image browser and organizer. ![Dollar][mon]
 - [Xee](https://theunarchiver.com/xee) - Super fast image viewer. ![Dollar][mon]
 
+## Internet
+
+- [Freenet](https://freenetproject.org/) - Peer-to-peer platform for censorship-resistant communication and publishing. ![Open Source][oss]
+
 ## IRC Clients
 
 - [HexChat](https://hexchat.github.io/) - IRC client based on XChat. ![Open Source][oss]
@@ -381,6 +388,8 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [AirParrot](https://www.airsquirrels.com/airparrot/) - Streaming and Mirroring for macOS. ![Dollar][mon]
 - [Contexts](https://contexts.co/) - Radically simpler & faster window switcher.
+- [Hackintool](https://github.com/headkaze/Hackintool) - The Swiss army knife of vanilla Hackintoshing. ![Open Source][oss]
+- [ha-menu](https://github.com/codechimp-org/ha-menu/) - Perform common Home Assistant functions. ![Open Source][oss]
 - [Mactracker](https://mactracker.ca/) - Detailed information on every Apple product.
 - [Micro.blog](https://s3.amazonaws.com/micro.blog/mac/Micro.blog_1.9.zip) - The official macOS version of Micro.blog.
 - [NetNewsWire](https://ranchero.com/netnewswire/) - More news, less junk. Faster.
@@ -394,6 +403,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Network
 *Networking tools*
 
+- [Airtool](https://www.intuitibits.com/products/airtool/) - Capture Wi-Fi traffic Like a Pro.
 - [Caddy](https://caddyserver.com/) - The HTTP/2 web server with automatic HTTPS.
 - [Core Tunnel](https://coretunnel.app/) - Tunnel management made easy. ![Dollar][mon]
 - [DNSCrypt](https://github.com/alterstep/dnscrypt-osxclient) -  Control the DNSCrypt Proxy. ![Open Source][oss]
@@ -459,6 +469,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Passifox](https://github.com/pfn/passifox) - Auto form-fill passwords from KeePass. ![Open Source][oss]
 - [qtpass](https://qtpass.org/) - QtPass is a multi-platform GUI for pass. ![Open Source][oss]
 - [RememBear](https://www.remembear.com/) - Secure and remember all your passwords...with a Bear. ![Dollar][mon]
+- [RoboForm](https://www.roboform.com/) - Protect Your Passwords. ![Dollar][mon]
 - [Strongbox](https://strongboxsafe.com/) - Freemium Open Source Password Manager. ![Open Source][oss]
 - [Swifty](https://getswifty.pro/) - Free & Offline Password Manager ![Open Source][oss]
 
@@ -471,6 +482,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Python](https://www.python.org/) - Work quickly and integrate systems more effectively. ![Open Source][oss]
 - [Ruby](https://www.ruby-lang.org/en/) - A dynamic, open source programming language. ![Open Source][oss]
 - [Rust](https://www.rust-lang.org/) - A language empowering everyone. ![Open Source][oss]
+- [Scratch](https://scratch.mit.edu/download) - Create your own interactive stories, games, and animations. ![Open Source][oss]
 - [Swift](https://swift.org/) - A general-purpose programming language.
 
 ## Programming Utilities
@@ -482,6 +494,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Flipper](https://fbflipper.com/) - Extensible mobile app debugger. ![Open Source][oss] 
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Diff manager for MacOS. ![Dollar][mon]
 - [Matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go. ![Open Source][oss]
+- [Mockoon](https://mockoon.com/) - Mock API in seconds. ![Open Source][oss]
 - [Paw](https://paw.cloud/) - The most advanced API tool for Mac. ![Dollar][mon]
 - [Platypus](http://sveinbjorn.org/platypus) - Create MacOS applications from Bash scripts.
 - [Postman](https://www.postman.com/) - Collaboration Platform for API Development.
@@ -496,7 +509,9 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [AnyDesk](https://anydesk.com/remote-desktop) - Your desk @ any desk. Free & ![Dollar][mon]
 - [Jump Desktop](http://jumpdesktop.com/) - Secure RDP & VNC client. ![Dollar][mon]
 - [NoMachine](https://www.nomachine.com/) - Remote desktop connections.
+- [remote-desktop-manager](https://remotedesktopmanager.com/) - Remote Connections & Passwords. Everywhere! ![Dollar][mon]
 - [Remotix](https://nulana.com/remotix-mac/) - Access all your computers from anywhere. ![Dollar][mon]
+- [Royal TX](https://www.royalapps.com/ts/mac/features) - Comprehensive Remote Management Solution. ![Dollar][mon]
 - [Screens](https://edovia.com/en/screens-mac/) - Control any computer from your Mac. ![Dollar][mon]
 
 ## Science 
@@ -516,6 +531,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Avast SecureLine VPN](https://www.avast.com/secureline-vpn#mac) - Encrypts your Internet connection. ![Dollar][mon]
 - [AVG Secure VPN](https://www.avg.com/en-us/secure-vpn) - Secure your Wi-Fi and browse privately. ![Dollar][mon]
 - [Do Not Disturb](https://objective-see.com/products/dnd.html) - Detects and alerts you of physical access.
+- [Geph](https://geph.io/en/) - Blast through censorship!
 - [Knock Knock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac.
 - [LuLu](https://objective-see.com/products/lulu.html) - Open-source macOS firewall.
 - [Netiquette](https://objective-see.com/products/netiquette.html) - A network monitor.
@@ -544,6 +560,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Fuel](https://fuel-scm.org/fossil/index) -  Front-end for the Fossil SCM. ![Open Source][oss]
 - [Git Bar](https://github.com/Shikkic/gitbar) - Github contribution stats on your MacOS Menu Bar.
 - [Gitea](https://gitea.io/en-US/) - A painless self-hosted Git service. ![Open Source][oss]
+- [GitFinder](https://gitfinder.com/) - Git client for Mac with Finder integration. ![Dollar][mon]
 - [GitHub Desktop](https://desktop.github.com/) - The official GitHub client for MacOS.
 - [GithubPulse](https://github.com/tadeuzagallo/GithubPulse) - Remember to contribute every day. ![Open Source][oss]
 - [GitFiend](https://gitfiend.com/overview) - A Git client designed for humans.
