@@ -397,8 +397,9 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Reeder 3](https://www.reederapp.com/mac/) - The best news reader for macOS. ![Dollar][mon]
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![Open Source][oss]
 - [Time Sink](https://manytricks.com/timesink/) - Track how you're spend your time. ![Dollar][mon]
-- [sugarmate](https://sugarmate.io/) - A new way to manage your diabetes.
+- [sugarmate](https://sugarmate.io/) - A new way to manage your diabetes. 
 - [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
+- [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. 🐳 ![Open Source][oss]
 
 ## Network
 *Networking tools*
