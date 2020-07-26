@@ -42,6 +42,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Package Management](#package-management)
 - [Painting Applications](#painting-applications)
 - [Password Management](#password-management)
+- [Productivity](#productivity)
 - [Programming Languages](#programming-languages)
 - [Programming Utilities](#programming-utilities)
 - [Remote Administration](#remote-administration)
@@ -242,7 +243,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. ![Open Source][oss]
 - [GPG Tools](https://gpgtools.org/) - GPG Suite for macOS. ![Open Source][oss]
-- [keys.pub](https://keys.pub/) - Manage cryptographic keys, sigchains and user identities.
+- [keys.pub](https://keys.pub/) - Manage cryptographic keys, sigchains and user identities. ![Open Source][oss]
 - [Keybase](https://keybase.io/) - Keybase is a directory of public keys and the proofs of who owns them. ![Open Source][oss]
 
 ## Email
@@ -396,10 +397,8 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [FS-UAE](https://fs-uae.net/) - Amiga Emulator. ![Open Source][oss]
 - [Reeder 3](https://www.reederapp.com/mac/) - The best news reader for macOS. ![Dollar][mon]
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![Open Source][oss]
-- [Time Sink](https://manytricks.com/timesink/) - Track how you're spend your time. ![Dollar][mon]
-- [sugarmate](https://sugarmate.io/) - A new way to manage your diabetes. 
+- [Sugarmate](https://sugarmate.io/) - A new way to manage your diabetes. 
 - [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
-- [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. 🐳 ![Open Source][oss]
 
 ## Network
 *Networking tools*
@@ -473,6 +472,12 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [RoboForm](https://www.roboform.com/) - Protect Your Passwords. ![Dollar][mon]
 - [Strongbox](https://strongboxsafe.com/) - Freemium Open Source Password Manager. ![Open Source][oss]
 - [Swifty](https://getswifty.pro/) - Free & Offline Password Manager ![Open Source][oss]
+
+## Productivity
+
+- [Pomotroid](https://github.com/Splode/pomotroid) - Simple and visually-pleasing Pomodoro timer. 🍅 ![Open Source][oss]
+- [Time Sink](https://manytricks.com/timesink/) - Track how you're spend your time. ![Dollar][mon]
+- [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. 🐳 ![Open Source][oss]
 
 ## Programming Languages
 
@@ -606,6 +611,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss]
 - [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services. ![Open Source][oss]
 - [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
+- [Maccy](https://maccy.app/) - Clipboard manager for macOS.
 - [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly. ![Dollar][mon]
 - [MKS](https://github.com/x0054/MKS) - Mechanical Keyboard Simulator. ![Open Source][oss]
 - [Muzzle](https://muzzleapp.com/) - Disable notifications while screen sharing.
@@ -636,9 +642,10 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 *Awesome command-line tools*
 
 - [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century. ![Open Source][oss]
-- [electerm](https://github.com/electerm/electerm/) - Terminal/ssh/serial port/sftp client. ![Open Source][oss]
+- [Electerm](https://github.com/electerm/electerm/) - Terminal/ssh/serial port/sftp client. ![Open Source][oss]
 - [Hyper](https://hyper.is/) - A JS/HTML/CSS Terminal. ![Open Source][oss]
 - [iTerm 2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm. ![Open Source][oss]
+- [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. ![Open Source][oss]
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS! ![Open Source][oss]
 
 ## Text Editors
@@ -663,6 +670,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 *The best web brwosers for OS X.*
 
 - [Brave](https://brave.com/) - On a mission to fix the web.
+- [Browserosaurus](https://browserosaurus.com/) - The browser prompter for macOS.
 - [Cliqz](https://cliqz.com/en/) - The no-compromise browser.
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox. ![Open Source][oss]
 - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/channel/desktop/#developer) - Firefox release channel for experimental (beta) builds. ![Open Source][oss]
