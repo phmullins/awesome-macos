@@ -28,6 +28,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [FTP Clients](#ftp-clients)
 - [Games](#games)
 - [Graphics](#graphics)
+- [Image Editors](#image-editors)
 - [Image Viewers](#image-viewers)
 - [Internet](#internet)
 - [IRC Clients](#irc-clients)
@@ -323,6 +324,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program. ![Open Source][oss]
 - [Pixelmator](http://www.pixelmator.com) - Full-featured image editor for Mac. ![Dollar][mon]
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) - Professional image editor. ![Dollar][mon]
+- [PhotoMD](https://apps.apple.com/us/app/photomd/id1515646480?mt=12) - Image EXIF and metadata editor, viewer and sorter. ![Dollar][mon]
 - [Seashore](https://github.com/robaho/seashore) - Easy to use mac osx image editing application. ![Open Source][oss]
 
 ## Image Viewers
@@ -330,6 +332,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Eagle](https://eagle.cool/) - Photo viewer, manager, and organizer. ![Dollar][mon]
 - [Pixave](http://www.littlehj.com/mac/) - The ultimate image viewer and organizer. ![Dollar][mon]
+- [PhotoMD-lite](https://apps.apple.com/us/app/photomd-lite/id1519298602?mt=12) - View images and EXIF and metadata.
 - [Spect](http://spect-app.com/) - Fast image browser and organizer. ![Dollar][mon]
 - [Xee](https://theunarchiver.com/xee) - Super fast image viewer. ![Dollar][mon]
 
