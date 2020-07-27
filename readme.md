@@ -28,6 +28,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [FTP Clients](#ftp-clients)
 - [Games](#games)
 - [Graphics](#graphics)
+- [Image Editors](#image-editors)
 - [Image Viewers](#image-viewers)
 - [Internet](#internet)
 - [IRC Clients](#irc-clients)
