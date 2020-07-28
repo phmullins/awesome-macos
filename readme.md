@@ -1,4 +1,4 @@
-## Awesome MacOS Software
+## Awesome MacOS Software v1.8
 
 A curated list of fantastically awesome software for Apple's macOS operating system. This list was inspired by 
 [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). Legend: Open Source apps = ![Open Source][oss]. Paid 
@@ -36,7 +36,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Markdown Editors](#markdown-editors)
 - [Messenger Applications](#messenger-applications)
 - [Miscellaneous](#miscellaneous)
-- [Network](#network)
+- [Networking Applications](#networking-applications)
 - [Notes](#notes)
 - [Office Suites](#office-suites)
 - [Package Management](#package-management)
@@ -64,7 +64,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Virtualization](#virtualization)
 
 ## Academics
-*Misc academic tools and utilities*
 
 - [Manuscripts](http://www.manuscriptsapp.com/) - A writing tool like nothing you have seen before.
 - [Mochi](https://mochi.cards/) - Take notes and make flashcards.
@@ -72,7 +71,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Studies](http://www.studiesapp.com/) - Master Your Studies. ![Dollar][mon]
 
 ## Anti-Virus
-*Keep your Mac clean with the latest anti-virus and anti-malware.*
 
 - [Avast Security for Mac](https://www.avast.com/free-mac-security) - Think different about Mac security. Free & ![Dollar][mon]
 - [AVG AntiVirus for Mac](https://www.avg.com/en-us/avg-antivirus-for-mac) - Simply safer with AVG AntiVirus for Mac. Free & ![Dollar][mon]
@@ -93,8 +91,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Audio Players
 
-*Music players and streaming applications.*
-
 - [Auryo](https://auryo.com/) - A SoundCloud client for your desktop. ![Open Source][oss]
 - [BitPerfect](http://bitperfectsound.com/) - The Audiophile Choice. ![Dollar][mon]
 - [Cog](http://cogx.org/) - Audio player similar to Foobar 2000. ![Open Source][oss]
@@ -109,8 +105,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Tiny Player](http://www.catnapgames.com/tiny-player-for-mac/) - Tiny FLAC/AAC/MP3/WAV Player.
 
 ## Audio Utilities
-
-*Audio utilities, editors, and converters.*
 
 - [AirFoil](https://rogueamoeba.com/airfoil/) - Hear Your Audio Everywhere. ![Dollar][mon]
 - [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin. ![Open Source][oss]
@@ -128,7 +122,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [X Lossless Decoder](http://tmkk.undo.jp/xld/index_e.html) - Decode/Convert to and from dozens of audio file types.
 
 ## Backups
-*Backup software.*
 
 - [Arq](https://www.arqbackup.com/) - Backup your files to Google Drive, Amazon Glacier, SFTP, and more. ![Dollar][mon]
 - [Arq Cloud Backup](https://www.arqbackup.com/arqcloudbackup/) - Backs up all your files automatically. ![Dollar][mon]
@@ -144,7 +137,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar. ![Open Source][oss]
 
 ## Cleanup
-*Tools to uninstall software and keep your system clean*
 
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A macOS system analyser and cleaner.
 - [Disk Doctor](https://fiplab.com/apps/disk-doctor-for-mac) - Removes tons of unneeded files. ![Dollar][mon]
@@ -153,7 +145,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [TrashMe](http://www.jibapps.com/en/products/trashme/) - Uninstaller for the Mac with other great useful tools. ![Dollar][mon]
 
 ## Cloud Storage
-*Cloud Storage and File Syncing*
 
 - [Box Sync](https://www.box.com/personal) - Online synchronization tool. Free & ![Dollar][mon]
 - [Dropbox](https://www.dropbox.com) - Cloud backup and synchronization tool. Free & ![Dollar][mon]
@@ -165,7 +156,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Syncthing](https://syncthing.net/) - Replaces proprietary sync and cloud services. ![Open Source][oss]
 
 ## Code Editors
-*Code & Text Editors and Programming IDEs*
 
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century. ![Open Source][oss]
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Open-source Arduino Code Editor. ![Open Source][oss]
@@ -181,7 +171,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Xcode](https://developer.apple.com/xcode/) - Apple's Swift/Objective-C development environment.
 
 ## Color Pickers
-*Color Pickers, Sorters, and Organizers*
 
 - [Couleurs](http://couleursapp.com/) - A simple but powerful color grabber.
 - [Color Picker Plus](https://github.com/viktorstrate/color-picker-plus) - An Improved Color Picker for macOS. ![Open Source][oss]
@@ -189,7 +178,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Sip](http://sipapp.io/) - Collect, organize & share your colors. ![Dollar][mon]
 
 ## Communication
-*Communication tools.*
 
 - [Chime](https://chime.aws/) - Amazon Chime communications service. ![Dollar][mon]
 - [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers. ![Open Source][oss]
@@ -202,14 +190,12 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Zulip](https://github.com/zulip/zulip-desktop) - Zulip for macOS. ![Open Source][oss]
 
 ## Compression
-*Tools for the compression and decompression of user files.*
 
 - [Keka](https://www.keka.io/en/) - MacOS file archiver. Store more, share with privacy. ![Open Source][oss]
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for MacOS' default compression app.
 - [p7zip](http://p7zip.sourceforge.net/) - Open Source port of 7-Zip for POSIX systems. ![Open Source][oss]
 
 ## Databases
-*Databases and database utilities*
 
 - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio) - SQL client based on Visual Studio Code.
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Open Source SQL Editor and Database Manager.
@@ -239,7 +225,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Kitematic](https://kitematic.com/) - Run containers through a GUI. ![Open Source][oss]
 
 ## Encryption
-*Encryption Tools. Use these!*
 
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. ![Open Source][oss]
 - [GPG Tools](https://gpgtools.org/) - GPG Suite for macOS. ![Open Source][oss]
@@ -247,7 +232,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Keybase](https://keybase.io/) - Keybase is a directory of public keys and the proofs of who owns them. ![Open Source][oss]
 
 ## Email
-*Email clients and utilities*
 
 - [Canary](https://canarymail.io/) - Secure Email App for Mac and iPhone. ![Dollar][mon]
 - [Polymail](https://polymail.io/) - Simple, beautiful, powerful e-mail. ![Dollar][mon]
@@ -256,7 +240,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Cross-platform e-mail and news (NNTP) client. ![Open Source][oss]
 
 ## Electronic Books
-*Electronic Book readers and other book utilities*
 
 - [Bookpedia](https://www.bruji.com/bookpedia/) - What's on your shelves? ![Dollar][mon]
 - [Calibre](http://calibre-ebook.com/) - Complete e-book library management system. ![Open Source][oss]
@@ -265,7 +248,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Kitabu](https://www.kitabu.me/) - Kitabu is your EPUB reading application and cloud library.
 
 ## File Synchronization
-*Tools for syncing files to and from the cloud*
 
 - [Box](https://www.box.com/personal) - Online synchronization tool for box.net. ![Dollar][mon]
 - [Dropbox](https://www.dropbox.com/) - Cloud backup and synchronization tool. ![Dollar][mon]
@@ -307,7 +289,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Zandronum](https://zandronum.com/) - Leading the way in newschool multiplayer Doom online.
 
 ## Graphics
-*Tools to create and manipulate images.*
 
 - [Adapter](https://macroplant.com/adapter) - Adapter Converts Video, Audio and Images.
 - [Amadine](https://amadine.com/) - The ultimate vector graphics software for macOS. ![Dollar][mon] 
@@ -318,7 +299,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Storyboarder](https://wonderunit.com/storyboarder/) - The best way to visualize your story.
 
 ## Image Editors
-*Tools for editing images.*
 
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/) - The first choice for photography and creative professionals. ![Dollar][mon]
 - [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program. ![Open Source][oss]
@@ -327,7 +307,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Seashore](https://github.com/robaho/seashore) - Easy to use mac osx image editing application. ![Open Source][oss]
 
 ## Image Viewers
-*Image Viewers and Utilities*
 
 - [Eagle](https://eagle.cool/) - Photo viewer, manager, and organizer. ![Dollar][mon]
 - [Pixave](http://www.littlehj.com/mac/) - The ultimate image viewer and organizer. ![Dollar][mon]
@@ -348,16 +327,14 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Smuxi](https://smuxi.im/) - GTK+ multi-service ITC client. ![Open Source][oss]
 
 ## Journaling
-*Journaling.*
 
 - [Day One](http://dayoneapp.com/) - A journal, diary, text-logging application. ![Dollar][mon]
 - [jrnl](http://jrnl.sh/) - Command-line journaling application. ![Open Source][oss]
 - [MacJournal 7](http://danschimpf.com/) - macOS journaling application.
 
 ## Knowledge Management
-*Data and Knowledge Management*
 
-- [DEVONthink Pro Office](http://www.devontechnologies.com/products/devonthink/devonthink-pro-office.html) - Document/Note manager. ![Dollar][mon]
+- [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document/Note manager. ![Dollar][mon]
 - [DEVONsphere Express](https://www.devontechnologies.com/products/devonsphere/devonsphere-express.html) ![Dollar][mon]
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS. ![Open Source][oss]
 - [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized. ![Open Source][oss]
@@ -400,8 +377,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Sugarmate](https://sugarmate.io/) - A new way to manage your diabetes. 
 - [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
 
-## Network
-*Networking tools*
+## Networking Applications
 
 - [Airtool](https://www.intuitibits.com/products/airtool/) - Capture Wi-Fi traffic Like a Pro.
 - [Caddy](https://caddyserver.com/) - The HTTP/2 web server with automatic HTTPS.
@@ -421,7 +397,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [WhatRoute](https://www.whatroute.net/) - Graphical IP tracer.
 
 ## Notes
-*Note taking apps.*
 
 - [Agenda](https://agenda.com/) - Date-focused note taking
 - [Milanote](https://milanote.com/) - Get organized. Stay creative.
@@ -429,7 +404,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Trilium](https://github.com/zadam/trilium) - Build your personal knowledge base. ![Open Source][oss]
 
 ## Office Suites
-*Office suites and other misc office utilities*
 
 - [Apache OpenOffice](http://www.openoffice.org/) - Apache's free and open source productivity suite. ![Open Source][oss]
 - [FreeOffice](https://www.freeoffice.com/en/) - Best Microsoft Office alternative overall.
@@ -452,14 +426,13 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Rebelle](https://www.escapemotions.com/products/rebelle/) - Paint with natural watercolors and acrylics. ![Dollar][mon]
 
 ## Password Management
-*Secure your online accounts and passwords with a password manager.*
 
 - [1Password](https://agilebits.com/onepassword) - Best Password Manager out there! ![Dollar][mon]
 - [Avast](https://www.avast.com/passwords-mac) - Avast Passwords for Mac.
 - [Bitwarden](https://bitwarden.com/) - Solve your password management problems.
 - [Buttercup](https://buttercup.pw) - The Password Manager You Deserve. ![Open Source][oss]
 - [Dashlane](https://www.dashlane.com/) - Never forget another password. Free & ![Dollar][mon]
-- [Enpass](https://www.enpass.io/) - A secure vault to store everything at one place using a single master password. Desktop: Free. Mobile: ![Dollar][mon]
+- [Enpass](https://www.enpass.io/) - A secure vault for storing everything in one place. Desktop: Free. Mobile: ![Dollar][mon]
 - [Kaspersky Password Manager](https://usa.kaspersky.com/password-manager) - Password Manager.
 - [KeepassX](https://www.keepassx.org/) - Open Source password manager. ![Open Source][oss]
 - [KeePassXC](https://keepassxc.org/) - Cross-Platform password manager. ![Open Source][oss]
@@ -467,7 +440,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [LastPass](https://www.lastpass.com/) - Simplify your life. Free & ![Dollar][mon]
 - [MacPass](https://macpassapp.org/) - A native MacOS KeePass client. ![Open Source][oss]
 - [Passifox](https://github.com/pfn/passifox) - Auto form-fill passwords from KeePass. ![Open Source][oss]
-- [qtpass](https://qtpass.org/) - QtPass is a multi-platform GUI for pass. ![Open Source][oss]
+- [QtPass](https://qtpass.org/) - QtPass is a multi-platform GUI for pass. ![Open Source][oss]
 - [RememBear](https://www.remembear.com/) - Secure and remember all your passwords...with a Bear. ![Dollar][mon]
 - [RoboForm](https://www.roboform.com/) - Protect Your Passwords. ![Dollar][mon]
 - [Strongbox](https://strongboxsafe.com/) - Freemium Open Source Password Manager. ![Open Source][oss]
@@ -492,7 +465,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Swift](https://swift.org/) - A general-purpose programming language.
 
 ## Programming Utilities
-*Various tools to aid in programming.*
 
 - [Anvil](https://anvilformac.com/) - Menubar app for managing local websites.
 - [Inkdrop](https://inkdrop.app/) - Organizing your Markdown notes made simple. ![Dollar][mon]
@@ -510,7 +482,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Stoplight Studio](https://stoplight.io/studio/) - Design APIs 10x faster with our free OpenAPI editor. ![Open Source][oss]
 
 ## Remote Administration
-*Tools to help with remote administration*
 
 - [AnyDesk](https://anydesk.com/remote-desktop) - Your desk @ any desk. Free & ![Dollar][mon]
 - [Jump Desktop](http://jumpdesktop.com/) - Secure RDP & VNC client. ![Dollar][mon]
@@ -521,7 +492,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Screens](https://edovia.com/en/screens-mac/) - Control any computer from your Mac. ![Dollar][mon]
 
 ## Science 
-*Science and Engineering Tools*
 
 - [RStudio](https://rstudio.com/) - Professional software for data science. ![Open Source][oss]
 - [SciLab](https://www.scilab.org/) - Open source software for numerical computation. ![Open Source][oss]
@@ -550,7 +520,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [TunnelBear](https://www.tunnelbear.com/) - A more secure way to browse the web. ![Dollar][mon]
 
 ## Social Media
-*Misc Social media applications*
 
 - [Flume](https://flumeapp.com/) - A beautiful Instagram experience for your desktop. ![Dollar][mon]
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram desktop app. ![Open Source][oss]
@@ -560,7 +529,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Mastonaut](https://mastonaut.app/) - Simple, elegant, and native Mastodon client for Mac. ![Dollar][mon]
 
 ## Source Control
-*Source Control.*
 
 - [Fork](https://git-fork.com/) - A fast and friendly git client for Mac. ![Open Source][oss]
 - [Fuel](https://fuel-scm.org/fossil/index) -  Front-end for the Fossil SCM. ![Open Source][oss]
@@ -578,7 +546,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Tower](http://www.git-tower.com/) - Advanced Git version control. ![Dollar][mon]
 
 ## System Maintenance
-*Tools to clean up your Mac.*
 
 - [Avast Cleanup Pro for Mac](https://www.avast.com/cleanup-mac) - Every Mac needs a clean up. Every day. ![Dollar][mon]
 - [AVG TuneUp](https://www.avg.com/en-us/avg-tuneup-for-mac) - Speed up, clean up and fix your Mac. ![Dollar][mon]
@@ -588,7 +555,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Sensei](https://sensei.app/) - The Next Generation Mac performance tool. ![Dollar][mon] 
 
 ## System Tools
-*System Tools.*
 
 - [AltTab](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS
 - [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS. ![Open Source][oss]
@@ -628,7 +594,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [XMenu](https://www.devontechnologies.com/apps/freeware) - Directly access all your apps from the manu bar.
 
 ## Task Management
-*Task managers to help get things done.*
 
 - [Fokus](http://www.fohkuhs.com) - A Beautiful Focus Timer.
 - [JustFocus](http://climstudio.com/justfocus/) - Focus on What's Important.
@@ -639,7 +604,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Trello](http://labs.pierreorsander.com/trelloapp/) - A simple Trello client.
 
 ## Terminal
-*Awesome command-line tools*
 
 - [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century. ![Open Source][oss]
 - [Electerm](https://github.com/electerm/electerm/) - Terminal/ssh/serial port/sftp client. ![Open Source][oss]
@@ -649,7 +613,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS! ![Open Source][oss]
 
 ## Text Editors
-*Text Editors.*
 
 - [BBEdit](https://www.barebones.com/products/bbedit/) - It dosen't suck. ![Dollar][mon]
 - [CotEditor](https://coteditor.com/) - The plain-text editor for macOS. ![Open Source][oss]
@@ -667,7 +630,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [TextExpander](https://textexpander.com) - Expand keystrokes into frequently-used text and pictures. ![Dollar][mon]
 
 ## Web Browsers
-*The best web brwosers for OS X.*
 
 - [Brave](https://brave.com/) - On a mission to fix the web.
 - [Browserosaurus](https://browserosaurus.com/) - The browser prompter for macOS.
@@ -710,7 +672,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [mpv](https://mpv.io/) - A free, open source, and cross-platform media player. ![Open Source][oss]
 
 ## Virtualization
-*Virtualization tools.*
 
 - [MultiPass](https://multipass.run/) - A mini-cloud on your Mac or Windows workstation.
 - [Parallels Desktop](http://www.parallels.com) - Run Windows apps without rebooting. ![Dollar][mon]
