@@ -533,9 +533,11 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Source Control
 
+- [Aurees](https://aurees.com/) - A Git client for Windows, Mac and Linux.
 - [Fork](https://git-fork.com/) - A fast and friendly git client for Mac. ![Open Source][oss]
 - [Fuel](https://fuel-scm.org/fossil/index) -  Front-end for the Fossil SCM. ![Open Source][oss]
 - [Git Bar](https://github.com/Shikkic/gitbar) - Github contribution stats on your MacOS Menu Bar.
+- [GitBlade](https://gitblade.com/) - An elegant Git client for macOS.
 - [Gitea](https://gitea.io/en-US/) - A painless self-hosted Git service. ![Open Source][oss]
 - [GitFinder](https://gitfinder.com/) - Git client for Mac with Finder integration. ![Dollar][mon]
 - [GitHub Desktop](https://desktop.github.com/) - The official GitHub client for MacOS.
