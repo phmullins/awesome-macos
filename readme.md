@@ -283,6 +283,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Doomseeker](https://doomseeker.drdteam.org/) - Cross-platform server browser for Doom.
 - [DOSBox](https://www.dosbox.com) - DOS emulation for macOS.
+- [Epic Games Launcher](https://www.epicgames.com/store) - Game client.
 - [GZDoom](https://zdoom.org/index) - A Doom source port for the modern era. ![Open Source][oss]
 - [OpenEmu](https://openemu.org/) - Video game emulation. ![Open Source][oss]
 - [ReDoomEd](http://twilightedge.com/mac/redoomed/) - Port of “DoomEd”, id Software’s Doom map editor for NeXTSTEP (1993).
@@ -645,6 +646,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/) - Chromium-based version of Microsoft Edge (Beta).
 - [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser.
 - [Safari Technology Preview](https://developer.apple.com/safari/) - The newest browser tech from Apple.
+- [Sizzy](https://sizzy.co/) - The browser for developers.
 - [Vivaldi](https://vivaldi.com/) - A Browser for Our Friends.
 - [Waterfox](https://www.waterfox.net/) - Browse the web YOUR way.
 - [WebKit](https://webkit.org/) - A fast, open source web browser engine. ![Open Source][oss]
