@@ -25,6 +25,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Electronic Books](#electronic-books)
 - [File Synchronization](#file-synchronization)
 - [File Management](#file-management)
+- [Fonts](#fonts)
 - [FTP Clients](#ftp-clients)
 - [Games](#games)
 - [Graphics](#graphics)
@@ -48,6 +49,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Programming Utilities](#programming-utilities)
 - [Remote Administration](#remote-administration)
 - [Science](#science)
+- [Screen Savers](#screen-savers)
 - [Security](#security)
 - [Search Utilities](#search-utilities)
 - [Social Media](#social-media)
@@ -88,6 +90,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Slik](https://apps.inspira.io/en/slik/) - Fast app launcher and web app organizer. ![Dollar][mon]
 - [Start](https://start.innovative-bytes.net/) - A superior way to launch applications. ![Dollar][mon]
 - [Quicksilver](https://qsapp.com/) - Application launcher and much more. ![Open Source][oss]
+- [Ueli](https://ueli.app) - A keystroke launcher for Windows and macOS. ![Open Source][oss]
 - [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers. ![Open Source][oss]
 
 ## Audio Players
@@ -104,6 +107,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Swinsian](https://swinsian.com/) - The Advanced Music Player for Mac. ![Dollar][mon]
 - [Tidal](https://offer.tidal.com/download) - Music streaming service.
 - [Tiny Player](http://www.catnapgames.com/tiny-player-for-mac/) - Tiny FLAC/AAC/MP3/WAV Player.
+- [Winds](https://getstream.io/winds/) - A Beautiful Open Source RSS & Podcast App. ![Open Source][oss]
 
 ## Audio Utilities
 
@@ -117,6 +121,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor. ![Dollar][mon]
 - [ocenaudio](https://www.ocenaudio.com/en) - Easy, fast and powerful audio editor
 - [Piezo](https://rogueamoeba.com/piezo/) - Charmingly simple audio recording. ![Dollar][mon]
+- [Samplr for Touchbar](http://samplr.net/touchbar/) - Demo of Samplr for the MacBook Touch Bar.
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Last.fm scrobbler for the Shazam Mac app. ![Open Source][oss]
 - [Sound Source](https://rogueamoeba.com/soundsource/) - Superior Sound Control. ![Dollar][mon]
 - [TunesArt](https://www.jibapps.com/apps/tunesart/) - Display a gorgeous album cover on your desktop. ![Dollar][mon]
@@ -127,6 +132,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Arq](https://www.arqbackup.com/) - Backup your files to Google Drive, Amazon Glacier, SFTP, and more. ![Dollar][mon]
 - [Arq Cloud Backup](https://www.arqbackup.com/arqcloudbackup/) - Backs up all your files automatically. ![Dollar][mon]
 - [Carbon Copy Cloner](http://bombich.com/) - Create a bit-perfect clone of your Mac's hard drive. ![Dollar][mon]
+- [Freeze](https://www.freezeapp.net/) - Amazon Glacier for your Mac. ![Dollar][mon]
 - [Rclone](http://rclone.org/) - Sync files and directories to and from multiple services. ![Open Source][oss]
 
 ## Calendar Applications
@@ -168,6 +174,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [SubEthaEdit 5](https://subethaedit.net/) - Code, Write, Edit. Together. ![Open Source][oss]
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. ![Dollar][mon]
 - [Textmate](https://github.com/textmate/textmate) - Powerful and customizable text editor. ![Open Source][oss]
+- [VimR](https://github.com/qvacua/vimr) - Neovim GUI for macOS. ![Open Source][oss]
 - [Visual Studio Code](https://code.visualstudio.com/) - Excellent cross-platform text editor from Microsoft. ![Open Source][oss]
 - [Xcode](https://developer.apple.com/xcode/) - Apple's Swift/Objective-C development environment.
 
@@ -176,6 +183,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Couleurs](http://couleursapp.com/) - A simple but powerful color grabber.
 - [Color Picker Plus](https://github.com/viktorstrate/color-picker-plus) - An Improved Color Picker for macOS. ![Open Source][oss]
 - [ColorSlurp](http://colorslurp.com/) - The best Mac color picker in the universe!
+- [Pastel](https://apps.apple.com/us/app/id413897608) - Beautiful color palettes.
 - [Sip](http://sipapp.io/) - Collect, organize & share your colors. ![Dollar][mon]
 
 ## Communication
@@ -195,6 +203,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Keka](https://www.keka.io/en/) - MacOS file archiver. Store more, share with privacy. ![Open Source][oss]
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for MacOS' default compression app.
 - [p7zip](http://p7zip.sourceforge.net/) - Open Source port of 7-Zip for POSIX systems. ![Open Source][oss]
+- [Zip Cleaner](https://roger-jolly.nl/software/#zipcleaner) - Remove DS_Store, Icon^M and __MACOSX from archives. ![Open Source][oss]
 
 ## Databases
 
@@ -272,6 +281,10 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Trickster](https://www.apparentsoft.com/trickster) - Your recently used files, at your fingertips. ![Dollar][mon]
 - [fman](https://fman.io/) - Dual-pane file manager for Mac. ![Dollar][mon]
 
+## Fonts
+
+- [FontForge](https://fontforge.org/en-US/) - Free and open source font editor. ![Open Source][oss]
+
 ## FTP Clients
 
 - [Cyberduck](https://cyberduck.io/) - A libre server and cloud storage browser for Mac.
@@ -297,6 +310,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Gifox](https://gifox.io/) - Delightful GIF Recording and Sharing App.
 - [Icon Jar](https://geticonjar.com) - Store all your icons in one place. ![Dollar][mon]
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. ![Open Source][oss]
+- [Image2icon](http://www.img2icnsapp.com/) - Create and personalize icons from your pictures.
 - [Kap](https://getkap.co/) - Capture your screen. ![Open Source][oss]
 - [Storyboarder](https://wonderunit.com/storyboarder/) - The best way to visualize your story.
 
@@ -312,14 +326,19 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Image Viewers
 
 - [Eagle](https://eagle.cool/) - Photo viewer, manager, and organizer. ![Dollar][mon]
-- [Pixave](http://www.littlehj.com/mac/) - The ultimate image viewer and organizer. ![Dollar][mon]
+- [Phew](https://sveinbjorn.org/phew) - An open-source FLIF image viewer and QuickLook plugin for macOS. ![Open Source][oss]
+- [Phiewer](https://phiewer.com/) - The easiest and fastest way to view your images.
+- [PikoPixel](http://twilightedge.com/mac/pikopixel/) -  Pixel-art editor. ![Open Source][oss]
 - [PhotoMD-lite](https://apps.apple.com/us/app/photomd-lite/id1519298602?mt=12) - View images and EXIF and metadata.
+- [Pixave](http://www.littlehj.com/mac/) - The ultimate image viewer and organizer. ![Dollar][mon]
 - [Spect](http://spect-app.com/) - Fast image browser and organizer. ![Dollar][mon]
 - [Xee](https://theunarchiver.com/xee) - Super fast image viewer. ![Dollar][mon]
 
 ## Internet
 
+- [Castor](https://sr.ht/~julienxx/Castor/) - A Browser for the small internet (Gemini, Gopher, Finger). ![Open Source][oss]
 - [Freenet](https://freenetproject.org/) - Peer-to-peer platform for censorship-resistant communication and publishing. ![Open Source][oss]
+- [Kristall](https://github.com/MasterQ32/kristall) - GUI client for MacOS for gemini, http, https, gopher, finger. ![Open Source][oss]
 
 ## IRC Clients
 
@@ -361,6 +380,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook-Messenger client. ![Open Source][oss]
 - [Keybase Chat](https://keybase.io/download) - Crypto chat for everyone. ![Open Source][oss]    
 - [Monal](https://monal.im/) - Secure XMPP chat client. ![Open Source][oss]
+- [Patchwork](https://github.com/ssbc/patchwork) - Decentralized messaging app built on top of Secure Scuttlebutt (SSB). ![Open Source][oss]
 - [Signal](https://www.signal.org/) - Fast, simple, secure. ![Open Source][oss]
 - [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app. ![Open Source][oss]
 - [Tox](https://tox.chat/) - A New Kind of Instant Messaging. ![Open Source][oss]
@@ -370,16 +390,20 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [AirParrot](https://www.airsquirrels.com/airparrot/) - Streaming and Mirroring for macOS. ![Dollar][mon]
 - [Contexts](https://contexts.co/) - Radically simpler & faster window switcher.
+- [FS-UAE](https://fs-uae.net/) - Amiga Emulator. ![Open Source][oss]
+- [Glance](https://github.com/samuelmeuli/glance) - All-in-one Quick Look plugin. ![Open Source][oss]
 - [Hackintool](https://github.com/headkaze/Hackintool) - The Swiss army knife of vanilla Hackintoshing. ![Open Source][oss]
 - [ha-menu](https://github.com/codechimp-org/ha-menu/) - Perform common Home Assistant functions. ![Open Source][oss]
 - [Mactracker](https://mactracker.ca/) - Detailed information on every Apple product.
 - [Micro.blog](https://s3.amazonaws.com/micro.blog/mac/Micro.blog_1.9.zip) - The official macOS version of Micro.blog.
+- [Middle](https://middleclick.app/) - Add middle click to your Mac. ![Dollar][mon]
 - [NetNewsWire](https://ranchero.com/netnewswire/) - More news, less junk. Faster.
-- [FS-UAE](https://fs-uae.net/) - Amiga Emulator. ![Open Source][oss]
+- [PiBakery](https://www.pibakery.org/) - The easiest way to setup a Raspberry Pi.
 - [Reeder 3](https://www.reederapp.com/mac/) - The best news reader for macOS. ![Dollar][mon]
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![Open Source][oss]
 - [Sugarmate](https://sugarmate.io/) - A new way to manage your diabetes. 
 - [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
+- [Wintertime](https://github.com/actuallymentor/wintertime-mac-background-freezer) - Background App Freezer for macOS. ![Open Source][oss]
 
 ## Networking Applications
 
@@ -395,10 +419,15 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Shuttle](http://fitztrev.github.io/shuttle/) - A simple SSH shortcut menu for macOS. ![Open Source][oss]
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS. ![Open Source][oss]
 - [SSH Copy](https://codinn.com/products/ssh-copy/) - Manage remote files with ease. ![Dollar][mon]
+- [SSH Tunnel Manager](https://www.tynsoe.org/v2/stm/) - Manage your SSH tunnels.
 - [Surge](http://nssurge.com/) - Advanced Web Debugging Proxy for macOS & iOS. ![Dollar][mon]
+- [SwitchHosts](https://oldj.github.io/SwitchHosts/) - Hosts management & switching. ![Open Source][oss]
 - [Transmission](https://transmissionbt.com/download/) - Easy, free BitTorrent client. ![Open Source][oss]
+- [Transfer](https://www.intuitibits.com/products/transfer/) - TFTP server for your Mac. ![Dollar][mon]
 - [WebTorrent](https://webtorrent.io/desktop/) - Streaming torrent app.
 - [WhatRoute](https://www.whatroute.net/) - Graphical IP tracer.
+- [WiFi Explorer](https://www.intuitibits.com/products/wifi-explorer/) - Wi-Fi discovery and troubleshooting. ![Dollar][mon]
+- [WiFi Signal](https://www.intuitibits.com/products/wifi-signal/) - Monitor your Wi-Fi connection. ![Dollar][mon]
 
 ## Notes
 
@@ -444,6 +473,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [LastPass](https://www.lastpass.com/) - Simplify your life. Free & ![Dollar][mon]
 - [MacPass](https://macpassapp.org/) - A native MacOS KeePass client. ![Open Source][oss]
 - [Passifox](https://github.com/pfn/passifox) - Auto form-fill passwords from KeePass. ![Open Source][oss]
+- [Pastor](https://mehlau.net/pastor/) - Free password manager for macOS.
 - [QtPass](https://qtpass.org/) - QtPass is a multi-platform GUI for pass. ![Open Source][oss]
 - [RememBear](https://www.remembear.com/) - Secure and remember all your passwords...with a Bear. ![Dollar][mon]
 - [RoboForm](https://www.roboform.com/) - Protect Your Passwords. ![Dollar][mon]
@@ -459,7 +489,8 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Programming Languages
 
 - [Elixir](https://elixir-lang.org/) - A dynamic, functional language. ![Open Source][oss]
-- [go](https://golang.org/) - An open source programming language from Google.
+- [Go](https://golang.org/) - An open source programming language from Google.
+- [Janet Language](https://janet-lang.org/) - A functional and imperative programming language. ![Open Source][oss]
 - [Kotlin](http://kotlinlang.org/) - Concise, simple and very easy to read (and write). ![Open Source][oss]
 - [newLISP](http://www.newlisp.org/) - Lisp-like, general-purpose scripting language. ![Open Source][oss]
 - [Python](https://www.python.org/) - Work quickly and integrate systems more effectively. ![Open Source][oss]
@@ -477,13 +508,16 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Diff manager for MacOS. ![Dollar][mon]
 - [Matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go. ![Open Source][oss]
 - [Mockoon](https://mockoon.com/) - Mock API in seconds. ![Open Source][oss]
+- [Pashua](https://github.com/BlueM/Pashua) - Native macOS dialogs for scripting languages. ![Open Source][oss]
 - [Paw](https://paw.cloud/) - The most advanced API tool for Mac. ![Dollar][mon]
+- [Pixelsnap](https://getpixelsnap.com/) - Fastest tool for measuring anything on your screen. ![Dollar][mon]
 - [Platypus](http://sveinbjorn.org/platypus) - Create MacOS applications from Bash scripts.
 - [Postman](https://www.postman.com/) - Collaboration Platform for API Development.
 - [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets. ![Dollar][mon]
 - [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook. ![Dollar][mon]
 - [SnippetsLab](http://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager. ![Dollar][mon]
 - [Stoplight Studio](https://stoplight.io/studio/) - Design APIs 10x faster with our free OpenAPI editor. ![Open Source][oss]
+- [Yo](https://github.com/sheagcraig/yo) - Send Notification Center messages from the command-line. ![Open Source][oss] 
 
 ## Remote Administration
 
@@ -500,6 +534,11 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [RStudio](https://rstudio.com/) - Professional software for data science. ![Open Source][oss]
 - [SciLab](https://www.scilab.org/) - Open source software for numerical computation. ![Open Source][oss]
 
+## Screen Savers
+
+- [Wonderful-Tools-Screensaver](https://github.com/aidev1065/Wonderful-Tools-Screensaver/) - Screensaver based on Apple's September Event 2019. ![Open Source][oss]
+- [XScreenSaver](https://www.jwz.org/xscreensaver/) - Collection of free screen savers for macOS. 
+ 
 ## Search Utilities
 
 - [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
@@ -539,17 +578,23 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Fuel](https://fuel-scm.org/fossil/index) -  Front-end for the Fossil SCM. ![Open Source][oss]
 - [Git Bar](https://github.com/Shikkic/gitbar) - Github contribution stats on your MacOS Menu Bar.
 - [GitBlade](https://gitblade.com/) - An elegant Git client for macOS.
+- [GitBox](http://gitboxapp.com/) - Version control as easy as mail. ![Dollar][mon]
 - [Gitea](https://gitea.io/en-US/) - A painless self-hosted Git service. ![Open Source][oss]
 - [GitFinder](https://gitfinder.com/) - Git client for Mac with Finder integration. ![Dollar][mon]
 - [GitHub Desktop](https://desktop.github.com/) - The official GitHub client for MacOS.
 - [GithubPulse](https://github.com/tadeuzagallo/GithubPulse) - Remember to contribute every day. ![Open Source][oss]
 - [GitFiend](https://gitfiend.com/overview) - A Git client designed for humans.
+- [GitFinder](https://gitfinder.com/) - Git client for Mac with Finder integration. ![Dollar][mon]
 - [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client.
+- [GitPigeon](https://www.gitpigeon.com/) - GitHub notifications delivered to your Mac.
 - [Gitscout](https://gitscout.com/) - A beautiful GitHub Issues experience for MacOS.
+- [Gitee](https://github.com/Nightonke/Gitee) - macOS status bar application for Github. ![Open Source][oss]
+- [GitX](http://gitx.frim.nl/index.html) - Git GUI made for MacOS. ![Open Source][oss]
 - [SourceTree](https://www.sourcetreeapp.com/) - Easy way to work with Git and Mercurial.
 - [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. ![Open Source][oss]
 - [Thermal](https://thermal.codecarrot.net/) - All-in-one place to manage your Git repository. ![Open Source][oss]
 - [Tower](http://www.git-tower.com/) - Advanced Git version control. ![Dollar][mon]
+- [Xit](https://github.com/Uncommon/Xit) - macOS Git GUI. ![Open Source][oss]
 
 ## System Maintenance
 
@@ -571,7 +616,8 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Bunch](https://brettterpstra.com/projects/bunch/) - A Batch Application Launcher for your Dock.
 - [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode. ![Open Source][oss]
 - [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks. ![Open Source][oss]
-- [coconutBattery 3](https://www.coconut-flavour.com/coconutbattery/) - The standard for battery reading since 2005. ![Dollar][mon] 
+- [CoconutBattery 3](https://www.coconut-flavour.com/coconutbattery/) - The standard for battery reading since 2005. ![Dollar][mon] 
+- [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/#) - Keyboard-centric application and window switcher. ![Dollar][mon]
 - [Core Shell](https://coreshell.app/) - A terminal to make your SSH life easy. Free & ![Dollar][mon]
 - [CustomShortcuts](https://www.houdah.com/customShortcuts/) - Customize Mac Menu Keyboard Shortcuts.
 - [Dat](https://datproject.org/) - Distributed data sharing tool. ![Open Source][oss]
@@ -580,6 +626,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. ![Open Source][oss]
 - [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
 - [Gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for MacOS. ![Open Source][oss]
+- [GeekTool](https://www.tynsoe.org/v2/geektool/) - Customize your desktop. 
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss]
 - [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services. ![Open Source][oss]
 - [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
@@ -596,8 +643,11 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Stats](https://github.com/exelban/stats) - Simple macOS system monitor in your menu bar. ![Open Source][oss]
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/index.html) - Remove unwanted packages from MacOS. ![Dollar][mon]
 - [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
+- [WhichSpace](https://github.com/gechr/WhichSpace) - Active space menu bar icon for macOS. ![Open Source][oss]
 - [Witch](https://manytricks.com/witch/) - ⌘-Tab Everything. ![Dollar][mon]
+- [xBench](http://xbench.com/) - The Only Benchmark You'll Ever Need.
 - [XMenu](https://www.devontechnologies.com/apps/freeware) - Directly access all your apps from the manu bar.
+- [Xrg](https://gaucho.software/Products/XRG/) - An open source system monitor for macOS. ![Open Source][oss]
 
 ## Task Management
 
@@ -657,8 +707,11 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [BetterSnapTool](https://folivora.ai/bettersnaptool/) - Sasily manage your window positions. ![Dollar][mon]
 - [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS. ![Dollar][mon]
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows.
+- [Penc](https://deniz.co/penc/) - Trackpad-oriented window manager for macOS. ![Open Source][oss]
+- [Phoenix](https://github.com/kasper/phoenix/) - A lightweight window and app manager scriptable with JavaScript. ![Open Source][oss]
 - [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS. 
 - [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease.
+- [windOCD](https://windocd.myownapp.com/) - Align, arrange, and restore App Windows easily & automated. ![Dollar][mon]
 
 ## Writing
 
@@ -677,6 +730,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS. ![Open Source][oss]
 - [MakeMKV](https://www.makemkv.com/) - Rip DVD and Blu-ray discs. ![Dollar][mon]
 - [mpv](https://mpv.io/) - A free, open source, and cross-platform media player. ![Open Source][oss]
+- [Yoda](http://whoisandy.github.io/yoda/) - Browse and download YouTube videos. ![Open Source][oss]
 
 ## Virtualization
 
