@@ -687,6 +687,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Web Browsers
 
+- [Basilisk](https://www.basilisk-browser.org/) - A XUL-based web-browser.
 - [Brave](https://brave.com/) - On a mission to fix the web.
 - [Browserosaurus](https://browserosaurus.com/) - The browser prompter for macOS.
 - [Cliqz](https://cliqz.com/en/) - The no-compromise browser.
