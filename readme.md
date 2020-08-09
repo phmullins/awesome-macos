@@ -377,6 +377,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Messenger Applications
 
+- [Cabal](https://cabal.chat/) - Experimental p2p community chat platform.
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook-Messenger client. ![Open Source][oss]
 - [Keybase Chat](https://keybase.io/download) - Crypto chat for everyone. ![Open Source][oss]    
 - [Monal](https://monal.im/) - Secure XMPP chat client. ![Open Source][oss]
