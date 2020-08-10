@@ -189,9 +189,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Communication
 
 - [Chime](https://chime.aws/) - Amazon Chime communications service. ![Dollar][mon]
-- [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers. ![Open Source][oss]
 - [Feishu](https://www.feishu.cn/en/) - The Only All-in-One Platform You Will Ever Need.
-- [Gitter](https://gitter.im/) - A chat and networking platform. ![Open Source][oss]
 - [Loom](https://www.loom.com/) - Take back your time.
 - [Screen](https://screen.so/#/home) - Work together like you’re in the same room.
 - [Slack](https://slack.com/) - Team-based collaboration tool.
@@ -379,9 +377,12 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Cabal](https://cabal.chat/) - Experimental p2p community chat platform.
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook-Messenger client. ![Open Source][oss]
+- [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers. ![Open Source][oss]
+- [Gitter](https://gitter.im/) - A chat and networking platform. ![Open Source][oss]
 - [Keybase Chat](https://keybase.io/download) - Crypto chat for everyone. ![Open Source][oss]    
 - [Monal](https://monal.im/) - Secure XMPP chat client. ![Open Source][oss]
 - [Patchwork](https://github.com/ssbc/patchwork) - Decentralized messaging app built on top of Secure Scuttlebutt (SSB). ![Open Source][oss]
+- [Ripcord](https://cancel.fm/ripcord/) - Desktop chat client for Slack (and Discord). ![Dollar][mon]
 - [Signal](https://www.signal.org/) - Fast, simple, secure. ![Open Source][oss]
 - [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app. ![Open Source][oss]
 - [Tox](https://tox.chat/) - A New Kind of Instant Messaging. ![Open Source][oss]
