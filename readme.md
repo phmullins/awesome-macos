@@ -100,7 +100,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Cog](http://cogx.org/) - Audio player similar to Foobar 2000. ![Open Source][oss]
 - [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS.
 - [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files. ![Dollar][mon]
-- [Idagio](https://www.idagio.com/us/) - Classical Music Streaming.
+- [Idagio](https://about.idagio.com) - Streaming, reinvented for classical music.
 - [Mous](https://github.com/bsdelf/mous) - Powerful audio player & converter for FreeBSD/Linux/macOS. ![Open Source][oss]
 - [Sonos](https://www.sonos.com) - Wireless Home Sound System.
 - [Soundcleod](https://soundcleod.com/) - SoundCloud for macOS. ![Open Source][oss]
