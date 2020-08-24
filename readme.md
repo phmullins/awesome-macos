@@ -412,7 +412,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Airtool](https://www.intuitibits.com/products/airtool/) - Capture Wi-Fi traffic Like a Pro.
 - [Caddy](https://caddyserver.com/) - The HTTP/2 web server with automatic HTTPS.
 - [Core Tunnel](https://coretunnel.app/) - Tunnel management made easy. ![Dollar][mon]
-- [DNSCrypt](https://github.com/alterstep/dnscrypt-osxclient) -  Control the DNSCrypt Proxy. ![Open Source][oss]
+- [DNSCrypt](https://github.com/alterstep/dnscrypt-osxclient) - Control the DNSCrypt Proxy. ![Open Source][oss]
 - [Fenix](https://fenixwebserver.com/) - Simple static desktop web server. ![Open Source][oss]
 - [iStumbler](https://istumbler.net/index.html) - Wireless Intelligence. ![Dollar][mon]
 - [Murus](http://www.murusfirewall.com/) - A GUI for the MacOS PF firewall. Free & ![Dollar][mon]
@@ -426,6 +426,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [SwitchHosts](https://oldj.github.io/SwitchHosts/) - Hosts management & switching. ![Open Source][oss]
 - [Transmission](https://transmissionbt.com/download/) - Easy, free BitTorrent client. ![Open Source][oss]
 - [Transfer](https://www.intuitibits.com/products/transfer/) - TFTP server for your Mac. ![Dollar][mon]
+- [Usenapp](https://www.usenapp.com/) - The most complete usenet client for macOS. ![Dollar][mon]
 - [WebTorrent](https://webtorrent.io/desktop/) - Streaming torrent app.
 - [WhatRoute](https://www.whatroute.net/) - Graphical IP tracer.
 - [WiFi Explorer](https://www.intuitibits.com/products/wifi-explorer/) - Wi-Fi discovery and troubleshooting. ![Dollar][mon]
@@ -561,6 +562,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [ReiKey](https://objective-see.com/products/reikey.html) - Scan and detect key loggers.
 - [Santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for macOS. ![Open Source][oss]
 - [Secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave. ![Open Source][oss]
+- [Security Growler](https://pirate.github.io/security-growler/) - Notifies you whenever security events occur on your machine. ![Open Source][oss]
 - [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all the tasks (processes) running on your Mac.
 - [TunnelBear](https://www.tunnelbear.com/) - A more secure way to browse the web. ![Dollar][mon]
 
@@ -661,7 +663,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Tracktiq](http://www.tracktiq.com/) - Easy time tracking. ![Dollar][mon]
 - [Trello](http://labs.pierreorsander.com/trelloapp/) - A simple Trello client.
 
-## Terminal
+## Terminals
 
 - [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century. ![Open Source][oss]
 - [Electerm](https://github.com/electerm/electerm/) - Terminal/ssh/serial port/sftp client. ![Open Source][oss]
@@ -724,6 +726,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [iAWriter](https://ia.net/writer/) - Designed to provide the best digital writing experience. ![Dollar][mon]
 - [Nisus Thesaurus](https://www.nisus.com/Thesaurus/) - Free Thesaurus for macOS.
 - [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers. ![Dollar][mon]
+- [Storyist](https://www.storyist.com/mac/) - Full-Featured Word Processor. ![Dollar][mon]
 - [Ulysses](https://ulyssesapp.com/) - The Ultimate Writing App for Mac, iPad and iPhone. ![Dollar][mon]
 - [Taskade](https://apps.apple.com/us/app/taskade-manage-anything/id1490048917) - Free writing tool for outlining notes, managing tasks, and getting things done together in realtime.
 
