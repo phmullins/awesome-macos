@@ -358,8 +358,10 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document/Note manager. ![Dollar][mon]
 - [DEVONsphere Express](https://www.devontechnologies.com/products/devonsphere/devonsphere-express.html) ![Dollar][mon]
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS. ![Open Source][oss]
+- [Keep It](https://reinventedsoftware.com/keepit/) - Write notes, keep things, and find them again. ![Dollar][mon]
 - [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized. ![Open Source][oss]
 - [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
+- [Yojimbo](http://www.barebones.com/products/Yojimbo/) - Effortless, reliable information organizer for macOS. ![Dollar][mon]
 
 ## Markdown Editors
 
@@ -539,6 +541,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Screen Savers
 
+- [Ariel](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS. ![Open Source][oss]
 - [Wonderful-Tools-Screensaver](https://github.com/aidev1065/Wonderful-Tools-Screensaver/) - Screensaver based on Apple's September Event 2019. ![Open Source][oss]
 - [XScreenSaver](https://www.jwz.org/xscreensaver/) - Collection of free screen savers for macOS. 
  
@@ -611,6 +614,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## System Tools
 
+- [ActiveDock](https://noteifyapp.com/activedock/) - Customizable dock for macOS. ![Dollar][mon]
 - [AltTab](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS
 - [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS. ![Open Source][oss]
 - [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac) - Detailed battery information for your MacBook, iPhone & iPad. ![Dollar][mon]
