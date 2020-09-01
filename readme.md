@@ -392,6 +392,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Miscellaneous
 
+- [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator. ![Open Source][oss]
 - [AirParrot](https://www.airsquirrels.com/airparrot/) - Streaming and Mirroring for macOS. ![Dollar][mon]
 - [Contexts](https://contexts.co/) - Radically simpler & faster window switcher.
 - [FS-UAE](https://fs-uae.net/) - Amiga Emulator. ![Open Source][oss]
@@ -526,7 +527,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Remote Administration
 
-- [AnyDesk](https://anydesk.com/remote-desktop) - Your desk @ any desk. Free & ![Dollar][mon]
+- [AnyDesk](https://anydesk.com/en) - AnyWhere. AnyTime. AnyDesk. Free & ![Dollar][mon]
 - [Jump Desktop](http://jumpdesktop.com/) - Secure RDP & VNC client. ![Dollar][mon]
 - [NoMachine](https://www.nomachine.com/) - Remote desktop connections.
 - [remote-desktop-manager](https://remotedesktopmanager.com/) - Remote Connections & Passwords. Everywhere! ![Dollar][mon]
