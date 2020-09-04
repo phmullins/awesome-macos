@@ -471,6 +471,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Bitwarden](https://bitwarden.com/) - Solve your password management problems.
 - [Buttercup](https://buttercup.pw) - The Password Manager You Deserve. ![Open Source][oss]
 - [Dashlane](https://www.dashlane.com/) - Never forget another password. Free & ![Dollar][mon]
+- [Elpass](https://elpass.app/) - Your all-in-one password manager. ![Dollar][mon]
 - [Enpass](https://www.enpass.io/) - A secure vault for storing everything in one place. Desktop: Free. Mobile: ![Dollar][mon]
 - [Kaspersky Password Manager](https://usa.kaspersky.com/password-manager) - Password Manager.
 - [KeepassX](https://www.keepassx.org/) - Open Source password manager. ![Open Source][oss]
@@ -686,6 +687,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Lime](http://limetext.org/) - Open Source, Elegant, and Free Text Editor. ![Open Source][oss]
 - [Noto](https://www.brunophilipe.com/software/noto/) - The themeable, plain-text editor for macOS. ![Open Source][oss]
 - [SubEthaEdit 5](https://subethaedit.net/) - Code, Write, Edit. Together.
+- [vimac](https://vimacapp.com/) - Vimium for macOS. ![Open Source][oss]
 
 ## Text Expanders
 
@@ -745,6 +747,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Virtualization
 
+- [Mini vMac](https://www.gryphel.com/c/minivmac/) - A miniature early Macintosh emulator.
 - [MultiPass](https://multipass.run/) - A mini-cloud on your Mac or Windows workstation.
 - [Parallels Desktop](http://www.parallels.com) - Run Windows apps without rebooting. ![Dollar][mon]
 - [Veertu](https://veertu.com/) - Native Virtualization For macOS. ![Dollar][mon]
