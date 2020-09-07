@@ -146,6 +146,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Cleanup
 
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A macOS system analyser and cleaner.
+- [Daisy Disk](https://daisydiskapp.com/) - What’s taking up your disk space? ![Dollar][mon]
 - [Disk Doctor](https://fiplab.com/apps/disk-doctor-for-mac) - Removes tons of unneeded files. ![Dollar][mon]
 - [Duplicate Detective](https://fiplab.com/apps/duplicate-detective-for-mac) - Remove duplicate files from your Mac. ![Dollar][mon]
 - [Monolingual](http://ingmarstein.github.io/Monolingual/) - Frees up disk space by removing unused languages files. ![Open Source][oss]
@@ -609,7 +610,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Avast Cleanup Pro for Mac](https://www.avast.com/cleanup-mac) - Every Mac needs a clean up. Every day. ![Dollar][mon]
 - [AVG TuneUp](https://www.avg.com/en-us/avg-tuneup-for-mac) - Speed up, clean up and fix your Mac. ![Dollar][mon]
-- [Cocktail](https://www.maintain.se/cocktail/) - A perfect mixture for macOS. ![Dollar][mon]
+- [Cocktail](https://www.maintain.se/cocktail/) - Clean, repair and optimize your Mac. ![Dollar][mon]
 - [OmniDiskSweeper](https://www.omnigroup.com/more) - Quickly find large, unwanted files.
 - [Onyx](https://www.titanium-software.fr/en/onyx.html) - Maintain your Mac for free.
 - [Sensei](https://sensei.app/) - The Next Generation Mac performance tool. ![Dollar][mon] 
