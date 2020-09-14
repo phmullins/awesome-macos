@@ -102,6 +102,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files. ![Dollar][mon]
 - [Idagio](https://about.idagio.com) - Streaming, reinvented for classical music.
 - [Mous](https://github.com/bsdelf/mous) - Powerful audio player & converter for FreeBSD/Linux/macOS. ![Open Source][oss]
+- [SIDPLAY](http://www.sidmusic.org/sidplay/mac/) - A Commodore 64 music player. ![Open Source][oss]
 - [Sonos](https://www.sonos.com) - Wireless Home Sound System.
 - [Soundcleod](https://soundcleod.com/) - SoundCloud for macOS. ![Open Source][oss]
 - [Swinsian](https://swinsian.com/) - The Advanced Music Player for Mac. ![Dollar][mon]
