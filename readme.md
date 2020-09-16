@@ -138,7 +138,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Calendar Applications
 
-- [BusyCal](https://www.busymac.com/busycal/index.html) - The most powerful calendar app for macOS. ![Dollar][mon]
+- [BusyCal 3](https://busymac.com/busycal) - Powerful calendar app for macOS. ![Dollar][mon]
 - [Day-O](https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Simple menu bar clock replacement.
 - [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without. ![Dollar][mon]
 - [Informant](https://www.pocketinformant.com/products/mac-organizer-app/) - The best calendar app for macOS. ![Dollar][mon]
@@ -244,6 +244,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Email
 
 - [Canary](https://canarymail.io/) - Secure Email App for Mac and iPhone. ![Dollar][mon]
+- [MailMate](https://freron.com/) - IMAP email client for macOS. ![Dollar][mon]
 - [Polymail](https://polymail.io/) - Simple, beautiful, powerful e-mail. ![Dollar][mon]
 - [Postbox](https://www.postbox-inc.com/) - Powerful and flexible email client. ![Dollar][mon]
 - [Spark](https://sparkmailapp.com/) - Email client for Apple devices.
@@ -675,10 +676,12 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century. ![Open Source][oss]
 - [Electerm](https://github.com/electerm/electerm/) - Terminal/ssh/serial port/sftp client. ![Open Source][oss]
+- [Extraterm](https://extraterm.org/) - The swiss army chainsaw of terminal emulators. ![Open Source][oss]
 - [Hyper](https://hyper.is/) - A JS/HTML/CSS Terminal. ![Open Source][oss]
 - [iTerm 2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm. ![Open Source][oss]
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. ![Open Source][oss]
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS! ![Open Source][oss]
+- [Terminus](https://eugeny.github.io/terminus/) - A terminal for a more modern age. ![Open Source][oss] 
 
 ## Text Editors
 
