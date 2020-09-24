@@ -12,6 +12,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Backups](#backups)
 - [Calendar Applications](#calendar-applications)
 - [Cleanup](#cleanup)
+- [Clipboard Managers](#clipboard-managers)
 - [Cloud Storage](#cloud-storage)
 - [Code Editors](#code-editors)
 - [Color Pickers](#color-pickers)
@@ -153,6 +154,10 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Monolingual](http://ingmarstein.github.io/Monolingual/) - Frees up disk space by removing unused languages files. ![Open Source][oss]
 - [TrashMe](http://www.jibapps.com/en/products/trashme/) - Uninstaller for the Mac with other great useful tools. ![Dollar][mon]
 
+## Clipboard Managers
+
+- [Copied](https://copied.app/) - Clipboard manager for macOS, iOS and iPadOS. ![Dollar][mon] 
+
 ## Cloud Storage
 
 - [Box Sync](https://www.box.com/personal) - Online synchronization tool. Free & ![Dollar][mon]
@@ -166,6 +171,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Code Editors
 
+- [AppCode](https://www.jetbrains.com/objc/) - Smart IDE for iOS/macOS development. ![Dollar][mon]
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century. ![Open Source][oss]
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Open-source Arduino Code Editor. ![Open Source][oss]
 - [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that doesn't suck. ![Dollar][mon]
