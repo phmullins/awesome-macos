@@ -176,6 +176,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Open-source Arduino Code Editor. ![Open Source][oss]
 - [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that doesn't suck. ![Dollar][mon]
 - [Brackets](http://brackets.io/) - Open source text editor that understands web design. ![Open Source][oss]
+- [CLion](https://www.jetbrains.com/clion/) - A cross-platform IDE for C and C++. ![Dollar][mon] 
 - [Coda](https://www.panic.com/coda/) - One-window Web development suite. ![Dollar][mon]
 - [CodeRunner 2](https://coderunnerapp.com/) - Easy-to-use programming editor for your Mac. ![Dollar][mon]
 - [Espresso](https://espressoapp.com/) - Powerful HTML, XML, CSS, and JavaScript development tool. ![Dollar][mon] 
