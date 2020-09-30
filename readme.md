@@ -114,11 +114,12 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Audio Utilities
 
 - [AirFoil](https://rogueamoeba.com/airfoil/) - Hear Your Audio Everywhere. ![Dollar][mon]
+- [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any audio. ![Dollar][mon]
 - [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin. ![Open Source][oss]
 - [eqMac2](https://github.com/nodeful/eqMac2) - System-Wide Equalizer for the Mac. ![Open Source][oss]
 - [Farrago](https://rogueamoeba.com/farrago/) - Robust, rapid-fire soundboards. ![Dollar][mon]
-- [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any audio. ![Dollar][mon]
 - [Fission](https://rogueamoeba.com/fission/) - Fast & lossless audio editing. ![Dollar][mon]
+- [Kid3](https://kid3.kde.org/) - Audio Tagger. ![Open Source][oss]
 - [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac. ![Dollar][mon]
 - [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor. ![Dollar][mon]
 - [ocenaudio](https://www.ocenaudio.com/en) - Easy, fast and powerful audio editor
