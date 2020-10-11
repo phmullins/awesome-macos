@@ -602,7 +602,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [GitBlade](https://gitblade.com/) - An elegant Git client for macOS.
 - [GitBox](http://gitboxapp.com/) - Version control as easy as mail. ![Dollar][mon]
 - [Gitea](https://gitea.io/en-US/) - A painless self-hosted Git service. ![Open Source][oss]
-- [GitFinder](https://gitfinder.com/) - Git client for Mac with Finder integration. ![Dollar][mon]
+- [GitFinder](https://gitfinder.com/) - A fast and lightweight Git client for Mac. ![Dollar][mon]
 - [GitHub Desktop](https://desktop.github.com/) - The official GitHub client for MacOS.
 - [GithubPulse](https://github.com/tadeuzagallo/GithubPulse) - Remember to contribute every day. ![Open Source][oss]
 - [GitFiend](https://gitfiend.com/overview) - A Git client designed for humans.
