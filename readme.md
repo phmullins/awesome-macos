@@ -675,6 +675,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Task Management
 
+- [AnyDo](https://www.any.do/) - Your busy life deserves this. Free & ![Dollar][mon]
 - [Fokus](http://www.fohkuhs.com) - A Beautiful Focus Timer.
 - [JustFocus](http://climstudio.com/justfocus/) - Focus on What's Important.
 - [Kanbanier](http://www.kanbanier.com/en/) - Kanban Boards for macOS.
@@ -691,6 +692,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Hyper](https://hyper.is/) - A JS/HTML/CSS Terminal. ![Open Source][oss]
 - [iTerm 2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm. ![Open Source][oss]
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. ![Open Source][oss]
+- [Kui](https://kui.tools/) - Terminal with visualizations by and for developers. ![Open Source][oss]
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS! ![Open Source][oss]
 - [Terminus](https://eugeny.github.io/terminus/) - A terminal for a more modern age. ![Open Source][oss] 
 
