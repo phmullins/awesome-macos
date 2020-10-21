@@ -148,6 +148,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Cleanup
 
+- [BlueHarvest](https://zeroonetwenty.com/blueharvest/) - Keep your disks clean of macOS metadata. ![Dollar][mon]
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A macOS system analyser and cleaner.
 - [Daisy Disk](https://daisydiskapp.com/) - What’s taking up your disk space? ![Dollar][mon]
 - [Disk Doctor](https://fiplab.com/apps/disk-doctor-for-mac) - Removes tons of unneeded files. ![Dollar][mon]
