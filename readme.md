@@ -566,6 +566,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
 - [HoudahSpot 4](https://www.houdah.com/houdahSpot/) - Powerful File Search for Mac. ![Dollar][mon]
+- [ProFind](https://zeroonetwenty.com/profind/) - Find like a pro. ![Dollar][mon]
 - [Tembo](https://www.houdah.com/tembo/) - Friendly File Search Assistant. ![Dollar][mon]
 
 ## Security
@@ -652,6 +653,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
 - [Gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for MacOS. ![Open Source][oss]
 - [GeekTool](https://www.tynsoe.org/v2/geektool/) - Customize your desktop. 
+- [Übersicht](https://tracesof.net/uebersicht/) - Keep an eye on what is happening on your machine. 
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss]
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep. ![Open Source][oss]
 - [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services. ![Open Source][oss]
@@ -697,6 +699,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Kui](https://kui.tools/) - Terminal with visualizations by and for developers. ![Open Source][oss]
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS! ![Open Source][oss]
 - [Terminus](https://eugeny.github.io/terminus/) - A terminal for a more modern age. ![Open Source][oss] 
+- [ZOC Terminal](https://www.emtec.com/zoc/) - Professional terminal emulation software for macOS. ![Dollar][mon]
 
 ## Text Editors
 
