@@ -586,6 +586,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Security Growler](https://pirate.github.io/security-growler/) - Notifies you whenever security events occur on your machine. ![Open Source][oss]
 - [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all the tasks (processes) running on your Mac.
 - [TunnelBear](https://www.tunnelbear.com/) - A more secure way to browse the web. ![Dollar][mon]
+- [Vallum](https://www.vallumfirewall.com/) - macOS Application Firewall. ![Dollar][mon]
 
 ## Social Media
 
