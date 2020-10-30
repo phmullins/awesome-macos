@@ -428,6 +428,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Networking Applications
 
 - [Airtool](https://www.intuitibits.com/products/airtool/) - Capture Wi-Fi traffic Like a Pro.
+- [Angry IP Scanner](https://angryip.org/) - Cross-platform network scanner. ![Open Source][oss]
 - [Caddy](https://caddyserver.com/) - The HTTP/2 web server with automatic HTTPS.
 - [Core Tunnel](https://coretunnel.app/) - Tunnel management made easy. ![Dollar][mon]
 - [DNSCrypt](https://github.com/alterstep/dnscrypt-osxclient) - Control the DNSCrypt Proxy. ![Open Source][oss]
