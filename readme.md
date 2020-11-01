@@ -344,6 +344,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [PikoPixel](http://twilightedge.com/mac/pikopixel/) -  Pixel-art editor. ![Open Source][oss]
 - [PhotoMD-lite](https://apps.apple.com/us/app/photomd-lite/id1519298602?mt=12) - View images and EXIF and metadata.
 - [Pixave](http://www.littlehj.com/mac/) - The ultimate image viewer and organizer. ![Dollar][mon]
+- [qView](https://github.com/jurplel/qView) - Practical and minimal image viewer. ![Open Source][oss]
 - [Spect](http://spect-app.com/) - Fast image browser and organizer. ![Dollar][mon]
 - [Xee](https://theunarchiver.com/xee) - Super fast image viewer. ![Dollar][mon]
 
