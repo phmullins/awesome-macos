@@ -198,6 +198,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Couleurs](http://couleursapp.com/) - A simple but powerful color grabber.
 - [Color Picker Plus](https://github.com/viktorstrate/color-picker-plus) - An Improved Color Picker for macOS. ![Open Source][oss]
 - [ColorSlurp](http://colorslurp.com/) - The best Mac color picker in the universe!
+- [ColorSnapper 2](https://colorsnapper.com/) - Organize, adjust & export colors with style. ![Dollar][mon] 
 - [Pastel](https://apps.apple.com/us/app/id413897608) - Beautiful color palettes.
 - [Sip](http://sipapp.io/) - Collect, organize & share your colors. ![Dollar][mon]
 
@@ -753,6 +754,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Phoenix](https://github.com/kasper/phoenix/) - A lightweight window and app manager scriptable with JavaScript. ![Open Source][oss]
 - [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS. 
 - [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease.
+- [Tiles](https://www.sempliva.com/tiles/) - The window manager for macOS. ![Open Source][oss]
 - [windOCD](https://windocd.myownapp.com/) - Align, arrange, and restore App Windows easily & automated. ![Dollar][mon]
 
 ## Writing
