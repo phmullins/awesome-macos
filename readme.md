@@ -39,6 +39,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Journaling](#journaling)
 - [Knowledge Management](#knowledge-management)
 - [Markdown Editors](#markdown-editors)
+- [Menubar Applications](#menubar-applications)
 - [Messenger Applications](#messenger-applications)
 - [Miscellaneous](#miscellaneous)
 - [Networking Applications](#networking-applications)
@@ -105,6 +106,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files. ![Dollar][mon]
 - [Idagio](https://about.idagio.com) - Streaming, reinvented for classical music.
 - [Mous](https://github.com/bsdelf/mous) - Powerful audio player & converter for FreeBSD/Linux/macOS. ![Open Source][oss]
+- [Phonix](https://phonix.nl.eu.org/) - Free music player for macOS. ![Open Source][oss]
 - [SIDPLAY](http://www.sidmusic.org/sidplay/mac/) - A Commodore 64 music player. ![Open Source][oss]
 - [Sonos](https://www.sonos.com) - Wireless Home Sound System.
 - [Soundcleod](https://soundcleod.com/) - SoundCloud for macOS. ![Open Source][oss]
@@ -138,6 +140,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Arq Cloud Backup](https://www.arqbackup.com/arqcloudbackup/) - Backs up all your files automatically. ![Dollar][mon]
 - [Carbon Copy Cloner](http://bombich.com/) - Create a bit-perfect clone of your Mac's hard drive. ![Dollar][mon]
 - [Freeze](https://www.freezeapp.net/) - Amazon Glacier for your Mac. ![Dollar][mon]
+- [Macrium Reflect 7](https://www.macrium.com/reflectfree) - Free back up, disk imaging, and cloning solution.
 - [Rclone](http://rclone.org/) - Sync files and directories to and from multiple services. ![Open Source][oss]
 
 ## Calendar Applications
@@ -199,7 +202,8 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Color Picker Plus](https://github.com/viktorstrate/color-picker-plus) - An Improved Color Picker for macOS. ![Open Source][oss]
 - [ColorSlurp](http://colorslurp.com/) - The best Mac color picker in the universe!
 - [ColorSnapper 2](https://colorsnapper.com/) - Organize, adjust & export colors with style. ![Dollar][mon] 
-- [Pastel](https://apps.apple.com/us/app/id413897608) - Beautiful color palettes.
+- [ColorWell](https://colorwell.sweetpproductions.com/) - macOS Color Theme generator. ![Dollar][mon]
+- [Pastel](https://apps.apple.com/us/app/id413897608) - Beautiful color palettes. 
 - [Sip](http://sipapp.io/) - Collect, organize & share your colors. ![Dollar][mon]
 
 ## Communication
@@ -342,6 +346,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Image Viewers
 
 - [Eagle](https://eagle.cool/) - Photo viewer, manager, and organizer. ![Dollar][mon]
+- [Lyn](https://www.lynapp.com/) - Organize, view, edit and share your photos. ![Dollar][mon]
 - [Phew](https://sveinbjorn.org/phew) - An open-source FLIF image viewer and QuickLook plugin for macOS. ![Open Source][oss]
 - [Phiewer](https://phiewer.com/) - The easiest and fastest way to view your images.
 - [PikoPixel](http://twilightedge.com/mac/pikopixel/) -  Pixel-art editor. ![Open Source][oss]
@@ -393,6 +398,16 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Texts](http://www.texts.io/) - Separate Content from Formatting. Store in Markdown.
 - [Typora](https://www.typora.io/) - Live markdown reader and a writer.
 - [vnote](https://github.com/tamlok/vnote) - A Vim-inspired Markdown note-taking application. ![Open Source][oss]
+
+## Menubar Applications
+
+- [BitBar](https://www.getbidbar.com/) - Run terminal commands from the menu bar. ![Open Source][oss]
+- [Hidden Bar](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss]
+- [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift. ![Open Source][oss]
+- [Stats](https://github.com/exelban/stats) - Simple macOS system monitor in your menu bar. ![Open Source][oss]
+- [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
+- [WhichSpace](https://github.com/gechr/WhichSpace) - Active space menu bar icon for macOS. ![Open Source][oss]
+- [XMenu](https://www.devontechnologies.com/apps/freeware) - Directly access all your apps from the manu bar.
 
 ## Messenger Applications
 
@@ -647,7 +662,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS. ![Open Source][oss]
 - [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac) - Detailed battery information for your MacBook, iPhone & iPad. ![Dollar][mon]
 - [BetterTouchTool](https://folivora.ai/) -  Customize input devices on your Mac. ![Dollar][mon]
-- [BitBar](https://www.getbidbar.com/) - Run terminal commands from the menu bar. ![Open Source][oss]
 - [Burn](https://sourceforge.net/projects/burn-osx/) - Simple but advanced disc burning for macOS.
 - [Bunch](https://brettterpstra.com/projects/bunch/) - A Batch Application Launcher for your Dock.
 - [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode. ![Open Source][oss]
@@ -664,7 +678,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for MacOS. ![Open Source][oss]
 - [GeekTool](https://www.tynsoe.org/v2/geektool/) - Customize your desktop. 
 - [Übersicht](https://tracesof.net/uebersicht/) - Keep an eye on what is happening on your machine. 
-- [Hidden Bar](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss]
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep. ![Open Source][oss]
 - [KeyCue](https://www.ergonis.com/products/keycue/) - Find, remember, and learn keyboard shortcuts. ![Dollar][mon]
 - [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services. ![Open Source][oss]
@@ -673,19 +686,14 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly. ![Dollar][mon]
 - [MKS](https://github.com/x0054/MKS) - Mechanical Keyboard Simulator. ![Open Source][oss]
 - [Muzzle](https://muzzleapp.com/) - Disable notifications while screen sharing.
-- [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift. ![Open Source][oss]
 - [OpeninTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Open the current directory in Terminal. ![Open Source][oss]
 - [Pock](http://pock.pigigaldi.com/) - Display macOS Dock in Touch Bar. ![Open Source][oss]
 - [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac.
 - [Service Station](https://servicestation.menu/) - Customize your Right-Click Menu.
 - [Sloth](https://sveinbjorn.org/sloth) - Shows all open files and sockets in use. ![Open Source][oss]
-- [Stats](https://github.com/exelban/stats) - Simple macOS system monitor in your menu bar. ![Open Source][oss]
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/index.html) - Remove unwanted packages from MacOS. ![Dollar][mon]
-- [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
-- [WhichSpace](https://github.com/gechr/WhichSpace) - Active space menu bar icon for macOS. ![Open Source][oss]
 - [Witch](https://manytricks.com/witch/) - ⌘-Tab Everything. ![Dollar][mon]
 - [xBench](http://xbench.com/) - The Only Benchmark You'll Ever Need.
-- [XMenu](https://www.devontechnologies.com/apps/freeware) - Directly access all your apps from the manu bar.
 - [Xrg](https://gaucho.software/Products/XRG/) - An open source system monitor for macOS. ![Open Source][oss]
 
 ## Task Management
