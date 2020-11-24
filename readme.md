@@ -692,6 +692,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac.
 - [Service Station](https://servicestation.menu/) - Customize your Right-Click Menu.
 - [Sloth](https://sveinbjorn.org/sloth) - Shows all open files and sockets in use. ![Open Source][oss]
+- [TouchSwitcher](https://hazeover.com/touchswitcher.html) - Use Touch Bar to Switch Apps. ![Open Source][oss]
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/index.html) - Remove unwanted packages from MacOS. ![Dollar][mon]
 - [Witch](https://manytricks.com/witch/) - ⌘-Tab Everything. ![Dollar][mon]
 - [xBench](http://xbench.com/) - The Only Benchmark You'll Ever Need.
