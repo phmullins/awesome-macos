@@ -1,4 +1,4 @@
-## Awesome MacOS Software v1.9
+## Awesome MacOS Software v1.9.1
 
 <img width="100" height="100" alt="icon_macos_02" src="assets/icon_macos_02.png">
 
