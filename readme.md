@@ -195,6 +195,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [VimR](https://github.com/qvacua/vimr) - Neovim GUI for macOS. ![Open Source][oss]
 - [Visual Studio Code](https://code.visualstudio.com/) - Excellent cross-platform text editor from Microsoft. ![Open Source][oss]
 - [Xcode](https://developer.apple.com/xcode/) - Apple's Swift/Objective-C development environment.
+- [HMScriptEditor](https://zeezide.de/en/products/hmscripteditor/) - Code editor for HomeMatic scripts. ![Dollar][mon]
 
 ## Color Pickers
 
@@ -420,6 +421,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Patchwork](https://github.com/ssbc/patchwork) - Decentralized messaging app built on top of Secure Scuttlebutt (SSB). ![Open Source][oss]
 - [Ripcord](https://cancel.fm/ripcord/) - Desktop chat client for Slack (and Discord). ![Dollar][mon]
 - [Signal](https://www.signal.org/) - Fast, simple, secure. ![Open Source][oss]
+- [Shrugs](https://shrugs.app/) - Desktop chat client for Slack. ![Dollar][mon]
 - [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app. ![Open Source][oss]
 - [Tox](https://tox.chat/) - A New Kind of Instant Messaging. ![Open Source][oss]
 - [Wire](https://wire.com/en/) - Secure communication. Full privacy. ![Open Source][oss]
@@ -429,6 +431,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator. ![Open Source][oss]
 - [AirParrot](https://www.airsquirrels.com/airparrot/) - Streaming and Mirroring for macOS. ![Dollar][mon]
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) -  Advanced battery gauge for macOS. ![Open Source][oss]
+- [CodeCows](https://zeezide.de/en/products/codecows/) - Inject hundreds of ASCII Cows in any app.
 - [Console](https://github.com/macmade/Console) - Replacement macOS console application. ![Open Source][oss]
 - [Contexts](https://contexts.co/) - Radically simpler & faster window switcher.
 - [FS-UAE](https://fs-uae.net/) - Amiga Emulator. ![Open Source][oss]
@@ -563,6 +566,8 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook. ![Dollar][mon]
 - [SnippetsLab](http://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager. ![Dollar][mon]
 - [Stoplight Studio](https://stoplight.io/studio/) - Design APIs 10x faster with our free OpenAPI editor. ![Open Source][oss]
+- [SwiftPM Catalog](https://zeezide.de/en/products/swiftpmcatalog/) - Browse the Swift Package Index.
+- [VueXcode](https://github.com/AlwaysRightInstitute/VueXcode/) - Enable Xcode syntax highlighting for Vue.js. ![Open Source][oss] 
 - [Yo](https://github.com/sheagcraig/yo) - Send Notification Center messages from the command-line. ![Open Source][oss] 
 
 ## Remote Administration
@@ -697,6 +702,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Witch](https://manytricks.com/witch/) - ⌘-Tab Everything. ![Dollar][mon]
 - [xBench](http://xbench.com/) - The Only Benchmark You'll Ever Need.
 - [Xrg](https://gaucho.software/Products/XRG/) - An open source system monitor for macOS. ![Open Source][oss]
+- [5 GUIs](https://zeezide.de/en/products/5guis/) - Detect which UI frameworks an app is using. ![Open Source][oss]
 
 ## Task Management
 
