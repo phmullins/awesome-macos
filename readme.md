@@ -209,6 +209,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Communication
 
+- [Aether](https://getaether.net/) - Peer-to-peer ephemeral public communities. ![Open Source][oss]
 - [Chime](https://chime.aws/) - Amazon Chime communications service. ![Dollar][mon]
 - [Feishu](https://www.feishu.cn/en/) - The Only All-in-One Platform You Will Ever Need.
 - [Loom](https://www.loom.com/) - Take back your time.
@@ -328,11 +329,13 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Adapter](https://macroplant.com/adapter) - Adapter Converts Video, Audio and Images.
 - [Amadine](https://amadine.com/) - The ultimate vector graphics software for macOS. ![Dollar][mon] 
+- [CleanShot](https://cleanshot.com/) - Capture your Mac’s screen like a pro. ![Dollar][mon]
 - [Gifox](https://gifox.io/) - Delightful GIF Recording and Sharing App.
 - [Icon Jar](https://geticonjar.com) - Store all your icons in one place. ![Dollar][mon]
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. ![Open Source][oss]
 - [Image2icon](http://www.img2icnsapp.com/) - Create and personalize icons from your pictures.
 - [Kap](https://getkap.co/) - Capture your screen. ![Open Source][oss]
+- [Ruffle](https://ruffle.rs/) - A Flash Player emulator built with Rust. ![Open Source][oss]
 - [Storyboarder](https://wonderunit.com/storyboarder/) - The best way to visualize your story.
 
 ## Image Editors
@@ -404,6 +407,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [BitBar](https://www.getbidbar.com/) - Run terminal commands from the menu bar. ![Open Source][oss]
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss]
+- [Meteorologist](https://sourceforge.net/projects/heat-meteo/) -  Free weather program for macOS. ![Open Source][oss]
 - [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift. ![Open Source][oss]
 - [Stats](https://github.com/exelban/stats) - Simple macOS system monitor in your menu bar. ![Open Source][oss]
 - [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
@@ -566,8 +570,12 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook. ![Dollar][mon]
 - [SnippetsLab](http://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager. ![Dollar][mon]
 - [Stoplight Studio](https://stoplight.io/studio/) - Design APIs 10x faster with our free OpenAPI editor. ![Open Source][oss]
+<<<<<<< Updated upstream
 - [SwiftPM Catalog](https://zeezide.de/en/products/swiftpmcatalog/) - Browse the Swift Package Index.
 - [VueXcode](https://github.com/AlwaysRightInstitute/VueXcode/) - Enable Xcode syntax highlighting for Vue.js. ![Open Source][oss] 
+=======
+- [Tinkerwell](https://tinkerwell.app/) - Run any PHP code locally. ![Dollar][mon]
+>>>>>>> Stashed changes
 - [Yo](https://github.com/sheagcraig/yo) - Send Notification Center messages from the command-line. ![Open Source][oss] 
 
 ## Remote Administration
@@ -666,6 +674,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [ActiveDock](https://noteifyapp.com/activedock/) - Customizable dock for macOS. ![Dollar][mon]
 - [AltTab](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS
 - [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS. ![Open Source][oss]
+- [Batteries for Mac]() - Track all your devices' batteries from your Mac. ![Dollar][mon]
 - [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac) - Detailed battery information for your MacBook, iPhone & iPad. ![Dollar][mon]
 - [BetterTouchTool](https://folivora.ai/) -  Customize input devices on your Mac. ![Dollar][mon]
 - [Burn](https://sourceforge.net/projects/burn-osx/) - Simple but advanced disc burning for macOS.
@@ -673,6 +682,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode. ![Open Source][oss]
 - [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks. ![Open Source][oss]
 - [CoconutBattery 3](https://www.coconut-flavour.com/coconutbattery/) - The standard for battery reading since 2005. ![Dollar][mon] 
+- [CommandQ](https://commandqapp.com/) - Never accidentally quit an app or window again. ![Dollar][mon]  
 - [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/#) - Keyboard-centric application and window switcher. ![Dollar][mon]
 - [Core Shell](https://coreshell.app/) - A terminal to make your SSH life easy. Free & ![Dollar][mon]
 - [CustomShortcuts](https://www.houdah.com/customShortcuts/) - Customize Mac Menu Keyboard Shortcuts.
@@ -749,6 +759,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Web Browsers
 
+- [Avast Secure Browser](https://www.avast.com/secure-browser#mac) - The private browser that’s up to 4x faster.
 - [Basilisk](https://www.basilisk-browser.org/) - A XUL-based web-browser.
 - [Brave](https://brave.com/) - On a mission to fix the web.
 - [Browserosaurus](https://browserosaurus.com/) - The browser prompter for macOS.
@@ -794,6 +805,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [HandBrake](https://handbrake.fr/) - The open source video transcoder. ![Open Source][oss]
 - [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS. ![Open Source][oss]
 - [MakeMKV](https://www.makemkv.com/) - Rip DVD and Blu-ray discs. ![Dollar][mon]
+- [MPlayer](https://mplayerhq.hu) - A cross-platform movie player.
 - [mpv](https://mpv.io/) - A free, open source, and cross-platform media player. ![Open Source][oss]
 - [Yoda](http://whoisandy.github.io/yoda/) - Browse and download YouTube videos. ![Open Source][oss]
 
