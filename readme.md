@@ -717,6 +717,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Terminals
 
+- [Archipelago](https://archipelago.dev/) - An open-source terminal emulator built on web technology. ![Open Source][oss]
 - [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century. ![Open Source][oss]
 - [Electerm](https://github.com/electerm/electerm/) - Terminal/ssh/serial port/sftp client. ![Open Source][oss]
 - [Extraterm](https://extraterm.org/) - The swiss army chainsaw of terminal emulators. ![Open Source][oss]
