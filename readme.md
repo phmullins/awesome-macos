@@ -572,8 +572,12 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Stoplight Studio](https://stoplight.io/studio/) - Design APIs 10x faster with our free OpenAPI editor. ![Open Source][oss]
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - [SwiftPM Catalog](https://zeezide.de/en/products/swiftpmcatalog/) - Browse the Swift Package Index.
 - [VueXcode](https://github.com/AlwaysRightInstitute/VueXcode/) - Enable Xcode syntax highlighting for Vue.js. ![Open Source][oss] 
+=======
+- [Tinkerwell](https://tinkerwell.app/) - Run any PHP code locally. ![Dollar][mon]
+>>>>>>> Stashed changes
 =======
 - [Tinkerwell](https://tinkerwell.app/) - Run any PHP code locally. ![Dollar][mon]
 >>>>>>> Stashed changes
