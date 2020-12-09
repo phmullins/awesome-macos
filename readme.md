@@ -91,6 +91,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Powerful file/URL/email launcher utility. ![Dollar][mon]
 - [Launchey 2](https://www.getniceapps.com/launchey-2) - Lightweight menu bar app launcher. ![Dollar][mon]
 - [Overflow](https://stuntsoftware.com/overflow/) - The visual launcher for your Mac. ![Dollar][mon]
+- [Recents for Mac](https://recentsapp.com/) - Find files faster.
 - [Slik](https://apps.inspira.io/en/slik/) - Fast app launcher and web app organizer. ![Dollar][mon]
 - [Start](https://start.innovative-bytes.net/) - A superior way to launch applications. ![Dollar][mon]
 - [Quicksilver](https://qsapp.com/) - Application launcher and much more. ![Open Source][oss]
@@ -426,6 +427,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Ripcord](https://cancel.fm/ripcord/) - Desktop chat client for Slack (and Discord). ![Dollar][mon]
 - [Signal](https://www.signal.org/) - Fast, simple, secure. ![Open Source][oss]
 - [Shrugs](https://shrugs.app/) - Desktop chat client for Slack. ![Dollar][mon]
+- [MenuBar Stats 3](https://seense.com/menubarstats/) - Advanced macOS System Monitor. ![Dollar][mon]
 - [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app. ![Open Source][oss]
 - [Tox](https://tox.chat/) - A New Kind of Instant Messaging. ![Open Source][oss]
 - [Wire](https://wire.com/en/) - Secure communication. Full privacy. ![Open Source][oss]
@@ -450,6 +452,8 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [PiBakery](https://www.pibakery.org/) - The easiest way to setup a Raspberry Pi.
 - [Reeder](https://www.reederapp.com/mac/) - The best news reader for macOS. ![Dollar][mon]
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![Open Source][oss]
+- [ResXtreme](http://resxtreme.com/) - Provides access to all display modes. ![Dollar][mon]
+- [RightFont 5](https://rightfontapp.com/) - Professional font manager app for Mac. ![Dollar][mon]
 - [Sugarmate](https://sugarmate.io/) - A new way to manage your diabetes. 
 - [Swish](https://highlyopinionated.co/swish/) - The missing gesture layer for macOS. ![Dollar][mon]
 - [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
@@ -570,20 +574,10 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook. ![Dollar][mon]
 - [SnippetsLab](http://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager. ![Dollar][mon]
 - [Stoplight Studio](https://stoplight.io/studio/) - Design APIs 10x faster with our free OpenAPI editor. ![Open Source][oss]
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 - [SwiftPM Catalog](https://zeezide.de/en/products/swiftpmcatalog/) - Browse the Swift Package Index.
 - [VueXcode](https://github.com/AlwaysRightInstitute/VueXcode/) - Enable Xcode syntax highlighting for Vue.js. ![Open Source][oss] 
-=======
 - [Tinkerwell](https://tinkerwell.app/) - Run any PHP code locally. ![Dollar][mon]
->>>>>>> Stashed changes
-=======
 - [Tinkerwell](https://tinkerwell.app/) - Run any PHP code locally. ![Dollar][mon]
->>>>>>> Stashed changes
-=======
-- [Tinkerwell](https://tinkerwell.app/) - Run any PHP code locally. ![Dollar][mon]
->>>>>>> Stashed changes
 - [Yo](https://github.com/sheagcraig/yo) - Send Notification Center messages from the command-line. ![Open Source][oss] 
 
 ## Remote Administration
@@ -743,6 +737,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [iTerm 2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm. ![Open Source][oss]
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. ![Open Source][oss]
 - [Kui](https://kui.tools/) - Terminal with visualizations by and for developers. ![Open Source][oss]
+- [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS! ![Open Source][oss]
 - [Terminus](https://eugeny.github.io/terminus/) - A terminal for a more modern age. ![Open Source][oss] 
 - [ZOC Terminal](https://www.emtec.com/zoc/) - Professional terminal emulation software for macOS. ![Dollar][mon]
