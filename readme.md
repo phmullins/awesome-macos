@@ -292,7 +292,8 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Commander One](https://mac.eltima.com/file-manager.html) - Dual-pane file manager for macOS.
 - [CRAX Commander](https://crax.soft4u2.com/) - Dual-pane and multi-tabbed file manager. ![Dollar][mon]
-- [cryo](https://cryonet.io/) - Visual peer-to-peer file manager.
+- [Cryo](https://cryonet.io/) - Visual peer-to-peer file manager.
+- [DCommander](https://devstorm-apps.com/dc/) - Advanced file manager for Mac. ![Dollar][mon]
 - [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual-pane FTP/file manager. ![Dollar][mon]
 - [Gemini](https://macpaw.com/gemini) - The intelligent duplicate file finder. ![Dollar][mon]
 - [Hazel](https://www.noodlesoft.com/) - Automated Organization for Your Mac. ![Dollar][mon]
@@ -364,6 +365,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Internet
 
 - [Castor](https://sr.ht/~julienxx/Castor/) - A Browser for the small internet (Gemini, Gopher, Finger). ![Open Source][oss]
+- [DomainBrain](https://domainbrainapp.com/) - Track of server and login information for websites. ![Dollar][mon]
 - [Freenet](https://freenetproject.org/) - Peer-to-peer platform for censorship-resistant communication and publishing. ![Open Source][oss]
 - [Kristall](https://github.com/MasterQ32/kristall) - GUI client for MacOS for gemini, http, https, gopher, finger. ![Open Source][oss]
 
@@ -406,11 +408,14 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Menubar Applications
 
+- [Apple Juice](https://github.com/raphaelhanneken/apple-juice) -  Advanced battery gauge for macOS. ![Open Source][oss]
 - [BitBar](https://www.getbidbar.com/) - Run terminal commands from the menu bar. ![Open Source][oss]
+- [FuzzyClock](https://github.com/m-schmidt/FuzzyClock) - Displays the time in your menubar. ![Open Source][oss]
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss]
 - [Meteorologist](https://sourceforge.net/projects/heat-meteo/) -  Free weather program for macOS. ![Open Source][oss]
 - [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift. ![Open Source][oss]
 - [Stats](https://github.com/exelban/stats) - Simple macOS system monitor in your menu bar. ![Open Source][oss]
+- [Tyke](https://tyke.app/) - A little bit of scratch paper.
 - [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
 - [WhichSpace](https://github.com/gechr/WhichSpace) - Active space menu bar icon for macOS. ![Open Source][oss]
 - [XMenu](https://www.devontechnologies.com/apps/freeware) - Directly access all your apps from the manu bar.
@@ -436,7 +441,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator. ![Open Source][oss]
 - [AirParrot](https://www.airsquirrels.com/airparrot/) - Streaming and Mirroring for macOS. ![Dollar][mon]
-- [Apple Juice](https://github.com/raphaelhanneken/apple-juice) -  Advanced battery gauge for macOS. ![Open Source][oss]
 - [CodeCows](https://zeezide.de/en/products/codecows/) - Inject hundreds of ASCII Cows in any app.
 - [Console](https://github.com/macmade/Console) - Replacement macOS console application. ![Open Source][oss]
 - [Contexts](https://contexts.co/) - Radically simpler & faster window switcher.
@@ -711,6 +715,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Sloth](https://sveinbjorn.org/sloth) - Shows all open files and sockets in use. ![Open Source][oss]
 - [TouchSwitcher](https://hazeover.com/touchswitcher.html) - Use Touch Bar to Switch Apps. ![Open Source][oss]
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/index.html) - Remove unwanted packages from MacOS. ![Dollar][mon]
+- [VipRiser](https://onflapp.github.io/blog/pages/VipRiser) - Extensible virtual PDF printer. ![Dollar][mon]
 - [Witch](https://manytricks.com/witch/) - ⌘-Tab Everything. ![Dollar][mon]
 - [xBench](http://xbench.com/) - The Only Benchmark You'll Ever Need.
 - [Xrg](https://gaucho.software/Products/XRG/) - An open source system monitor for macOS. ![Open Source][oss]
