@@ -114,6 +114,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Swinsian](https://swinsian.com/) - The Advanced Music Player for Mac. ![Dollar][mon]
 - [Tidal](https://offer.tidal.com/download) - Music streaming service.
 - [Tiny Player](http://www.catnapgames.com/tiny-player-for-mac/) - Tiny FLAC/AAC/MP3/WAV Player.
+- [Vox](https://vox.rocks/) - Vox Music Player for macOS. 
 - [Winds](https://getstream.io/winds/) - A Beautiful Open Source RSS & Podcast App. ![Open Source][oss]
 
 ## Audio Utilities
