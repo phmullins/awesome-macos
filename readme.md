@@ -268,6 +268,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Email
 
 - [Canary](https://canarymail.io/) - Secure Email App for Mac and iPhone. ![Dollar][mon]
+- [eM Client](https://www.emclient.com) - Boost your email. Skyrocket your productivity. Free & ![Dollar][mon]
 - [MailMate](https://freron.com/) - IMAP email client for macOS. ![Dollar][mon]
 - [Polymail](https://polymail.io/) - Simple, beautiful, powerful e-mail. ![Dollar][mon]
 - [Postbox](https://www.postbox-inc.com/) - Powerful and flexible email client. ![Dollar][mon]
