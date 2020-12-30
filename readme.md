@@ -134,6 +134,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Samplr for Touchbar](http://samplr.net/touchbar/) - Demo of Samplr for the MacBook Touch Bar.
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Last.fm scrobbler for the Shazam Mac app. ![Open Source][oss]
 - [Sound Source](https://rogueamoeba.com/soundsource/) - Superior Sound Control. ![Dollar][mon]
+- [Tickeys](https://github.com/yingDev/Tickeys) - Audio feedback while typing. ![Open Source][oss] 
 - [TunesArt](https://www.jibapps.com/apps/tunesart/) - Display a gorgeous album cover on your desktop. ![Dollar][mon]
 - [X Lossless Decoder](http://tmkk.undo.jp/xld/index_e.html) - Decode/Convert to and from dozens of audio file types.
 
