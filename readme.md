@@ -131,6 +131,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor. ![Dollar][mon]
 - [ocenaudio](https://www.ocenaudio.com/en) - Easy, fast and powerful audio editor
 - [Piezo](https://rogueamoeba.com/piezo/) - Charmingly simple audio recording. ![Dollar][mon]
+- [Roon](https://roonlabs.com/) - The Ultimate Music Player for Music Fanatics. ![Dollar][mon]
 - [Samplr for Touchbar](http://samplr.net/touchbar/) - Demo of Samplr for the MacBook Touch Bar.
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Last.fm scrobbler for the Shazam Mac app. ![Open Source][oss]
 - [Sound Source](https://rogueamoeba.com/soundsource/) - Superior Sound Control. ![Dollar][mon]
