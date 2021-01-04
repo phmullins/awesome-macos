@@ -129,6 +129,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Kid3](https://kid3.kde.org/) - Audio Tagger. ![Open Source][oss]
 - [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac. ![Dollar][mon]
 - [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor. ![Dollar][mon]
+- [Mutify](https://mutify.app/) - Quickly mute your microphone. ![Dollar][mon]
 - [ocenaudio](https://www.ocenaudio.com/en) - Easy, fast and powerful audio editor
 - [Piezo](https://rogueamoeba.com/piezo/) - Charmingly simple audio recording. ![Dollar][mon]
 - [Roon](https://roonlabs.com/) - The Ultimate Music Player for Music Fanatics. ![Dollar][mon]
