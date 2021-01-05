@@ -596,6 +596,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [AnyDesk](https://anydesk.com/en) - AnyWhere. AnyTime. AnyDesk. Free & ![Dollar][mon]
 - [Jump Desktop](http://jumpdesktop.com/) - Secure RDP & VNC client. ![Dollar][mon]
 - [NoMachine](https://www.nomachine.com/) - Remote desktop connections.
+- [NuoRDS](https://www.nuords.com/) - Standard RDP Client software.
 - [remote-desktop-manager](https://remotedesktopmanager.com/) - Remote Connections & Passwords. Everywhere! ![Dollar][mon]
 - [Remotix](https://nulana.com/remotix-mac/) - Access all your computers from anywhere. ![Dollar][mon]
 - [Royal TX](https://www.royalapps.com/ts/mac/features) - Comprehensive Remote Management Solution. ![Dollar][mon]
