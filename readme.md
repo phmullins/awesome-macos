@@ -710,6 +710,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Übersicht](https://tracesof.net/uebersicht/) - Keep an eye on what is happening on your machine. 
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep. ![Open Source][oss]
 - [KeyCue](https://www.ergonis.com/products/keycue/) - Find, remember, and learn keyboard shortcuts. ![Dollar][mon]
+- [KeyCastr](https://github.com/keycastr/keycastr) - An open-source keystroke visualizer. ![Open Source][oss]
 - [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services. ![Open Source][oss]
 - [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
 - [Maccy](https://maccy.app/) - Clipboard manager for macOS.
