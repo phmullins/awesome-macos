@@ -371,6 +371,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Internet
 
 - [Castor](https://sr.ht/~julienxx/Castor/) - A Browser for the small internet (Gemini, Gopher, Finger). ![Open Source][oss]
+- [Charles](https://www.charlesproxy.com/) - HTTP proxy, HTTP monitor, Reverse Proxy.
 - [DomainBrain](https://domainbrainapp.com/) - Track of server and login information for websites. ![Dollar][mon]
 - [Freenet](https://freenetproject.org/) - Peer-to-peer platform for censorship-resistant communication and publishing. ![Open Source][oss]
 - [Kristall](https://github.com/MasterQ32/kristall) - GUI client for MacOS for gemini, http, https, gopher, finger. ![Open Source][oss]
