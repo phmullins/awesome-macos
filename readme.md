@@ -330,6 +330,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [GZDoom](https://zdoom.org/index) - A Doom source port for the modern era. ![Open Source][oss]
 - [OpenEmu](https://openemu.org/) - Video game emulation. ![Open Source][oss]
 - [ReDoomEd](http://twilightedge.com/mac/redoomed/) - Port of “DoomEd”, id Software’s Doom map editor for NeXTSTEP (1993).
+- [Rolisteam](https://rolisteam.org/) - Manage tabletop role playing games with remote friends/players. ![Open Source][oss]
 - [Slade](http://slade.mancubus.net) - A modern editor for Doom.
 - [Zandronum](https://zandronum.com/) - Leading the way in newschool multiplayer Doom online.
 
@@ -535,6 +536,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Dashlane](https://www.dashlane.com/) - Never forget another password. Free & ![Dollar][mon]
 - [Elpass](https://elpass.app/) - Your all-in-one password manager. ![Dollar][mon]
 - [Enpass](https://www.enpass.io/) - A secure vault for storing everything in one place. Desktop: Free. Mobile: ![Dollar][mon]
+- [Force Paste](https://github.com/EugeneDae/Force-Paste) - Paste text even when not allowed. ![Open Source][oss]
 - [Kaspersky Password Manager](https://usa.kaspersky.com/password-manager) - Password Manager.
 - [KeepassX](https://www.keepassx.org/) - Open Source password manager. ![Open Source][oss]
 - [KeePassXC](https://keepassxc.org/) - Cross-Platform password manager. ![Open Source][oss]
