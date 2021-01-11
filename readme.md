@@ -97,6 +97,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Quicksilver](https://qsapp.com/) - Application launcher and much more. ![Open Source][oss]
 - [Ueli](https://ueli.app) - A keystroke launcher for Windows and macOS. ![Open Source][oss]
 - [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers. ![Open Source][oss]
+- [Raycast](https://raycast.com/) - Control your tools with a few keystrokes. It’s designed to keep you focused. 
 
 ## Audio Players
 
