@@ -504,6 +504,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Agenda](https://agenda.com/) - Date-focused note taking
 - [Milanote](https://milanote.com/) - Get organized. Stay creative.
 - [QOwnNotes](https://www.qownnotes.org/) - Plain-text file markdown note taking with Nextcloud integration. ![Open Source][oss]
+- [Standard Notes](https://standardnotes.org/) - Free to use, cross-platform sync, and end-to-end privacy. ![Open Source][oss]
 - [Trilium](https://github.com/zadam/trilium) - Build your personal knowledge base. ![Open Source][oss]
 
 ## Office Suites
