@@ -23,6 +23,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Databases](#databases)
 - [Design](#design)
 - [DevOps](#devops)
+- [Disk Utilities](#disk-utilities)
 - [Encryption](#encryption)
 - [Email](#email)
 - [Electronic Books](#electronic-books)
@@ -261,6 +262,10 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Container PS](https://github.com/Toinane/container-ps) - Menu Bar app for Docker. ![Open Source][oss]
 - [Docker Desktop](https://www.docker.com/products/docker-desktop) - The world’s leading software containerization platform.
 - [Kitematic](https://kitematic.com/) - Run containers through a GUI. ![Open Source][oss]
+
+## Disk Utilities
+
+- [DiskWave](https://diskwave.barthe.ph/) - Determine what files & folders are using your disk space. ![Open Source][oss] 
 
 ## Encryption
 
