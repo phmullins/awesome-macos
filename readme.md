@@ -305,6 +305,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Commander One](https://mac.eltima.com/file-manager.html) - Dual-pane file manager for macOS.
 - [CRAX Commander](https://crax.soft4u2.com/) - Dual-pane and multi-tabbed file manager. ![Dollar][mon]
 - [Cryo](https://cryonet.io/) - Visual peer-to-peer file manager.
+- [DCloner](https://www.pixelespressoapps.com/decloner/) - Reliable duplicate files finder. ![Dollar][mon]
 - [DCommander](https://devstorm-apps.com/dc/) - Advanced file manager for Mac. ![Dollar][mon]
 - [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual-pane FTP/file manager. ![Dollar][mon]
 - [Gemini](https://macpaw.com/gemini) - The intelligent duplicate file finder. ![Dollar][mon]
