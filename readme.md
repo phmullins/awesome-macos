@@ -213,7 +213,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [ColorSnapper 2](https://colorsnapper.com/) - Organize, adjust & export colors with style. ![Dollar][mon] 
 - [ColorWell](https://colorwell.sweetpproductions.com/) - macOS Color Theme generator. ![Dollar][mon]
 - [Pastel](https://apps.apple.com/us/app/id413897608) - Beautiful color palettes. 
-- [Sip](http://sipapp.io/) - Collect, organize & share your colors. ![Dollar][mon]
+- [Sip](http://sipapp.io/) - Collect, organize & share your colors. ![Dollar][mon] 5 Stars
 
 ## Communication
 
