@@ -73,7 +73,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Academics
 
-- [Manuscripts](http://www.manuscriptsapp.com/) - A writing tool like nothing you have seen before.
+- [Manuscripts](https://www.manuscripts.io/) - A writing tool like nothing you have seen before.
 - [Mochi](https://mochi.cards/) - Take notes and make flashcards.
 - [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Dollar][mon]
 - [Studies](http://www.studiesapp.com/) - Master Your Studies. ![Dollar][mon]
