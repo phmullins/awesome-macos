@@ -62,7 +62,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [System Maintenance](#system-maintenance)
 - [System Tools](#system-tools)
 - [Task Management](#task-management)
-- [Terminal](#terminals)
+- [Terminals](#terminals)
 - [Text Editors](#text-editors)
 - [Text Expanders](#text-expanders)
 - [Web Browsers](#web-browsers)
@@ -256,6 +256,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Origami Studio](https://origami.design/) - Explore, iterate, and test your ideas.
 - [Sketch](https://www.sketchapp.com/) - Professional digital design for Mac. ![Dollar][mon]
 - [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace.
+- [Figma](https://figma.com) — Create, test, and ship better designs from start to finish.
 
 ## DevOps
 
@@ -292,6 +293,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Delicious Library 3](https://www.delicious-monster.com/) - Book Manager. ![Dollar][mon]
 - [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) - Read Kindle books on your Mac.
 - [Kitabu](https://www.kitabu.me/) - Kitabu is your EPUB reading application and cloud library.
+- [Sigil](https://sigil-ebook.com/) — Sigil is a multi-platform EPUB ebook Editor
 
 ## File Synchronization
 
@@ -430,6 +432,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss]
 - [KeyCue](https://www.ergonis.com/products/keycue/) - Find, remember, and learn keyboard shortcuts. ![Dollar][mon]
 - [NightOwl](https://nightowl.kramser.xyz/#) - Easily toggle dark mode on macOS. ![Open Source][oss]
+- [MenuBar Stats 3](https://seense.com/menubarstats/) - Advanced macOS System Monitor. ![Dollar][mon]
 - [Meteorologist](https://sourceforge.net/projects/heat-meteo/) -  Free weather program for macOS. ![Open Source][oss]
 - [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift. ![Open Source][oss]
 - [Stats](https://github.com/exelban/stats) - Simple macOS system monitor in your menu bar. ![Open Source][oss]
@@ -450,7 +453,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Ripcord](https://cancel.fm/ripcord/) - Desktop chat client for Slack (and Discord). ![Dollar][mon]
 - [Signal](https://www.signal.org/) - Fast, simple, secure. ![Open Source][oss]
 - [Shrugs](https://shrugs.app/) - Desktop chat client for Slack. ![Dollar][mon]
-- [MenuBar Stats 3](https://seense.com/menubarstats/) - Advanced macOS System Monitor. ![Dollar][mon]
 - [Telegram](https://itunes.apple.com/us/app/messenger-for-telegram/id747648890) - Secure messaging app. ![Open Source][oss]
 - [Tox](https://tox.chat/) - A New Kind of Instant Messaging. ![Open Source][oss]
 - [Wire](https://wire.com/en/) - Secure communication. Full privacy. ![Open Source][oss]
@@ -512,6 +514,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Agenda](https://agenda.com/) - Date-focused note taking
 - [Milanote](https://milanote.com/) - Get organized. Stay creative.
 - [QOwnNotes](https://www.qownnotes.org/) - Plain-text file markdown note taking with Nextcloud integration. ![Open Source][oss]
+- [Standard Notes](https://standardnotes.org/) - Free to use, cross-platform sync, and end-to-end privacy. ![Open Source][oss]
 - [Trilium](https://github.com/zadam/trilium) - Build your personal knowledge base. ![Open Source][oss]
 
 ## Office Suites
