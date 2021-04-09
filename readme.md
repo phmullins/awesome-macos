@@ -62,7 +62,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [System Maintenance](#system-maintenance)
 - [System Tools](#system-tools)
 - [Task Management](#task-management)
-- [Terminal](#terminals)
+- [Terminals](#terminals)
 - [Text Editors](#text-editors)
 - [Text Expanders](#text-expanders)
 - [Web Browsers](#web-browsers)
