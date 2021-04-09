@@ -292,6 +292,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Delicious Library 3](https://www.delicious-monster.com/) - Book Manager. ![Dollar][mon]
 - [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) - Read Kindle books on your Mac.
 - [Kitabu](https://www.kitabu.me/) - Kitabu is your EPUB reading application and cloud library.
+- [Sigil](https://sigil-ebook.com/) — Sigil is a multi-platform EPUB ebook Editor
 
 ## File Synchronization
 
