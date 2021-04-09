@@ -209,11 +209,12 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Couleurs](http://couleursapp.com/) - A simple but powerful color grabber.
 - [Color Picker Plus](https://github.com/viktorstrate/color-picker-plus) - An Improved Color Picker for macOS. ![Open Source][oss]
-- [ColorSlurp](http://colorslurp.com/) - The best Mac color picker in the universe!
+- [ColorSlurp](http://colorslurp.com/) - The best Mac color picker in the universe! ![Dollar][mon]
 - [ColorSnapper 2](https://colorsnapper.com/) - Organize, adjust & export colors with style. ![Dollar][mon] 
 - [ColorWell](https://colorwell.sweetpproductions.com/) - macOS Color Theme generator. ![Dollar][mon]
-- [Pastel](https://apps.apple.com/us/app/id413897608) - Beautiful color palettes. 
-- [Sip](http://sipapp.io/) - Collect, organize & share your colors. ![Dollar][mon]
+- [Pastel](https://apps.apple.com/us/app/id413897608) - Beautiful color palettes. ![Dollar][mon]
+- [Pika](https://superhighfives.com/pika) - An open-source colour picker app for macOS. ![Open Source][oss]
+- [Sip](http://sipapp.io/) - Collect, organize & share your colors. ![Dollar][mon] 5 Stars
 
 ## Communication
 
@@ -305,6 +306,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Commander One](https://mac.eltima.com/file-manager.html) - Dual-pane file manager for macOS.
 - [CRAX Commander](https://crax.soft4u2.com/) - Dual-pane and multi-tabbed file manager. ![Dollar][mon]
 - [Cryo](https://cryonet.io/) - Visual peer-to-peer file manager.
+- [DCloner](https://www.pixelespressoapps.com/decloner/) - Reliable duplicate files finder. ![Dollar][mon]
 - [DCommander](https://devstorm-apps.com/dc/) - Advanced file manager for Mac. ![Dollar][mon]
 - [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual-pane FTP/file manager. ![Dollar][mon]
 - [Gemini](https://macpaw.com/gemini) - The intelligent duplicate file finder. ![Dollar][mon]
