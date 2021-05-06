@@ -427,9 +427,10 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Menubar Applications
 
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) -  Advanced battery gauge for macOS. ![Open Source][oss]
+- [Bartender 4](https://www.macbartender.com/) - Take control of your menu bar. ![Dollar][mon]
 - [BitBar](https://www.getbidbar.com/) - Run terminal commands from the menu bar. ![Open Source][oss]
 - [FuzzyClock](https://github.com/m-schmidt/FuzzyClock) - Displays the time in your menubar. ![Open Source][oss]
-- [Hidden Bar](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss]
+- [Hidden Bar](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss] - Editor's Choice.
 - [KeyCue](https://www.ergonis.com/products/keycue/) - Find, remember, and learn keyboard shortcuts. ![Dollar][mon]
 - [NightOwl](https://nightowl.kramser.xyz/#) - Easily toggle dark mode on macOS. ![Open Source][oss]
 - [MenuBar Stats 3](https://seense.com/menubarstats/) - Advanced macOS System Monitor. ![Dollar][mon]
