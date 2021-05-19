@@ -502,6 +502,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [SSH Tunnel Manager](https://www.tynsoe.org/v2/stm/) - Manage your SSH tunnels.
 - [Surge](http://nssurge.com/) - Advanced Web Debugging Proxy for macOS & iOS. ![Dollar][mon]
 - [SwitchHosts](https://oldj.github.io/SwitchHosts/) - Hosts management & switching. ![Open Source][oss]
+- [Termius](https://www.termius.com/) - SSH client that works on Desktop and Mobile. ![Dollar][mon]
 - [Transmission](https://transmissionbt.com/download/) - Easy, free BitTorrent client. ![Open Source][oss]
 - [Transfer](https://www.intuitibits.com/products/transfer/) - TFTP server for your Mac. ![Dollar][mon]
 - [Usenapp](https://www.usenapp.com/) - The most complete usenet client for macOS. ![Dollar][mon]
