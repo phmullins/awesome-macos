@@ -808,7 +808,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Safari Technology Preview](https://developer.apple.com/safari/) - The newest browser tech from Apple.
 - [Sizzy](https://sizzy.co/) - The browser for developers.
 - [Vivaldi](https://vivaldi.com/) - A Browser for Our Friends.
-- [Waterfox](https://www.waterfox.net/) - Browse the web YOUR way.
+- [Waterfox](https://www.waterfox.net/) - Browse the web your way, with the indie web browser.
 - [WebKit](https://webkit.org/) - A fast, open source web browser engine. ![Open Source][oss]
 
 ## Windows Managers
