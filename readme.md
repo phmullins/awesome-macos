@@ -600,6 +600,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Postman](https://www.postman.com/) - Collaboration Platform for API Development.
 - [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets. ![Dollar][mon]
 - [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook. ![Dollar][mon]
+- [RunJS](https://runjs.dev/) - The JavaScript playground for your desktop. ![Open Source][oss]
 - [SnippetsLab](http://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager. ![Dollar][mon]
 - [Stoplight Studio](https://stoplight.io/studio/) - Design APIs 10x faster with our free OpenAPI editor. ![Open Source][oss]
 - [SwiftPM Catalog](https://zeezide.de/en/products/swiftpmcatalog/) - Browse the Swift Package Index.
