@@ -405,6 +405,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ## Knowledge Management
 
+- [CardHop](https://flexibits.com/cardhop) - Contacts manager. One Cardhop, All Your Devices. ![Dollar][mon]
 - [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document/Note manager. ![Dollar][mon]
 - [DEVONsphere Express](https://www.devontechnologies.com/products/devonsphere/devonsphere-express.html) ![Dollar][mon]
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS. ![Open Source][oss]
