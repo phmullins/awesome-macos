@@ -172,6 +172,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Clipboard Managers
 
 - [Copied](https://copied.app/) - Clipboard manager for macOS, iOS and iPadOS. ![Dollar][mon] 
+- [Yippy](https://yippy.mattdavo.com/) - An open source clipboard manager for macOS. ![Open Source][oss]
 
 ## Cloud Storage
 
