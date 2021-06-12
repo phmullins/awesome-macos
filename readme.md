@@ -590,12 +590,17 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ## Programming Utilities
 
 - [Anvil](https://anvilformac.com/) - Menubar app for managing local websites.
+- [Codespace](https://codespace.app/) - The code snippet manager you've been waiting for. ![Dollar][mon]
 - [Inkdrop](https://inkdrop.app/) - Organizing your Markdown notes made simple. ![Dollar][mon]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Website link checker for MacOS.
 - [Flipper](https://fbflipper.com/) - Extensible mobile app debugger. ![Open Source][oss] 
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Diff manager for MacOS. ![Dollar][mon]
+- [Key Codes](https://manytricks.com/keycodes/) - Displays key code, unicode value, and modifier keys state. 
 - [Matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go. ![Open Source][oss]
+- [massCode](https://masscode.io/) - Boost your productivity. ![Open Source][oss]
 - [Mockoon](https://mockoon.com/) - Mock API in seconds. ![Open Source][oss]
+- [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code. ![Open Source][oss]
+- [PaintCode 3](https://www.paintcodeapp.com/) - Turn drawings into Swift code. ![Dollar][mon]
 - [Pashua](https://github.com/BlueM/Pashua) - Native macOS dialogs for scripting languages. ![Open Source][oss]
 - [Paw](https://paw.cloud/) - The most advanced API tool for Mac. ![Dollar][mon]
 - [Pixelsnap](https://getpixelsnap.com/) - Fastest tool for measuring anything on your screen. ![Dollar][mon]
@@ -610,6 +615,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [VueXcode](https://github.com/AlwaysRightInstitute/VueXcode/) - Enable Xcode syntax highlighting for Vue.js. ![Open Source][oss] 
 - [Tinkerwell](https://tinkerwell.app/) - Run any PHP code locally. ![Dollar][mon]
 - [Tinkerwell](https://tinkerwell.app/) - Run any PHP code locally. ![Dollar][mon]
+- [XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - Easily install and switch between multiple versions of Xcode. ![Open Source][oss] 
 - [Yo](https://github.com/sheagcraig/yo) - Send Notification Center messages from the command-line. ![Open Source][oss] 
 
 ## Remote Administration
@@ -745,6 +751,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Service Station](https://servicestation.menu/) - Customize your Right-Click Menu.
 - [Sloth](https://sveinbjorn.org/sloth) - Shows all open files and sockets in use. ![Open Source][oss]
 - [TouchSwitcher](https://hazeover.com/touchswitcher.html) - Use Touch Bar to Switch Apps. ![Open Source][oss]
+- [Unexpectedly](http://s.sudre.free.fr/Software/Unexpectedly/about.html) - Browse and visualize macOS crash reports. ![Open Source][oss]
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/index.html) - Remove unwanted packages from MacOS. ![Dollar][mon]
 - [VipRiser](https://onflapp.github.io/blog/pages/VipRiser) - Extensible virtual PDF printer. ![Dollar][mon]
 - [Witch](https://manytricks.com/witch/) - ⌘-Tab Everything. ![Dollar][mon]
@@ -795,6 +802,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac. Free & ![Dollar][mon]
 - [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases. ![Dollar][mon]
 - [Rocket Typist](https://witt-software.com/rockettypist/) - Expand typed abbreviations. ![Dollar][mon]
+- [TeaCode](https://www.apptorium.com/teacode) - Don't Repeat Yourself. ![Dollar][mon]
 - [TextExpander](https://textexpander.com) - Expand keystrokes into frequently-used text and pictures. ![Dollar][mon]
 
 ## Web Browsers
