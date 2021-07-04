@@ -486,6 +486,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Sugarmate](https://sugarmate.io/) - A new way to manage your diabetes. 
 - [Swish](https://highlyopinionated.co/swish/) - The missing gesture layer for macOS. ![Dollar][mon]
 - [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
+- [Unite 4](https://www.bzgapps.com/unite512) - Turn any website into a deeply customizable app. ![Dollar][mon]
 - [Wintertime](https://github.com/actuallymentor/wintertime-mac-background-freezer) - Background App Freezer for macOS. ![Open Source][oss]
 
 ### Networking Applications
