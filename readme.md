@@ -601,6 +601,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Key Codes](https://manytricks.com/keycodes/) - Displays key code, unicode value, and modifier keys state. 
 - [Matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go. ![Open Source][oss]
 - [massCode](https://masscode.io/) - Boost your productivity. ![Open Source][oss]
+- [Meld](http://meldmerge.org/) - A visual diff and merge tool. ![Open Source][oss]
 - [Mockoon](https://mockoon.com/) - Mock API in seconds. ![Open Source][oss]
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code. ![Open Source][oss]
 - [PaintCode 3](https://www.paintcodeapp.com/) - Turn drawings into Swift code. ![Dollar][mon]
