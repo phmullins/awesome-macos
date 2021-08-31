@@ -717,7 +717,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [ABetterFinderRename](https://www.publicspace.net/ABetterFinderRename/) - Simple. Complete. Powerful. ![Dollar][mon]
 - [ActiveDock](https://noteifyapp.com/activedock/) - Customizable dock for macOS. ![Dollar][mon]
-- [AltTab](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS
+- [Alt-Tab](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS
 - [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS. ![Open Source][oss]
 - [Batteries for Mac]() - Track all your devices' batteries from your Mac. ![Dollar][mon]
 - [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac) - Detailed battery information for your MacBook, iPhone & iPad. ![Dollar][mon]
