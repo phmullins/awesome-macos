@@ -504,6 +504,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Network Radar](https://witt-software.com/networkradar/) - Scan and monitor your network. ![Dollar][mon]
 - [Shuttle](http://fitztrev.github.io/shuttle/) - A simple SSH shortcut menu for macOS. ![Open Source][oss]
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS. ![Open Source][oss]
+- [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html) - Automatically downloads websites from the Internet.
 - [SSH Copy](https://codinn.com/products/ssh-copy/) - Manage remote files with ease. ![Dollar][mon]
 - [SSH Tunnel Manager](https://www.tynsoe.org/v2/stm/) - Manage your SSH tunnels.
 - [Surge](http://nssurge.com/) - Advanced Web Debugging Proxy for macOS & iOS. ![Dollar][mon]
@@ -744,6 +745,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [KeyCastr](https://github.com/keycastr/keycastr) - An open-source keystroke visualizer. ![Open Source][oss]
 - [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services. ![Open Source][oss]
 - [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
+- [Lunar](https://lunar.fyi/) - Intelligent adaptive brightness for your external display. ![Open Source][oss]
 - [Maccy](https://maccy.app/) - Clipboard manager for macOS.
 - [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly. ![Dollar][mon]
 - [MechVibes](https://mechvibes.com/) - Play mechanical keyboard sounds as you type. ![Open Source][oss]
@@ -819,6 +821,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox. ![Open Source][oss]
 - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/channel/desktop/#developer) - Firefox release channel for experimental (beta) builds. ![Open Source][oss]
 - [Google Chrome](https://encrypted.google.com/chrome) - Google Chrome is a freeware web browser developed by Google.
+- [LibreWolf](https://librewolf-community.gitlab.io/) - A fork of Firefox, focused on privacy, security and freedom. ![Open Source][oss]
 - [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/) - Chromium-based version of Microsoft Edge (Beta).
 - [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser.
 - [Safari Technology Preview](https://developer.apple.com/safari/) - The newest browser tech from Apple.
