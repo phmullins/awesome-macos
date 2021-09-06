@@ -840,6 +840,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Phoenix](https://github.com/kasper/phoenix/) - A lightweight window and app manager scriptable with JavaScript. ![Open Source][oss]
 - [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS. 
 - [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease.
+- [Slate](https://github.com/jigish/slate) - A window management application. ![Open Source][oss]
 - [Tiles](https://www.sempliva.com/tiles/) - The window manager for macOS. ![Open Source][oss]
 - [windOCD](https://windocd.myownapp.com/) - Align, arrange, and restore App Windows easily & automated. ![Dollar][mon]
 
