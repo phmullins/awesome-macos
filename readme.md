@@ -243,6 +243,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Open Source SQL Editor and Database Manager.
 - [DBeaver](http://dbeaver.jkiss.org/) - Free Universal SQL Client. ![Open Source][oss]
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite Database Browser. ![Open Source][oss]
+- [Medis 2](https://getmedis.com/) - Modern GUI for Redis. ![Open Source][oss] ![Dollar][mon]
 - [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management. ![Open Source][oss]
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. ![Open Source][oss]
 - [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases. ![Open Source][oss]
