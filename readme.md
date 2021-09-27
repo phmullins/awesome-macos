@@ -788,7 +788,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Kui](https://kui.tools/) - Terminal with visualizations by and for developers. ![Open Source][oss]
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS! ![Open Source][oss]
-- [Terminus](https://eugeny.github.io/terminus/) - A terminal for a more modern age. ![Open Source][oss] 
+- [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age. ![Open Source][oss] 
 - [ZOC Terminal](https://www.emtec.com/zoc/) - Professional terminal emulation software for macOS. ![Dollar][mon]
 
 ### Text Editors
