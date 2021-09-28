@@ -245,7 +245,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite Database Browser. ![Open Source][oss]
 - [Medis 2](https://getmedis.com/) - Modern GUI for Redis. ![Open Source][oss] ![Dollar][mon]
 - [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management. ![Open Source][oss]
-- [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. ![Open Source][oss]
+- [Sequel Ace](https://apps.apple.com/us/app/sequel-ace/id1518036000?ls=1) - A MySQL database manager. ![Open Source][oss]
 - [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases. ![Open Source][oss]
 - [Postbird](https://github.com/paxa/postbird) - Open source PostgreSQL GUI client for macOs. ![Open Source][oss]
 - [Postgres.app](http://postgresapp.com/) - PostgreSQL for MacOS. ![Open Source][oss]
