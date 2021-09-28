@@ -440,6 +440,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [NightOwl](https://nightowl.kramser.xyz/#) - Easily toggle dark mode on macOS. ![Open Source][oss]
 - [MenuBar Stats 3](https://seense.com/menubarstats/) - Advanced macOS System Monitor. ![Dollar][mon]
 - [Meteorologist](https://sourceforge.net/projects/heat-meteo/) -  Free weather program for macOS. ![Open Source][oss]
+- [Presentify](https://presentify.compzets.com/) - Annotate literally anything on screen. ![Dollar][mon]
 - [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift. ![Open Source][oss]
 - [Stats](https://github.com/exelban/stats) - Simple macOS system monitor in your menu bar. ![Open Source][oss]
 - [Tyke](https://tyke.app/) - A little bit of scratch paper.
