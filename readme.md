@@ -246,7 +246,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite Database Browser. ![Open Source][oss]
 - [Medis 2](https://getmedis.com/) - Modern GUI for Redis. ![Open Source][oss] ![Dollar][mon]
 - [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management. ![Open Source][oss]
-- [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. ![Open Source][oss]
+- [Sequel Ace](https://apps.apple.com/us/app/sequel-ace/id1518036000?ls=1) - A MySQL database manager. ![Open Source][oss]
 - [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases. ![Open Source][oss]
 - [Postbird](https://github.com/paxa/postbird) - Open source PostgreSQL GUI client for macOs. ![Open Source][oss]
 - [Postgres.app](http://postgresapp.com/) - PostgreSQL for MacOS. ![Open Source][oss]
@@ -441,6 +441,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [NightOwl](https://nightowl.kramser.xyz/#) - Easily toggle dark mode on macOS. ![Open Source][oss]
 - [MenuBar Stats 3](https://seense.com/menubarstats/) - Advanced macOS System Monitor. ![Dollar][mon]
 - [Meteorologist](https://sourceforge.net/projects/heat-meteo/) -  Free weather program for macOS. ![Open Source][oss]
+- [Presentify](https://presentify.compzets.com/) - Annotate literally anything on screen. ![Dollar][mon]
 - [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift. ![Open Source][oss]
 - [Stats](https://github.com/exelban/stats) - Simple macOS system monitor in your menu bar. ![Open Source][oss]
 - [Tyke](https://tyke.app/) - A little bit of scratch paper.
