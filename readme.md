@@ -173,6 +173,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 ### Clipboard Managers
 
 - [Copied](https://copied.app/) - Clipboard manager for macOS, iOS and iPadOS. ![Dollar][mon] 
+- [Maccy](https://maccy.app/) - Keep your copy history at hand. Period. ![Open Source][oss]
 - [Yippy](https://yippy.mattdavo.com/) - An open source clipboard manager for macOS. ![Open Source][oss]
 
 ### Cloud Storage
@@ -755,6 +756,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Pock](http://pock.pigigaldi.com/) - Display macOS Dock in Touch Bar. ![Open Source][oss]
 - [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac.
 - [Service Station](https://servicestation.menu/) - Customize your Right-Click Menu.
+- [Shottr](https://shottr.cc/) - Screenshot tool for those who care about pixels. 
 - [Sloth](https://sveinbjorn.org/sloth) - Shows all open files and sockets in use. ![Open Source][oss]
 - [TouchSwitcher](https://hazeover.com/touchswitcher.html) - Use Touch Bar to Switch Apps. ![Open Source][oss]
 - [Unexpectedly](http://s.sudre.free.fr/Software/Unexpectedly/about.html) - Browse and visualize macOS crash reports. ![Open Source][oss]
@@ -835,7 +837,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager for macOS. ![Open Source][oss]
 - [BetterSnapTool](https://folivora.ai/bettersnaptool/) - Sasily manage your window positions. ![Dollar][mon]
 - [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS. ![Dollar][mon]
-- [Moom](https://manytricks.com/moom/) - Move and zoom windows.
+- [Moom](https://manytricks.com/moom/) - Move and zoom windows. ![Dollar][mon]
 - [Penc](https://deniz.co/penc/) - Trackpad-oriented window manager for macOS. ![Open Source][oss]
 - [Phoenix](https://github.com/kasper/phoenix/) - A lightweight window and app manager scriptable with JavaScript. ![Open Source][oss]
 - [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS. 
