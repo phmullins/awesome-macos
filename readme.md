@@ -829,6 +829,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser.
 - [Safari Technology Preview](https://developer.apple.com/safari/) - The newest browser tech from Apple.
 - [Sizzy](https://sizzy.co/) - The browser for developers.
+- [ungoogled-chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) - Chrome without the bad stuff. ![Open Source][oss]
 - [Vivaldi](https://vivaldi.com/) - A Browser for Our Friends.
 - [Waterfox](https://www.waterfox.net/) - Browse the web your way, with the indie web browser.
 - [WebKit](https://webkit.org/) - A fast, open source web browser engine. ![Open Source][oss]
