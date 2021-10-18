@@ -822,6 +822,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Browserosaurus](https://browserosaurus.com/) - The browser prompter for macOS.
 - [Cliqz](https://cliqz.com/en/) - The no-compromise browser.
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox. ![Open Source][oss]
+- [Firefox Beta](https://download.mozilla.org/?product=firefox-beta-latest-ssl&os=osx&lang=en-US) Mozilla Firefox (Beta) ![Open Source][oss]
 - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/channel/desktop/#developer) - Firefox release channel for experimental (beta) builds. ![Open Source][oss]
 - [Google Chrome](https://encrypted.google.com/chrome) - Google Chrome is a freeware web browser developed by Google.
 - [LibreWolf](https://librewolf-community.gitlab.io/) - A fork of Firefox, focused on privacy, security and freedom. ![Open Source][oss]
