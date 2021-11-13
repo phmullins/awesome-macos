@@ -435,15 +435,19 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) -  Advanced battery gauge for macOS. ![Open Source][oss]
 - [Bartender 4](https://www.macbartender.com/) - Take control of your menu bar. ![Dollar][mon]
 - [BitBar](https://www.getbidbar.com/) - Run terminal commands from the menu bar. ![Open Source][oss]
+- [De-Notch-ifier](https://www.publicspace.net/Denotchifier/index.html) - ![Dollar][mon]
+- [Forehead](https://goodsnooze.gumroad.com/l/nASbe) - Hide the notch and round the corners. Free &  ![Dollar][mon]
 - [FuzzyClock](https://github.com/m-schmidt/FuzzyClock) - Displays the time in your menubar. ![Open Source][oss]
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss] - Editor's Choice.
 - [KeyCue](https://www.ergonis.com/products/keycue/) - Find, remember, and learn keyboard shortcuts. ![Dollar][mon]
 - [NightOwl](https://nightowl.kramser.xyz/#) - Easily toggle dark mode on macOS. ![Open Source][oss]
 - [MenuBar Stats 3](https://seense.com/menubarstats/) - Advanced macOS System Monitor. ![Dollar][mon]
 - [Meteorologist](https://sourceforge.net/projects/heat-meteo/) -  Free weather program for macOS. ![Open Source][oss]
+- [Notch Pro](https://imadethis.app/notch-pro) - It draws a notch over your menubar. ![Open Source][oss]
 - [Presentify](https://presentify.compzets.com/) - Annotate literally anything on screen. ![Dollar][mon]
 - [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift. ![Open Source][oss]
 - [Stats](https://github.com/exelban/stats) - Simple macOS system monitor in your menu bar. ![Open Source][oss]
+- [TopNotch](https://topnotch.app/) - Makes the notch disappear like a 🥷.
 - [Tyke](https://tyke.app/) - A little bit of scratch paper.
 - [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac.
 - [WhichSpace](https://github.com/gechr/WhichSpace) - Active space menu bar icon for macOS. ![Open Source][oss]
