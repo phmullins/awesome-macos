@@ -796,6 +796,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS! ![Open Source][oss]
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age. ![Open Source][oss] 
+- [warp](https://www.warp.dev/) - The terminal that supercharges your developer workflow.
 - [ZOC Terminal](https://www.emtec.com/zoc/) - Professional terminal emulation software for macOS. ![Dollar][mon]
 
 ### Text Editors
