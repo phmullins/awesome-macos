@@ -347,6 +347,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [ReDoomEd](http://twilightedge.com/mac/redoomed/) - Port of “DoomEd”, id Software’s Doom map editor for NeXTSTEP (1993).
 - [Rolisteam](https://rolisteam.org/) - Manage tabletop role playing games with remote friends/players. ![Open Source][oss]
 - [Slade](http://slade.mancubus.net) - A modern editor for Doom.
+- [Stockfish](https://stockfishchess.org/) - Strong open source chess engine. ![Open Source][oss]
 - [Zandronum](https://zandronum.com/) - Leading the way in newschool multiplayer Doom online.
 
 ### Graphics
@@ -724,7 +725,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [ABetterFinderRename](https://www.publicspace.net/ABetterFinderRename/) - Simple. Complete. Powerful. ![Dollar][mon]
 - [ActiveDock](https://noteifyapp.com/activedock/) - Customizable dock for macOS. ![Dollar][mon]
-- [Alt-Tab](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS
+- [Alt-Tab](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS.  ![Open Source][oss]
 - [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS. ![Open Source][oss]
 - [Batteries for Mac](https://www.fadel.io/batteries) - Track all your devices' batteries from your Mac. ![Dollar][mon]
 - [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac) - Detailed battery information for your MacBook, iPhone & iPad. ![Dollar][mon]
@@ -844,6 +845,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager for macOS. ![Open Source][oss]
 - [BetterSnapTool](https://folivora.ai/bettersnaptool/) - Sasily manage your window positions. ![Dollar][mon]
+- [Hookshot](https://hookshot.app/) - Quicker window snapping on macOS. ![Dollar][mon]
 - [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS. ![Dollar][mon]
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows. ![Dollar][mon]
 - [Penc](https://deniz.co/penc/) - Trackpad-oriented window manager for macOS. ![Open Source][oss]
@@ -851,6 +853,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS. 
 - [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease.
 - [Slate](https://github.com/jigish/slate) - A window management application. ![Open Source][oss]
+- [Swish](https://highlyopinionated.co/swish/) - The missing gesture layer for macOS. ![Dollar][mon]
 - [Tiles](https://www.sempliva.com/tiles/) - The window manager for macOS. ![Open Source][oss]
 - [windOCD](https://windocd.myownapp.com/) - Align, arrange, and restore App Windows easily & automated. ![Dollar][mon]
 
