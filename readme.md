@@ -746,6 +746,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS. Free & ![Dollar][mon]
 - [Endurance](https://enduranceapp.com/) - Boots you Mac's battery. ![Dollar][mon]
 - [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. ![Open Source][oss]
+- [Flour](https://fluorapp.net/) - Change the keyboard's fn keys. 
 - [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
 - [Gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for MacOS. ![Open Source][oss]
 - [GeekTool](https://www.tynsoe.org/v2/geektool/) - Customize your desktop. 
