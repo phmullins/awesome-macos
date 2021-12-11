@@ -823,6 +823,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Rocket Typist](https://witt-software.com/rockettypist/) - Expand typed abbreviations. ![Dollar][mon]
 - [TeaCode](https://www.apptorium.com/teacode) - Don't Repeat Yourself. ![Dollar][mon]
 - [TextExpander](https://textexpander.com) - Expand keystrokes into frequently-used text and pictures. ![Dollar][mon]
+- [Trilium Notes](https://github.com/zadam/trilium) - Build your personal knowledge base.
 
 ### Web Browsers
 
