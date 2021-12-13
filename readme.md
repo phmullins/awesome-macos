@@ -586,6 +586,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Freedom](https://freedom.to/) - Freedom is the app and website blocker for Mac.
 - [Pomotroid](https://github.com/Splode/pomotroid) - Simple and visually-pleasing Pomodoro timer. 🍅 ![Open Source][oss]
+- [Shortery](https://lgerckens.de/shortery/) - Shortcut Automation for your Mac.
 - [Time Sink](https://manytricks.com/timesink/) - Track how you're spend your time. ![Dollar][mon]
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. 🐳 ![Open Source][oss]
 
