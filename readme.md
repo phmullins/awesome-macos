@@ -445,6 +445,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [KeyCue](https://www.ergonis.com/products/keycue/) - Find, remember, and learn keyboard shortcuts. ![Dollar][mon]
 - [NightOwl](https://nightowl.kramser.xyz/#) - Easily toggle dark mode on macOS. ![Open Source][oss]
 - [MenuBar Stats 3](https://seense.com/menubarstats/) - Advanced macOS System Monitor. ![Dollar][mon]
+- [Menuwhere](https://manytricks.com/menuwhere/) - The menu, anywhere. ![Dollar][mon]
 - [Meteorologist](https://sourceforge.net/projects/heat-meteo/) -  Free weather program for macOS. ![Open Source][oss]
 - [Notch Pro](https://imadethis.app/notch-pro) - It draws a notch over your menubar. ![Open Source][oss]
 - [Presentify](https://presentify.compzets.com/) - Annotate literally anything on screen. ![Dollar][mon]
