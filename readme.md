@@ -279,6 +279,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [GPG Tools](https://gpgtools.org/) - GPG Suite for macOS. ![Open Source][oss]
 - [keys.pub](https://keys.pub/) - Manage cryptographic keys, sigchains and user identities. ![Open Source][oss]
 - [Keybase](https://keybase.io/) - Keybase is a directory of public keys and the proofs of who owns them. ![Open Source][oss]
+- [VeraCrypt](https://veracrypt.fr) - Open source disk encryption software for macOS. ![Open Source][oss]
 
 ### Email
 
