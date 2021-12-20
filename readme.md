@@ -718,7 +718,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. ![Open Source][oss]
 - [Thermal](https://thermal.codecarrot.net/) - All-in-one place to manage your Git repository. ![Open Source][oss]
 - [Tower](http://www.git-tower.com/) - Advanced Git version control. ![Dollar][mon]
-- [Xit](https://github.com/Uncommon/Xit) - macOS Git GUI. ![Open Source][oss]
+- [Xit](https://github.com/Uncommon/Xit) - Graphical tool for working with git repositories. ![Open Source][oss]
 
 ### System Maintenance
 
