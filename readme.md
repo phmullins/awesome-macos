@@ -126,6 +126,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [BlackHole](https://existential.audio/blackhole/) - Route Audio Between Apps. ![Open Source][oss]
 - [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin. ![Open Source][oss]
 - [eqMac2](https://github.com/nodeful/eqMac2) - System-Wide Equalizer for the Mac. ![Open Source][oss]
+- [Falcon](https://flacon.github.io/) - An open source audio file encoder. ![Open Source][oss]
 - [Farrago](https://rogueamoeba.com/farrago/) - Robust, rapid-fire soundboards. ![Dollar][mon]
 - [Fission](https://rogueamoeba.com/fission/) - Fast & lossless audio editing. ![Dollar][mon]
 - [Kid3](https://kid3.kde.org/) - Audio Tagger. ![Open Source][oss]
