@@ -363,6 +363,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. ![Open Source][oss]
 - [Image2icon](http://www.img2icnsapp.com/) - Create and personalize icons from your pictures.
 - [Kap](https://getkap.co/) - Capture your screen. ![Open Source][oss]
+- [Pensela](https://github.com/weiameili/Pensela) - The Swiss Army Knife of Screen Annotation Tools. ![Open Source][oss]
 - [Ruffle](https://ruffle.rs/) - A Flash Player emulator built with Rust. ![Open Source][oss]
 - [Storyboarder](https://wonderunit.com/storyboarder/) - The best way to visualize your story.
 
@@ -371,6 +372,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Aseprite](https://www.aseprite.org/) - Animated sprite editor and pixel art tool. ![Dollar][mon]
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/) - The first choice for photography and creative professionals. ![Dollar][mon]
 - [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program. ![Open Source][oss]
+- [Krita](https://krita.org/en) -  Professional open source painting program. ![Open Source][oss]
 - [Pixelmator](http://www.pixelmator.com) - Full-featured image editor for Mac. ![Dollar][mon]
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) - Professional image editor. ![Dollar][mon]
 - [PhotoMD](https://apps.apple.com/us/app/photomd/id1515646480?mt=12) - Image EXIF and metadata editor, viewer and sorter. ![Dollar][mon]
