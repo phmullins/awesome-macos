@@ -616,6 +616,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Codespace](https://codespace.app/) - The code snippet manager you've been waiting for. ![Dollar][mon]
 - [Inkdrop](https://inkdrop.app/) - Organizing your Markdown notes made simple. ![Dollar][mon]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Website link checker for MacOS.
+- [Figma](https://www.figma.com/) - Serious application prototyping tool.
 - [Flipper](https://fbflipper.com/) - Extensible mobile app debugger. ![Open Source][oss] 
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Diff manager for MacOS. ![Dollar][mon]
 - [Key Codes](https://manytricks.com/keycodes/) - Displays key code, unicode value, and modifier keys state. 
