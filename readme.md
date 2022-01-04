@@ -473,6 +473,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Keybase Chat](https://keybase.io/download) - Crypto chat for everyone. ![Open Source][oss]    
 - [Monal](https://monal.im/) - Secure XMPP chat client. ![Open Source][oss]
 - [Patchwork](https://github.com/ssbc/patchwork) - Decentralized messaging app built on top of Secure Scuttlebutt (SSB). ![Open Source][oss]
+- [Pony](https://www.ponymessenger.com/) - Pony is a messenger that delivers once a day. 
 - [Ripcord](https://cancel.fm/ripcord/) - Desktop chat client for Slack (and Discord). ![Dollar][mon]
 - [Signal](https://www.signal.org/) - Fast, simple, secure. ![Open Source][oss]
 - [Shrugs](https://shrugs.app/) - Desktop chat client for Slack. ![Dollar][mon]
