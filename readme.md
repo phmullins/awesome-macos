@@ -456,6 +456,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Notch Pro](https://imadethis.app/notch-pro) - It draws a notch over your menubar. ![Open Source][oss]
 - [Presentify](https://presentify.compzets.com/) - Annotate literally anything on screen. ![Dollar][mon]
 - [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift. ![Open Source][oss]
+- [Spaceman](https://github.com/Jaysce/Spaceman) - View Spaces and Virtual Desktops in the menu bar. ![Open Source][oss]
 - [Stats](https://github.com/exelban/stats) - Simple macOS system monitor in your menu bar. ![Open Source][oss]
 - [TopNotch](https://topnotch.app/) - Makes the notch disappear like a 🥷.
 - [Tyke](https://tyke.app/) - A little bit of scratch paper.
