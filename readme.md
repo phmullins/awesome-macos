@@ -682,6 +682,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Geph](https://geph.io/en/) - Blast through censorship!
 - [Knock Knock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac.
 - [LuLu](https://objective-see.com/products/lulu.html) - Open-source macOS firewall.
+- [Murus](https://murusfirewall.com/murus/) - macOS Firewall Unchained. ![Dollar][mon]
 - [Netiquette](https://objective-see.com/products/netiquette.html) - A network monitor.
 - [OverSight](https://objective-see.com/products/oversight.html) - Monitors a mac's mic and webcam.
 - [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. ![Dollar][mon]
@@ -691,7 +692,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Security Growler](https://pirate.github.io/security-growler/) - Notifies you whenever security events occur on your machine. ![Open Source][oss]
 - [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all the tasks (processes) running on your Mac.
 - [TunnelBear](https://www.tunnelbear.com/) - A more secure way to browse the web. ![Dollar][mon]
-- [Vallum](https://www.vallumfirewall.com/) - macOS Application Firewall. ![Dollar][mon]
+- [Vallum](https://vallumfirewall.com/) - macOS Application Firewall. ![Dollar][mon]
 
 ### Social Media
 
