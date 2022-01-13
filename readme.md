@@ -902,6 +902,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Mini vMac](https://www.gryphel.com/c/minivmac/) - A miniature early Macintosh emulator.
 - [MultiPass](https://multipass.run/) - A mini-cloud on your Mac or Windows workstation.
+- [Parallels Access](https://www.parallels.com/products/access/) - Remote access to your computer from anywhere. ![Dollar][mon]
 - [Parallels Desktop 17](https://www.parallels.com/products/desktop/) - Run Windows on Mac without rebooting. ![Dollar][mon]
 - [Parallels Toolbox](https://www.parallels.com/products/toolbox/) -  All-in-one solution with over 30 tools for macOS and Windows 10. ![Dollar][mon]
 - [Veertu](https://veertu.com/) - Native Virtualization For macOS. ![Dollar][mon]
