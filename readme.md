@@ -678,6 +678,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Avast SecureLine VPN](https://www.avast.com/secureline-vpn#mac) - Encrypts your Internet connection. ![Dollar][mon]
 - [AVG Secure VPN](https://www.avg.com/en-us/secure-vpn) - Secure your Wi-Fi and browse privately. ![Dollar][mon]
+- [cracken](https://github.com/shmuelamar/cracken) - Fast password wordlist generator. ![Open Source][oss]
 - [Do Not Disturb](https://objective-see.com/products/dnd.html) - Detects and alerts you of physical access.
 - [Geph](https://geph.io/en/) - Blast through censorship!
 - [Knock Knock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac.
