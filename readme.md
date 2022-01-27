@@ -864,6 +864,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager for macOS. ![Open Source][oss]
 - [BetterSnapTool](https://folivora.ai/bettersnaptool/) - Sasily manage your window positions. ![Dollar][mon]
+- [emmetapp](https://emmetapp.com/) - The window manager you dream about. ![Dollar][mon]
 - [Hookshot](https://hookshot.app/) - Quicker window snapping on macOS. ![Dollar][mon]
 - [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS. ![Dollar][mon]
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows. ![Dollar][mon]
