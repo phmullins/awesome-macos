@@ -261,6 +261,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Figma](https://figma.com) — Create, test, and ship better designs from start to finish.
 - [Framer](https://www.framer.com/) - App prototyping tool. ![Dollar][mon] & Free
+- [Mockplus](https://www.mockplus.com/download/mockplus-classic) - Prototype faster. smarter. easier.
 - [Origami Studio](https://origami.design/) - Explore, iterate, and test your ideas.
 - [Sketch](https://www.sketchapp.com/) - Professional digital design for Mac. ![Dollar][mon]
 - [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace.
