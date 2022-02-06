@@ -830,6 +830,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [LightPaper](https://getlightpaper.com/) - Simple, beautiful yet powerful text editor for your Mac. ![Dollar][mon]
 - [Lime](http://limetext.org/) - Open Source, Elegant, and Free Text Editor. ![Open Source][oss]
 - [Noto](https://www.brunophilipe.com/software/noto/) - The themeable, plain-text editor for macOS. ![Open Source][oss]
+- [Nova](https://nova.app/) - All-in-one native web editor for macOS. ![Dollar][mon]
 - [SubEthaEdit 5](https://subethaedit.net/) - Code, Write, Edit. Together.
 - [Texpad](https://www.texpad.com/mac) - Native macOS app with efficient LaTeX environment. ![Open Source][oss]
 - [vimac](https://vimacapp.com/) - Vimium for macOS. ![Open Source][oss]
