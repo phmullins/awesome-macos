@@ -361,6 +361,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Adapter](https://macroplant.com/adapter) - Adapter Converts Video, Audio and Images.
 - [Amadine](https://amadine.com/) - The ultimate vector graphics software for macOS. ![Dollar][mon] 
 - [CleanShot](https://cleanshot.com/) - Capture your Mac’s screen like a pro. ![Dollar][mon]
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional Editing, Color, Effects and Audio Post! ![Dollar][mon]
 - [Gifox](https://gifox.io/) - Delightful GIF Recording and Sharing App.
 - [Icon Jar](https://geticonjar.com) - Store all your icons in one place. ![Dollar][mon]
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. ![Open Source][oss]
