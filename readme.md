@@ -586,7 +586,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [KeePassXC](https://keepassxc.org/) - Cross-Platform password manager. ![Open Source][oss]
 - [KeeWeb](https://keeweb.info/) - Password manager compatible with KeePass. ![Open Source][oss]
 - [LastPass](https://www.lastpass.com/) - Simplify your life. Free & ![Dollar][mon]
-- [MacPass](https://macpassapp.org/) - A native MacOS KeePass client. ![Open Source][oss]
+- [MacPass](https://macpassapp.org/) - A native KeePass-compatible password manager for macOS. ![Open Source][oss]
 - [Passifox](https://github.com/pfn/passifox) - Auto form-fill passwords from KeePass. ![Open Source][oss]
 - [Pastor](https://mehlau.net/pastor/) - Free password manager for macOS.
 - [QtPass](https://qtpass.org/) - QtPass is a multi-platform GUI for pass. ![Open Source][oss]
