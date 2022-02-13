@@ -803,6 +803,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Kanbanier](http://www.kanbanier.com/en/) - Kanban Boards for macOS.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - One of the best GTD/Task managers money can buy. ![Dollar][mon]
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - A minimal, focused outlining experience for Mac. ![Dollar][mon]
+- [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists for macOS. ![Dollar][mon]
 - [Tracktiq](http://www.tracktiq.com/) - Easy time tracking. ![Dollar][mon]
 - [Trello](http://labs.pierreorsander.com/trelloapp/) - A simple Trello client.
 
