@@ -123,6 +123,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [AirFoil](https://rogueamoeba.com/airfoil/) - Hear Your Audio Everywhere. ![Dollar][mon]
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any audio. ![Dollar][mon]
+- [Balance Lock](https://www.tunabellysoftware.com/balance_lock/) - Prevents audio balance from drifting left or right.
 - [BlackHole](https://existential.audio/blackhole/) - Route Audio Between Apps. ![Open Source][oss]
 - [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin. ![Open Source][oss]
 - [eqMac2](https://github.com/nodeful/eqMac2) - System-Wide Equalizer for the Mac. ![Open Source][oss]
