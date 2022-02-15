@@ -241,6 +241,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ### Databases
 
+- [Arctype](https://arctype.com/) - The SQL client and database management tool that's fun to use. ![Dollar][mon]
 - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio) - SQL client based on Visual Studio Code.
 - [Base](https://menial.co.uk/base/) - SQLite 3 database editor. ![Dollar][mon]
 - [Bdash](https://www.bdash.io/) - Simple SQL Client for lightweight data analysis. ![Open Source][oss]
@@ -890,7 +891,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [BookletCreator](https://www.bookletcreator.com/) - Create a booklet from a PDF document. ![Dollar][mon]
 - [Dictionaries](https://dictionaries.io/) -  Bidirectional translation, spellchecking and pronunciation. ![Dollar][mon]
 - [Grammarly](https://www.grammarly.com/) - Great Writing, Simplified. ![Dollar][mon]
-- [iAWriter](https://ia.net/writer/) - Designed to provide the best digital writing experience. ![Dollar][mon]
+- [IA Writer](https://ia.net/writer/) - Designed to provide the best digital writing experience. ![Dollar][mon]
 - [Ludwig](https://ludwig.guru/) - Sentence search engine that helps you write better English. ![Dollar][mon] & Free
 - [Nisus Thesaurus](https://www.nisus.com/Thesaurus/) - Free Thesaurus for macOS.
 - [Nota](https://nota.md/) - Modern writing app designed for Markdown.
