@@ -820,6 +820,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. ![Open Source][oss]
 - [Kui](https://kui.tools/) - Terminal with visualizations by and for developers. ![Open Source][oss]
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
+- [Portx](https://portx.online/en/) - A Cross Platform SSH Client.
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS! ![Open Source][oss]
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age. ![Open Source][oss] 
 - [warp](https://www.warp.dev/) - The terminal that supercharges your developer workflow.
