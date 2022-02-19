@@ -351,6 +351,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Epic Games Launcher](https://www.epicgames.com/store) - Game client.
 - [GOG Galaxy](https://www.gog.com/galaxy) - All your games and friends in one place.
 - [GZDoom](https://zdoom.org/index) - A Doom source port for the modern era. ![Open Source][oss]
+- [HStracker](https://hsreplay.net) - Find the best deck for your rank and region.
 - [OpenEmu](https://openemu.org/) - Video game emulation. ![Open Source][oss]
 - [ReDoomEd](http://twilightedge.com/mac/redoomed/) - Port of “DoomEd”, id Software’s Doom map editor for NeXTSTEP (1993).
 - [Rolisteam](https://rolisteam.org/) - Manage tabletop role playing games with remote friends/players. ![Open Source][oss]
