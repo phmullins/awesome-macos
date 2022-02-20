@@ -501,6 +501,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [ha-menu](https://github.com/codechimp-org/ha-menu/) - Perform common Home Assistant functions. ![Open Source][oss]
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Powerful utility for keyboard customization. ![Open Source][oss]
 - [Kinto](https://github.com/rbreaves/kinto) -  Linux & Windows keyboard layout for macOS users. ![Open Source][oss]
+- [LinearMouse](https://linearmouse.org/) - For macOS mouse users. ![Open Source][oss]
 - [Mactracker](https://mactracker.ca/) - Detailed information on every Apple product.
 - [Micro.blog](https://s3.amazonaws.com/micro.blog/mac/Micro.blog_1.9.zip) - The official macOS version of Micro.blog.
 - [Middle](https://middleclick.app/) - Add middle click to your Mac. ![Dollar][mon]
