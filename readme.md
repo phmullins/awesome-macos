@@ -601,6 +601,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ### Productivity
 
+- [Clockify](https://clockify.me/mac-time-tracking) - Free Mac time tracker.
 - [Freedom](https://freedom.to/) - Freedom is the app and website blocker for Mac.
 - [Pomotroid](https://github.com/Splode/pomotroid) - Simple and visually-pleasing Pomodoro timer. 🍅 ![Open Source][oss]
 - [Shortery](https://lgerckens.de/shortery/) - Shortcut Automation for your Mac.
@@ -624,6 +625,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 - [Anvil](https://anvilformac.com/) - Menubar app for managing local websites.
 - [Codespace](https://codespace.app/) - The code snippet manager you've been waiting for. ![Dollar][mon]
+- [DevMacToys](https://github.com/ObuchiYuki/DevToysMac) - DevToys For macOS. ![Open Source][oss]
 - [Inkdrop](https://inkdrop.app/) - Organizing your Markdown notes made simple. ![Dollar][mon]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Website link checker for MacOS.
 - [Figma](https://www.figma.com/) - Serious application prototyping tool.
