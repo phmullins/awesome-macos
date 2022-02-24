@@ -422,6 +422,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ### Knowledge Management
 
+- [Amplenote](https://www.amplenote.com/) - Write it down. Get it done.
 - [CardHop](https://flexibits.com/cardhop) - Contacts manager. One Cardhop, All Your Devices. ![Dollar][mon]
 - [Craft](https://www.craft.do/) - A fresh take on documents. ![Dollar][mon] and Free.
 - [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document/Note manager. ![Dollar][mon]
