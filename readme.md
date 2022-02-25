@@ -448,7 +448,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ### Menubar Applications
 
-- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) -  Amphetamine, the most awesome keep-awake app ever created for macOS.
+- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) -  The most awesome keep-awake app ever created for macOS.
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) -  Advanced battery gauge for macOS. ![Open Source][oss]
 - [Bartender 4](https://www.macbartender.com/) - Take control of your menu bar. ![Dollar][mon]
 - [BitBar](https://www.getbidbar.com/) - Run terminal commands from the menu bar. ![Open Source][oss]
