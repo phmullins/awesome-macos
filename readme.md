@@ -1,10 +1,12 @@
-### Awesome MacOS Software v1.9.2
+### Awesome MacOS Software v1.9.4 ([GLaDOS](https://en.wikipedia.org/wiki/GLaDOS))
 
 <img width="100" height="100" alt="icon_macos_02" src="assets/icon_macos_02.png">
 
 A curated list of fantastically awesome software for Apple's macOS operating system. This list was inspired by 
 [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). Legend: Open Source apps = ![Open Source][oss]. Paid 
-apps = ![Dollar][mon]. If an app dosen't have either icon then it should be considered free. 
+apps = ![Dollar][mon]. If an app dosen't have either icon then it should be considered free. Note: I wanted to have 
+a little fun with the version numbers, so starting with v1.9.4, all versions will be named after sci-fi robots, 
+androids, cyborgs, supercomputers, etc.
 
 - [Academics](#academics)
 - [Anti-Virus](#anti-virus)
@@ -20,6 +22,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Color Pickers](#color-pickers)
 - [Communication](#communication)
 - [Compression](#compression)
+- [Contacts & Calendars](#contacts-&-calendars)
 - [Databases](#databases)
 - [Design](#design)
 - [DevOps](#devops)
@@ -32,6 +35,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Fonts](#fonts)
 - [FTP Clients](#ftp-clients)
 - [Games](#games)
+- [Game Development](#game-development)
 - [Graphics](#graphics)
 - [Image Editors](#image-editors)
 - [Image Viewers](#image-viewers)
@@ -39,6 +43,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [IRC Clients](#irc-clients)
 - [Journaling](#journaling)
 - [Knowledge Management](#knowledge-management)
+- [Machine Learning](#machine-learning)
 - [Markdown Editors](#markdown-editors)
 - [Menubar Applications](#menubar-applications)
 - [Messenger Applications](#messenger-applications)
@@ -73,6 +78,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ### Academics
 
+- [Geogebra](https://www.geogebra.org/) - GeoGebra for Teaching and Learning Math. 
 - [Manuscripts](https://www.manuscripts.io/) - A writing tool like nothing you have seen before.
 - [Mochi](https://mochi.cards/) - Take notes and make flashcards.
 - [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Dollar][mon]
@@ -131,6 +137,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Farrago](https://rogueamoeba.com/farrago/) - Robust, rapid-fire soundboards. ![Dollar][mon]
 - [Fission](https://rogueamoeba.com/fission/) - Fast & lossless audio editing. ![Dollar][mon]
 - [Kid3](https://kid3.kde.org/) - Audio Tagger. ![Open Source][oss]
+- [Krisp](https://krisp.ai/) - Sound Clear in Online Meetings. ![Dollar][mon]
 - [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac. ![Dollar][mon]
 - [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor. ![Dollar][mon]
 - [Mutify](https://mutify.app/) - Quickly mute your microphone. ![Dollar][mon]
@@ -152,15 +159,6 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Freeze](https://www.freezeapp.net/) - Amazon Glacier for your Mac. ![Dollar][mon]
 - [Macrium Reflect 7](https://www.macrium.com/reflectfree) - Free back up, disk imaging, and cloning solution.
 - [Rclone](http://rclone.org/) - Sync files and directories to and from multiple services. ![Open Source][oss]
-
-### Calendar Applications
-
-- [BusyCal 3](https://busymac.com/busycal) - Powerful calendar app for macOS. ![Dollar][mon]
-- [Day-O](https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Simple menu bar clock replacement.
-- [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without. ![Dollar][mon]
-- [Informant](https://www.pocketinformant.com/products/mac-organizer-app/) - The best calendar app for macOS. ![Dollar][mon]
-- [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar. ![Open Source][oss]
-- [Morgen](https://morgen.so/#) - Make the most out of your time. ![Dollar][mon]
 
 ### Cleanup
 
@@ -227,7 +225,9 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Chime](https://chime.aws/) - Amazon Chime communications service. ![Dollar][mon]
 - [Feishu](https://www.feishu.cn/en/) - The Only All-in-One Platform You Will Ever Need.
 - [Loom](https://www.loom.com/) - Take back your time.
+- [Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app?SilentAuth=1) - Connect and collaborate with anyone from anywhere. ![Dollar][mon]
 - [Screen](https://screen.so/#/home) - Work together like you’re in the same room.
+- [Skype](https://www.skype.com/en/) - Your chats are about to get much better.
 - [Slack](https://slack.com/) - Team-based collaboration tool.
 - [Workplace by Facebook](https://www.facebook.com/workplace) - Change the way you work.
 - [Zulip](https://github.com/zulip/zulip-desktop) - Zulip for macOS. ![Open Source][oss]
@@ -238,6 +238,17 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for MacOS' default compression app.
 - [p7zip](http://p7zip.sourceforge.net/) - Open Source port of 7-Zip for POSIX systems. ![Open Source][oss]
 - [Zip Cleaner](https://roger-jolly.nl/software/#zipcleaner) - Remove DS_Store, Icon^M and __MACOSX from archives. ![Open Source][oss]
+
+### Contacts & Calendars
+
+- [BusyCal](https://www.busymac.com/busycal/) - Powerful, Elegant, Customizable Calendar for macOS. ![Dollar][mon]
+- [BusyContacts](https://www.busymac.com/busycontacts/index.html) - The most powerful contact manager for macOS. ![Dollar][mon]
+- [CardHop](https://flexibits.com/cardhop) - Contacts manager. One Cardhop, All Your Devices. ![Dollar][mon]
+- [Day-O](https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Simple menu bar clock replacement.
+- [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without. ![Dollar][mon]
+- [Informant](https://www.pocketinformant.com/products/mac-organizer-app/) - The best calendar app for macOS. ![Dollar][mon]
+- [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar. ![Open Source][oss]
+- [Morgen](https://morgen.so/#) - Make the most out of your time. ![Dollar][mon]
 
 ### Databases
 
@@ -274,6 +285,9 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Container PS](https://github.com/Toinane/container-ps) - Menu Bar app for Docker. ![Open Source][oss]
 - [Docker Desktop](https://www.docker.com/products/docker-desktop) - The world’s leading software containerization platform.
 - [Kitematic](https://kitematic.com/) - Run containers through a GUI. ![Open Source][oss]
+- [Kubernetic](https://www.kubernetic.com/) - The Kubernetes Desktop Client. ![Dollar][mon]
+- [Kui](https://github.com/kubernetes-sigs/kui) - Hybrid command-line/UI development experience for cloud. ![Open Source][oss]
+- [Leapp](https://www.leapp.cloud/) - Manage your Cloud credentials locally. ![Open Source][oss]
 
 ### Disk Utilities
 
@@ -293,6 +307,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [eM Client](https://www.emclient.com) - Boost your email. Skyrocket your productivity. Free & ![Dollar][mon]
 - [FMail](https://arievanboxel.fr/fmail/en/) - Free native Mac application for Fastmail.
 - [MailMate](https://freron.com/) - IMAP email client for macOS. ![Dollar][mon]
+- [Mimestream](https://mimestream.com/) - A native macOS email client for Gmail. ![Dollar][mon]
 - [Polymail](https://polymail.io/) - Simple, beautiful, powerful e-mail. ![Dollar][mon]
 - [Postbox](https://www.postbox-inc.com/) - Powerful and flexible email client. ![Dollar][mon]
 - [Spark](https://sparkmailapp.com/) - Email client for Apple devices.
@@ -349,6 +364,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Doomseeker](https://doomseeker.drdteam.org/) - Cross-platform server browser for Doom.
 - [DOSBox](https://www.dosbox.com) - DOS emulation for macOS.
 - [Epic Games Launcher](https://www.epicgames.com/store) - Game client.
+- [Flycast](https://github.com/flyinghead/flycast) - Multiplatform Sega Dreamcast, Naomi and Atomiswave emulator. ![Open Source][oss]
 - [GOG Galaxy](https://www.gog.com/galaxy) - All your games and friends in one place.
 - [GZDoom](https://zdoom.org/index) - A Doom source port for the modern era. ![Open Source][oss]
 - [HStracker](https://hsreplay.net) - Find the best deck for your rank and region.
@@ -357,7 +373,14 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Rolisteam](https://rolisteam.org/) - Manage tabletop role playing games with remote friends/players. ![Open Source][oss]
 - [Slade](http://slade.mancubus.net) - A modern editor for Doom.
 - [Stockfish](https://stockfishchess.org/) - Strong open source chess engine. ![Open Source][oss]
+- [xemu](https://xemu.app/) - Original Xbox Emulator. ![Open Source][oss]
 - [Zandronum](https://zandronum.com/) - Leading the way in newschool multiplayer Doom online.
+
+### Game Development
+
+- [Blender](https://www.blender.org/) - A new era for content creation.
+- [Unity](https://unity.com/) - The platform of choice for multiplayer hits.
+- [Unreal Engine](https://www.unrealengine.com/en-US/) - The world’s most open and advanced real-time 3D creation tool.
 
 ### Graphics
 
@@ -426,6 +449,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Asana](https://asana.com/) - Work on big ideas, without the busywork.
 - [Bundled Notes](https://bundlednotes.com/) - There's a new kid on the block.
 - [CardHop](https://flexibits.com/cardhop) - Contacts manager. One Cardhop, All Your Devices. ![Dollar][mon]
+- [ClickUp](https://clickup.com/) - All of your work in one place: Tasks, Docs, Chat, Goals, & more. ![Dollar][mon]
 - [Craft](https://www.craft.do/) - A fresh take on documents. ![Dollar][mon] and Free.
 - [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document/Note manager. ![Dollar][mon]
 - [DEVONsphere Express](https://www.devontechnologies.com/products/devonsphere/devonsphere-express.html) ![Dollar][mon]
@@ -434,6 +458,12 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized. ![Open Source][oss]
 - [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
 - [Yojimbo](http://www.barebones.com/products/Yojimbo/) - Effortless, reliable information organizer for macOS. ![Dollar][mon]
+
+### Machine Learning
+
+**Machine Learning, Artifical Intelligence, Neural Networks, etc.**
+
+- [Netron](https://netron.app/) - Visualizer for neural network, deep learning, and machine learning models. ![Open Source][oss]
 
 ### Markdown Editors
 
@@ -480,6 +510,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Cabal](https://cabal.chat/) - Experimental p2p community chat platform.
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook-Messenger client. ![Open Source][oss]
 - [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers. ![Open Source][oss]
+- [Franz](https://meetfranz.com/) - Get back on top of your messaging. 
 - [Gitter](https://gitter.im/) - A chat and networking platform. ![Open Source][oss]
 - [Keybase Chat](https://keybase.io/download) - Crypto chat for everyone. ![Open Source][oss]    
 - [Monal](https://monal.im/) - Secure XMPP chat client. ![Open Source][oss]
@@ -494,6 +525,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 
 ### Miscellaneous
 
+- [Actual](https://actualbudget.com/) - Enjoy managing your finances. ![Dollar][mon]
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator. ![Open Source][oss]
 - [AirParrot](https://www.airsquirrels.com/airparrot/) - Streaming and Mirroring for macOS. ![Dollar][mon]
 - [CodeCows](https://zeezide.de/en/products/codecows/) - Inject hundreds of ASCII Cows in any app.
@@ -633,6 +665,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Inkdrop](https://inkdrop.app/) - Organizing your Markdown notes made simple. ![Dollar][mon]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Website link checker for MacOS.
 - [Figma](https://www.figma.com/) - Serious application prototyping tool.
+- [Firecamp](https://firecamp.io/) - API platform for your favorite API-style.
 - [Flipper](https://fbflipper.com/) - Extensible mobile app debugger. ![Open Source][oss] 
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Diff manager for MacOS. ![Dollar][mon]
 - [Key Codes](https://manytricks.com/keycodes/) - Displays key code, unicode value, and modifier keys state. 
@@ -640,6 +673,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [massCode](https://masscode.io/) - Boost your productivity. ![Open Source][oss]
 - [Meld](http://meldmerge.org/) - A visual diff and merge tool. ![Open Source][oss]
 - [Mockoon](https://mockoon.com/) - Mock API in seconds. ![Open Source][oss]
+- [Mu](https://codewith.mu/) - Simple Python editor for beginner programmers. 
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code. ![Open Source][oss]
 - [PaintCode 3](https://www.paintcodeapp.com/) - Turn drawings into Swift code. ![Dollar][mon]
 - [Pashua](https://github.com/BlueM/Pashua) - Native macOS dialogs for scripting languages. ![Open Source][oss]
@@ -651,10 +685,10 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook. ![Dollar][mon]
 - [RunJS](https://runjs.dev/) - The JavaScript playground for your desktop. ![Open Source][oss]
 - [SnippetsLab](http://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager. ![Dollar][mon]
+- [Sparkle](https://sparkle-project.org/) - Easy-to-use software update framework for macOS applications. ![Open Source][oss]
 - [Stoplight Studio](https://stoplight.io/studio/) - Design APIs 10x faster with our free OpenAPI editor. ![Open Source][oss]
 - [SwiftPM Catalog](https://zeezide.de/en/products/swiftpmcatalog/) - Browse the Swift Package Index.
 - [VueXcode](https://github.com/AlwaysRightInstitute/VueXcode/) - Enable Xcode syntax highlighting for Vue.js. ![Open Source][oss] 
-- [Tinkerwell](https://tinkerwell.app/) - Run any PHP code locally. ![Dollar][mon]
 - [Tinkerwell](https://tinkerwell.app/) - Run any PHP code locally. ![Dollar][mon]
 - [XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - Easily install and switch between multiple versions of Xcode. ![Open Source][oss] 
 - [Yo](https://github.com/sheagcraig/yo) - Send Notification Center messages from the command-line. ![Open Source][oss] 
@@ -669,6 +703,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Remotix](https://nulana.com/remotix-mac/) - Access all your computers from anywhere. ![Dollar][mon]
 - [Royal TX](https://www.royalapps.com/ts/mac/features) - Comprehensive Remote Management Solution. ![Dollar][mon]
 - [Screens](https://edovia.com/en/screens-mac/) - Control any computer from your Mac. ![Dollar][mon]
+- [TeamViewer](https://www.teamviewer.com/en-us/) - The Solution for Remote Control and Access.
 
 ### Science 
 
@@ -698,6 +733,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Knock Knock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac.
 - [LuLu](https://objective-see.com/products/lulu.html) - Open-source macOS firewall.
 - [Murus](https://murusfirewall.com/murus/) - macOS Firewall Unchained. ![Dollar][mon]
+- [MullardVPN](https://mullvad.net/en/) - You have a right to privacy. ![Dollar][mon]
 - [Netiquette](https://objective-see.com/products/netiquette.html) - A network monitor.
 - [OverSight](https://objective-see.com/products/oversight.html) - Monitors a mac's mic and webcam.
 - [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. ![Dollar][mon]
@@ -842,11 +878,13 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Drafts](https://getdrafts.com/) - Where Text Starts. ![Dollar][mon]
 - [LightPaper](https://getlightpaper.com/) - Simple, beautiful yet powerful text editor for your Mac. ![Dollar][mon]
 - [Lime](http://limetext.org/) - Open Source, Elegant, and Free Text Editor. ![Open Source][oss]
+- [MacVim](https://macvim-dev.github.io/macvim/) - Vim - the text editor - for macOS. ![Open Source][oss]
 - [Noto](https://www.brunophilipe.com/software/noto/) - The themeable, plain-text editor for macOS. ![Open Source][oss]
 - [Nova](https://nova.app/) - All-in-one native web editor for macOS. ![Dollar][mon]
 - [SubEthaEdit 5](https://subethaedit.net/) - Code, Write, Edit. Together.
 - [Texpad](https://www.texpad.com/mac) - Native macOS app with efficient LaTeX environment. ![Open Source][oss]
 - [vimac](https://vimacapp.com/) - Vimium for macOS. ![Open Source][oss]
+- [Visual Studio](https://visualstudio.microsoft.com/vs/mac/) - Develop apps and games for iOS, Android, and web using .NET 
 
 ### Text Expanders
 
@@ -867,11 +905,13 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox. ![Open Source][oss]
 - [Firefox Beta](https://download.mozilla.org/?product=firefox-beta-latest-ssl&os=osx&lang=en-US) Mozilla Firefox (Beta) ![Open Source][oss]
 - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/channel/desktop/#developer) - Firefox release channel for experimental (beta) builds. ![Open Source][oss]
+- [Ghost Browser](https://ghostbrowser.com/) - The Productivity Browser for Tech Pros
 - [Google Chrome](https://encrypted.google.com/chrome) - Google Chrome is a freeware web browser developed by Google.
 - [LibreWolf](https://librewolf-community.gitlab.io/) - A fork of Firefox, focused on privacy, security and freedom. ![Open Source][oss]
 - [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/) - Chromium-based version of Microsoft Edge (Beta).
 - [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser.
 - [Safari Technology Preview](https://developer.apple.com/safari/) - The newest browser tech from Apple.
+- [Sidekick](https://www.meetsidekick.com/) - The fastest browser for work ever made.
 - [Sizzy](https://sizzy.co/) - The browser for developers.
 - [ungoogled-chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) - Chrome without the bad stuff. ![Open Source][oss]
 - [Vivaldi](https://vivaldi.com/) - A Browser for Our Friends.
@@ -917,6 +957,7 @@ apps = ![Dollar][mon]. If an app dosen't have either icon then it should be cons
 - [MakeMKV](https://www.makemkv.com/) - Rip DVD and Blu-ray discs. ![Dollar][mon]
 - [MPlayer](https://mplayerhq.hu) - A cross-platform movie player.
 - [mpv](https://mpv.io/) - A free, open source, and cross-platform media player. ![Open Source][oss]
+- [Natron](https://natrongithub.github.io/) - Open Source Compositing Software for VFX and Motion Graphics. ![Open Source][oss]
 - [Yoda](http://whoisandy.github.io/yoda/) - Browse and download YouTube videos. ![Open Source][oss]
 
 ### Virtualization
