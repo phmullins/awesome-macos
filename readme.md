@@ -14,7 +14,7 @@ androids, cyborgs, supercomputers, etc.
 - [Audio Players](#audio-players)
 - [Audio Utilities](#audio-utilities)
 - [Backups](#backups)
-- [Calendar Applications](#calendar-applications)
+- [Calendar](#calendar)
 - [Cleanup](#cleanup)
 - [Clipboard Managers](#clipboard-managers)
 - [Cloud Storage](#cloud-storage)
@@ -22,7 +22,6 @@ androids, cyborgs, supercomputers, etc.
 - [Color Pickers](#color-pickers)
 - [Communication](#communication)
 - [Compression](#compression)
-- [Contacts & Calendars](#contacts-&-calendars)
 - [Databases](#databases)
 - [Design](#design)
 - [DevOps](#devops)
@@ -239,7 +238,7 @@ androids, cyborgs, supercomputers, etc.
 - [p7zip](http://p7zip.sourceforge.net/) - Open Source port of 7-Zip for POSIX systems. ![Open Source][oss]
 - [Zip Cleaner](https://roger-jolly.nl/software/#zipcleaner) - Remove DS_Store, Icon^M and __MACOSX from archives. ![Open Source][oss]
 
-### Contacts & Calendars
+### Calendar
 
 - [BusyCal](https://www.busymac.com/busycal/) - Powerful, Elegant, Customizable Calendar for macOS. ![Dollar][mon]
 - [BusyContacts](https://www.busymac.com/busycontacts/index.html) - The most powerful contact manager for macOS. ![Dollar][mon]
