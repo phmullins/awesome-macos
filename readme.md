@@ -449,6 +449,7 @@ androids, cyborgs, supercomputers, etc.
 - [Bundled Notes](https://bundlednotes.com/) - There's a new kid on the block.
 - [CardHop](https://flexibits.com/cardhop) - Contacts manager. One Cardhop, All Your Devices. ![Dollar][mon]
 - [ClickUp](https://clickup.com/) - All of your work in one place: Tasks, Docs, Chat, Goals, & more. ![Dollar][mon]
+- [Coda](https://coda.io/) - Enough of this sheet. 
 - [Craft](https://www.craft.do/) - A fresh take on documents. ![Dollar][mon] and Free.
 - [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document/Note manager. ![Dollar][mon]
 - [DEVONsphere Express](https://www.devontechnologies.com/products/devonsphere/devonsphere-express.html) ![Dollar][mon]
