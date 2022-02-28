@@ -15,6 +15,7 @@ androids, cyborgs, supercomputers, etc.
 - [Audio Utilities](#audio-utilities)
 - [Backups](#backups)
 - [Calendar](#calendar)
+- [Contacts](#contacts)
 - [Cleanup](#cleanup)
 - [Clipboard Managers](#clipboard-managers)
 - [Cloud Storage](#cloud-storage)
@@ -41,7 +42,6 @@ androids, cyborgs, supercomputers, etc.
 - [Internet](#internet)
 - [IRC Clients](#irc-clients)
 - [Journaling](#journaling)
-- [Knowledge Management](#knowledge-management)
 - [Machine Learning](#machine-learning)
 - [Markdown Editors](#markdown-editors)
 - [Menubar Applications](#menubar-applications)
@@ -108,6 +108,7 @@ androids, cyborgs, supercomputers, etc.
 ### Audio Players
 
 - [Auryo](https://auryo.com/) - A SoundCloud client for your desktop. ![Open Source][oss]
+- [Aural](https://github.com/kartik-venugopal/aural-player) - An audio player for macOS, inspired by Winamp. ![Open Source][oss]
 - [BitPerfect](http://bitperfectsound.com/) - The Audiophile Choice. ![Dollar][mon]
 - [Cog](http://cogx.org/) - Audio player similar to Foobar 2000. ![Open Source][oss]
 - [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS.
@@ -241,13 +242,16 @@ androids, cyborgs, supercomputers, etc.
 ### Calendar
 
 - [BusyCal](https://www.busymac.com/busycal/) - Powerful, Elegant, Customizable Calendar for macOS. ![Dollar][mon]
-- [BusyContacts](https://www.busymac.com/busycontacts/index.html) - The most powerful contact manager for macOS. ![Dollar][mon]
-- [CardHop](https://flexibits.com/cardhop) - Contacts manager. One Cardhop, All Your Devices. ![Dollar][mon]
 - [Day-O](https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Simple menu bar clock replacement.
 - [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without. ![Dollar][mon]
 - [Informant](https://www.pocketinformant.com/products/mac-organizer-app/) - The best calendar app for macOS. ![Dollar][mon]
 - [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar. ![Open Source][oss]
 - [Morgen](https://morgen.so/#) - Make the most out of your time. ![Dollar][mon]
+
+### Contacts
+
+- [BusyContacts](https://www.busymac.com/busycontacts/index.html) - The most powerful contact manager for macOS. ![Dollar][mon]
+- [CardHop](https://flexibits.com/cardhop) - Contacts manager. One Cardhop, All Your Devices. ![Dollar][mon]
 
 ### Databases
 
@@ -316,6 +320,7 @@ androids, cyborgs, supercomputers, etc.
 
 - [Bookpedia](https://www.bruji.com/bookpedia/) - What's on your shelves? ![Dollar][mon]
 - [Calibre](http://calibre-ebook.com/) - Complete e-book library management system. ![Open Source][oss]
+- [Clearview](http://www.clearview-reader.com/clearview/) - Tabbed style e-book reader for PDF, EPUB (DRM free), CHM, and MOBI.
 - [Delicious Library 3](https://www.delicious-monster.com/) - Book Manager. ![Dollar][mon]
 - [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) - Read Kindle books on your Mac.
 - [Kitabu](https://www.kitabu.me/) - Kitabu is your EPUB reading application and cloud library.
@@ -367,6 +372,7 @@ androids, cyborgs, supercomputers, etc.
 - [GOG Galaxy](https://www.gog.com/galaxy) - All your games and friends in one place.
 - [GZDoom](https://zdoom.org/index) - A Doom source port for the modern era. ![Open Source][oss]
 - [HStracker](https://hsreplay.net) - Find the best deck for your rank and region.
+- [MetalNES](https://github.com/iaddis/metalnes) - Transistor level NES simulation. ![Open Source][oss]
 - [OpenEmu](https://openemu.org/) - Video game emulation. ![Open Source][oss]
 - [ReDoomEd](http://twilightedge.com/mac/redoomed/) - Port of “DoomEd”, id Software’s Doom map editor for NeXTSTEP (1993).
 - [Rolisteam](https://rolisteam.org/) - Manage tabletop role playing games with remote friends/players. ![Open Source][oss]
@@ -439,25 +445,10 @@ androids, cyborgs, supercomputers, etc.
 ### Journaling
 
 - [Day One](http://dayoneapp.com/) - A journal, diary, text-logging application. ![Dollar][mon]
+- [Journey](https://journey.cloud/) - Meet Journey, Your Self-Care Journal. ![Dollar][mon]
 - [jrnl](http://jrnl.sh/) - Command-line journaling application. ![Open Source][oss]
+- [Linked](https://uselinked.com/) - Link your thoughts to days, distraction free. ![Open Source][oss]
 - [MacJournal 7](http://danschimpf.com/) - macOS journaling application.
-
-### Knowledge Management
-
-- [Amplenote](https://www.amplenote.com/) - Write it down. Get it done.
-- [Asana](https://asana.com/) - Work on big ideas, without the busywork.
-- [Bundled Notes](https://bundlednotes.com/) - There's a new kid on the block.
-- [CardHop](https://flexibits.com/cardhop) - Contacts manager. One Cardhop, All Your Devices. ![Dollar][mon]
-- [ClickUp](https://clickup.com/) - All of your work in one place: Tasks, Docs, Chat, Goals, & more. ![Dollar][mon]
-- [Coda](https://coda.io/) - Enough of this sheet. 
-- [Craft](https://www.craft.do/) - A fresh take on documents. ![Dollar][mon] and Free.
-- [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document/Note manager. ![Dollar][mon]
-- [DEVONsphere Express](https://www.devontechnologies.com/products/devonsphere/devonsphere-express.html) ![Dollar][mon]
-- [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS. ![Open Source][oss]
-- [Keep It](https://reinventedsoftware.com/keepit/) - Write notes, keep things, and find them again. ![Dollar][mon]
-- [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized. ![Open Source][oss]
-- [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
-- [Yojimbo](http://www.barebones.com/products/Yojimbo/) - Effortless, reliable information organizer for macOS. ![Dollar][mon]
 
 ### Machine Learning
 
@@ -584,10 +575,23 @@ androids, cyborgs, supercomputers, etc.
 ### Notes
 
 - [Agenda](https://agenda.com/) - Date-focused note taking
+- [Amplenote](https://www.amplenote.com/) - Write it down. Get it done.
+- [Asana](https://asana.com/) - Work on big ideas, without the busywork.
+- [Bundled Notes](https://bundlednotes.com/) - There's a new kid on the block.
+- [ClickUp](https://clickup.com/) - All of your work in one place: Tasks, Docs, Chat, Goals, & more. ![Dollar][mon]
+- [Coda](https://coda.io/) - Enough of this sheet. 
+- [Craft](https://www.craft.do/) - A fresh take on documents. ![Dollar][mon] and Free.
+- [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document/Note manager. ![Dollar][mon]
+- [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS. ![Open Source][oss]
+- [Joplin](https://joplinapp.org/) - Free your notes. ![Open Source][oss]
+- [Keep It](https://reinventedsoftware.com/keepit/) - Write notes, keep things, and find them again. ![Dollar][mon]
 - [Milanote](https://milanote.com/) - Get organized. Stay creative.
+- [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized. ![Open Source][oss]
+- [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
 - [QOwnNotes](https://www.qownnotes.org/) - Plain-text file markdown note taking with Nextcloud integration. ![Open Source][oss]
 - [Standard Notes](https://standardnotes.org/) - Free to use, cross-platform sync, and end-to-end privacy. ![Open Source][oss]
 - [Trilium](https://github.com/zadam/trilium) - Build your personal knowledge base. ![Open Source][oss]
+- [Yojimbo](http://www.barebones.com/products/Yojimbo/) - Effortless, reliable information organizer for macOS. ![Dollar][mon]
 
 ### Office Suites
 
@@ -718,6 +722,7 @@ androids, cyborgs, supercomputers, etc.
  
 ### Search Utilities
 
+- [DEVONsphere Express](https://www.devontechnologies.com/products/devonsphere/devonsphere-express.html) ![Dollar][mon]
 - [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
 - [HoudahSpot 4](https://www.houdah.com/houdahSpot/) - Powerful File Search for Mac. ![Dollar][mon]
 - [ProFind](https://zeroonetwenty.com/profind/) - Find like a pro. ![Dollar][mon]
