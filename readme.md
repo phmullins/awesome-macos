@@ -585,6 +585,7 @@ androids, cyborgs, supercomputers, etc.
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS. ![Open Source][oss]
 - [Joplin](https://joplinapp.org/) - Free your notes. ![Open Source][oss]
 - [Keep It](https://reinventedsoftware.com/keepit/) - Write notes, keep things, and find them again. ![Dollar][mon]
+- [Logseq](https://logseq.com/) - A privacy-first, open-source knowledge base. 
 - [Milanote](https://milanote.com/) - Get organized. Stay creative.
 - [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized. ![Open Source][oss]
 - [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
