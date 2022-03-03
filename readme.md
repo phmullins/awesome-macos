@@ -77,7 +77,8 @@ androids, cyborgs, supercomputers, etc.
 
 ### Academics
 
-- [Geogebra](https://www.geogebra.org/) - GeoGebra for Teaching and Learning Math. 
+- [Geogebra](https://www.geogebra.org/) - GeoGebra for Teaching and Learning Math.
+- [Jamovi](https://www.jamovi.org/) - free and open statistical software to bridge the gap between researcher and statistician. ![Open Source][oss]
 - [Manuscripts](https://www.manuscripts.io/) - A writing tool like nothing you have seen before.
 - [Mochi](https://mochi.cards/) - Take notes and make flashcards.
 - [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Dollar][mon]
@@ -479,7 +480,7 @@ androids, cyborgs, supercomputers, etc.
 - [Displays](https://www.jibapps.com/apps/displays/) - Manage your monitors and more. ![Dollar][mon]
 - [Forehead](https://goodsnooze.gumroad.com/l/nASbe) - Hide the notch and round the corners. Free &  ![Dollar][mon]
 - [FuzzyClock](https://github.com/m-schmidt/FuzzyClock) - Displays the time in your menubar. ![Open Source][oss]
-- [Hidden Bar](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss] - Editor's Choice.
+- [Hidden](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss] - Editor's Choice.
 - [KeyCue](https://www.ergonis.com/products/keycue/) - Find, remember, and learn keyboard shortcuts. ![Dollar][mon]
 - [NightOwl](https://nightowl.kramser.xyz/#) - Easily toggle dark mode on macOS. ![Open Source][oss]
 - [MenuBar Stats 3](https://seense.com/menubarstats/) - Advanced macOS System Monitor. ![Dollar][mon]
@@ -587,6 +588,7 @@ androids, cyborgs, supercomputers, etc.
 - [Keep It](https://reinventedsoftware.com/keepit/) - Write notes, keep things, and find them again. ![Dollar][mon]
 - [Logseq](https://logseq.com/) - A privacy-first, open-source knowledge base. 
 - [Milanote](https://milanote.com/) - Get organized. Stay creative.
+- [NimbusNote](https://nimbusweb.me/note.php) - One place to manage all your information. 
 - [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized. ![Open Source][oss]
 - [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
 - [QOwnNotes](https://www.qownnotes.org/) - Plain-text file markdown note taking with Nextcloud integration. ![Open Source][oss]
@@ -643,6 +645,7 @@ androids, cyborgs, supercomputers, etc.
 ### Productivity
 
 - [Clockify](https://clockify.me/mac-time-tracking) - Free Mac time tracker.
+- [Focus](https://heyfocus.com/) - Website blocker for macOS. ![Dollar][mon]
 - [Freedom](https://freedom.to/) - Freedom is the app and website blocker for Mac.
 - [Pomotroid](https://github.com/Splode/pomotroid) - Simple and visually-pleasing Pomodoro timer. 🍅 ![Open Source][oss]
 - [Shortery](https://lgerckens.de/shortery/) - Shortcut Automation for your Mac.
@@ -797,6 +800,7 @@ androids, cyborgs, supercomputers, etc.
 
 ### System Tools
 
+- [5 GUIs](https://zeezide.de/en/products/5guis/) - Detect which UI frameworks an app is using. ![Open Source][oss]
 - [ABetterFinderRename](https://www.publicspace.net/ABetterFinderRename/) - Simple. Complete. Powerful. ![Dollar][mon]
 - [ActiveDock](https://noteifyapp.com/activedock/) - Customizable dock for macOS. ![Dollar][mon]
 - [Alt-Tab](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS.  ![Open Source][oss]
@@ -821,10 +825,10 @@ androids, cyborgs, supercomputers, etc.
 - [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
 - [Gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for MacOS. ![Open Source][oss]
 - [GeekTool](https://www.tynsoe.org/v2/geektool/) - Customize your desktop. 
-- [Übersicht](https://tracesof.net/uebersicht/) - Keep an eye on what is happening on your machine. 
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep. ![Open Source][oss]
-- [KeyCue](https://www.ergonis.com/products/keycue/) - Find, remember, and learn keyboard shortcuts. ![Dollar][mon]
 - [KeyCastr](https://github.com/keycastr/keycastr) - An open-source keystroke visualizer. ![Open Source][oss]
+- [KeyCue](https://www.ergonis.com/products/keycue/) - Find, remember, and learn keyboard shortcuts. ![Dollar][mon]
+- [Keysmith](https://www.keysmith.app/) - Create custom keyboard shortcuts for anything. ![Dollar][mon]
 - [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services. ![Open Source][oss]
 - [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
 - [Lunar](https://lunar.fyi/) - Intelligent adaptive brightness for your external display. ![Open Source][oss]
@@ -840,13 +844,13 @@ androids, cyborgs, supercomputers, etc.
 - [Shottr](https://shottr.cc/) - Screenshot tool for those who care about pixels. 
 - [Sloth](https://sveinbjorn.org/sloth) - Shows all open files and sockets in use. ![Open Source][oss]
 - [TouchSwitcher](https://hazeover.com/touchswitcher.html) - Use Touch Bar to Switch Apps. ![Open Source][oss]
+- [Übersicht](https://tracesof.net/uebersicht/) - Keep an eye on what is happening on your machine. 
 - [Unexpectedly](http://s.sudre.free.fr/Software/Unexpectedly/about.html) - Browse and visualize macOS crash reports. ![Open Source][oss]
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/index.html) - Remove unwanted packages from MacOS. ![Dollar][mon]
 - [VipRiser](https://onflapp.github.io/blog/pages/VipRiser) - Extensible virtual PDF printer. ![Dollar][mon]
 - [Witch](https://manytricks.com/witch/) - ⌘-Tab Everything. ![Dollar][mon]
 - [xBench](http://xbench.com/) - The Only Benchmark You'll Ever Need.
 - [Xrg](https://gaucho.software/Products/XRG/) - An open source system monitor for macOS. ![Open Source][oss]
-- [5 GUIs](https://zeezide.de/en/products/5guis/) - Detect which UI frameworks an app is using. ![Open Source][oss]
 
 ### Task Management
 
