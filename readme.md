@@ -370,6 +370,7 @@ androids, cyborgs, supercomputers, etc.
 - [DOSBox](https://www.dosbox.com) - DOS emulation for macOS.
 - [Epic Games Launcher](https://www.epicgames.com/store) - Game client.
 - [Flycast](https://github.com/flyinghead/flycast) - Multiplatform Sega Dreamcast, Naomi and Atomiswave emulator. ![Open Source][oss]
+- [Gearcoleco](https://github.com/drhelius/Gearcoleco) - Cross-platform ColecoVision emulator. ![Open Source][oss]
 - [GOG Galaxy](https://www.gog.com/galaxy) - All your games and friends in one place.
 - [GZDoom](https://zdoom.org/index) - A Doom source port for the modern era. ![Open Source][oss]
 - [HStracker](https://hsreplay.net) - Find the best deck for your rank and region.
@@ -933,6 +934,7 @@ androids, cyborgs, supercomputers, etc.
 - [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager for macOS. ![Open Source][oss]
 - [BetterSnapTool](https://folivora.ai/bettersnaptool/) - Sasily manage your window positions. ![Dollar][mon]
 - [emmetapp](https://emmetapp.com/) - The window manager you dream about. ![Dollar][mon]
+- [Grid](https://macgrid.app/) - The fast, easy way to organize windows on your Mac. ![Dollar][mon] 
 - [Hookshot](https://hookshot.app/) - Quicker window snapping on macOS. ![Dollar][mon]
 - [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS. ![Dollar][mon]
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows. ![Dollar][mon]
