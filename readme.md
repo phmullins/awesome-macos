@@ -1,4 +1,4 @@
-### Awesome MacOS Software v1.9.4 ([GLaDOS](https://en.wikipedia.org/wiki/GLaDOS))
+### Awesome MacOS Software v1.9.6 ([Tron](https://en.wikipedia.org/wiki/List_of_Tron_characters#Tron_2))
 
 <img width="100" height="100" alt="icon_macos_02" src="assets/icon_macos_02.png">
 
@@ -27,6 +27,7 @@ androids, cyborgs, supercomputers, etc.
 - [Design](#design)
 - [DevOps](#devops)
 - [Disk Utilities](#disk-utilities)
+- [Documents](#documents)
 - [Encryption](#encryption)
 - [Email](#email)
 - [Electronic Books](#electronic-books)
@@ -271,6 +272,7 @@ androids, cyborgs, supercomputers, etc.
 - [Postgres.app](http://postgresapp.com/) - PostgreSQL for MacOS. ![Open Source][oss]
 - [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac.
 - [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS. ![Open Source][oss]
+- [Querious](https://www.araelium.com/querious/) - The best MySQL tool for macOS. ![Dollar][mon]
 - [Robomongo](https://robomongo.org/) - Cross-platform MongoDB client.
 - [TablePlus](https://tableplus.com/) - Modern GUI for MySQL, PostgreSQL, and SQLite. ![Dollar][mon]
 
@@ -297,6 +299,11 @@ androids, cyborgs, supercomputers, etc.
 
 - [DiskWave](https://diskwave.barthe.ph/) - Determine what files & folders are using your disk space. ![Open Source][oss] 
 
+### Documents
+
+- [PDF Expert](https://pdfexpert.com/) - The ultimate PDF editor. ![Dollar][mon]
+- [Sejda PDF Desktop](https://www.sejda.com/desktop) - Productive PDF software that you'll love to use. ![Dollar][mon]
+
 ### Encryption
 
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. ![Open Source][oss]
@@ -322,6 +329,7 @@ androids, cyborgs, supercomputers, etc.
 - [Bookpedia](https://www.bruji.com/bookpedia/) - What's on your shelves? ![Dollar][mon]
 - [Calibre](http://calibre-ebook.com/) - Complete e-book library management system. ![Open Source][oss]
 - [Clearview](http://www.clearview-reader.com/clearview/) - Tabbed style e-book reader for PDF, EPUB (DRM free), CHM, and MOBI.
+- [comictagger](https://github.com/comictagger/comictagger) - A multi-platform app for writing metadata to digital comics. ![Open Source][oss]
 - [Delicious Library 3](https://www.delicious-monster.com/) - Book Manager. ![Dollar][mon]
 - [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) - Read Kindle books on your Mac.
 - [Kitabu](https://www.kitabu.me/) - Kitabu is your EPUB reading application and cloud library.
@@ -406,6 +414,7 @@ androids, cyborgs, supercomputers, etc.
 
 ### Image Editors
 
+- [Acorn](https://flyingmeat.com/acorn/) - Image editor for MacOS. ![Dollar][mon]
 - [Aseprite](https://www.aseprite.org/) - Animated sprite editor and pixel art tool. ![Dollar][mon]
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/) - The first choice for photography and creative professionals. ![Dollar][mon]
 - [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program. ![Open Source][oss]
@@ -472,11 +481,13 @@ androids, cyborgs, supercomputers, etc.
 
 ### Menubar Applications
 
+- [Aldente](https://github.com/davidwernhart/AlDente) - macOS tool to limit maximum charging percentage. ![Open Source][oss]
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) -  The most awesome keep-awake app ever created for macOS.
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) -  Advanced battery gauge for macOS. ![Open Source][oss]
 - [Bartender 4](https://www.macbartender.com/) - Take control of your menu bar. ![Dollar][mon]
 - [BitBar](https://www.getbidbar.com/) - Run terminal commands from the menu bar. ![Open Source][oss]
 - [Bunch](https://bunchapp.co/) - Your new favorite macOS automation tool.
+- [cpuinfo](https://github.com/yusukeshib/cpuinfo) - cpumeter menubar app for mac. ![Open Source][oss]
 - [De-Notch-ifier](https://www.publicspace.net/Denotchifier/index.html) - ![Dollar][mon]
 - [Displays](https://www.jibapps.com/apps/displays/) - Manage your monitors and more. ![Dollar][mon]
 - [Forehead](https://goodsnooze.gumroad.com/l/nASbe) - Hide the notch and round the corners. Free &  ![Dollar][mon]
@@ -509,6 +520,7 @@ androids, cyborgs, supercomputers, etc.
 - [Monal](https://monal.im/) - Secure XMPP chat client. ![Open Source][oss]
 - [Patchwork](https://github.com/ssbc/patchwork) - Decentralized messaging app built on top of Secure Scuttlebutt (SSB). ![Open Source][oss]
 - [Pony](https://www.ponymessenger.com/) - Pony is a messenger that delivers once a day. 
+- [Rambox](https://rambox.app/) - he only way to organize your workspace and boost your productivity. 
 - [Ripcord](https://cancel.fm/ripcord/) - Desktop chat client for Slack (and Discord). ![Dollar][mon]
 - [Signal](https://www.signal.org/) - Fast, simple, secure. ![Open Source][oss]
 - [Shrugs](https://shrugs.app/) - Desktop chat client for Slack. ![Dollar][mon]
@@ -524,6 +536,7 @@ androids, cyborgs, supercomputers, etc.
 - [CodeCows](https://zeezide.de/en/products/codecows/) - Inject hundreds of ASCII Cows in any app.
 - [Console](https://github.com/macmade/Console) - Replacement macOS console application. ![Open Source][oss]
 - [Contexts](https://contexts.co/) - Radically simpler & faster window switcher.
+- [EasyEDA](https://easyeda.com/) - An Easier and Powerful Online PCB Design Tool. ![Dollar][mon]
 - [FS-UAE](https://fs-uae.net/) - Amiga Emulator. ![Open Source][oss]
 - [Glance](https://github.com/samuelmeuli/glance) - All-in-one Quick Look plugin. ![Open Source][oss]
 - [Hackintool](https://github.com/headkaze/Hackintool) - The Swiss army knife of vanilla Hackintoshing. ![Open Source][oss]
@@ -722,6 +735,7 @@ androids, cyborgs, supercomputers, etc.
 ### Screen Savers
 
 - [Ariel](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS. ![Open Source][oss]
+- [MusaicFM](https://github.com/obrhoff/MusaicFM) - Screensaver inspired by Apple’s inbuilt iTunes Screensaver. ![Open Source][oss]
 - [Wonderful-Tools-Screensaver](https://github.com/aidev1065/Wonderful-Tools-Screensaver/) - Screensaver based on Apple's September Event 2019. ![Open Source][oss]
 - [XScreenSaver](https://www.jwz.org/xscreensaver/) - Collection of free screen savers for macOS. 
  
@@ -742,6 +756,7 @@ androids, cyborgs, supercomputers, etc.
 - [Geph](https://geph.io/en/) - Blast through censorship!
 - [Knock Knock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac.
 - [LuLu](https://objective-see.com/products/lulu.html) - Open-source macOS firewall.
+- [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) - Know when someone spies on you! ![Dollar][mon]
 - [Murus](https://murusfirewall.com/murus/) - macOS Firewall Unchained. ![Dollar][mon]
 - [MullardVPN](https://mullvad.net/en/) - You have a right to privacy. ![Dollar][mon]
 - [Netiquette](https://objective-see.com/products/netiquette.html) - A network monitor.
