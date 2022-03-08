@@ -138,6 +138,7 @@ androids, cyborgs, supercomputers, etc.
 - [Falcon](https://flacon.github.io/) - An open source audio file encoder. ![Open Source][oss]
 - [Farrago](https://rogueamoeba.com/farrago/) - Robust, rapid-fire soundboards. ![Dollar][mon]
 - [Fission](https://rogueamoeba.com/fission/) - Fast & lossless audio editing. ![Dollar][mon]
+- [Hydrogen](http://hydrogen-music.org/) - Advanced drum machine.
 - [Kid3](https://kid3.kde.org/) - Audio Tagger. ![Open Source][oss]
 - [Krisp](https://krisp.ai/) - Sound Clear in Online Meetings. ![Dollar][mon]
 - [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac. ![Dollar][mon]
