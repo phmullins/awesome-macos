@@ -542,6 +542,7 @@ androids, cyborgs, supercomputers, etc.
 - [Glance](https://github.com/samuelmeuli/glance) - All-in-one Quick Look plugin. ![Open Source][oss]
 - [Hackintool](https://github.com/headkaze/Hackintool) - The Swiss army knife of vanilla Hackintoshing. ![Open Source][oss]
 - [ha-menu](https://github.com/codechimp-org/ha-menu/) - Perform common Home Assistant functions. ![Open Source][oss]
+- [Hyperkey](https://hyperkey.app/) - The extra macOS modifier key. ![Dollar][mon]
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Powerful utility for keyboard customization. ![Open Source][oss]
 - [Kinto](https://github.com/rbreaves/kinto) -  Linux & Windows keyboard layout for macOS users. ![Open Source][oss]
 - [LinearMouse](https://linearmouse.org/) - For macOS mouse users. ![Open Source][oss]
