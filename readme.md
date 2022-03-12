@@ -998,6 +998,7 @@ androids, cyborgs, supercomputers, etc.
 - [Parallels Access](https://www.parallels.com/products/access/) - Remote access to your computer from anywhere. ![Dollar][mon]
 - [Parallels Desktop 17](https://www.parallels.com/products/desktop/) - Run Windows on Mac without rebooting. ![Dollar][mon]
 - [Parallels Toolbox](https://www.parallels.com/products/toolbox/) -  All-in-one solution with over 30 tools for macOS and Windows 10. ![Dollar][mon]
+- [Vagrant Manager](http://vagrantmanager.com) - Vagrant Manager for mcOS.
 - [Veertu](https://veertu.com/) - Native Virtualization For macOS. ![Dollar][mon]
 - [VirtualBox](https://www.virtualbox.org/) - x86 virtualization software. ![Open Source][oss]
 - [VMware Fusion](http://www.vmware.com/products/fusion/) - Run Windows and Linux on your Mac. ![Dollar][mon]
