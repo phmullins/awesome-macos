@@ -594,6 +594,7 @@ androids, cyborgs, supercomputers, etc.
 
 - [Agenda](https://agenda.com/) - Date-focused note taking
 - [Amplenote](https://www.amplenote.com/) - Write it down. Get it done.
+- [Appflowy](https://www.appflowy.io/) - Open Source  Notion Alternative. ![Open Source][oss]
 - [Asana](https://asana.com/) - Work on big ideas, without the busywork.
 - [Bundled Notes](https://bundlednotes.com/) - There's a new kid on the block.
 - [ClickUp](https://clickup.com/) - All of your work in one place: Tasks, Docs, Chat, Goals, & more. ![Dollar][mon]
