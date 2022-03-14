@@ -2,10 +2,10 @@
 
 <img width="100" height="100" alt="icon_macos_02" src="assets/icon_macos_02.png">
 
-A curated list of fantastically awesome software for Apple's macOS operating system. This list was inspired by 
-[Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). Legend: Open Source apps = ![Open Source][oss]. Paid 
-apps = ![Dollar][mon]. If an app dosen't have either icon then it should be considered free. Note: I wanted to have 
-a little fun with the version numbers, so starting with v1.9.4, all versions will be named after sci-fi robots, 
+A curated list of fantastically awesome software for Apple's macOS operating system. This list was inspired by
+[Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). Legend: Open Source apps = ![Open Source][oss]. Paid
+apps = ![Dollar][mon]. If an app dosen't have either icon then it should be considered free. Note: I wanted to have
+a little fun with the version numbers, so starting with v1.9.4, all versions will be named after sci-fi robots,
 androids, cyborgs, supercomputers, etc.
 
 - [Academics](#academics)
@@ -105,7 +105,7 @@ androids, cyborgs, supercomputers, etc.
 - [Quicksilver](https://qsapp.com/) - Application launcher and much more. ![Open Source][oss]
 - [Ueli](https://ueli.app) - A keystroke launcher for Windows and macOS. ![Open Source][oss]
 - [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers. ![Open Source][oss]
-- [Raycast](https://raycast.com/) - Control your tools with a few keystrokes. It’s designed to keep you focused. 
+- [Raycast](https://raycast.com/) - Control your tools with a few keystrokes. It’s designed to keep you focused.
 
 ### Audio Players
 
@@ -124,7 +124,7 @@ androids, cyborgs, supercomputers, etc.
 - [Swinsian](https://swinsian.com/) - The Advanced Music Player for Mac. ![Dollar][mon]
 - [Tidal](https://offer.tidal.com/download) - Music streaming service.
 - [Tiny Player](http://www.catnapgames.com/tiny-player-for-mac/) - Tiny FLAC/AAC/MP3/WAV Player.
-- [Vox](https://vox.rocks/) - Vox Music Player for macOS. 
+- [Vox](https://vox.rocks/) - Vox Music Player for macOS.
 - [Winds](https://getstream.io/winds/) - A Beautiful Open Source RSS & Podcast App. ![Open Source][oss]
 
 ### Audio Utilities
@@ -150,7 +150,7 @@ androids, cyborgs, supercomputers, etc.
 - [Samplr for Touchbar](http://samplr.net/touchbar/) - Demo of Samplr for the MacBook Touch Bar.
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Last.fm scrobbler for the Shazam Mac app. ![Open Source][oss]
 - [Sound Source](https://rogueamoeba.com/soundsource/) - Superior Sound Control. ![Dollar][mon]
-- [Tickeys](https://github.com/yingDev/Tickeys) - Audio feedback while typing. ![Open Source][oss] 
+- [Tickeys](https://github.com/yingDev/Tickeys) - Audio feedback while typing. ![Open Source][oss]
 - [TunesArt](https://www.jibapps.com/apps/tunesart/) - Display a gorgeous album cover on your desktop. ![Dollar][mon]
 - [X Lossless Decoder](http://tmkk.undo.jp/xld/index_e.html) - Decode/Convert to and from dozens of audio file types.
 
@@ -175,7 +175,7 @@ androids, cyborgs, supercomputers, etc.
 
 ### Clipboard Managers
 
-- [Copied](https://copied.app/) - Clipboard manager for macOS, iOS and iPadOS. ![Dollar][mon] 
+- [Copied](https://copied.app/) - Clipboard manager for macOS, iOS and iPadOS. ![Dollar][mon]
 - [Maccy](https://maccy.app/) - Keep your copy history at hand. Period. ![Open Source][oss]
 - [Yippy](https://yippy.mattdavo.com/) - An open source clipboard manager for macOS. ![Open Source][oss]
 
@@ -197,11 +197,11 @@ androids, cyborgs, supercomputers, etc.
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Open-source Arduino Code Editor. ![Open Source][oss]
 - [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that doesn't suck. ![Dollar][mon]
 - [Brackets](http://brackets.io/) - Open source text editor that understands web design. ![Open Source][oss]
-- [CLion](https://www.jetbrains.com/clion/) - A cross-platform IDE for C and C++. ![Dollar][mon] 
+- [CLion](https://www.jetbrains.com/clion/) - A cross-platform IDE for C and C++. ![Dollar][mon]
 - [Coda](https://www.panic.com/coda/) - One-window Web development suite. ![Dollar][mon]
 - [CodeRunner 2](https://coderunnerapp.com/) - Easy-to-use programming editor for your Mac. ![Dollar][mon]
-- [Espresso](https://espressoapp.com/) - Powerful HTML, XML, CSS, and JavaScript development tool. ![Dollar][mon] 
-- [IntelliJ](https://www.jetbrains.com/idea/) - Capable and Intelligent IDE. ![Dollar][mon] 
+- [Espresso](https://espressoapp.com/) - Powerful HTML, XML, CSS, and JavaScript development tool. ![Dollar][mon]
+- [IntelliJ](https://www.jetbrains.com/idea/) - Capable and Intelligent IDE. ![Dollar][mon]
 - [RubyMine](https://www.jetbrains.com/ruby/) - Work Faster with a Smarter Editor. ![Dollar][mon]
 - [SubEthaEdit 5](https://subethaedit.net/) - Code, Write, Edit. Together. ![Open Source][oss]
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. ![Dollar][mon]
@@ -216,7 +216,7 @@ androids, cyborgs, supercomputers, etc.
 - [Couleurs](http://couleursapp.com/) - A simple but powerful color grabber.
 - [Color Picker Plus](https://github.com/viktorstrate/color-picker-plus) - An Improved Color Picker for macOS. ![Open Source][oss]
 - [ColorSlurp](http://colorslurp.com/) - The best Mac color picker in the universe! ![Dollar][mon]
-- [ColorSnapper 2](https://colorsnapper.com/) - Organize, adjust & export colors with style. ![Dollar][mon] 
+- [ColorSnapper 2](https://colorsnapper.com/) - Organize, adjust & export colors with style. ![Dollar][mon]
 - [ColorWell](https://colorwell.sweetpproductions.com/) - macOS Color Theme generator. ![Dollar][mon]
 - [Pastel](https://apps.apple.com/us/app/id413897608) - Beautiful color palettes. ![Dollar][mon]
 - [Pika](https://superhighfives.com/pika) - An open-source colour picker app for macOS. ![Open Source][oss]
@@ -298,7 +298,7 @@ androids, cyborgs, supercomputers, etc.
 
 ### Disk Utilities
 
-- [DiskWave](https://diskwave.barthe.ph/) - Determine what files & folders are using your disk space. ![Open Source][oss] 
+- [DiskWave](https://diskwave.barthe.ph/) - Determine what files & folders are using your disk space. ![Open Source][oss]
 
 ### Documents
 
@@ -354,7 +354,7 @@ androids, cyborgs, supercomputers, etc.
 - [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual-pane FTP/file manager. ![Dollar][mon]
 - [Gemini](https://macpaw.com/gemini) - The intelligent duplicate file finder. ![Dollar][mon]
 - [Hazel](https://www.noodlesoft.com/) - Automated Organization for Your Mac. ![Dollar][mon]
-- [Marta](https://marta.yanex.org/) - File Manager for macOS. 
+- [Marta](https://marta.yanex.org/) - File Manager for macOS.
 - [Mountain Duck](https://mountainduck.io/) - Cyberduck for mounting volumes in the file explorer. ![Dollar][mon]
 - [NameChanger](https://mrrsoftware.com/namechanger/) - Rename a list of files quickly and easily.
 - [Path Finder](https://cocoatech.com) - Powerful, award-winning Finder alternative. ![Dollar][mon]
@@ -401,7 +401,7 @@ androids, cyborgs, supercomputers, etc.
 ### Graphics
 
 - [Adapter](https://macroplant.com/adapter) - Adapter Converts Video, Audio and Images.
-- [Amadine](https://amadine.com/) - The ultimate vector graphics software for macOS. ![Dollar][mon] 
+- [Amadine](https://amadine.com/) - The ultimate vector graphics software for macOS. ![Dollar][mon]
 - [CleanShot](https://cleanshot.com/) - Capture your Mac’s screen like a pro. ![Dollar][mon]
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional Editing, Color, Effects and Audio Post! ![Dollar][mon]
 - [Gifox](https://gifox.io/) - Delightful GIF Recording and Sharing App.
@@ -517,13 +517,13 @@ androids, cyborgs, supercomputers, etc.
 - [Cabal](https://cabal.chat/) - Experimental p2p community chat platform.
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook-Messenger client. ![Open Source][oss]
 - [Discord](https://discordapp.com/) - Free Voice and Text Chat for Gamers. ![Open Source][oss]
-- [Franz](https://meetfranz.com/) - Get back on top of your messaging. 
+- [Franz](https://meetfranz.com/) - Get back on top of your messaging.
 - [Gitter](https://gitter.im/) - A chat and networking platform. ![Open Source][oss]
-- [Keybase Chat](https://keybase.io/download) - Crypto chat for everyone. ![Open Source][oss]    
+- [Keybase Chat](https://keybase.io/download) - Crypto chat for everyone. ![Open Source][oss]
 - [Monal](https://monal.im/) - Secure XMPP chat client. ![Open Source][oss]
 - [Patchwork](https://github.com/ssbc/patchwork) - Decentralized messaging app built on top of Secure Scuttlebutt (SSB). ![Open Source][oss]
-- [Pony](https://www.ponymessenger.com/) - Pony is a messenger that delivers once a day. 
-- [Rambox](https://rambox.app/) - he only way to organize your workspace and boost your productivity. 
+- [Pony](https://www.ponymessenger.com/) - Pony is a messenger that delivers once a day.
+- [Rambox](https://rambox.app/) - he only way to organize your workspace and boost your productivity.
 - [Ripcord](https://cancel.fm/ripcord/) - Desktop chat client for Slack (and Discord). ![Dollar][mon]
 - [Signal](https://www.signal.org/) - Fast, simple, secure. ![Open Source][oss]
 - [Shrugs](https://shrugs.app/) - Desktop chat client for Slack. ![Dollar][mon]
@@ -557,7 +557,7 @@ androids, cyborgs, supercomputers, etc.
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![Open Source][oss]
 - [ResXtreme](http://resxtreme.com/) - Provides access to all display modes. ![Dollar][mon]
 - [RightFont 5](https://rightfontapp.com/) - Professional font manager app for Mac. ![Dollar][mon]
-- [Sugarmate](https://sugarmate.io/) - A new way to manage your diabetes. 
+- [Sugarmate](https://sugarmate.io/) - A new way to manage your diabetes.
 - [Swish](https://highlyopinionated.co/swish/) - The missing gesture layer for macOS. ![Dollar][mon]
 - [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups.
 - [Unite 4](https://www.bzgapps.com/unite512) - Turn any website into a deeply customizable app. ![Dollar][mon]
@@ -599,15 +599,15 @@ androids, cyborgs, supercomputers, etc.
 - [Asana](https://asana.com/) - Work on big ideas, without the busywork.
 - [Bundled Notes](https://bundlednotes.com/) - There's a new kid on the block.
 - [ClickUp](https://clickup.com/) - All of your work in one place: Tasks, Docs, Chat, Goals, & more. ![Dollar][mon]
-- [Coda](https://coda.io/) - Enough of this sheet. 
+- [Coda](https://coda.io/) - Enough of this sheet.
 - [Craft](https://www.craft.do/) - A fresh take on documents. ![Dollar][mon] and Free.
 - [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document/Note manager. ![Dollar][mon]
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS. ![Open Source][oss]
 - [Joplin](https://joplinapp.org/) - Free your notes. ![Open Source][oss]
 - [Keep It](https://reinventedsoftware.com/keepit/) - Write notes, keep things, and find them again. ![Dollar][mon]
-- [Logseq](https://logseq.com/) - A privacy-first, open-source knowledge base. 
+- [Logseq](https://logseq.com/) - A privacy-first, open-source knowledge base.
 - [Milanote](https://milanote.com/) - Get organized. Stay creative.
-- [NimbusNote](https://nimbusweb.me/note.php) - One place to manage all your information. 
+- [NimbusNote](https://nimbusweb.me/note.php) - One place to manage all your information.
 - [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized. ![Open Source][oss]
 - [OneNote](http://www.onenote.com/) - Note manager from Microsoft.
 - [QOwnNotes](https://www.qownnotes.org/) - Plain-text file markdown note taking with Nextcloud integration. ![Open Source][oss]
@@ -693,14 +693,14 @@ androids, cyborgs, supercomputers, etc.
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Website link checker for MacOS.
 - [Figma](https://www.figma.com/) - Serious application prototyping tool.
 - [Firecamp](https://firecamp.io/) - API platform for your favorite API-style.
-- [Flipper](https://fbflipper.com/) - Extensible mobile app debugger. ![Open Source][oss] 
+- [Flipper](https://fbflipper.com/) - Extensible mobile app debugger. ![Open Source][oss]
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - Diff manager for MacOS. ![Dollar][mon]
-- [Key Codes](https://manytricks.com/keycodes/) - Displays key code, unicode value, and modifier keys state. 
+- [Key Codes](https://manytricks.com/keycodes/) - Displays key code, unicode value, and modifier keys state.
 - [Matcha](https://github.com/gomatcha/matcha) - Build native mobile apps in Go. ![Open Source][oss]
 - [massCode](https://masscode.io/) - Boost your productivity. ![Open Source][oss]
 - [Meld](http://meldmerge.org/) - A visual diff and merge tool. ![Open Source][oss]
 - [Mockoon](https://mockoon.com/) - Mock API in seconds. ![Open Source][oss]
-- [Mu](https://codewith.mu/) - Simple Python editor for beginner programmers. 
+- [Mu](https://codewith.mu/) - Simple Python editor for beginner programmers.
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code. ![Open Source][oss]
 - [PaintCode 3](https://www.paintcodeapp.com/) - Turn drawings into Swift code. ![Dollar][mon]
 - [Pashua](https://github.com/BlueM/Pashua) - Native macOS dialogs for scripting languages. ![Open Source][oss]
@@ -715,10 +715,10 @@ androids, cyborgs, supercomputers, etc.
 - [Sparkle](https://sparkle-project.org/) - Easy-to-use software update framework for macOS applications. ![Open Source][oss]
 - [Stoplight Studio](https://stoplight.io/studio/) - Design APIs 10x faster with our free OpenAPI editor. ![Open Source][oss]
 - [SwiftPM Catalog](https://zeezide.de/en/products/swiftpmcatalog/) - Browse the Swift Package Index.
-- [VueXcode](https://github.com/AlwaysRightInstitute/VueXcode/) - Enable Xcode syntax highlighting for Vue.js. ![Open Source][oss] 
+- [VueXcode](https://github.com/AlwaysRightInstitute/VueXcode/) - Enable Xcode syntax highlighting for Vue.js. ![Open Source][oss]
 - [Tinkerwell](https://tinkerwell.app/) - Run any PHP code locally. ![Dollar][mon]
-- [XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - Easily install and switch between multiple versions of Xcode. ![Open Source][oss] 
-- [Yo](https://github.com/sheagcraig/yo) - Send Notification Center messages from the command-line. ![Open Source][oss] 
+- [XcodesApp](https://github.com/RobotsAndPencils/XcodesApp) - Easily install and switch between multiple versions of Xcode. ![Open Source][oss]
+- [Yo](https://github.com/sheagcraig/yo) - Send Notification Center messages from the command-line. ![Open Source][oss]
 
 ### Remote Administration
 
@@ -732,7 +732,7 @@ androids, cyborgs, supercomputers, etc.
 - [Screens](https://edovia.com/en/screens-mac/) - Control any computer from your Mac. ![Dollar][mon]
 - [TeamViewer](https://www.teamviewer.com/en-us/) - The Solution for Remote Control and Access.
 
-### Science 
+### Science
 
 - [RStudio](https://rstudio.com/) - Professional software for data science. ![Open Source][oss]
 - [SciLab](https://www.scilab.org/) - Open source software for numerical computation. ![Open Source][oss]
@@ -742,8 +742,8 @@ androids, cyborgs, supercomputers, etc.
 - [Ariel](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for macOS. ![Open Source][oss]
 - [MusaicFM](https://github.com/obrhoff/MusaicFM) - Screensaver inspired by Apple’s inbuilt iTunes Screensaver. ![Open Source][oss]
 - [Wonderful-Tools-Screensaver](https://github.com/aidev1065/Wonderful-Tools-Screensaver/) - Screensaver based on Apple's September Event 2019. ![Open Source][oss]
-- [XScreenSaver](https://www.jwz.org/xscreensaver/) - Collection of free screen savers for macOS. 
- 
+- [XScreenSaver](https://www.jwz.org/xscreensaver/) - Collection of free screen savers for macOS.
+
 ### Search Utilities
 
 - [DEVONsphere Express](https://www.devontechnologies.com/products/devonsphere/devonsphere-express.html) ![Dollar][mon]
@@ -817,7 +817,7 @@ androids, cyborgs, supercomputers, etc.
 - [Cocktail](https://www.maintain.se/cocktail/) - Clean, repair and optimize your Mac. ![Dollar][mon]
 - [OmniDiskSweeper](https://www.omnigroup.com/more) - Quickly find large, unwanted files.
 - [Onyx](https://www.titanium-software.fr/en/onyx.html) - Maintain your Mac for free.
-- [Sensei](https://sensei.app/) - The Next Generation Mac performance tool. ![Dollar][mon] 
+- [Sensei](https://sensei.app/) - The Next Generation Mac performance tool. ![Dollar][mon]
 
 ### System Tools
 
@@ -830,11 +830,10 @@ androids, cyborgs, supercomputers, etc.
 - [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac) - Detailed battery information for your MacBook, iPhone & iPad. ![Dollar][mon]
 - [BetterTouchTool](https://folivora.ai/) -  Customize input devices on your Mac. ![Dollar][mon]
 - [Burn](https://sourceforge.net/projects/burn-osx/) - Simple but advanced disc burning for macOS.
-- [Caffeine](http://lightheadsw.com/caffeine/) - Keeps your Mac from going into sleep mode. ![Open Source][oss]
 - [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks. ![Open Source][oss]
-- [CheetSheet](https://www.mediaatelier.com/CheatSheet/) - Know your shortcuts.  
-- [CoconutBattery 3](https://www.coconut-flavour.com/coconutbattery/) - The standard for battery reading since 2005. ![Dollar][mon] 
-- [CommandQ](https://commandqapp.com/) - Never accidentally quit an app or window again. ![Dollar][mon]  
+- [CheetSheet](https://www.mediaatelier.com/CheatSheet/) - Know your shortcuts.
+- [CoconutBattery 3](https://www.coconut-flavour.com/coconutbattery/) - The standard for battery reading since 2005. ![Dollar][mon]
+- [CommandQ](https://commandqapp.com/) - Never accidentally quit an app or window again. ![Dollar][mon]
 - [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/#) - Keyboard-centric application and window switcher. ![Dollar][mon]
 - [Core Shell](https://coreshell.app/) - A terminal to make your SSH life easy. Free & ![Dollar][mon]
 - [CustomShortcuts](https://www.houdah.com/customShortcuts/) - Customize Mac Menu Keyboard Shortcuts.
@@ -842,10 +841,10 @@ androids, cyborgs, supercomputers, etc.
 - [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS. Free & ![Dollar][mon]
 - [Endurance](https://enduranceapp.com/) - Boots you Mac's battery. ![Dollar][mon]
 - [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. ![Open Source][oss]
-- [Flour](https://fluorapp.net/) - Change the keyboard's fn keys. 
+- [Flour](https://fluorapp.net/) - Change the keyboard's fn keys.
 - [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day.
 - [Gasmask](https://github.com/2ndalpha/gasmask) - Hosts file manager for MacOS. ![Open Source][oss]
-- [GeekTool](https://www.tynsoe.org/v2/geektool/) - Customize your desktop. 
+- [GeekTool](https://www.tynsoe.org/v2/geektool/) - Customize your desktop.
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep. ![Open Source][oss]
 - [KeyCastr](https://github.com/keycastr/keycastr) - An open-source keystroke visualizer. ![Open Source][oss]
 - [KeyCue](https://www.ergonis.com/products/keycue/) - Find, remember, and learn keyboard shortcuts. ![Dollar][mon]
@@ -862,10 +861,10 @@ androids, cyborgs, supercomputers, etc.
 - [Pock](http://pock.pigigaldi.com/) - Display macOS Dock in Touch Bar. ![Open Source][oss]
 - [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac.
 - [Service Station](https://servicestation.menu/) - Customize your Right-Click Menu.
-- [Shottr](https://shottr.cc/) - Screenshot tool for those who care about pixels. 
+- [Shottr](https://shottr.cc/) - Screenshot tool for those who care about pixels.
 - [Sloth](https://sveinbjorn.org/sloth) - Shows all open files and sockets in use. ![Open Source][oss]
 - [TouchSwitcher](https://hazeover.com/touchswitcher.html) - Use Touch Bar to Switch Apps. ![Open Source][oss]
-- [Übersicht](https://tracesof.net/uebersicht/) - Keep an eye on what is happening on your machine. 
+- [Übersicht](https://tracesof.net/uebersicht/) - Keep an eye on what is happening on your machine.
 - [Unexpectedly](http://s.sudre.free.fr/Software/Unexpectedly/about.html) - Browse and visualize macOS crash reports. ![Open Source][oss]
 - [UninstallPKG](https://www.corecode.io/uninstallpkg/index.html) - Remove unwanted packages from MacOS. ![Dollar][mon]
 - [VipRiser](https://onflapp.github.io/blog/pages/VipRiser) - Extensible virtual PDF printer. ![Dollar][mon]
@@ -899,7 +898,7 @@ androids, cyborgs, supercomputers, etc.
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
 - [Portx](https://portx.online/en/) - A Cross Platform SSH Client.
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS! ![Open Source][oss]
-- [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age. ![Open Source][oss] 
+- [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age. ![Open Source][oss]
 - [warp](https://www.warp.dev/) - The terminal that supercharges your developer workflow.
 - [ZOC Terminal](https://www.emtec.com/zoc/) - Professional terminal emulation software for macOS. ![Dollar][mon]
 
@@ -916,7 +915,7 @@ androids, cyborgs, supercomputers, etc.
 - [SubEthaEdit 5](https://subethaedit.net/) - Code, Write, Edit. Together.
 - [Texpad](https://www.texpad.com/mac) - Native macOS app with efficient LaTeX environment. ![Open Source][oss]
 - [vimac](https://vimacapp.com/) - Vimium for macOS. ![Open Source][oss]
-- [Visual Studio](https://visualstudio.microsoft.com/vs/mac/) - Develop apps and games for iOS, Android, and web using .NET 
+- [Visual Studio](https://visualstudio.microsoft.com/vs/mac/) - Develop apps and games for iOS, Android, and web using .NET
 
 ### Text Expanders
 
@@ -955,13 +954,13 @@ androids, cyborgs, supercomputers, etc.
 - [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager for macOS. ![Open Source][oss]
 - [BetterSnapTool](https://folivora.ai/bettersnaptool/) - Sasily manage your window positions. ![Dollar][mon]
 - [emmetapp](https://emmetapp.com/) - The window manager you dream about. ![Dollar][mon]
-- [Grid](https://macgrid.app/) - The fast, easy way to organize windows on your Mac. ![Dollar][mon] 
+- [Grid](https://macgrid.app/) - The fast, easy way to organize windows on your Mac. ![Dollar][mon]
 - [Hookshot](https://hookshot.app/) - Quicker window snapping on macOS. ![Dollar][mon]
 - [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS. ![Dollar][mon]
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows. ![Dollar][mon]
 - [Penc](https://deniz.co/penc/) - Trackpad-oriented window manager for macOS. ![Open Source][oss]
 - [Phoenix](https://github.com/kasper/phoenix/) - A lightweight window and app manager scriptable with JavaScript. ![Open Source][oss]
-- [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS. 
+- [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS.
 - [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease.
 - [Slate](https://github.com/jigish/slate) - A window management application. ![Open Source][oss]
 - [Swish](https://highlyopinionated.co/swish/) - The missing gesture layer for macOS. ![Dollar][mon]
