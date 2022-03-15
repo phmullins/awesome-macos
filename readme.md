@@ -706,7 +706,7 @@ androids, cyborgs, supercomputers, etc.
 - [Pashua](https://github.com/BlueM/Pashua) - Native macOS dialogs for scripting languages. ![Open Source][oss]
 - [Paw](https://paw.cloud/) - The most advanced API tool for Mac. ![Dollar][mon]
 - [Pixelsnap](https://getpixelsnap.com/) - Fastest tool for measuring anything on your screen. ![Dollar][mon]
-- [Platypus](http://sveinbjorn.org/platypus) - Create MacOS applications from Bash scripts.
+- [Platypus](http://sveinbjorn.org/platypus) - Create MacOS applications from command line scripts. ![Open Source][oss]
 - [Postman](https://www.postman.com/) - Collaboration Platform for API Development.
 - [Dash](https://kapeli.com/dash) - Dash gives your Mac instant offline access to 150+ API documentation sets. ![Dollar][mon]
 - [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook. ![Dollar][mon]
