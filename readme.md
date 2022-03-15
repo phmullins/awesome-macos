@@ -1,4 +1,4 @@
-### Awesome MacOS Software v1.9.6 ([Tron](https://en.wikipedia.org/wiki/List_of_Tron_characters#Tron_2))
+### Awesome MacOS Software v1.9.7 ([Neuromancer](https://en.wikipedia.org/wiki/Neuromancer#Characters))
 
 <img width="100" height="100" alt="icon_macos_02" src="assets/icon_macos_02.png">
 
@@ -131,6 +131,7 @@ androids, cyborgs, supercomputers, etc.
 
 - [AirFoil](https://rogueamoeba.com/airfoil/) - Hear Your Audio Everywhere. ![Dollar][mon]
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any audio. ![Dollar][mon]
+- [Background Music](https://github.com/kyleneideck/BackgroundMusic) - macOS Audio Utility. ![Open Source][oss] 
 - [Balance Lock](https://www.tunabellysoftware.com/balance_lock/) - Prevents audio balance from drifting left or right.
 - [BlackHole](https://existential.audio/blackhole/) - Route Audio Between Apps. ![Open Source][oss]
 - [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin. ![Open Source][oss]
@@ -375,6 +376,7 @@ androids, cyborgs, supercomputers, etc.
 
 ### Games
 
+- [Doom 64 EX](https://doom64ex.wordpress.com/) - Faithful recreation of the Doom 64 engine. 
 - [Doomseeker](https://doomseeker.drdteam.org/) - Cross-platform server browser for Doom.
 - [DOSBox](https://www.dosbox.com) - DOS emulation for macOS.
 - [Epic Games Launcher](https://www.epicgames.com/store) - Game client.
@@ -389,6 +391,7 @@ androids, cyborgs, supercomputers, etc.
 - [Rolisteam](https://rolisteam.org/) - Manage tabletop role playing games with remote friends/players. ![Open Source][oss]
 - [Slade](http://slade.mancubus.net) - A modern editor for Doom.
 - [Stockfish](https://stockfishchess.org/) - Strong open source chess engine. ![Open Source][oss]
+- [TIC-80](https://nesbox.itch.io/tic80) - A fantasy computer for making, playing and sharing tiny games. ![Dollar][mon]
 - [xemu](https://xemu.app/) - Original Xbox Emulator. ![Open Source][oss]
 - [Zandronum](https://zandronum.com/) - Leading the way in newschool multiplayer Doom online.
 
@@ -471,6 +474,7 @@ androids, cyborgs, supercomputers, etc.
 ### Markdown Editors
 
 - [Byword](http://www.bywordapp.com/) - Excellent markdown editor. ![Dollar][mon]
+- [Deepdwn](https://billiam.itch.io/deepdwn) - Explore, study, create. ![Dollar][mon]
 - [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking app that doesn't suck. ![Open Source][oss]
 - [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS. ![Open Source][oss]
 - [Marked 2](https://marked2app.com/) - Previewer for Markdown files. ![Dollar][mon]
@@ -555,6 +559,7 @@ androids, cyborgs, supercomputers, etc.
 - [PiBakery](https://www.pibakery.org/) - The easiest way to setup a Raspberry Pi.
 - [Reeder](https://www.reederapp.com/mac/) - The best news reader for macOS. ![Dollar][mon]
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![Open Source][oss]
+- [Touch Bar Simulator](https://sindresorhus.com/touch-bar-simulator/) - The macOS Touch Bar as a standalone app. ![Open Source][oss]
 - [ResXtreme](http://resxtreme.com/) - Provides access to all display modes. ![Dollar][mon]
 - [RightFont 5](https://rightfontapp.com/) - Professional font manager app for Mac. ![Dollar][mon]
 - [Sugarmate](https://sugarmate.io/) - A new way to manage your diabetes.
@@ -826,6 +831,7 @@ androids, cyborgs, supercomputers, etc.
 - [ActiveDock](https://noteifyapp.com/activedock/) - Customizable dock for macOS. ![Dollar][mon]
 - [Alt-Tab](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS.  ![Open Source][oss]
 - [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS. ![Open Source][oss]
+- [Barrier](https://github.com/debauchee/barrier) -  Open-source KVM Switch Software. ![Open Source][oss]
 - [Batteries for Mac](https://www.fadel.io/batteries) - Track all your devices' batteries from your Mac. ![Dollar][mon]
 - [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac) - Detailed battery information for your MacBook, iPhone & iPad. ![Dollar][mon]
 - [BetterTouchTool](https://folivora.ai/) -  Customize input devices on your Mac. ![Dollar][mon]
