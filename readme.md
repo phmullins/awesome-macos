@@ -333,6 +333,7 @@ androids, cyborgs, supercomputers, etc.
 - [Clearview](http://www.clearview-reader.com/clearview/) - Tabbed style e-book reader for PDF, EPUB (DRM free), CHM, and MOBI.
 - [comictagger](https://github.com/comictagger/comictagger) - A multi-platform app for writing metadata to digital comics. ![Open Source][oss]
 - [Delicious Library 3](https://www.delicious-monster.com/) - Book Manager. ![Dollar][mon]
+- [Kavita](https://www.kavitareader.com/) - Self-hosted digital library. ![Open Source][oss]
 - [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) - Read Kindle books on your Mac.
 - [Kitabu](https://www.kitabu.me/) - Kitabu is your EPUB reading application and cloud library.
 - [Sigil](https://sigil-ebook.com/) — Sigil is a multi-platform EPUB ebook Editor
