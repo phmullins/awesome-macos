@@ -481,6 +481,7 @@ androids, cyborgs, supercomputers, etc.
 - [Marked 2](https://marked2app.com/) - Previewer for Markdown files. ![Dollar][mon]
 - [Mark Text](https://marktext.app/) - Simple and Elegant cross platform Markdown Editor.
 - [MWeb](http://www.mweb.im/) - Pro Markdown writing and note taking editor. ![Dollar][mon]
+- [PanWriter](https://panwriter.com/) - Markdown editor with pandoc integration. ![Open Source][oss]
 - [Pine](https://lukakerr.github.io/Pine/) - Native markdown editor for macOS. ![Open Source][oss]
 - [Texts](http://www.texts.io/) - Separate Content from Formatting. Store in Markdown.
 - [Typora](https://www.typora.io/) - Live markdown reader and a writer.
