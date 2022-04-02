@@ -1,4 +1,4 @@
-### Awesome MacOS Software v1.9.7 ([Neuromancer](https://en.wikipedia.org/wiki/Neuromancer#Characters))
+### Awesome MacOS Software v1.9.8 ([Colossus](https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project))
 
 <img width="100" height="100" alt="icon_macos_02" src="assets/icon_macos_02.png">
 
@@ -267,6 +267,7 @@ androids, cyborgs, supercomputers, etc.
 - [DBeaver](http://dbeaver.jkiss.org/) - Free Universal SQL Client. ![Open Source][oss]
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite Database Browser. ![Open Source][oss]
 - [Medis 2](https://getmedis.com/) - Modern GUI for Redis. ![Open Source][oss] ![Dollar][mon]
+- [ModernCSV](https://www.moderncsv.com/) - The Ultimate CSV Editor/Viewer for Windows, Mac, and Linux.
 - [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management. ![Open Source][oss]
 - [Sequel Ace](https://apps.apple.com/us/app/sequel-ace/id1518036000?ls=1) - A MySQL database manager. ![Open Source][oss]
 - [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases. ![Open Source][oss]
@@ -276,6 +277,7 @@ androids, cyborgs, supercomputers, etc.
 - [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS. ![Open Source][oss]
 - [Querious](https://www.araelium.com/querious/) - The best MySQL tool for macOS. ![Dollar][mon]
 - [Robomongo](https://robomongo.org/) - Cross-platform MongoDB client.
+- [SQLectron](https://sqlectron.github.io/) - A simple and lightweight SQL client desktop/terminal. ![Open Source][oss]
 - [TablePlus](https://tableplus.com/) - Modern GUI for MySQL, PostgreSQL, and SQLite. ![Dollar][mon]
 
 ### Design
@@ -498,6 +500,7 @@ androids, cyborgs, supercomputers, etc.
 - [cpuinfo](https://github.com/yusukeshib/cpuinfo) - cpumeter menubar app for mac. ![Open Source][oss]
 - [De-Notch-ifier](https://www.publicspace.net/Denotchifier/index.html) - ![Dollar][mon]
 - [Displays](https://www.jibapps.com/apps/displays/) - Manage your monitors and more. ![Dollar][mon]
+- [Dropzone](https://aptonic.com/) - 
 - [Forehead](https://goodsnooze.gumroad.com/l/nASbe) - Hide the notch and round the corners. Free &  ![Dollar][mon]
 - [FuzzyClock](https://github.com/m-schmidt/FuzzyClock) - Displays the time in your menubar. ![Open Source][oss]
 - [Hidden](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss] - Editor's Choice.
@@ -696,6 +699,7 @@ androids, cyborgs, supercomputers, etc.
 - [Anvil](https://anvilformac.com/) - Menubar app for managing local websites.
 - [Codespace](https://codespace.app/) - The code snippet manager you've been waiting for. ![Dollar][mon]
 - [DevMacToys](https://github.com/ObuchiYuki/DevToysMac) - DevToys For macOS. ![Open Source][oss]
+- [Defold](https://defold.com/) - The ultimate game engine for web and mobile. ![Open Source][oss]
 - [Inkdrop](https://inkdrop.app/) - Organizing your Markdown notes made simple. ![Dollar][mon]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Website link checker for MacOS.
 - [Figma](https://www.figma.com/) - Serious application prototyping tool.
@@ -774,10 +778,12 @@ androids, cyborgs, supercomputers, etc.
 - [Netiquette](https://objective-see.com/products/netiquette.html) - A network monitor.
 - [OverSight](https://objective-see.com/products/oversight.html) - Monitors a mac's mic and webcam.
 - [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. ![Dollar][mon]
+- [Pritunl](https://client.pritunl.com/) - Open Source OpenVPN Client. ![Open Source][oss]
 - [ReiKey](https://objective-see.com/products/reikey.html) - Scan and detect key loggers.
 - [Santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system for macOS. ![Open Source][oss]
 - [Secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave. ![Open Source][oss]
 - [Security Growler](https://pirate.github.io/security-growler/) - Notifies you whenever security events occur on your machine. ![Open Source][oss]
+- [Squidman](https://squidman.net/squidman/) - Graphical installer and manager for the Squid proxy cache.
 - [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all the tasks (processes) running on your Mac.
 - [TunnelBear](https://www.tunnelbear.com/) - A more secure way to browse the web. ![Dollar][mon]
 - [Vallum](https://vallumfirewall.com/) - macOS Application Firewall. ![Dollar][mon]
@@ -1007,6 +1013,7 @@ androids, cyborgs, supercomputers, etc.
 - [Parallels Access](https://www.parallels.com/products/access/) - Remote access to your computer from anywhere. ![Dollar][mon]
 - [Parallels Desktop 17](https://www.parallels.com/products/desktop/) - Run Windows on Mac without rebooting. ![Dollar][mon]
 - [Parallels Toolbox](https://www.parallels.com/products/toolbox/) -  All-in-one solution with over 30 tools for macOS and Windows 10. ![Dollar][mon]
+- [PlayOnMac](https://www.playonmac.com/en/) - Wine wrapper for macOS.
 - [Vagrant Manager](http://vagrantmanager.com) - Vagrant Manager for mcOS.
 - [Veertu](https://veertu.com/) - Native Virtualization For macOS. ![Dollar][mon]
 - [VirtualBox](https://www.virtualbox.org/) - x86 virtualization software. ![Open Source][oss]
