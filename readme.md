@@ -103,6 +103,7 @@ androids, cyborgs, supercomputers, etc.
 - [Slik](https://apps.inspira.io/en/slik/) - Fast app launcher and web app organizer. ![Dollar][mon]
 - [Start](https://start.innovative-bytes.net/) - A superior way to launch applications. ![Dollar][mon]
 - [Quicksilver](https://qsapp.com/) - Application launcher and much more. ![Open Source][oss]
+- [Raycast](https://www.raycast.com/) - Raycast is a blazingly fast, totally extendable launcher. ![Open Source][oss]
 - [Ueli](https://ueli.app) - A keystroke launcher for Windows and macOS. ![Open Source][oss]
 - [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers. ![Open Source][oss]
 - [Raycast](https://raycast.com/) - Control your tools with a few keystrokes. It’s designed to keep you focused.
@@ -117,6 +118,7 @@ androids, cyborgs, supercomputers, etc.
 - [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files. ![Dollar][mon]
 - [Idagio](https://about.idagio.com) - Streaming, reinvented for classical music.
 - [Mous](https://github.com/bsdelf/mous) - Powerful audio player & converter for FreeBSD/Linux/macOS. ![Open Source][oss]
+- [Nulloy](https://nulloy.com/) - OSS Audiophile audio player. ![Open Source][oss]
 - [Phonix](https://phonix.nl.eu.org/) - Free music player for macOS. ![Open Source][oss]
 - [SIDPLAY](http://www.sidmusic.org/sidplay/mac/) - A Commodore 64 music player. ![Open Source][oss]
 - [Sonos](https://www.sonos.com) - Wireless Home Sound System.
@@ -679,6 +681,7 @@ androids, cyborgs, supercomputers, etc.
 - [Pomotroid](https://github.com/Splode/pomotroid) - Simple and visually-pleasing Pomodoro timer. 🍅 ![Open Source][oss]
 - [Shortery](https://lgerckens.de/shortery/) - Shortcut Automation for your Mac.
 - [Time Sink](https://manytricks.com/timesink/) - Track how you're spend your time. ![Dollar][mon]
+- [TomatoBar](https://github.com/ivoronin/TomatoBar) - World's neatest Pomodoro timer for macOS menu bar. 🍅 ![Open Source][oss]
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. 🐳 ![Open Source][oss]
 
 ### Programming Languages
@@ -868,11 +871,13 @@ androids, cyborgs, supercomputers, etc.
 - [Lunar](https://lunar.fyi/) - Intelligent adaptive brightness for your external display. ![Open Source][oss]
 - [Maccy](https://maccy.app/) - Clipboard manager for macOS.
 - [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly. ![Dollar][mon]
+- [Manila](https://github.com/neilsardesai/Manila) - A Finder extension for changing folder colors. ![Open Source][oss]
 - [MechVibes](https://mechvibes.com/) - Play mechanical keyboard sounds as you type. ![Open Source][oss]
 - [MKS](https://github.com/x0054/MKS) - Mechanical Keyboard Simulator. ![Open Source][oss]
 - [Muzzle](https://muzzleapp.com/) - Disable notifications while screen sharing.
 - [OpeninTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Open the current directory in Terminal. ![Open Source][oss]
 - [Pock](http://pock.pigigaldi.com/) - Display macOS Dock in Touch Bar. ![Open Source][oss]
+- [PrefsEditor](https://apps.tempel.org/PrefsEditor/) - A GUI for the 'defaults' command.
 - [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac.
 - [Service Station](https://servicestation.menu/) - Customize your Right-Click Menu.
 - [Shottr](https://shottr.cc/) - Screenshot tool for those who care about pixels.
