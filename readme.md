@@ -583,6 +583,7 @@ androids, cyborgs, supercomputers, etc.
 - [Core Tunnel](https://coretunnel.app/) - Tunnel management made easy. ![Dollar][mon]
 - [DNSCrypt](https://github.com/alterstep/dnscrypt-osxclient) - Control the DNSCrypt Proxy. ![Open Source][oss]
 - [Fenix](https://fenixwebserver.com/) - Simple static desktop web server. ![Open Source][oss]
+- [Gophie](https://gophie.org/) - Cross-platform Gopher browser. ![Open Source][oss]
 - [iStumbler](https://istumbler.net/index.html) - Wireless Intelligence. ![Dollar][mon]
 - [Murus](http://www.murusfirewall.com/) - A GUI for the MacOS PF firewall. Free & ![Dollar][mon]
 - [NetSpot](https://www.netspotapp.com/) - Wireless survey tool.
