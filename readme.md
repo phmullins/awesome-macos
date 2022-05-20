@@ -146,6 +146,7 @@ androids, cyborgs, supercomputers, etc.
 - [Krisp](https://krisp.ai/) - Sound Clear in Online Meetings. ![Dollar][mon]
 - [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac. ![Dollar][mon]
 - [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor. ![Dollar][mon]
+- [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player. ![Open Source][oss]
 - [Mutify](https://mutify.app/) - Quickly mute your microphone. ![Dollar][mon]
 - [ocenaudio](https://www.ocenaudio.com/en) - Easy, fast and powerful audio editor
 - [Piezo](https://rogueamoeba.com/piezo/) - Charmingly simple audio recording. ![Dollar][mon]
