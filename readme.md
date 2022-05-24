@@ -903,6 +903,7 @@ androids, cyborgs, supercomputers, etc.
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - A minimal, focused outlining experience for Mac. ![Dollar][mon]
 - [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists for macOS. ![Dollar][mon]
 - [Things](https://culturedcode.com/things/) -  Award-winning personal task manager. ![Dollar][mon]
+- [TodoTxtMac](http://mjdescy.github.io/TodoTxtMac/) - Minimalist, keyboard-driven to-do manager for macOS. ![Open Source][oss]
 - [Tracktiq](http://www.tracktiq.com/) - Easy time tracking. ![Dollar][mon]
 - [Trello](http://labs.pierreorsander.com/trelloapp/) - A simple Trello client.
 
