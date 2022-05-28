@@ -1,4 +1,4 @@
-### Awesome MacOS Software v1.9.8 ([Colossus](https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project))
+### Awesome MacOS Software v1.9.9 ([Clu](https://tron.fandom.com/wiki/Clu))
 
 <img width="100" height="100" alt="icon_macos_02" src="assets/icon_macos_02.png">
 
@@ -82,7 +82,8 @@ androids, cyborgs, supercomputers, etc.
 - [Jamovi](https://www.jamovi.org/) - free and open statistical software to bridge the gap between researcher and statistician. ![Open Source][oss]
 - [Manuscripts](https://www.manuscripts.io/) - A writing tool like nothing you have seen before.
 - [Mochi](https://mochi.cards/) - Take notes and make flashcards.
-- [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Dollar][mon]
+- [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Dollar][mon] ![Star][fav]
+- [Soulver 3](https://soulver.app/) - Notepad, meet calculator. ![Dollar][mon]
 - [Studies](http://www.studiesapp.com/) - Master Your Studies. ![Dollar][mon]
 
 ### Anti-Virus
@@ -653,7 +654,7 @@ androids, cyborgs, supercomputers, etc.
 
 ### Password Management
 
-- [1Password](https://agilebits.com/onepassword) - Best Password Manager out there! ![Dollar][mon]
+- [1Password](https://agilebits.com/onepassword) - Best Password Manager out there! ![Dollar][mon] ![Star][fav]
 - [Avast](https://www.avast.com/passwords-mac) - Avast Passwords for Mac.
 - [Bitwarden](https://bitwarden.com/) - Solve your password management problems.
 - [Buttercup](https://buttercup.pw) - The Password Manager You Deserve. ![Open Source][oss]
@@ -1035,3 +1036,4 @@ Source is released under the MIT License (MIT) [license](license.md).
 
 [oss]: /assets/oss.png
 [mon]: /assets/dollar.png
+[fav]: /assets/icon_star.png
