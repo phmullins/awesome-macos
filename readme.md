@@ -96,7 +96,7 @@ androids, cyborgs, supercomputers, etc.
 
 ### Application Launchers
 
-- [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac. Free & ![Dollar][mon]
+- [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac. Free & ![Dollar][mon] ![Star][fav]
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Powerful file/URL/email launcher utility. ![Dollar][mon]
 - [Launchey 2](https://www.getniceapps.com/launchey-2) - Lightweight menu bar app launcher. ![Dollar][mon]
 - [Overflow](https://stuntsoftware.com/overflow/) - The visual launcher for your Mac. ![Dollar][mon]
@@ -104,7 +104,7 @@ androids, cyborgs, supercomputers, etc.
 - [Slik](https://apps.inspira.io/en/slik/) - Fast app launcher and web app organizer. ![Dollar][mon]
 - [Start](https://start.innovative-bytes.net/) - A superior way to launch applications. ![Dollar][mon]
 - [Quicksilver](https://qsapp.com/) - Application launcher and much more. ![Open Source][oss]
-- [Raycast](https://www.raycast.com/) - Raycast is a blazingly fast, totally extendable launcher. ![Open Source][oss]
+- [Raycast](https://www.raycast.com/) - Raycast is a blazingly fast, totally extendable launcher. ![Open Source][oss] ![Star][fav]
 - [Ueli](https://ueli.app) - A keystroke launcher for Windows and macOS. ![Open Source][oss]
 - [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers. ![Open Source][oss]
 - [Raycast](https://raycast.com/) - Control your tools with a few keystrokes. It’s designed to keep you focused.
@@ -114,7 +114,7 @@ androids, cyborgs, supercomputers, etc.
 - [Auryo](https://auryo.com/) - A SoundCloud client for your desktop. ![Open Source][oss]
 - [Aural](https://github.com/kartik-venugopal/aural-player) - An audio player for macOS, inspired by Winamp. ![Open Source][oss]
 - [BitPerfect](http://bitperfectsound.com/) - The Audiophile Choice. ![Dollar][mon]
-- [Cog](http://cogx.org/) - Audio player similar to Foobar 2000. ![Open Source][oss]
+- [Cog](http://cogx.org/) - Audio player similar to Foobar 2000. ![Open Source][oss] ![Star][fav]
 - [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS.
 - [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files. ![Dollar][mon]
 - [Idagio](https://about.idagio.com) - Streaming, reinvented for classical music.
@@ -154,16 +154,16 @@ androids, cyborgs, supercomputers, etc.
 - [Roon](https://roonlabs.com/) - The Ultimate Music Player for Music Fanatics. ![Dollar][mon]
 - [Samplr for Touchbar](http://samplr.net/touchbar/) - Demo of Samplr for the MacBook Touch Bar.
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Last.fm scrobbler for the Shazam Mac app. ![Open Source][oss]
-- [Sound Source](https://rogueamoeba.com/soundsource/) - Superior Sound Control. ![Dollar][mon]
+- [Sound Source](https://rogueamoeba.com/soundsource/) - Superior Sound Control. ![Dollar][mon] ![Star][fav]
 - [Tickeys](https://github.com/yingDev/Tickeys) - Audio feedback while typing. ![Open Source][oss]
 - [TunesArt](https://www.jibapps.com/apps/tunesart/) - Display a gorgeous album cover on your desktop. ![Dollar][mon]
 - [X Lossless Decoder](http://tmkk.undo.jp/xld/index_e.html) - Decode/Convert to and from dozens of audio file types.
 
 ### Backups
 
-- [Arq](https://www.arqbackup.com/) - Backup your files to Google Drive, Amazon Glacier, SFTP, and more. ![Dollar][mon]
+- [Arq](https://www.arqbackup.com/) - Backup your files to Google Drive, Amazon Glacier, SFTP, and more. ![Dollar][mon] ![Star][fav]
 - [Arq Cloud Backup](https://www.arqbackup.com/arqcloudbackup/) - Backs up all your files automatically. ![Dollar][mon]
-- [Carbon Copy Cloner](http://bombich.com/) - Create a bit-perfect clone of your Mac's hard drive. ![Dollar][mon]
+- [Carbon Copy Cloner](http://bombich.com/) - Create a bit-perfect clone of your Mac's hard drive. ![Dollar][mon] ![Star][fav]
 - [Freeze](https://www.freezeapp.net/) - Amazon Glacier for your Mac. ![Dollar][mon]
 - [Macrium Reflect 7](https://www.macrium.com/reflectfree) - Free back up, disk imaging, and cloning solution.
 - [Rclone](http://rclone.org/) - Sync files and directories to and from multiple services. ![Open Source][oss]
@@ -172,11 +172,11 @@ androids, cyborgs, supercomputers, etc.
 
 - [BlueHarvest](https://zeroonetwenty.com/blueharvest/) - Keep your disks clean of macOS metadata. ![Dollar][mon]
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A macOS system analyser and cleaner.
-- [Daisy Disk](https://daisydiskapp.com/) - What’s taking up your disk space? ![Dollar][mon]
+- [Daisy Disk](https://daisydiskapp.com/) - What’s taking up your disk space? ![Dollar][mon] ![Star][fav]
 - [Disk Doctor](https://fiplab.com/apps/disk-doctor-for-mac) - Removes tons of unneeded files. ![Dollar][mon]
 - [Duplicate Detective](https://fiplab.com/apps/duplicate-detective-for-mac) - Remove duplicate files from your Mac. ![Dollar][mon]
 - [Monolingual](http://ingmarstein.github.io/Monolingual/) - Frees up disk space by removing unused languages files. ![Open Source][oss]
-- [TrashMe](http://www.jibapps.com/en/products/trashme/) - Uninstaller for the Mac with other great useful tools. ![Dollar][mon]
+- [TrashMe](http://www.jibapps.com/en/products/trashme/) - Uninstaller for the Mac with other great useful tools. ![Dollar][mon] ![Star][fav]
 
 ### Clipboard Managers
 
@@ -200,7 +200,7 @@ androids, cyborgs, supercomputers, etc.
 - [AppCode](https://www.jetbrains.com/objc/) - Smart IDE for iOS/macOS development. ![Dollar][mon]
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century. ![Open Source][oss]
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Open-source Arduino Code Editor. ![Open Source][oss]
-- [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that doesn't suck. ![Dollar][mon]
+- [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that doesn't suck. ![Dollar][mon] ![Star][fav]
 - [Brackets](http://brackets.io/) - Open source text editor that understands web design. ![Open Source][oss]
 - [CLion](https://www.jetbrains.com/clion/) - A cross-platform IDE for C and C++. ![Dollar][mon]
 - [Coda](https://www.panic.com/coda/) - One-window Web development suite. ![Dollar][mon]
@@ -243,7 +243,7 @@ androids, cyborgs, supercomputers, etc.
 ### Compression
 
 - [Keka](https://www.keka.io/en/) - MacOS file archiver. Store more, share with privacy. ![Open Source][oss]
-- [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for MacOS' default compression app.
+- [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for MacOS' default compression app. ![Star][fav]
 - [p7zip](http://p7zip.sourceforge.net/) - Open Source port of 7-Zip for POSIX systems. ![Open Source][oss]
 - [Zip Cleaner](https://roger-jolly.nl/software/#zipcleaner) - Remove DS_Store, Icon^M and __MACOSX from archives. ![Open Source][oss]
 
@@ -259,7 +259,7 @@ androids, cyborgs, supercomputers, etc.
 ### Contacts
 
 - [BusyContacts](https://www.busymac.com/busycontacts/index.html) - The most powerful contact manager for macOS. ![Dollar][mon]
-- [CardHop](https://flexibits.com/cardhop) - Contacts manager. One Cardhop, All Your Devices. ![Dollar][mon]
+- [CardHop](https://flexibits.com/cardhop) - Contacts manager. One Cardhop, All Your Devices. ![Dollar][mon] ![Star][fav]
 
 ### Databases
 
@@ -309,13 +309,13 @@ androids, cyborgs, supercomputers, etc.
 
 ### Documents
 
-- [PDF Expert](https://pdfexpert.com/) - The ultimate PDF editor. ![Dollar][mon]
+- [PDF Expert](https://pdfexpert.com/) - The ultimate PDF editor. ![Dollar][mon] ![Star][fav]
 - [Sejda PDF Desktop](https://www.sejda.com/desktop) - Productive PDF software that you'll love to use. ![Dollar][mon]
 
 ### Encryption
 
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. ![Open Source][oss]
-- [GPG Tools](https://gpgtools.org/) - GPG Suite for macOS. ![Open Source][oss]
+- [GPG Tools](https://gpgtools.org/) - GPG Suite for macOS. ![Open Source][oss] ![Star][fav]
 - [keys.pub](https://keys.pub/) - Manage cryptographic keys, sigchains and user identities. ![Open Source][oss]
 - [Keybase](https://keybase.io/) - Keybase is a directory of public keys and the proofs of who owns them. ![Open Source][oss]
 - [VeraCrypt](https://veracrypt.fr) - Open source disk encryption software for macOS. ![Open Source][oss]
@@ -359,7 +359,7 @@ androids, cyborgs, supercomputers, etc.
 - [Cryo](https://cryonet.io/) - Visual peer-to-peer file manager.
 - [DCloner](https://www.pixelespressoapps.com/decloner/) - Reliable duplicate files finder. ![Dollar][mon]
 - [DCommander](https://devstorm-apps.com/dc/) - Advanced file manager for Mac. ![Dollar][mon]
-- [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual-pane FTP/file manager. ![Dollar][mon]
+- [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual-pane FTP/file manager. ![Dollar][mon] ![Star][fav]
 - [Gemini](https://macpaw.com/gemini) - The intelligent duplicate file finder. ![Dollar][mon]
 - [Hazel](https://www.noodlesoft.com/) - Automated Organization for Your Mac. ![Dollar][mon]
 - [Marta](https://marta.yanex.org/) - File Manager for macOS.
@@ -390,13 +390,13 @@ androids, cyborgs, supercomputers, etc.
 - [Flycast](https://github.com/flyinghead/flycast) - Multiplatform Sega Dreamcast, Naomi and Atomiswave emulator. ![Open Source][oss]
 - [Gearcoleco](https://github.com/drhelius/Gearcoleco) - Cross-platform ColecoVision emulator. ![Open Source][oss]
 - [GOG Galaxy](https://www.gog.com/galaxy) - All your games and friends in one place.
-- [GZDoom](https://zdoom.org/index) - A Doom source port for the modern era. ![Open Source][oss]
+- [GZDoom](https://zdoom.org/index) - A Doom source port for the modern era. ![Open Source][oss] ![Star][fav]
 - [HStracker](https://hsreplay.net) - Find the best deck for your rank and region.
 - [MetalNES](https://github.com/iaddis/metalnes) - Transistor level NES simulation. ![Open Source][oss]
-- [OpenEmu](https://openemu.org/) - Video game emulation. ![Open Source][oss]
+- [OpenEmu](https://openemu.org/) - Video game emulation. ![Open Source][oss] ![Star][fav]
 - [ReDoomEd](http://twilightedge.com/mac/redoomed/) - Port of “DoomEd”, id Software’s Doom map editor for NeXTSTEP (1993).
 - [Rolisteam](https://rolisteam.org/) - Manage tabletop role playing games with remote friends/players. ![Open Source][oss]
-- [Slade](http://slade.mancubus.net) - A modern editor for Doom.
+- [Slade](http://slade.mancubus.net) - A modern editor for Doom. ![Star][fav]
 - [Stockfish](https://stockfishchess.org/) - Strong open source chess engine. ![Open Source][oss]
 - [TIC-80](https://nesbox.itch.io/tic80) - A fantasy computer for making, playing and sharing tiny games. ![Dollar][mon]
 - [xemu](https://xemu.app/) - Original Xbox Emulator. ![Open Source][oss]
@@ -431,7 +431,7 @@ androids, cyborgs, supercomputers, etc.
 - [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program. ![Open Source][oss]
 - [Krita](https://krita.org/en) -  Professional open source painting program. ![Open Source][oss]
 - [Pixelmator](http://www.pixelmator.com) - Full-featured image editor for Mac. ![Dollar][mon]
-- [Pixelmator Pro](https://www.pixelmator.com/pro/) - Professional image editor. ![Dollar][mon]
+- [Pixelmator Pro](https://www.pixelmator.com/pro/) - Professional image editor. ![Dollar][mon] ![Star][fav]
 - [PhotoMD](https://apps.apple.com/us/app/photomd/id1515646480?mt=12) - Image EXIF and metadata editor, viewer and sorter. ![Dollar][mon]
 - [Seashore](https://github.com/robaho/seashore) - Easy to use mac osx image editing application. ![Open Source][oss]
 
@@ -461,7 +461,7 @@ androids, cyborgs, supercomputers, etc.
 - [Irssi](https://irssi.org/) - Your text mode chatting application since 1999. ![Open Source][oss]
 - [KVIrc](http://kvirc.net/) - QT IRC Client. ![Open Source][oss]
 - [LimeChat](http://limechat.net/mac/) - LimeChat is an IRC client for MacOS. ![Open Source][oss]
-- [Textual](https://github.com/Codeux-Software/Textual) - Lightweight IRC client. ![Open Source][oss] ![Dollar][mon]
+- [Textual](https://github.com/Codeux-Software/Textual) - Lightweight IRC client. ![Open Source][oss] ![Dollar][mon] ![Star][fav]
 - [Smuxi](https://smuxi.im/) - GTK+ multi-service ITC client. ![Open Source][oss]
 
 ### Journaling
@@ -616,7 +616,7 @@ androids, cyborgs, supercomputers, etc.
 - [ClickUp](https://clickup.com/) - All of your work in one place: Tasks, Docs, Chat, Goals, & more. ![Dollar][mon]
 - [Coda](https://coda.io/) - Enough of this sheet.
 - [Craft](https://www.craft.do/) - A fresh take on documents. ![Dollar][mon] and Free.
-- [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document/Note manager. ![Dollar][mon]
+- [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document/Note manager. ![Dollar][mon] ![Star][fav]
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS. ![Open Source][oss]
 - [Joplin](https://joplinapp.org/) - Free your notes. ![Open Source][oss]
 - [Keep It](https://reinventedsoftware.com/keepit/) - Write notes, keep things, and find them again. ![Dollar][mon]
@@ -643,7 +643,7 @@ androids, cyborgs, supercomputers, etc.
 
 - [Cakebrew](https://www.cakebrew.com/) - The Mac App for Homebrew. ![Open Source][oss]
 - [Fink](http://www.finkproject.org/) - Debian package management for macOS. ![Open Source][oss]
-- [Homebrew](http://brew.sh/) - The missing package manager for macOS. ![Open Source][oss]
+- [Homebrew](http://brew.sh/) - The missing package manager for macOS. ![Open Source][oss] ![Star][fav]
 - [MacPorts](https://www.macports.org/) - A package management system for macOS. ![Open Source][oss]
 - [pkgsrc](https://www.pkgsrc.org/) - Package management system for Unix-like operating systems. ![Open Source][oss]
 
@@ -765,7 +765,7 @@ androids, cyborgs, supercomputers, etc.
 
 - [DEVONsphere Express](https://www.devontechnologies.com/products/devonsphere/devonsphere-express.html) ![Dollar][mon]
 - [Easy Find](http://www.devontechnologies.com/products/freeware.html) - Find any file on your Mac.
-- [HoudahSpot 4](https://www.houdah.com/houdahSpot/) - Powerful File Search for Mac. ![Dollar][mon]
+- [HoudahSpot 4](https://www.houdah.com/houdahSpot/) - Powerful File Search for Mac. ![Dollar][mon] ![Star][fav]
 - [ProFind](https://zeroonetwenty.com/profind/) - Find like a pro. ![Dollar][mon]
 - [Tembo](https://www.houdah.com/tembo/) - Friendly File Search Assistant. ![Dollar][mon]
 
@@ -823,7 +823,7 @@ androids, cyborgs, supercomputers, etc.
 - [Gitscout](https://gitscout.com/) - A beautiful GitHub Issues experience for MacOS.
 - [Gitee](https://github.com/Nightonke/Gitee) - macOS status bar application for Github. ![Open Source][oss]
 - [GitX](http://gitx.frim.nl/index.html) - Git GUI made for MacOS. ![Open Source][oss]
-- [SourceTree](https://www.sourcetreeapp.com/) - Easy way to work with Git and Mercurial.
+- [SourceTree](https://www.sourcetreeapp.com/) - Easy way to work with Git and Mercurial. ![Star][fav]
 - [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. ![Open Source][oss]
 - [Thermal](https://thermal.codecarrot.net/) - All-in-one place to manage your Git repository. ![Open Source][oss]
 - [Tower](http://www.git-tower.com/) - Advanced Git version control. ![Dollar][mon]
@@ -873,7 +873,7 @@ androids, cyborgs, supercomputers, etc.
 - [LiteIcon](http://www.freemacsoft.net/liteicon/) - LiteIcon is a simple app which allows you to change your system icons.
 - [Lunar](https://lunar.fyi/) - Intelligent adaptive brightness for your external display. ![Open Source][oss]
 - [Maccy](https://maccy.app/) - Clipboard manager for macOS.
-- [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly. ![Dollar][mon]
+- [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly. ![Dollar][mon] ![Star][fav]
 - [Manila](https://github.com/neilsardesai/Manila) - A Finder extension for changing folder colors. ![Open Source][oss]
 - [MechVibes](https://mechvibes.com/) - Play mechanical keyboard sounds as you type. ![Open Source][oss]
 - [MKS](https://github.com/x0054/MKS) - Mechanical Keyboard Simulator. ![Open Source][oss]
@@ -902,9 +902,9 @@ androids, cyborgs, supercomputers, etc.
 - [Kanbanier](http://www.kanbanier.com/en/) - Kanban Boards for macOS.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - One of the best GTD/Task managers money can buy. ![Dollar][mon]
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - A minimal, focused outlining experience for Mac. ![Dollar][mon]
-- [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists for macOS. ![Dollar][mon]
+- [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists for macOS. ![Dollar][mon] ![Star][fav]
 - [Things](https://culturedcode.com/things/) -  Award-winning personal task manager. ![Dollar][mon]
-- [TodoTxtMac](http://mjdescy.github.io/TodoTxtMac/) - Minimalist, keyboard-driven to-do manager for macOS. ![Open Source][oss]
+- [TodoTxtMac](http://mjdescy.github.io/TodoTxtMac/) - Minimalist, keyboard-driven to-do manager for macOS. ![Open Source][oss] ![Star][fav]
 - [Tracktiq](http://www.tracktiq.com/) - Easy time tracking. ![Dollar][mon]
 - [Trello](http://labs.pierreorsander.com/trelloapp/) - A simple Trello client.
 
@@ -915,19 +915,19 @@ androids, cyborgs, supercomputers, etc.
 - [Electerm](https://github.com/electerm/electerm/) - Terminal/ssh/serial port/sftp client. ![Open Source][oss]
 - [Extraterm](https://extraterm.org/) - The swiss army chainsaw of terminal emulators. ![Open Source][oss]
 - [Hyper](https://hyper.is/) - A JS/HTML/CSS Terminal. ![Open Source][oss]
-- [iTerm 2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm. ![Open Source][oss]
+- [iTerm 2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm. ![Open Source][oss] ![Star][fav]
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. ![Open Source][oss]
 - [Kui](https://kui.tools/) - Terminal with visualizations by and for developers. ![Open Source][oss]
 - [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
 - [Portx](https://portx.online/en/) - A Cross Platform SSH Client.
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS! ![Open Source][oss]
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age. ![Open Source][oss]
-- [warp](https://www.warp.dev/) - The terminal that supercharges your developer workflow.
+- [warp](https://www.warp.dev/) - The terminal that supercharges your developer workflow. ![Star][fav]
 - [ZOC Terminal](https://www.emtec.com/zoc/) - Professional terminal emulation software for macOS. ![Dollar][mon]
 
 ### Text Editors
 
-- [BBEdit](https://www.barebones.com/products/bbedit/) - It dosen't suck. ![Dollar][mon]
+- [BBEdit](https://www.barebones.com/products/bbedit/) - It dosen't suck. ![Dollar][mon] ![Star][fav]
 - [CotEditor](https://coteditor.com/) - The plain-text editor for macOS. ![Open Source][oss]
 - [Drafts](https://getdrafts.com/) - Where Text Starts. ![Dollar][mon]
 - [LightPaper](https://getlightpaper.com/) - Simple, beautiful yet powerful text editor for your Mac. ![Dollar][mon]
@@ -942,12 +942,11 @@ androids, cyborgs, supercomputers, etc.
 
 ### Text Expanders
 
-- [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac. Free & ![Dollar][mon]
+- [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac. Free & ![Dollar][mon] ![Star][fav]
 - [aText](http://www.trankynam.com/atext/) - Replaces abbreviations with frequently used phrases. ![Dollar][mon]
 - [Rocket Typist](https://witt-software.com/rockettypist/) - Expand typed abbreviations. ![Dollar][mon]
 - [TeaCode](https://www.apptorium.com/teacode) - Don't Repeat Yourself. ![Dollar][mon]
 - [TextExpander](https://textexpander.com) - Expand keystrokes into frequently-used text and pictures. ![Dollar][mon]
-- [Trilium Notes](https://github.com/zadam/trilium) - Build your personal knowledge base.
 
 ### Web Browsers
 
@@ -956,7 +955,7 @@ androids, cyborgs, supercomputers, etc.
 - [Brave](https://brave.com/) - On a mission to fix the web.
 - [Browserosaurus](https://browserosaurus.com/) - The browser prompter for macOS.
 - [Cliqz](https://cliqz.com/en/) - The no-compromise browser.
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox. ![Open Source][oss]
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox. ![Open Source][oss] ![Star][fav]
 - [Firefox Beta](https://download.mozilla.org/?product=firefox-beta-latest-ssl&os=osx&lang=en-US) Mozilla Firefox (Beta) ![Open Source][oss]
 - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/channel/desktop/#developer) - Firefox release channel for experimental (beta) builds. ![Open Source][oss]
 - [Ghost Browser](https://ghostbrowser.com/) - The Productivity Browser for Tech Pros
@@ -983,7 +982,7 @@ androids, cyborgs, supercomputers, etc.
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows. ![Dollar][mon]
 - [Penc](https://deniz.co/penc/) - Trackpad-oriented window manager for macOS. ![Open Source][oss]
 - [Phoenix](https://github.com/kasper/phoenix/) - A lightweight window and app manager scriptable with JavaScript. ![Open Source][oss]
-- [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS.
+- [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS. ![Star][fav]
 - [Spectacle](https://www.spectacleapp.com/) - Move and resize windows with ease.
 - [Slate](https://github.com/jigish/slate) - A window management application. ![Open Source][oss]
 - [Swish](https://highlyopinionated.co/swish/) - The missing gesture layer for macOS. ![Dollar][mon]
@@ -996,11 +995,11 @@ androids, cyborgs, supercomputers, etc.
 - [BookletCreator](https://www.bookletcreator.com/) - Create a booklet from a PDF document. ![Dollar][mon]
 - [Dictionaries](https://dictionaries.io/) -  Bidirectional translation, spellchecking and pronunciation. ![Dollar][mon]
 - [Grammarly](https://www.grammarly.com/) - Great Writing, Simplified. ![Dollar][mon]
-- [IA Writer](https://ia.net/writer/) - Designed to provide the best digital writing experience. ![Dollar][mon]
+- [IA Writer](https://ia.net/writer/) - Designed to provide the best digital writing experience. ![Dollar][mon] ![Star][fav]
 - [Ludwig](https://ludwig.guru/) - Sentence search engine that helps you write better English. ![Dollar][mon] & Free
 - [Nisus Thesaurus](https://www.nisus.com/Thesaurus/) - Free Thesaurus for macOS.
 - [Nota](https://nota.md/) - Modern writing app designed for Markdown.
-- [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers. ![Dollar][mon]
+- [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers. ![Dollar][mon] ![Star][fav]
 - [Storyist](https://www.storyist.com/) - Full-Featured Word Processor. ![Dollar][mon]
 - [Ulysses](https://ulyssesapp.com/) - The Ultimate Writing App for Mac, iPad and iPhone. ![Dollar][mon]
 - [Taskade](https://apps.apple.com/us/app/taskade-manage-anything/id1490048917) - Free writing tool for outlining notes, managing tasks, and getting things done together in realtime.
@@ -1008,7 +1007,7 @@ androids, cyborgs, supercomputers, etc.
 ### Video Utilities
 
 - [HandBrake](https://handbrake.fr/) - The open source video transcoder. ![Open Source][oss]
-- [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS. ![Open Source][oss]
+- [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS. ![Open Source][oss] ![Star][fav]
 - [MakeMKV](https://www.makemkv.com/) - Rip DVD and Blu-ray discs. ![Dollar][mon]
 - [MPlayer](https://mplayerhq.hu) - A cross-platform movie player.
 - [mpv](https://mpv.io/) - A free, open source, and cross-platform media player. ![Open Source][oss]
@@ -1020,7 +1019,7 @@ androids, cyborgs, supercomputers, etc.
 - [Mini vMac](https://www.gryphel.com/c/minivmac/) - A miniature early Macintosh emulator.
 - [MultiPass](https://multipass.run/) - A mini-cloud on your Mac or Windows workstation.
 - [Parallels Access](https://www.parallels.com/products/access/) - Remote access to your computer from anywhere. ![Dollar][mon]
-- [Parallels Desktop 17](https://www.parallels.com/products/desktop/) - Run Windows on Mac without rebooting. ![Dollar][mon]
+- [Parallels Desktop 17](https://www.parallels.com/products/desktop/) - Run Windows on Mac without rebooting. ![Dollar][mon] ![Star][fav]
 - [Parallels Toolbox](https://www.parallels.com/products/toolbox/) -  All-in-one solution with over 30 tools for macOS and Windows 10. ![Dollar][mon]
 - [PlayOnMac](https://www.playonmac.com/en/) - Wine wrapper for macOS.
 - [Vagrant Manager](http://vagrantmanager.com) - Vagrant Manager for mcOS.
