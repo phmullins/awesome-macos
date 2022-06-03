@@ -263,22 +263,23 @@ androids, cyborgs, supercomputers, etc.
 
 ### Databases
 
-- [Arctype](https://arctype.com/) - The SQL client and database management tool that's fun to use. ![Dollar][mon]
+- [Arctype](https://arctype.com/) - The SQL client and database management tool that's fun to use. ![Dollar][mon] and Free
 - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio) - SQL client based on Visual Studio Code.
 - [Base](https://menial.co.uk/base/) - SQLite 3 database editor. ![Dollar][mon]
 - [Bdash](https://www.bdash.io/) - Simple SQL Client for lightweight data analysis. ![Open Source][oss]
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Open Source SQL Editor and Database Manager.
 - [DBeaver](http://dbeaver.jkiss.org/) - Free Universal SQL Client. ![Open Source][oss]
-- [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite Database Browser. ![Open Source][oss]
-- [Medis 2](https://getmedis.com/) - Modern GUI for Redis. ![Open Source][oss] ![Dollar][mon]
+- [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite Database Browser. ![Open Source][oss] ![Star][fav]
+- [Medis](https://github.com/luin/medis) - Modern GUI for Redis. ![Open Source][oss]
+- [Medis 2](https://getmedis.com/) - Modern GUI for Redis. ![Dollar][mon]
 - [ModernCSV](https://www.moderncsv.com/) - The Ultimate CSV Editor/Viewer for Windows, Mac, and Linux.
 - [Mongotron](http://mongotron.io/#/) - Cross platform MongoDB management. ![Open Source][oss]
 - [Sequel Ace](https://apps.apple.com/us/app/sequel-ace/id1518036000?ls=1) - A MySQL database manager. ![Open Source][oss]
 - [pgweb](http://sosedoff.github.io/pgweb/) - Cross-platform client for PostgreSQL databases. ![Open Source][oss]
 - [Postbird](https://github.com/paxa/postbird) - Open source PostgreSQL GUI client for macOs. ![Open Source][oss]
-- [Postgres.app](http://postgresapp.com/) - PostgreSQL for MacOS. ![Open Source][oss]
+- [Postgres.app](http://postgresapp.com/) - PostgreSQL for MacOS. ![Open Source][oss] ![Star][fav]
 - [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for the Mac.
-- [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS. ![Open Source][oss]
+- [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for macOS. ![Open Source][oss] ![Star][fav]
 - [Querious](https://www.araelium.com/querious/) - The best MySQL tool for macOS. ![Dollar][mon]
 - [Robomongo](https://robomongo.org/) - Cross-platform MongoDB client.
 - [SQLectron](https://sqlectron.github.io/) - A simple and lightweight SQL client desktop/terminal. ![Open Source][oss]
@@ -323,8 +324,9 @@ androids, cyborgs, supercomputers, etc.
 ### Email
 
 - [Canary](https://canarymail.io/) - Secure Email App for Mac and iPhone. ![Dollar][mon]
-- [eM Client](https://www.emclient.com) - Boost your email. Skyrocket your productivity. Free & ![Dollar][mon]
-- [FMail](https://arievanboxel.fr/fmail/en/) - Free native Mac application for Fastmail.
+- [eM Client](https://www.emclient.com) - Boost your email. Skyrocket your productivity. Free & ![Dollar][mon] ![Star][fav]
+- [FMail](https://fmail-app.fr/index.html?22050731) - The free native Mac application for Fastmail users.
+- [FMail Light](https://fmail-app.fr/tabs/main.html) - Free native Mac application for Fastmail.
 - [MailMate](https://freron.com/) - IMAP email client for macOS. ![Dollar][mon]
 - [Mimestream](https://mimestream.com/) - A native macOS email client for Gmail. ![Dollar][mon]
 - [Polymail](https://polymail.io/) - Simple, beautiful, powerful e-mail. ![Dollar][mon]
@@ -432,6 +434,7 @@ androids, cyborgs, supercomputers, etc.
 - [Krita](https://krita.org/en) -  Professional open source painting program. ![Open Source][oss]
 - [Pixelmator](http://www.pixelmator.com) - Full-featured image editor for Mac. ![Dollar][mon]
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) - Professional image editor. ![Dollar][mon] ![Star][fav]
+- [PikoPixel](http://twilightedge.com/mac/pikopixel/) -  Pixel-art editor. ![Open Source][oss]
 - [PhotoMD](https://apps.apple.com/us/app/photomd/id1515646480?mt=12) - Image EXIF and metadata editor, viewer and sorter. ![Dollar][mon]
 - [Seashore](https://github.com/robaho/seashore) - Easy to use mac osx image editing application. ![Open Source][oss]
 
@@ -441,7 +444,6 @@ androids, cyborgs, supercomputers, etc.
 - [Lyn](https://www.lynapp.com/) - Organize, view, edit and share your photos. ![Dollar][mon]
 - [Phew](https://sveinbjorn.org/phew) - An open-source FLIF image viewer and QuickLook plugin for macOS. ![Open Source][oss]
 - [Phiewer](https://phiewer.com/) - The easiest and fastest way to view your images.
-- [PikoPixel](http://twilightedge.com/mac/pikopixel/) -  Pixel-art editor. ![Open Source][oss]
 - [PhotoMD-lite](https://apps.apple.com/us/app/photomd-lite/id1519298602?mt=12) - View images and EXIF and metadata.
 - [Pixave](http://www.littlehj.com/mac/) - The ultimate image viewer and organizer. ![Dollar][mon]
 - [qView](https://github.com/jurplel/qView) - Practical and minimal image viewer. ![Open Source][oss]
@@ -848,6 +850,7 @@ androids, cyborgs, supercomputers, etc.
 - [Barrier](https://github.com/debauchee/barrier) -  Open-source KVM Switch Software. ![Open Source][oss]
 - [Batteries for Mac](https://www.fadel.io/batteries) - Track all your devices' batteries from your Mac. ![Dollar][mon]
 - [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac) - Detailed battery information for your MacBook, iPhone & iPad. ![Dollar][mon]
+- [Bettermouse](https://better-mouse.com/) - Who needs Logitech Options when you have Bettermouse? ![Dollar][mon]
 - [BetterTouchTool](https://folivora.ai/) -  Customize input devices on your Mac. ![Dollar][mon]
 - [Burn](https://sourceforge.net/projects/burn-osx/) - Simple but advanced disc burning for macOS.
 - [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks. ![Open Source][oss]
@@ -993,6 +996,7 @@ androids, cyborgs, supercomputers, etc.
 
 - [Bear](https://bear.app/) - Writing app for notes and prose. ![Dollar][mon]
 - [BookletCreator](https://www.bookletcreator.com/) - Create a booklet from a PDF document. ![Dollar][mon]
+- [Calmly Writer](https://calmlywriter.com/) - Distraction-Free Writing. ![Dollar][mon]
 - [Dictionaries](https://dictionaries.io/) -  Bidirectional translation, spellchecking and pronunciation. ![Dollar][mon]
 - [Grammarly](https://www.grammarly.com/) - Great Writing, Simplified. ![Dollar][mon]
 - [IA Writer](https://ia.net/writer/) - Designed to provide the best digital writing experience. ![Dollar][mon] ![Star][fav]
