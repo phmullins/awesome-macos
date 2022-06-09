@@ -998,9 +998,11 @@ androids, cyborgs, supercomputers, etc.
 - [BookletCreator](https://www.bookletcreator.com/) - Create a booklet from a PDF document. ![Dollar][mon]
 - [Calmly Writer](https://calmlywriter.com/) - Distraction-Free Writing. ![Dollar][mon]
 - [Dictionaries](https://dictionaries.io/) -  Bidirectional translation, spellchecking and pronunciation. ![Dollar][mon]
+- [Fountain](https://fountain.io/) - Fountain is a plain text markup language for screenwriting. 
 - [Grammarly](https://www.grammarly.com/) - Great Writing, Simplified. ![Dollar][mon]
 - [IA Writer](https://ia.net/writer/) - Designed to provide the best digital writing experience. ![Dollar][mon] ![Star][fav]
 - [Ludwig](https://ludwig.guru/) - Sentence search engine that helps you write better English. ![Dollar][mon] & Free
+- [Mellel](https://www.mellel.com/mellel/) - The word processor of choice for any serious writer. ![Dollar][mon]
 - [Nisus Thesaurus](https://www.nisus.com/Thesaurus/) - Free Thesaurus for macOS.
 - [Nota](https://nota.md/) - Modern writing app designed for Markdown.
 - [Scrivener](http://www.literatureandlatte.com/scrivener.php) - Text editor for writers. ![Dollar][mon] ![Star][fav]
