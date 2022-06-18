@@ -849,8 +849,8 @@ androids, cyborgs, supercomputers, etc.
 - [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS. ![Open Source][oss]
 - [Barrier](https://github.com/debauchee/barrier) -  Open-source KVM Switch Software. ![Open Source][oss]
 - [Batteries for Mac](https://www.fadel.io/batteries) - Track all your devices' batteries from your Mac. ![Dollar][mon]
-- [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac) - Detailed battery information for your MacBook, iPhone & iPad. ![Dollar][mon]
-- [Bettermouse](https://better-mouse.com/) - Who needs Logitech Options when you have Bettermouse? ![Dollar][mon]
+- [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac) - Detailed battery information for your MacBook, iPhone & iPad. ![Dollar][mon] ![Star][fav]
+- [Bettermouse](https://better-mouse.com/) - Who needs Logitech Options when you have Bettermouse? ![Dollar][mon] ![Star][fav]
 - [BetterTouchTool](https://folivora.ai/) -  Customize input devices on your Mac. ![Dollar][mon]
 - [Burn](https://sourceforge.net/projects/burn-osx/) - Simple but advanced disc burning for macOS.
 - [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks. ![Open Source][oss]
@@ -885,8 +885,8 @@ androids, cyborgs, supercomputers, etc.
 - [Pock](http://pock.pigigaldi.com/) - Display macOS Dock in Touch Bar. ![Open Source][oss]
 - [PrefsEditor](https://apps.tempel.org/PrefsEditor/) - A GUI for the 'defaults' command.
 - [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac.
-- [Service Station](https://servicestation.menu/) - Customize your Right-Click Menu.
-- [Shottr](https://shottr.cc/) - Screenshot tool for those who care about pixels.
+- [Service Station](https://servicestation.menu/) - Customize your Right-Click Menu. Free. ![Star][fav]
+- [Shottr](https://shottr.cc/) - Screenshot tool for those who care about pixels. Free
 - [Sloth](https://sveinbjorn.org/sloth) - Shows all open files and sockets in use. ![Open Source][oss]
 - [TouchSwitcher](https://hazeover.com/touchswitcher.html) - Use Touch Bar to Switch Apps. ![Open Source][oss]
 - [Übersicht](https://tracesof.net/uebersicht/) - Keep an eye on what is happening on your machine.
