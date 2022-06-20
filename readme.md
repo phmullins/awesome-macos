@@ -379,6 +379,7 @@ androids, cyborgs, supercomputers, etc.
 ### FTP Clients
 
 - [Cyberduck](https://cyberduck.io/) - A libre server and cloud storage browser for Mac.
+- [Fetch](https://fetchsoftworks.com/fetch/) - Fetch is a reliable, full-featured file transfer client for the Mac, since [1989](https://en.wikipedia.org/wiki/Fetch_(FTP_client)). ![Dollar][mon]
 - [FileZilla](https://filezilla-project.org/) - Open source FTP client. ![Open Source][oss]
 - [Transmit](https://www.panic.com/transmit/) - FTP client that supports SFTP, S3, WebDAV, and more. ![Dollar][mon]
 - [Viper FTP](https://viperftp.com/) - Simple, user-friendly yet powerful FTP client for Mac. ![Dollar][mon]
