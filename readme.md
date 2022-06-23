@@ -405,6 +405,7 @@ androids, cyborgs, supercomputers, etc.
 - [TIC-80](https://nesbox.itch.io/tic80) - A fantasy computer for making, playing and sharing tiny games. ![Dollar][mon]
 - [xemu](https://xemu.app/) - Original Xbox Emulator. ![Open Source][oss]
 - [Zandronum](https://zandronum.com/) - Leading the way in newschool multiplayer Doom online.
+- [ZDL](https://zdl.vectec.net/wiki/Main_Page) - A cross-platform launcher. 
 
 ### Game Development
 
