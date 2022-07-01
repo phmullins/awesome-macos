@@ -804,6 +804,7 @@ androids, cyborgs, supercomputers, etc.
 - [Flume](https://flumeapp.com/) - A beautiful Instagram experience for your desktop. ![Dollar][mon]
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram desktop app. ![Open Source][oss]
 - [Tweetbot](https://tapbots.com/tweetbot/mac/) - Popular Twitter client. ![Dollar][mon]
+- [Tweeten](https://tweetenapp.com/) - Twitter client based on TweetDeck. 
 - [Twitterrific 5](https://twitterrific.com/mac) - Effortlessly read and compose tweets. ![Dollar][mon]
 - [Whalebird](https://whalebird.org/en/desktop/contents) - A Mastodon and Pleroma client. ![Open Source][oss]
 - [Mastonaut](https://mastonaut.app/) - Simple, elegant, and native Mastodon client for Mac. ![Dollar][mon]
