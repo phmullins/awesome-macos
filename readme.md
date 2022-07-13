@@ -82,6 +82,7 @@ androids, cyborgs, supercomputers, etc.
 - [Jamovi](https://www.jamovi.org/) - free and open statistical software to bridge the gap between researcher and statistician. ![Open Source][oss]
 - [Manuscripts](https://www.manuscripts.io/) - A writing tool like nothing you have seen before. ![Free][free]
 - [Mochi](https://mochi.cards/) - Take notes and make flashcards. ![Free][free]
+- [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/) - A powerful scientific multi-platform calculator with an easy to use interface ![Open Source][oss]
 - [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Dollar][mon] ![Star][fav]
 - [Soulver 3](https://soulver.app/) - Notepad, meet calculator. ![Dollar][mon]
 - [Studies](http://www.studiesapp.com/) - Master Your Studies. ![Dollar][mon]
@@ -572,6 +573,7 @@ androids, cyborgs, supercomputers, etc.
 - [NetNewsWire](https://ranchero.com/netnewswire/) - More news, less junk. Faster. ![Free][free]
 - [PiBakery](https://www.pibakery.org/) - The easiest way to setup a Raspberry Pi. ![Free][free]
 - [Reeder](https://www.reederapp.com/mac/) - The best news reader for macOS. ![Dollar][mon]
+- [SaneSideButtons](https://janhuelsmann.com/sanesidebuttons) - Tool that makes normal mouses with back/forward buttons usable on Mac OS ![Free][free]
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![Open Source][oss]
 - [Touch Bar Simulator](https://sindresorhus.com/touch-bar-simulator/) - The macOS Touch Bar as a standalone app. ![Open Source][oss]
 - [ResXtreme](http://resxtreme.com/) - Provides access to all display modes. ![Dollar][mon]
@@ -708,6 +710,7 @@ androids, cyborgs, supercomputers, etc.
 ### Programming Utilities
 
 - [Anvil](https://anvilformac.com/) - Menubar app for managing local websites. ![Free][free]
+- [Boop](https://apps.apple.com/us/app/boop/id1518425043) - A more powerful alternative to DevToys ![Free][free]
 - [Codespace](https://codespace.app/) - The code snippet manager you've been waiting for. ![Dollar][mon]
 - [DevMacToys](https://github.com/ObuchiYuki/DevToysMac) - DevToys For macOS. ![Open Source][oss]
 - [Defold](https://defold.com/) - The ultimate game engine for web and mobile. ![Open Source][oss]
