@@ -82,9 +82,9 @@ androids, cyborgs, supercomputers, etc.
 - [Jamovi](https://www.jamovi.org/) - free and open statistical software to bridge the gap between researcher and statistician. ![Open Source][oss]
 - [Manuscripts](https://www.manuscripts.io/) - A writing tool like nothing you have seen before. ![Free][free]
 - [Mochi](https://mochi.cards/) - Take notes and make flashcards. ![Free][free]
-- [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/) - A powerful scientific multi-platform calculator with an easy to use interface ![Open Source][oss]
 - [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Dollar][mon] ![Star][fav]
 - [Soulver 3](https://soulver.app/) - Notepad, meet calculator. ![Dollar][mon]
+- [SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/) - A powerful scientific multi-platform calculator with an easy to use interface ![Open Source][oss]
 - [Studies](http://www.studiesapp.com/) - Master Your Studies. ![Dollar][mon]
 
 ### Anti-Virus
