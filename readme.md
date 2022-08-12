@@ -816,7 +816,7 @@ androids, cyborgs, supercomputers, etc.
 ### Source Control
 
 - [Aurees](https://aurees.com/) - A Git client for Windows, Mac and Linux. ![Free][free]
-- [Fork](https://git-fork.com/) - A fast and friendly git client for Mac. ![Open Source][oss]
+- [Fork](https://git-fork.com/) - A fast and friendly git client for Mac. ![Dollar][mon]
 - [Fuel](https://fuel-scm.org/fossil/index) -  Front-end for the Fossil SCM. ![Open Source][oss]
 - [Git Bar](https://github.com/Shikkic/gitbar) - Github contribution stats on your MacOS Menu Bar. ![Free][free]
 - [GitBlade](https://gitblade.com/) - An elegant Git client for macOS. ![Free][free]
