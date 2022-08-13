@@ -1,12 +1,12 @@
-### Awesome MacOS Software v1.9.9 ([Clu](https://tron.fandom.com/wiki/Clu))
+### Awesome MacOS Software v2.0.0 ([W.O.P.R](https://youtu.be/iRsycWRQrc8))
 
 <img width="100" height="100" alt="icon_macos_02" src="assets/icon_macos_02.png">
 
 A curated list of fantastically awesome software for Apple's macOS operating system. This list was inspired by
 [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). Legend: Open Source apps = ![Open Source][oss]. Paid
-apps = ![Dollar][mon]. If an app dosen't have either icon then it should be considered free. Note: I wanted to have
-a little fun with the version numbers, so starting with v1.9.4, all versions will be named after sci-fi robots,
-androids, cyborgs, supercomputers, etc.
+apps = ![Dollar][mon]. Free apps have a ![Free][free] icon. Any app with a yellow star (![Star][fav]) is one of my 
+favorites and something that I recommend you check out. Note: I wanted to have a little fun with the version numbers, 
+so starting with v1.9.4, all versions will be named after sci-fi robots, androids, cyborgs, supercomputers, etc.
 
 - [Academics](#academics)
 - [Anti-Virus](#anti-virus)
