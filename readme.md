@@ -108,7 +108,6 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Raycast](https://www.raycast.com/) - Raycast is a blazingly fast, totally extendable launcher. ![Open Source][oss] ![Star][fav]
 - [Ueli](https://ueli.app) - A keystroke launcher for Windows and macOS. ![Open Source][oss]
 - [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers. ![Open Source][oss]
-- [Raycast](https://raycast.com/) - Control your tools with a few keystrokes. It’s designed to keep you focused. ![Free][free]
 
 ### Audio Players
 
