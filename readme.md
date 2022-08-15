@@ -629,6 +629,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Keep It](https://reinventedsoftware.com/keepit/) - Write notes, keep things, and find them again. ![Dollar][mon]
 - [Logseq](https://logseq.com/) - A privacy-first, open-source knowledge base. ![Free][free]
 - [Milanote](https://milanote.com/) - Get organized. Stay creative. ![Free][free]
+- [MdSilo](https://mdsilo.com/) - Lightweight knowledge silo and networked-writing tool. ![Free][free]
 - [NimbusNote](https://nimbusweb.me/note.php) - One place to manage all your information. ![Free][free]
 - [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized. ![Open Source][oss]
 - [OneNote](http://www.onenote.com/) - Note manager from Microsoft. ![Free][free]
