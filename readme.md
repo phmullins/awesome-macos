@@ -713,6 +713,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 ### Programming Utilities
 
 - [Anvil](https://anvilformac.com/) - Menubar app for managing local websites. ![Free][free]
+- [BBC Basic Editor](https://bbcmic.ro/) - BBC Micro Model B Basic Editor. ![Free][free] 
 - [Boop](https://apps.apple.com/us/app/boop/id1518425043) - A more powerful alternative to DevToys ![Free][free]
 - [Codespace](https://codespace.app/) - The code snippet manager you've been waiting for. ![Dollar][mon]
 - [DevMacToys](https://github.com/ObuchiYuki/DevToysMac) - DevToys For macOS. ![Open Source][oss]
