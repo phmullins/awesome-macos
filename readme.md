@@ -92,8 +92,9 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Avast Security for Mac](https://www.avast.com/free-mac-security) - Think different about Mac security. Free & ![Dollar][mon]
 - [AVG AntiVirus for Mac](https://www.avg.com/en-us/avg-antivirus-for-mac) - Simply safer with AVG AntiVirus for Mac. Free & ![Dollar][mon]
 - [Bitdefender Antivirus](https://www.bitdefender.com/solutions/free.html) - Absolute antivirus protection. Free & ![Dollar][mon]
+- [Malwarebytes Adware Cleaner](https://www.malwarebytes.com/adwcleaner) - Fast results. Powerful cleaning. ![Free][free]
 - [Malwarebytes for Mac](https://www.malwarebytes.com/mac) - We've got you covered. ![Dollar][mon]
-- [Malwarebytes Safe Browser](https://www.malwarebytes.com/solutions/safe-browser) - Get a fast, safe browsing experience. 
+- [Malwarebytes Safe Browser](https://www.malwarebytes.com/solutions/safe-browser) - Get a fast, safe browsing experience. ![Free][free]
 - [Webroot AntiVirus](https://www.webroot.com/us/en/home/products/av) - Full-scale antivirus program. ![Dollar][mon]
 
 ### Application Launchers
