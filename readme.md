@@ -945,6 +945,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [BBEdit](https://www.barebones.com/products/bbedit/) - It dosen't suck. ![Dollar][mon] ![Star][fav]
 - [CotEditor](https://coteditor.com/) - The plain-text editor for macOS. ![Open Source][oss]
 - [Drafts](https://getdrafts.com/) - Where Text Starts. ![Dollar][mon]
+- [Lapsce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust. 🦀 ![Open Source][oss]
 - [LightPaper](https://getlightpaper.com/) - Simple, beautiful yet powerful text editor for your Mac. ![Dollar][mon]
 - [Lime](http://limetext.org/) - Open Source, Elegant, and Free Text Editor. ![Open Source][oss]
 - [MacVim](https://macvim-dev.github.io/macvim/) - Vim - the text editor - for macOS. ![Open Source][oss]
