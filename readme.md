@@ -720,6 +720,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Codespace](https://codespace.app/) - The code snippet manager you've been waiting for. ![Dollar][mon]
 - [DevMacToys](https://github.com/ObuchiYuki/DevToysMac) - DevToys For macOS. ![Open Source][oss]
 - [Defold](https://defold.com/) - The ultimate game engine for web and mobile. ![Open Source][oss]
+- [ImHex](https://imhex.werwolv.net/) - Best Hex Editor ever. ![Open Source][oss]
 - [Inkdrop](https://inkdrop.app/) - Organizing your Markdown notes made simple. ![Dollar][mon]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Website link checker for MacOS. ![Free][free]
 - [Figma](https://www.figma.com/) - Serious application prototyping tool. ![Free][free]
