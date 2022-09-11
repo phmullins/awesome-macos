@@ -1049,6 +1049,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [UTM](https://mac.getutm.app) - QEMU frontend for macOS. ![Open Source][oss]
 - [Vagrant Manager](http://vagrantmanager.com) - Vagrant Manager for mcOS.
 - [Veertu](https://veertu.com/) - Native Virtualization For macOS. ![Dollar][mon]
+- [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon. ![Open Source][oss]
 - [VirtualBox](https://www.virtualbox.org/) - x86 virtualization software. ![Open Source][oss]
 - [VMware Fusion](http://www.vmware.com/products/fusion/) - Run Windows and Linux on your Mac. ![Dollar][mon]
 
