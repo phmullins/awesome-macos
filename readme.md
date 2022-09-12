@@ -492,6 +492,9 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 
 - [Byword](http://www.bywordapp.com/) - Excellent markdown editor. ![Dollar][mon]
 - [Deepdwn](https://billiam.itch.io/deepdwn) - Explore, study, create. ![Dollar][mon]
+- [Ghostwriter](https://wereturtle.github.io/ghostwriter/) - No excuses. No distractions. Just write. ![Open Source][oss]
+- [IA Writer](https://ia.net/writer) - A focused environment. ![Dollar][mon]
+- [JotterPad](https://jotterpad.app/) - The new age of writing is here. ![Dollar][mon]
 - [Notable](https://github.com/fabiospampinato/notable) - Markdown-based note-taking app that doesn't suck. ![Open Source][oss]
 - [MacDown](http://macdown.uranusjr.com/) - Open source Markdown editor for MacOS. ![Open Source][oss]
 - [Marked 2](https://marked2app.com/) - Previewer for Markdown files. ![Dollar][mon]
@@ -572,6 +575,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Kinto](https://github.com/rbreaves/kinto) -  Linux & Windows keyboard layout for macOS users. ![Open Source][oss]
 - [LinearMouse](https://linearmouse.org/) - For macOS mouse users. ![Open Source][oss]
 - [Mactracker](https://mactracker.ca/) - Detailed information on every Apple product. ![Free][free]
+- [Mela](https://mela.recipes/) - A simple, elegant and modern recipe manager. ![Dollar][mon]
 - [Micro.blog](https://s3.amazonaws.com/micro.blog/mac/Micro.blog_1.9.zip) - The official macOS version of Micro.blog. ![Free][free]
 - [Middle](https://middleclick.app/) - Add middle click to your Mac. ![Dollar][mon]
 - [NetNewsWire](https://ranchero.com/netnewswire/) - More news, less junk. Faster. ![Free][free]
