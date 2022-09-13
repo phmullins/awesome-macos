@@ -580,7 +580,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Middle](https://middleclick.app/) - Add middle click to your Mac. ![Dollar][mon]
 - [NetNewsWire](https://ranchero.com/netnewswire/) - More news, less junk. Faster. ![Free][free]
 - [PiBakery](https://www.pibakery.org/) - The easiest way to setup a Raspberry Pi. ![Free][free]
-- [Reeder](https://www.reederapp.com/mac/) - The best news reader for macOS. ![Dollar][mon]
+- [Reeder 5](https://reeder.app/) - The best news reader for macOS. ![Dollar][mon]
 - [SaneSideButtons](https://janhuelsmann.com/sanesidebuttons) - Tool that makes normal mouses with back/forward buttons usable on Mac OS ![Free][free]
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![Open Source][oss]
 - [Touch Bar Simulator](https://sindresorhus.com/touch-bar-simulator/) - The macOS Touch Bar as a standalone app. ![Open Source][oss]
