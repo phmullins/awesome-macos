@@ -170,6 +170,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Arq Cloud Backup](https://www.arqbackup.com/arqcloudbackup/) - Backs up all your files automatically. ![Dollar][mon]
 - [Carbon Copy Cloner](http://bombich.com/) - Create a bit-perfect clone of your Mac's hard drive. ![Dollar][mon] ![Star][fav]
 - [Freeze](https://www.freezeapp.net/) - Amazon Glacier for your Mac. ![Dollar][mon]
+- [GoodSync](https://www.goodsync.com/) - File Synchronization and Backup Software. ![Dollar][mon] ![Free][free]
 - [Macrium Reflect 7](https://www.macrium.com/reflectfree) - Free back up, disk imaging, and cloning solution. ![Free][free]
 - [Rclone](http://rclone.org/) - Sync files and directories to and from multiple services. ![Open Source][oss]
 
