@@ -173,6 +173,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [GoodSync](https://www.goodsync.com/) - File Synchronization and Backup Software. ![Dollar][mon] ![Free][free]
 - [Macrium Reflect 7](https://www.macrium.com/reflectfree) - Free back up, disk imaging, and cloning solution. ![Free][free]
 - [Rclone](http://rclone.org/) - Sync files and directories to and from multiple services. ![Open Source][oss]
+- [Syncalicious](https://github.com/zenangst/Syncalicious) - Backup and synchronize app settings. ![Open Source][oss]
 
 ### Cleanup
 
