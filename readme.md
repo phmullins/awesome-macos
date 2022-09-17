@@ -590,6 +590,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [RightFont 5](https://rightfontapp.com/) - Professional font manager app for Mac. ![Dollar][mon]
 - [Sugarmate](https://sugarmate.io/) - A new way to manage your diabetes. ![Free][free]
 - [Swish](https://highlyopinionated.co/swish/) - The missing gesture layer for macOS. ![Dollar][mon]
+- [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups. ![Free][free]
 - [Unite 4](https://www.bzgapps.com/unite512) - Turn any website into a deeply customizable app. ![Dollar][mon]
 - [Wintertime](https://github.com/actuallymentor/wintertime-mac-background-freezer) - Background App Freezer for macOS. ![Open Source][oss]
 
@@ -629,6 +630,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Appflowy](https://www.appflowy.io/) - Open Source  Notion Alternative. ![Open Source][oss]
 - [Asana](https://asana.com/) - Work on big ideas, without the busywork. ![Free][free]
 - [Bundled Notes](https://bundlednotes.com/) - There's a new kid on the block. ![Free][free]
+- [CherryTree](https://www.giuspen.com/cherrytree/) - A hierarchical note taking application. ![Open Source][oss]
 - [ClickUp](https://clickup.com/) - All of your work in one place: Tasks, Docs, Chat, Goals, & more. ![Dollar][mon]
 - [Coda](https://coda.io/) - Enough of this sheet. ![Free][free]
 - [Craft](https://www.craft.do/) - A fresh take on documents. ![Dollar][mon] and Free.
