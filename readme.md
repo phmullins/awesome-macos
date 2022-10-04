@@ -207,6 +207,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [AppCode](https://www.jetbrains.com/objc/) - Smart IDE for iOS/macOS development. ![Dollar][mon]
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century. ![Open Source][oss]
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software) - Open-source Arduino Code Editor. ![Open Source][oss]
+- [Aurora Editor](https://github.com/AuroraEditor/AuroraEditor) - Open-source Code Editor. ![Open Source][oss]
 - [BBedit](http://www.barebones.com/products/bbedit/) - The text editor that doesn't suck. ![Dollar][mon] ![Star][fav]
 - [Brackets](http://brackets.io/) - Open source text editor that understands web design. ![Open Source][oss]
 - [CLion](https://www.jetbrains.com/clion/) - A cross-platform IDE for C and C++. ![Dollar][mon]
