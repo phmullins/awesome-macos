@@ -634,6 +634,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [ClickUp](https://clickup.com/) - All of your work in one place: Tasks, Docs, Chat, Goals, & more. ![Dollar][mon]
 - [Coda](https://coda.io/) - Enough of this sheet. ![Free][free]
 - [Craft](https://www.craft.do/) - A fresh take on documents. ![Dollar][mon] and Free.
+- [Dendron](https://www.dendron.so/) - Open-source, local-first, markdown-based, note-taking tool. ![Free][free]
 - [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - Document/Note manager. ![Dollar][mon] ![Star][fav]
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS. ![Open Source][oss]
 - [Joplin](https://joplinapp.org/) - Free your notes. ![Open Source][oss]
