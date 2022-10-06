@@ -377,6 +377,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Mountain Duck](https://mountainduck.io/) - Cyberduck for mounting volumes in the file explorer. ![Dollar][mon]
 - [NameChanger](https://mrrsoftware.com/namechanger/) - Rename a list of files quickly and easily. ![Free][free]
 - [Path Finder](https://cocoatech.com) - Powerful, award-winning Finder alternative. ![Dollar][mon]
+- [Spacedrive](https://www.spacedrive.com/) - A file explorer from the future. ![Open Source][oss]
 - [TotalFinder](https://totalfinder.binaryage.com/) - For Mac users who demand more from their Finder. ![Dollar][mon]
 - [Trickster](https://www.apparentsoft.com/trickster) - Your recently used files, at your fingertips. ![Dollar][mon]
 - [fman](https://fman.io/) - Dual-pane file manager for Mac. ![Dollar][mon]
