@@ -337,6 +337,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [FMail](https://fmail-app.fr/index.html?22050731) - The free native Mac application for Fastmail users. ![Free][free]
 - [FMail Light](https://fmail-app.fr/tabs/main.html) - Free native Mac application for Fastmail. ![Free][free]
 - [MailMate](https://freron.com/) - IMAP email client for macOS. ![Dollar][mon]
+- [Mailspring](https://getmailspring.com/) - Boost your productivity and send better emails. ![Free][free]
 - [Mimestream](https://mimestream.com/) - A native macOS email client for Gmail. ![Dollar][mon]
 - [Polymail](https://polymail.io/) - Simple, beautiful, powerful e-mail. ![Dollar][mon]
 - [Postbox](https://www.postbox-inc.com/) - Powerful and flexible email client. ![Dollar][mon]
