@@ -99,7 +99,8 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 
 ### Application Launchers
 
-- [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac. Free & ![Dollar][mon] ![Star][fav]
+- [Alfred](https://www.alfredapp.com/) - Search your Mac and the web effortlessly, and control your Mac. ![Free][free] & ![Dollar][mon] ![Star][fav]
+- [Butler](https://manytricks.com/butler/) - The original Many Tricks pony. ![Dollar][mon]
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Powerful file/URL/email launcher utility. ![Dollar][mon]
 - [Launchey 2](https://www.getniceapps.com/launchey-2) - Lightweight menu bar app launcher. ![Dollar][mon]
 - [Overflow](https://stuntsoftware.com/overflow/) - The visual launcher for your Mac. ![Dollar][mon]
@@ -110,6 +111,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Quicksilver](https://qsapp.com/) - Application launcher and much more. ![Open Source][oss]
 - [Raycast](https://www.raycast.com/) - Raycast is a blazingly fast, totally extendable launcher. ![Open Source][oss] ![Star][fav]
 - [Ueli](https://ueli.app) - A keystroke launcher for Windows and macOS. ![Open Source][oss]
+- [Workspaces](https://www.apptorium.com/workspaces) - Project-Based Launcher for macOS. ![Dollar][mon]
 - [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers. ![Open Source][oss]
 
 ### Audio Players
@@ -441,6 +443,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Pensela](https://github.com/weiameili/Pensela) - The Swiss Army Knife of Screen Annotation Tools. ![Open Source][oss]
 - [Ruffle](https://ruffle.rs/) - A Flash Player emulator built with Rust. ![Open Source][oss]
 - [Storyboarder](https://wonderunit.com/storyboarder/) - The best way to visualize your story. ![Free][free]
+- [xScope](https://xscopeapp.com/) - Measure. Inspect. Test. ![Dollar][mon]
 
 ### Image Editors
 
@@ -571,6 +574,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Actual](https://actualbudget.com/) - Enjoy managing your finances. ![Dollar][mon]
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator. ![Open Source][oss]
 - [AirParrot](https://www.airsquirrels.com/airparrot/) - Streaming and Mirroring for macOS. ![Dollar][mon]
+- [Calcbot](https://tapbots.com/calcbot/mac/) - An Intelligent Calculator and Unit Converter. ![Dollar][mon]
 - [CodeCows](https://zeezide.de/en/products/codecows/) - Inject hundreds of ASCII Cows in any app. ![Free][free]
 - [Console](https://github.com/macmade/Console) - Replacement macOS console application. ![Open Source][oss]
 - [Contexts](https://contexts.co/) - Radically simpler & faster window switcher. ![Free][free]
@@ -579,7 +583,8 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Glance](https://github.com/samuelmeuli/glance) - All-in-one Quick Look plugin. ![Open Source][oss]
 - [Hackintool](https://github.com/headkaze/Hackintool) - The Swiss army knife of vanilla Hackintoshing. ![Open Source][oss]
 - [ha-menu](https://github.com/codechimp-org/ha-menu/) - Perform common Home Assistant functions. ![Open Source][oss]
-- [Hyperkey](https://hyperkey.app/) - The extra macOS modifier key. ![Dollar][mon]
+- [Hyperkey](https://hyperkey.app/) - The extra macOS modifier key. ![Free][free]
+- [iPulse](https://ipulseapp.com/) - Monitor numerous macOS statistics. ![Dollar][mon]
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Powerful utility for keyboard customization. ![Open Source][oss]
 - [Kinto](https://github.com/rbreaves/kinto) -  Linux & Windows keyboard layout for macOS users. ![Open Source][oss]
 - [LinearMouse](https://linearmouse.org/) - For macOS mouse users. ![Open Source][oss]
@@ -590,13 +595,14 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [NetNewsWire](https://ranchero.com/netnewswire/) - More news, less junk. Faster. ![Free][free]
 - [PiBakery](https://www.pibakery.org/) - The easiest way to setup a Raspberry Pi. ![Free][free]
 - [Reeder 5](https://reeder.app/) - The best news reader for macOS. ![Dollar][mon]
-- [SaneSideButtons](https://janhuelsmann.com/sanesidebuttons) - Tool that makes normal mouses with back/forward buttons usable on Mac OS ![Free][free]
-- [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![Open Source][oss]
-- [Touch Bar Simulator](https://sindresorhus.com/touch-bar-simulator/) - The macOS Touch Bar as a standalone app. ![Open Source][oss]
 - [ResXtreme](http://resxtreme.com/) - Provides access to all display modes. ![Dollar][mon]
 - [RightFont 5](https://rightfontapp.com/) - Professional font manager app for Mac. ![Dollar][mon]
+- [SaneSideButtons](https://janhuelsmann.com/sanesidebuttons) - Tool that makes normal mouses with back/forward buttons usable on Mac OS ![Free][free]
 - [Sugarmate](https://sugarmate.io/) - A new way to manage your diabetes. ![Free][free]
+- [SuperKey](https://superkey.app/) - Keyboard superpower on macOS. ![Dollar][mon]
 - [Swish](https://highlyopinionated.co/swish/) - The missing gesture layer for macOS. ![Dollar][mon]
+- [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![Open Source][oss]
+- [Touch Bar Simulator](https://sindresorhus.com/touch-bar-simulator/) - The macOS Touch Bar as a standalone app. ![Open Source][oss]
 - [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups. ![Free][free]
 - [Unite 4](https://www.bzgapps.com/unite512) - Turn any website into a deeply customizable app. ![Dollar][mon]
 - [Wintertime](https://github.com/actuallymentor/wintertime-mac-background-freezer) - Background App Freezer for macOS. ![Open Source][oss]
@@ -611,9 +617,10 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Fenix](https://fenixwebserver.com/) - Simple static desktop web server. ![Open Source][oss]
 - [Gophie](https://gophie.org/) - Cross-platform Gopher browser. ![Open Source][oss]
 - [iStumbler](https://istumbler.net/index.html) - Wireless Intelligence. ![Dollar][mon]
-- [Murus](http://www.murusfirewall.com/) - A GUI for the MacOS PF firewall. Free & ![Dollar][mon]
+- [Murus](http://www.murusfirewall.com/) - A GUI for the MacOS PF firewall. ![Free][free] & ![Dollar][mon]
 - [NetSpot](https://www.netspotapp.com/) - Wireless survey tool. ![Free][free]
 - [Network Radar](https://witt-software.com/networkradar/) - Scan and monitor your network. ![Dollar][mon]
+- [Rambox](https://rambox.app/) - Workspace simplifier. ![Dollar][mon]
 - [Shuttle](http://fitztrev.github.io/shuttle/) - A simple SSH shortcut menu for macOS. ![Open Source][oss]
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS. ![Open Source][oss]
 - [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html) - Automatically downloads websites from the Internet. ![Free][free]
@@ -655,6 +662,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Outline](https://www.getoutline.com/) - Your team’s knowledge base. ![Free][free] 
 - [QOwnNotes](https://www.qownnotes.org/) - Plain-text file markdown note taking with Nextcloud integration. ![Open Source][oss]
 - [Standard Notes](https://standardnotes.org/) - Free to use, cross-platform sync, and end-to-end privacy. ![Open Source][oss]
+- [Tot](https://tot.rocks/) -  Collect & edit text on macOS, iOS, and iPadOS. ![Dollar][mon]
 - [Trilium](https://github.com/zadam/trilium) - Build your personal knowledge base. ![Open Source][oss]
 - [Yojimbo](http://www.barebones.com/products/Yojimbo/) - Effortless, reliable information organizer for macOS. ![Dollar][mon]
 
@@ -734,8 +742,10 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [BBC Basic Editor](https://bbcmic.ro/) - BBC Micro Model B Basic Editor. ![Free][free] 
 - [Boop](https://apps.apple.com/us/app/boop/id1518425043) - A more powerful alternative to DevToys ![Free][free]
 - [Codespace](https://codespace.app/) - The code snippet manager you've been waiting for. ![Dollar][mon]
+- [Codye](https://darioroa.com/codye/) - Present code in more than 180 languages and 80 themes. ![Dollar][mon]
 - [DevMacToys](https://github.com/ObuchiYuki/DevToysMac) - DevToys For macOS. ![Open Source][oss]
 - [Defold](https://defold.com/) - The ultimate game engine for web and mobile. ![Open Source][oss]
+- [DetailsPro](https://detailspro.app/) - SwiftUI Designs Made Easy. ![Dollar][mon]
 - [ImHex](https://imhex.werwolv.net/) - Best Hex Editor ever. ![Open Source][oss]
 - [Inkdrop](https://inkdrop.app/) - Organizing your Markdown notes made simple. ![Dollar][mon]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Website link checker for MacOS. ![Free][free]
@@ -832,7 +842,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram desktop app. ![Open Source][oss]
 - [Tweetbot](https://tapbots.com/tweetbot/mac/) - Popular Twitter client. ![Dollar][mon]
 - [Tweeten](https://tweetenapp.com/) - Twitter client based on TweetDeck. ![Free][free]
-- [Twitterrific 5](https://twitterrific.com/mac) - Effortlessly read and compose tweets. ![Dollar][mon]
+- [Twitterrific](https://twitterrific.com/mac) - Effortlessly read and compose tweets. ![Dollar][mon]
 - [Whalebird](https://whalebird.org/en/desktop/contents) - A Mastodon and Pleroma client. ![Open Source][oss]
 - [Mastonaut](https://mastonaut.app/) - Simple, elegant, and native Mastodon client for Mac. ![Dollar][mon]
 
@@ -885,6 +895,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [BetterTouchTool](https://folivora.ai/) -  Customize input devices on your Mac. ![Dollar][mon]
 - [Burn](https://sourceforge.net/projects/burn-osx/) - Simple but advanced disc burning for macOS. ![Free][free]
 - [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks. ![Open Source][oss]
+- [Charmstone](https://charmstone.app/) - The quicker switcher launcher for macOS. ![Dollar][mon]
 - [CheetSheet](https://www.mediaatelier.com/CheatSheet/) - Know your shortcuts. ![Free][free]
 - [CoconutBattery 3](https://www.coconut-flavour.com/coconutbattery/) - The standard for battery reading since 2005. ![Dollar][mon]
 - [CommandQ](https://commandqapp.com/) - Never accidentally quit an app or window again. ![Dollar][mon]
@@ -892,7 +903,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Core Shell](https://coreshell.app/) - A terminal to make your SSH life easy. Free & ![Dollar][mon]
 - [CustomShortcuts](https://www.houdah.com/customShortcuts/) - Customize Mac Menu Keyboard Shortcuts. ![Free][free]
 - [Dat](https://datproject.org/) - Distributed data sharing tool. ![Open Source][oss]
-- [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS. Free & ![Dollar][mon]
+- [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS. ![Free][free] & ![Dollar][mon]
 - [Endurance](https://enduranceapp.com/) - Boots you Mac's battery. ![Dollar][mon]
 - [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. ![Open Source][oss]
 - [Flour](https://fluorapp.net/) - Change the keyboard's fn keys. ![Free][free]
@@ -910,9 +921,11 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Manila](https://github.com/neilsardesai/Manila) - A Finder extension for changing folder colors. ![Open Source][oss]
 - [MechVibes](https://mechvibes.com/) - Play mechanical keyboard sounds as you type. ![Open Source][oss]
 - [MKS](https://github.com/x0054/MKS) - Mechanical Keyboard Simulator. ![Open Source][oss]
+- [Multitouch](https://multitouch.app/) - Easily add gestures to macOS. ![Dollar][mon]
 - [Muzzle](https://muzzleapp.com/) - Disable notifications while screen sharing. ![Free][free]
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) -  All-in-One App/Settings menu bar app. ![Open Source][oss]
 - [OpeninTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Open the current directory in Terminal. ![Open Source][oss]
+- [Pastebox](https://tapbots.com/pastebot/) - Command Copy & Paste. ![Dollar][mon]
 - [Pock](http://pock.pigigaldi.com/) - Display macOS Dock in Touch Bar. ![Open Source][oss]
 - [PrefsEditor](https://apps.tempel.org/PrefsEditor/) - A GUI for the 'defaults' command. ![Free][free]
 - [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac. ![Free][free]
@@ -932,7 +945,8 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 
 ### Task Management
 
-- [AnyDo](https://www.any.do/) - Your busy life deserves this. Free & ![Dollar][mon]
+- [AnyDo](https://www.any.do/) - Your busy life deserves this. ![Free][free] & ![Dollar][mon]
+- [Bike](https://www.hogbaysoftware.com/bike/) - Bike is a fast and fluid outliner for macOS. ![Dollar][mon]
 - [Fokus](http://www.fohkuhs.com) - A Beautiful Focus Timer. ![Free][free]
 - [JustFocus](http://climstudio.com/justfocus/) - Focus on What's Important. ![Free][free]
 - [Kanbanier](http://www.kanbanier.com/en/) - Kanban Boards for macOS. ![Free][free]
@@ -1015,11 +1029,12 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Amethyst](http://ianyh.com/amethyst/) - A tiling window manager for macOS. ![Open Source][oss]
 - [BetterSnapTool](https://folivora.ai/bettersnaptool/) - Sasily manage your window positions. ![Dollar][mon]
 - [emmetapp](https://emmetapp.com/) - The window manager you dream about. ![Dollar][mon]
-- [Grid](https://macgrid.app/) - The fast, easy way to organize windows on your Mac. ![Dollar][mon]
+- [Grid](https://macgrid.app/) - The fast, easy way to organize windows on macOS. ![Dollar][mon]
 - [Hookshot](https://hookshot.app/) - Quicker window snapping on macOS. ![Dollar][mon]
 - [LayAuto 3](https://layautoapp.com/) - Your next favorite window manager. ![Dollar][mon]
 - [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS. ![Dollar][mon]
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows. ![Dollar][mon]
+- [Mosaic](https://mosaic.rcopstein.com/) - 
 - [Penc](https://deniz.co/penc/) - Trackpad-oriented window manager for macOS. ![Open Source][oss]
 - [Phoenix](https://github.com/kasper/phoenix/) - A lightweight window and app manager scriptable with JavaScript. ![Open Source][oss]
 - [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS. ![Open Source][oss] ![Star][fav]
@@ -1029,6 +1044,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Swish](https://highlyopinionated.co/swish/) - The missing gesture layer for macOS. ![Dollar][mon]
 - [Tiles](https://www.sempliva.com/tiles/) - The window manager for macOS. ![Open Source][oss]
 - [windOCD](https://windocd.myownapp.com/) - Align, arrange, and restore App Windows easily & automated. ![Dollar][mon]
+- [Wins](https://wins.cool/) - Bring System-level Arrange Window features to macOS. ![Dollar][mon]
 
 ### Writing
 
