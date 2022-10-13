@@ -300,9 +300,10 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 ### Design
 
 - [Figma](https://figma.com) — Create, test, and ship better designs from start to finish. ![Free][free]
-- [Framer](https://www.framer.com/) - App prototyping tool. ![Dollar][mon] &  ![Free][free]
+- [Framer](https://www.framer.com/) - App prototyping tool. ![Dollar][mon] & s![Free][free]
 - [Mockplus](https://www.mockplus.com/download/mockplus-classic) - Prototype faster. smarter. easier. ![Free][free]
 - [Origami Studio](https://origami.design/) - Explore, iterate, and test your ideas. ![Free][free]
+- [Penpot](https://penpot.app/) - Open Source design and prototyping platform. ![Open Source][oss]
 - [Sketch](https://www.sketchapp.com/) - Professional digital design for Mac. ![Dollar][mon]
 - [Zeplin](https://zeplin.io/) - Build pixel perfect apps in peace. ![Free][free]
 
