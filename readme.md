@@ -516,7 +516,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [PanWriter](https://panwriter.com/) - Markdown editor with pandoc integration. ![Open Source][oss]
 - [Pine](https://lukakerr.github.io/Pine/) - Native markdown editor for macOS. ![Open Source][oss]
 - [Texts](http://www.texts.io/) - Separate Content from Formatting. Store in Markdown. ![Free][free]
-- [Typora](https://www.typora.io/) - Live markdown reader and a writer. ![Free][free]
+- [Typora](https://www.typora.io/) - Live markdown reader and a writer. ![Dollar][mon]
 - [vnote](https://github.com/tamlok/vnote) - A Vim-inspired Markdown note-taking application. ![Open Source][oss]
 
 ### Menubar Applications
@@ -595,6 +595,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Middle](https://middleclick.app/) - Add middle click to your Mac. ![Dollar][mon]
 - [NetNewsWire](https://ranchero.com/netnewswire/) - More news, less junk. Faster. ![Free][free]
 - [PiBakery](https://www.pibakery.org/) - The easiest way to setup a Raspberry Pi. ![Free][free]
+- [QLMarkdown](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. ![Open Source][oss]
 - [Reeder 5](https://reeder.app/) - The best news reader for macOS. ![Dollar][mon]
 - [ResXtreme](http://resxtreme.com/) - Provides access to all display modes. ![Dollar][mon]
 - [RightFont 5](https://rightfontapp.com/) - Professional font manager app for Mac. ![Dollar][mon]
@@ -602,6 +603,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Sugarmate](https://sugarmate.io/) - A new way to manage your diabetes. ![Free][free]
 - [SuperKey](https://superkey.app/) - Keyboard superpower on macOS. ![Dollar][mon]
 - [Swish](https://highlyopinionated.co/swish/) - The missing gesture layer for macOS. ![Dollar][mon]
+- [Syntax Highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. ![Open Source][oss]
 - [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing. macOS version. ![Open Source][oss]
 - [Touch Bar Simulator](https://sindresorhus.com/touch-bar-simulator/) - The macOS Touch Bar as a standalone app. ![Open Source][oss]
 - [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups. ![Free][free]
