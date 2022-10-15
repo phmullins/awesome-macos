@@ -437,6 +437,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [CleanShot](https://cleanshot.com/) - Capture your Mac’s screen like a pro. ![Dollar][mon]
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional Editing, Color, Effects and Audio Post! ![Dollar][mon]
 - [Gifox](https://gifox.io/) - Delightful GIF Recording and Sharing App. ![Free][free]
+- [Hologram](https://gethologram.com/) - The Best Wallpaper App for macOS. ![Dollar][mon]
 - [Icon Jar](https://geticonjar.com) - Store all your icons in one place. ![Dollar][mon]
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. ![Open Source][oss]
 - [Image2icon](http://www.img2icnsapp.com/) - Create and personalize icons from your pictures. ![Free][free]
