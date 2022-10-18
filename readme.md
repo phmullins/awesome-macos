@@ -1050,6 +1050,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Tiles](https://www.sempliva.com/tiles/) - The window manager for macOS. ![Open Source][oss]
 - [windOCD](https://windocd.myownapp.com/) - Align, arrange, and restore App Windows easily & automated. ![Dollar][mon]
 - [Wins](https://wins.cool/) - Bring System-level Arrange Window features to macOS. ![Dollar][mon]
+- [yabai](https://github.com/koekeishiya/yabai) - yabai is a window management utility plugging macOS window manager. ![Open Source][free]
 
 ### Writing
 
