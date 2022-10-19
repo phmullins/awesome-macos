@@ -1013,6 +1013,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Brave](https://brave.com/) - On a mission to fix the web. ![Free][free]
 - [Browserosaurus](https://browserosaurus.com/) - The browser prompter for macOS. ![Free][free]
 - [Cliqz](https://cliqz.com/en/) - The no-compromise browser. ![Free][free]
+- [DuckDuckGo](https://duckduckgo.com/mac) - Tired of being tracked online? We can help. ![Free][free]
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Mozilla Firefox. ![Open Source][oss] ![Star][fav]
 - [Firefox Beta](https://download.mozilla.org/?product=firefox-beta-latest-ssl&os=osx&lang=en-US) Mozilla Firefox (Beta) ![Open Source][oss]
 - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/channel/desktop/#developer) - Firefox release channel for experimental (beta) builds. ![Open Source][oss]
