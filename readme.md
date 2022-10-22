@@ -515,6 +515,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Marked 2](https://marked2app.com/) - Previewer for Markdown files. ![Dollar][mon]
 - [Mark Text](https://marktext.app/) - Simple and Elegant cross platform Markdown Editor.
 - [MWeb](http://www.mweb.im/) - Pro Markdown writing and note taking editor. ![Dollar][mon]
+- [Notary](https://getnotary.app/) - Fast, desktop-first & Vim-friendly markdown editor. ![Open Source][oss]
 - [PanWriter](https://panwriter.com/) - Markdown editor with pandoc integration. ![Open Source][oss]
 - [Pine](https://lukakerr.github.io/Pine/) - Native markdown editor for macOS. ![Open Source][oss]
 - [Texts](http://www.texts.io/) - Separate Content from Formatting. Store in Markdown. ![Free][free]
