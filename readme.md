@@ -364,7 +364,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 ### File Synchronization
 
 - [Box](https://www.box.com/personal) - Online synchronization tool for box.net. ![Dollar][mon]
-- [Dropbox](https://www.dropbox.com/) - Cloud backup and synchronization tool. ![Dollar][mon]
+- [Dropbox](https://www.dropbox.com/) - Cloud backup and synchronization tool. ![Free][free] & ![Dollar][mon]
 - [Google Drive](https://tools.google.com/dlpage/drive/index.html?pli=1) - File backup and sharing tool. ![Dollar][mon]
 - [oDrive](https://www.odrive.com/) - Make Cloud Storage the way it should be. ![Free][free]
 - [OneDrive](https://onedrive.live.com) - Access your Microsoft OneDrive. ![Dollar][mon]
