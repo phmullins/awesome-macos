@@ -825,6 +825,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Do Not Disturb](https://objective-see.com/products/dnd.html) - Detects and alerts you of physical access. ![Free][free]
 - [Geph](https://geph.io/en/) - Blast through censorship! ![Free][free]
 - [Knock Knock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac. ![Free][free]
+- [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Makes the invisible visible! ![Dollar][mon]
 - [LuLu](https://objective-see.com/products/lulu.html) - Open-source macOS firewall. ![Free][free]
 - [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) - Know when someone spies on you! ![Dollar][mon]
 - [Murus](https://murusfirewall.com/murus/) - macOS Firewall Unchained. ![Dollar][mon]
