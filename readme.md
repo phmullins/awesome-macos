@@ -253,6 +253,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 
 ### Compression
 
+- [BetterZip 5](https://macitbetter.com/) - the next generation of archiving. ![Dollar][mon]
 - [Keka](https://www.keka.io/en/) - MacOS file archiver. Store more, share with privacy. ![Open Source][oss]
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for MacOS' default compression app. ![Star][fav]
 - [p7zip](http://p7zip.sourceforge.net/) - Open Source port of 7-Zip for POSIX systems. ![Open Source][oss]
