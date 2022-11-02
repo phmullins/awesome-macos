@@ -1022,6 +1022,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/channel/desktop/#developer) - Firefox release channel for experimental (beta) builds. ![Open Source][oss]
 - [Ghost Browser](https://ghostbrowser.com/) - The Productivity Browser for Tech Pros. ![Free][free]
 - [Google Chrome](https://encrypted.google.com/chrome) - Google Chrome is a freeware web browser developed by Google. ![Free][free]
+- [Kristall](https://kristall.random-projects.net/) - Small-Internet Browser. ![Open Source][oss]
 - [LibreWolf](https://librewolf-community.gitlab.io/) - A fork of Firefox, focused on privacy, security and freedom. ![Open Source][oss]
 - [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/) - Chromium-based version of Microsoft Edge (Beta). ![Free][free]
 - [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser. ![Free][free]
