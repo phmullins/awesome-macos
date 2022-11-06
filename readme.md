@@ -986,6 +986,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 
 ### Text Editors
 
+- [Acreom](https://acreom.com/) - Capture notes, break down issues, track progress, create a knowledge-base. ![Free][free] & ![Dollar][mon]
 - [BBEdit](https://www.barebones.com/products/bbedit/) - It dosen't suck. ![Dollar][mon] ![Star][fav]
 - [CotEditor](https://coteditor.com/) - The plain-text editor for macOS. ![Open Source][oss]
 - [Drafts](https://getdrafts.com/) - Where Text Starts. ![Dollar][mon]
