@@ -547,6 +547,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Menuwhere](https://manytricks.com/menuwhere/) - The menu, anywhere. ![Dollar][mon]
 - [Meteorologist](https://sourceforge.net/projects/heat-meteo/) -  Free weather program for macOS. ![Open Source][oss]
 - [Notch Pro](https://imadethis.app/notch-pro) - It draws a notch over your menubar. ![Open Source][oss]
+- [OneSwitch](https://fireball.studio/oneswitch) - All your powerful switches in one place. ![Dollar][mon]
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - All-in-One menu bar app, hide notch, dark mode, AirPods, Shortcuts. ![Free][free]
 - [Presentify](https://presentify.compzets.com/) - Annotate literally anything on screen. ![Dollar][mon]
 - [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift. ![Open Source][oss]
