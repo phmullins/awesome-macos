@@ -553,6 +553,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift. ![Open Source][oss]
 - [Spaceman](https://github.com/Jaysce/Spaceman) - View Spaces and Virtual Desktops in the menu bar. ![Open Source][oss]
 - [Stats](https://github.com/exelban/stats) - Simple macOS system monitor in your menu bar. ![Open Source][oss]
+- [SwitchHosts](https://swh.app/) - Hosts management & switching. ![Open Source][oss]
 - [TopNotch](https://topnotch.app/) - Makes the notch disappear like a 🥷. ![Free][free]
 - [Tyke](https://tyke.app/) - A little bit of scratch paper. ![Free][free]
 - [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac. ![Free][free]
