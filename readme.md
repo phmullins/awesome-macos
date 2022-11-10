@@ -1,4 +1,4 @@
-### Awesome MacOS Software v2.0.0 ([W.O.P.R](https://youtu.be/iRsycWRQrc8))
+### Awesome MacOS Software v2.0.2 ([Marvin](https://en.wikipedia.org/wiki/Marvin_the_Paranoid_Android))
 
 <img width="100" height="100" alt="icon_macos_02" src="assets/icon_macos_02.png">
 
