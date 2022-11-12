@@ -618,6 +618,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Unison](https://download.panic.com/unison/Unison%202.2.zip) - Excellent MacOS app for accessing Usenet Newsgroups. ![Free][free]
 - [Unite 4](https://www.bzgapps.com/unite512) - Turn any website into a deeply customizable app. ![Dollar][mon]
 - [Wintertime](https://github.com/actuallymentor/wintertime-mac-background-freezer) - Background App Freezer for macOS. ![Open Source][oss]
+- [Yarr](https://github.com/nkanaev/yarr) - Yet another RSS reader. ![Open Source][oss]
 
 ### Networking Applications
 
