@@ -1036,6 +1036,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [LibreWolf](https://librewolf-community.gitlab.io/) - A fork of Firefox, focused on privacy, security and freedom. ![Open Source][oss]
 - [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/) - Chromium-based version of Microsoft Edge (Beta). ![Free][free]
 - [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser. ![Free][free]
+- [Pulse](https://pulsebrowser.app/) - An experimental Firefox fork that enhances focus. ![Open Source][oss]
 - [Safari Technology Preview](https://developer.apple.com/safari/) - The newest browser tech from Apple. ![Free][free]
 - [Sidekick](https://www.meetsidekick.com/) - The fastest browser for work ever made. ![Free][free]
 - [Sizzy](https://sizzy.co/) - The browser for developers. ![Free][free]
