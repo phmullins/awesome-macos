@@ -128,6 +128,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Idagio](https://about.idagio.com) - Streaming, reinvented for classical music. ![Free][free]
 - [Milkytracker](https://milkytracker.org/) - multi-platform music application for creating .MOD and .XM module files. ![Open Source][oss]
 - [Mous](https://github.com/bsdelf/mous) - Powerful audio player & converter for FreeBSD/Linux/macOS. ![Open Source][oss]
+- [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player. ![Open Source][oss]
 - [Nulloy](https://nulloy.com/) - OSS Audiophile audio player. ![Open Source][oss]
 - [Phonix](https://phonix.nl.eu.org/) - Free music player for macOS. ![Open Source][oss]
 - [SIDPLAY](http://www.sidmusic.org/sidplay/mac/) - A Commodore 64 music player. ![Open Source][oss]
