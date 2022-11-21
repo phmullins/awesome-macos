@@ -541,6 +541,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Dropzone](https://aptonic.com/) - 
 - [Forehead](https://goodsnooze.gumroad.com/l/nASbe) - Hide the notch and round the corners. Free &  ![Dollar][mon]
 - [FuzzyClock](https://github.com/m-schmidt/FuzzyClock) - Displays the time in your menubar. ![Open Source][oss]
+- [gSwitch](https://codyschrank.github.io/gSwitch/) - Control the GPU on dual-gpu MacBooks. ![Open Source][oss]
 - [Hidden](https://github.com/dwarvesf/hidden) - Lets you hide menu bar items. ![Open Source][oss] - Editor's Choice.
 - [HotSwitch](https://oniatsu.github.io/HotSwitch/) - Fastest window switcher app. ![Open Source][oss]
 - [HyperSwitch](https://bahoom.com/hyperswitch/) - Keyboard window switcher for macOS. ![Dollar][mon]
