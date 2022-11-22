@@ -237,6 +237,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Color Picker Plus](https://github.com/viktorstrate/color-picker-plus) - An Improved Color Picker for macOS. ![Open Source][oss]
 - [ColorSlurp](http://colorslurp.com/) - The best Mac color picker in the universe! ![Dollar][mon]
 - [ColorSnapper 2](https://colorsnapper.com/) - Organize, adjust & export colors with style. ![Dollar][mon]
+- [Color-Studio](https://github.com/bernaferrari/color-studio) - Build coherent themes. ![Open Source][oss]
 - [ColorWell](https://colorwell.sweetpproductions.com/) - macOS Color Theme generator. ![Dollar][mon]
 - [Pastel](https://apps.apple.com/us/app/id413897608) - Beautiful color palettes. ![Dollar][mon]
 - [Pika](https://superhighfives.com/pika) - An open-source colour picker app for macOS. ![Open Source][oss]
