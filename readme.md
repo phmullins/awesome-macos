@@ -288,6 +288,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Open Source SQL Editor and Database Manager. ![Free][free]
 - [DBeaver](http://dbeaver.jkiss.org/) - Free Universal SQL Client. ![Open Source][oss]
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite Database Browser. ![Open Source][oss] ![Star][fav]
+- [Franz](https://franz.defn.io/) - A macOS Client for Apache Kafka. ![Free][free]
 - [Medis](https://github.com/luin/medis) - Modern GUI for Redis. ![Open Source][oss]
 - [Medis 2](https://getmedis.com/) - Modern GUI for Redis. ![Dollar][mon]
 - [ModernCSV](https://www.moderncsv.com/) - The Ultimate CSV Editor/Viewer for Windows, Mac, and Linux.
