@@ -1099,6 +1099,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 
 - [HandBrake](https://handbrake.fr/) - The open source video transcoder. ![Open Source][oss]
 - [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS. ![Open Source][oss] ![Star][fav]
+- [FreeTube](https://freetubeapp.io/) - The Private YouTube Client. ![Free][free]
 - [MakeMKV](https://www.makemkv.com/) - Rip DVD and Blu-ray discs. ![Dollar][mon]
 - [MPlayer](https://mplayerhq.hu) - A cross-platform movie player. ![Free][free]
 - [mpv](https://mpv.io/) - A free, open source, and cross-platform media player. ![Open Source][oss]
