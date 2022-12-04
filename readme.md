@@ -161,6 +161,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player. ![Open Source][oss]
 - [Mutify](https://mutify.app/) - Quickly mute your microphone. ![Dollar][mon]
 - [ocenaudio](https://www.ocenaudio.com/en) - Easy, fast and powerful audio editor. ![Free][free]
+- [PaulXStretch](https://sonosaurus.com/paulxstretch/) - Extreme Time-Stretching. ![Free][free] ![Open Source][oss]
 - [Piezo](https://rogueamoeba.com/piezo/) - Charmingly simple audio recording. ![Dollar][mon]
 - [Roon](https://roonlabs.com/) - The Ultimate Music Player for Music Fanatics. ![Dollar][mon]
 - [Samplr for Touchbar](http://samplr.net/touchbar/) - Demo of Samplr for the MacBook Touch Bar. ![Free][free]
