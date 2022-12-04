@@ -169,6 +169,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Sound Source](https://rogueamoeba.com/soundsource/) - Superior Sound Control. ![Dollar][mon] ![Star][fav]
 - [Tickeys](https://github.com/yingDev/Tickeys) - Audio feedback while typing. ![Open Source][oss]
 - [TunesArt](https://www.jibapps.com/apps/tunesart/) - Display a gorgeous album cover on your desktop. ![Dollar][mon]
+- [VCV Rack](https://vcvrack.com/) - Virtual Eruorack. ![Free][free]
 - [X Lossless Decoder](http://tmkk.undo.jp/xld/index_e.html) - Decode/Convert to and from dozens of audio file types. ![Free][free]
 
 ### Backups
