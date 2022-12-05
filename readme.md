@@ -48,6 +48,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Menubar Applications](#menubar-applications)
 - [Messenger Applications](#messenger-applications)
 - [Miscellaneous](#miscellaneous)
+- [Music Production](#music-production)
 - [Networking Applications](#networking-applications)
 - [Notes](#notes)
 - [Office Suites](#office-suites)
@@ -126,7 +127,6 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS. ![Free][free]
 - [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files. ![Dollar][mon]
 - [Idagio](https://about.idagio.com) - Streaming, reinvented for classical music. ![Free][free]
-- [Milkytracker](https://milkytracker.org/) - multi-platform music application for creating .MOD and .XM module files. ![Open Source][oss]
 - [Mous](https://github.com/bsdelf/mous) - Powerful audio player & converter for FreeBSD/Linux/macOS. ![Open Source][oss]
 - [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player. ![Open Source][oss]
 - [Nulloy](https://nulloy.com/) - OSS Audiophile audio player. ![Open Source][oss]
@@ -148,12 +148,9 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Balance Lock](https://www.tunabellysoftware.com/balance_lock/) - Prevents audio balance from drifting left or right. ![Free][free]
 - [BlackHole](https://existential.audio/blackhole/) - Route Audio Between Apps. ![Open Source][oss]
 - [Boom3D](https://www.globaldelight.com/boom/) - Volume Booster & Equalizer. ![Dollar][mon]
-- [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin. ![Open Source][oss]
 - [eqMac2](https://github.com/nodeful/eqMac2) - System-Wide Equalizer for the Mac. ![Open Source][oss]
 - [Falcon](https://flacon.github.io/) - An open source audio file encoder. ![Open Source][oss]
 - [Farrago](https://rogueamoeba.com/farrago/) - Robust, rapid-fire soundboards. ![Dollar][mon]
-- [Fission](https://rogueamoeba.com/fission/) - Fast & lossless audio editing. ![Dollar][mon]
-- [Hydrogen](http://hydrogen-music.org/) - Advanced drum machine. ![Free][free]
 - [Kid3](https://kid3.kde.org/) - Audio Tagger. ![Open Source][oss]
 - [Krisp](https://krisp.ai/) - Sound Clear in Online Meetings. ![Dollar][mon]
 - [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac. ![Dollar][mon]
@@ -161,7 +158,6 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player. ![Open Source][oss]
 - [Mutify](https://mutify.app/) - Quickly mute your microphone. ![Dollar][mon]
 - [ocenaudio](https://www.ocenaudio.com/en) - Easy, fast and powerful audio editor. ![Free][free]
-- [PaulXStretch](https://sonosaurus.com/paulxstretch/) - Extreme Time-Stretching. ![Free][free] ![Open Source][oss]
 - [Piezo](https://rogueamoeba.com/piezo/) - Charmingly simple audio recording. ![Dollar][mon]
 - [Roon](https://roonlabs.com/) - The Ultimate Music Player for Music Fanatics. ![Dollar][mon]
 - [Samplr for Touchbar](http://samplr.net/touchbar/) - Demo of Samplr for the MacBook Touch Bar. ![Free][free]
@@ -170,7 +166,6 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Sound Source](https://rogueamoeba.com/soundsource/) - Superior Sound Control. ![Dollar][mon] ![Star][fav]
 - [Tickeys](https://github.com/yingDev/Tickeys) - Audio feedback while typing. ![Open Source][oss]
 - [TunesArt](https://www.jibapps.com/apps/tunesart/) - Display a gorgeous album cover on your desktop. ![Dollar][mon]
-- [VCV Rack](https://vcvrack.com/) - Virtual Eruorack. ![Free][free]
 - [X Lossless Decoder](http://tmkk.undo.jp/xld/index_e.html) - Decode/Convert to and from dozens of audio file types. ![Free][free]
 
 ### Backups
@@ -629,6 +624,15 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Unite 4](https://www.bzgapps.com/unite512) - Turn any website into a deeply customizable app. ![Dollar][mon]
 - [Wintertime](https://github.com/actuallymentor/wintertime-mac-background-freezer) - Background App Freezer for macOS. ![Open Source][oss]
 - [Yarr](https://github.com/nkanaev/yarr) - Yet another RSS reader. ![Open Source][oss]
+
+### Music Production
+
+- [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin. ![Open Source][oss]
+- [Fission](https://rogueamoeba.com/fission/) - Fast & lossless audio editing. ![Dollar][mon]
+- [Hydrogen](http://hydrogen-music.org/) - Advanced drum machine. ![Free][free]
+- [Milkytracker](https://milkytracker.org/) - multi-platform music application for creating .MOD and .XM module files. ![Open Source][oss]
+- [PaulXStretch](https://sonosaurus.com/paulxstretch/) - Extreme Time-Stretching. ![Free][free] ![Open Source][oss]
+- [VCV Rack](https://vcvrack.com/) - Virtual Eruorack. ![Free][free]
 
 ### Networking Applications
 
