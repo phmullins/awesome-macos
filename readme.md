@@ -627,11 +627,16 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 
 ### Music Production
 
+- [Ableton Live](https://www.ableton.com/) - Digital Audio Workstation. ![Free][free] ![Dollar][mon]
+- [Apple Logic Pro X](https://www.apple.com/logic-pro/) -  Complete professional recording studio on the Mac. ![Dollar][mon]
+- [Cubase](https://new.steinberg.net/cubase/) - Create. Produce. Mix. Repeat. ![Dollar][mon]
 - [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin. ![Open Source][oss]
+- [FL Studio](https://www.image-line.com/flstudio/) - Digital Audio Workstation. ![Dollar][mon]
 - [Fission](https://rogueamoeba.com/fission/) - Fast & lossless audio editing. ![Dollar][mon]
 - [Hydrogen](http://hydrogen-music.org/) - Advanced drum machine. ![Free][free]
 - [Milkytracker](https://milkytracker.org/) - multi-platform music application for creating .MOD and .XM module files. ![Open Source][oss]
 - [PaulXStretch](https://sonosaurus.com/paulxstretch/) - Extreme Time-Stretching. ![Free][free] ![Open Source][oss]
+- [Reason](https://www.reasonstudios.com/en/reason) - Rack-based Digital Audio Workstation. ![Dollar][mon]
 - [VCV Rack](https://vcvrack.com/) - Virtual Eruorack. ![Free][free]
 
 ### Networking Applications
