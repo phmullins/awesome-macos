@@ -589,6 +589,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Actual](https://actualbudget.com/) - Enjoy managing your finances. ![Dollar][mon]
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator. ![Open Source][oss]
 - [AirParrot](https://www.airsquirrels.com/airparrot/) - Streaming and Mirroring for macOS. ![Dollar][mon]
+- [BerryCast](https://www.berrycast.com/) - A screen recording app. ![Dollar][mon]
 - [Calcbot](https://tapbots.com/calcbot/mac/) - An Intelligent Calculator and Unit Converter. ![Dollar][mon]
 - [CodeCows](https://zeezide.de/en/products/codecows/) - Inject hundreds of ASCII Cows in any app. ![Free][free]
 - [Console](https://github.com/macmade/Console) - Replacement macOS console application. ![Open Source][oss]
