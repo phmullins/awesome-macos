@@ -967,6 +967,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac. ![Free][free]
 - [Service Station](https://servicestation.menu/) - Customize your Right-Click Menu. ![Free][free] ![Star][fav]
 - [Shottr](https://shottr.cc/) - Screenshot tool for those who care about pixels. ![Free][free]
+- [Sidebar](https://sidebarapp.net/) - The modern Dock replacement for your Mac. ![Dollar][mon]
 - [skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. ![Open Source][oss]
 - [Sloth](https://sveinbjorn.org/sloth) - Shows all open files and sockets in use. ![Open Source][oss]
 - [Spaceman](https://github.com/Jaysce/Spaceman) - View Spaces & Virtual Desktops in the menu bar. ![Open Source][oss]
