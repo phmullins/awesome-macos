@@ -1119,6 +1119,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [MPlayer](https://mplayerhq.hu) - A cross-platform movie player. ![Free][free]
 - [mpv](https://mpv.io/) - A free, open source, and cross-platform media player. ![Open Source][oss]
 - [Natron](https://natrongithub.github.io/) - Open Source Compositing Software for VFX and Motion Graphics. ![Open Source][oss]
+- [No More Black Bars](https://arthursmithdev.gumroad.com/l/NoMoreBlackBars) - Safari extension that provides a true fullscreen experience by removing black bars from videos. ![Free][free]
 - [Yoda](http://whoisandy.github.io/yoda/) - Browse and download YouTube videos. ![Open Source][oss]
 
 ### Virtualization
