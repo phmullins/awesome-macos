@@ -596,7 +596,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Calcbot](https://tapbots.com/calcbot/mac/) - An Intelligent Calculator and Unit Converter. ![Dollar][mon]
 - [CodeCows](https://zeezide.de/en/products/codecows/) - Inject hundreds of ASCII Cows in any app. ![Free][free]
 - [Console](https://github.com/macmade/Console) - Replacement macOS console application. ![Open Source][oss]
-- [Contexts](https://contexts.co/) - Radically simpler & faster window switcher. ![Free][free]
+- [Contexts](https://contexts.co/) - Radically simpler & faster window switcher. ![Dollar][mon]
 - [EasyEDA](https://easyeda.com/) - An Easier and Powerful Online PCB Design Tool. ![Dollar][mon]
 - [FS-UAE](https://fs-uae.net/) - Amiga Emulator. ![Open Source][oss]
 - [Glance](https://github.com/samuelmeuli/glance) - All-in-one Quick Look plugin. ![Open Source][oss]
