@@ -1019,7 +1019,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 ### Text Editors
 
 - [Acreom](https://acreom.com/) - Capture notes, break down issues, track progress, create a knowledge-base. ![Free][free] & ![Dollar][mon]
-- [BBEdit](https://www.barebones.com/products/bbedit/) - It dosen't suck. ![Dollar][mon] ![Star][fav]
+- [BBEdit](https://www.barebones.com/products/bbedit/) - It doesn't suck. ![Dollar][mon] ![Star][fav]
 - [CotEditor](https://coteditor.com/) - The plain-text editor for macOS. ![Open Source][oss]
 - [Drafts](https://getdrafts.com/) - Where Text Starts. ![Dollar][mon]
 - [Lapsce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust. 🦀 ![Open Source][oss]
