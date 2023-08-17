@@ -758,6 +758,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Time Sink](https://manytricks.com/timesink/) - Track how you're spend your time. ![Dollar][mon]
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) - World's neatest Pomodoro timer for macOS menu bar. 🍅 ![Open Source][oss]
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. 🐳 ![Open Source][oss]
+- [HelperX](https://github.com/HelperXApp/HelperX) - All-in-one Utility and Productivity Software for macOS. ![Free][free] and ![Dollar][mon]
 
 ### Programming Languages
 
