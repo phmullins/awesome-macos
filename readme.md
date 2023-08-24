@@ -660,6 +660,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Shuttle](http://fitztrev.github.io/shuttle/) - A simple SSH shortcut menu for macOS. ![Open Source][oss]
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy app for macOS. ![Open Source][oss]
 - [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html) - Automatically downloads websites from the Internet. ![Free][free]
+- [Sniffnet](https://sniffnet.net) - Application to comfortably monitor your Internet traffic ![Open Source][oss]
 - [SSH Copy](https://codinn.com/products/ssh-copy/) - Manage remote files with ease. ![Dollar][mon]
 - [SSH Tunnel Manager](https://www.tynsoe.org/v2/stm/) - Manage your SSH tunnels. ![Free][free]
 - [Surge](http://nssurge.com/) - Advanced Web Debugging Proxy for macOS & iOS. ![Dollar][mon]
