@@ -698,6 +698,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [MdSilo](https://mdsilo.com/) - Lightweight knowledge silo and networked-writing tool. ![Free][free]
 - [NimbusNote](https://nimbusweb.me/note.php) - One place to manage all your information. ![Free][free]
 - [Notion](https://www.notion.so) - Write, plan, collaborate, and get organized. ![Open Source][oss]
+- [Obsidian](https://obsidian.md/) - Note-taking & Knowledge Management with Markdown. ![Free][free]
 - [OneNote](http://www.onenote.com/) - Note manager from Microsoft. ![Free][free] & ![Dollar][mon]
 - [Outline](https://www.getoutline.com/) - Your team’s knowledge base. ![Free][free] 
 - [QOwnNotes](https://www.qownnotes.org/) - Plain-text file markdown note taking with Nextcloud integration. ![Open Source][oss]
