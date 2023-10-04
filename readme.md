@@ -183,6 +183,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 
 - [BlueHarvest](https://zeroonetwenty.com/blueharvest/) - Keep your disks clean of macOS metadata. ![Dollar][mon]
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) - A macOS system analyser and cleaner. ![Free][free]
+- [CleanMyMac X](https://macpaw.com/cleanmymac) - Your Mac. As good as new. ![Dollar][mon] ![Star][fav]
 - [Daisy Disk](https://daisydiskapp.com/) - What’s taking up your disk space? ![Dollar][mon] ![Star][fav]
 - [Disk Doctor](https://fiplab.com/apps/disk-doctor-for-mac) - Removes tons of unneeded files. ![Dollar][mon]
 - [Duplicate Detective](https://fiplab.com/apps/duplicate-detective-for-mac) - Remove duplicate files from your Mac. ![Dollar][mon]
