@@ -510,6 +510,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 
 **Machine Learning, Artifical Intelligence, Neural Networks, etc.**
 
+- [MacGPT](https://www.macgpt.com/) - ChatGPT on your mac and menubar. ![Free][free] ![Dollar][mon]
 - [Netron](https://netron.app/) - Visualizer for neural network, deep learning, and machine learning models. ![Open Source][oss]
 
 ### Markdown Editors
