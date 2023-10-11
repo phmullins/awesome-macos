@@ -217,6 +217,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Brackets](http://brackets.io/) - Open source text editor that understands web design. ![Open Source][oss]
 - [CLion](https://www.jetbrains.com/clion/) - A cross-platform IDE for C and C++. ![Dollar][mon]
 - [Coda](https://www.panic.com/coda/) - One-window Web development suite. ![Dollar][mon]
+- [CodeEdit](https://www.codeedit.app/) - A lightweight, natively built editor. Open source. Free forever. ![Open Source][oss] ![Free][free]
 - [CodeRunner 2](https://coderunnerapp.com/) - Easy-to-use programming editor for your Mac. ![Dollar][mon]
 - [Espresso](https://espressoapp.com/) - Powerful HTML, XML, CSS, and JavaScript development tool. ![Dollar][mon]
 - [IntelliJ](https://www.jetbrains.com/idea/) - Capable and Intelligent IDE. ![Dollar][mon]
