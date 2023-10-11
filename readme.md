@@ -718,7 +718,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 
 ### Package Management
 
-- [Cakebrew](https://www.cakebrew.com/) - The Mac App for Homebrew. ![Open Source][oss]
+- [Cork](https://www.corkmac.app/) - The ultimate Homebrew companion. ![Open Source][oss] & ![Dollar][mon]
 - [Fink](http://www.finkproject.org/) - Debian package management for macOS. ![Open Source][oss]
 - [Homebrew](http://brew.sh/) - The missing package manager for macOS. ![Open Source][oss] ![Star][fav]
 - [MacPorts](https://www.macports.org/) - A package management system for macOS. ![Open Source][oss]
