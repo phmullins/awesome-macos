@@ -761,6 +761,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Clockify](https://clockify.me/mac-time-tracking) - Free Mac time tracker. ![Free][free]
 - [Focus](https://heyfocus.com/) - Website blocker for macOS. ![Dollar][mon]
 - [Freedom](https://freedom.to/) - Freedom is the app and website blocker for Mac. ![Free][free]
+- [MindMac](https://mindmac.app/) - Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place.
 - [Pomotroid](https://github.com/Splode/pomotroid) - Simple and visually-pleasing Pomodoro timer. 🍅 ![Open Source][oss]
 - [Shortery](https://lgerckens.de/shortery/) - Shortcut Automation for your Mac. ![Free][free]
 - [Time Sink](https://manytricks.com/timesink/) - Track how you're spend your time. ![Dollar][mon]
