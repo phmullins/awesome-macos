@@ -1085,6 +1085,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [emmetapp](https://emmetapp.com/) - The window manager you dream about. ![Dollar][mon]
 - [Grid](https://macgrid.app/) - The fast, easy way to organize windows on macOS. ![Dollar][mon]
 - [Hookshot](https://hookshot.app/) - Quicker window snapping on macOS. ![Dollar][mon]
+- [Lasso](https://thelasso.app) - Grid-based intuitive window manager for macOS. ![Dollar][mon]
 - [LayAuto 3](https://layautoapp.com/) - Your next favorite window manager. ![Dollar][mon]
 - [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS. ![Dollar][mon]
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows. ![Dollar][mon]
