@@ -220,6 +220,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Coda](https://www.panic.com/coda/) - One-window Web development suite. ![Dollar][mon]
 - [CodeEdit](https://www.codeedit.app/) - A lightweight, natively built editor. Open source. Free forever. ![Open Source][oss] ![Free][free]
 - [CodeRunner 2](https://coderunnerapp.com/) - Easy-to-use programming editor for your Mac. ![Dollar][mon]
+- [Cursor](https://cursor.sh/) - The AI-first Code Editor. ![Dollar][mon]
 - [Espresso](https://espressoapp.com/) - Powerful HTML, XML, CSS, and JavaScript development tool. ![Dollar][mon]
 - [IntelliJ](https://www.jetbrains.com/idea/) - Capable and Intelligent IDE. ![Dollar][mon]
 - [RubyMine](https://www.jetbrains.com/ruby/) - Work Faster with a Smarter Editor. ![Dollar][mon]
