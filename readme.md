@@ -986,6 +986,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS. ![Open Source][oss]
 - [Sloth](https://sveinbjorn.org/sloth) - Shows all open files and sockets in use. ![Open Source][oss]
 - [Spaceman](https://github.com/Jaysce/Spaceman) - View Spaces & Virtual Desktops in the menu bar. ![Open Source][oss]
+- [Smotrite](https://github.com/Lukentui/smotrite-app) - System monitor for macOS, which just work. ![Open Source][oss]
 - [TouchSwitcher](https://hazeover.com/touchswitcher.html) - Use Touch Bar to Switch Apps. ![Open Source][oss]
 - [Übersicht](https://tracesof.net/uebersicht/) - Keep an eye on what is happening on your machine. ![Free][free]
 - [Unexpectedly](http://s.sudre.free.fr/Software/Unexpectedly/about.html) - Browse and visualize macOS crash reports. ![Open Source][oss]
