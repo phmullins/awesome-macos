@@ -474,6 +474,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 
 ### Image Viewers
 
+- [Aspect](https://aspect.bildhuus.com/) - Photo organization and viewing application with support for peer-to-peer based synchronization across devices. ![Free][free]
 - [Eagle](https://eagle.cool/) - Photo viewer, manager, and organizer. ![Dollar][mon]
 - [Lyn](https://www.lynapp.com/) - Organize, view, edit and share your photos. ![Dollar][mon]
 - [Phew](https://sveinbjorn.org/phew) - An open-source FLIF image viewer and QuickLook plugin for macOS. ![Open Source][oss]
