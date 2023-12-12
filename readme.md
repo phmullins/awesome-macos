@@ -372,6 +372,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 
 ### File Synchronization
 
+- [Syncthing](https://syncthing.net/) - Peer-to-peer file synchronization tool. ![Open Source][oss]
 - [Box](https://www.box.com/personal) - Online synchronization tool for box.net. ![Dollar][mon]
 - [Dropbox](https://www.dropbox.com/) - Cloud backup and synchronization tool. ![Free][free] & ![Dollar][mon]
 - [Google Drive](https://www.google.com/drive/) - File backup and sharing tool. ![Dollar][mon]
