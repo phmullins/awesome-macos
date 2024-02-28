@@ -574,6 +574,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Tyke](https://tyke.app/) - A little bit of scratch paper. ![Free][free]
 - [Vanilla](http://matthewpalmer.net/vanilla/) - Hide menu bar icons on your Mac. ![Free][free]
 - [WhichSpace](https://github.com/gechr/WhichSpace) - Active space menu bar icon for macOS. ![Open Source][oss]
+- [xbar](https://xbarapp.com) - Put anything in your macOS menu bar. ![Open Source][oss]
 - [XMenu](https://www.devontechnologies.com/apps/freeware) - Directly access all your apps from the manu bar. ![Free][free]
 
 ### Messenger Applications
