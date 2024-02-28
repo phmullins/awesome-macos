@@ -811,6 +811,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [OpenInCode](https://github.com/sozercan/OpenInCode) - Finder toolbar app to open current folder in Visual Studio Code. ![Open Source][oss]
 - [PaintCode 3](https://www.paintcodeapp.com/) - Turn drawings into Swift code. ![Dollar][mon]
 - [Pashua](https://github.com/BlueM/Pashua) - Native macOS dialogs for scripting languages. ![Open Source][oss]
+- [Patterns](https://krillapps.com/patterns/) - macOS tool for building and testing regular expressions. ![Dollar][mon]
 - [Paw](https://paw.cloud/) - The most advanced API tool for Mac. ![Dollar][mon]
 - [Pixelsnap](https://getpixelsnap.com/) - Fastest tool for measuring anything on your screen. ![Dollar][mon]
 - [Platypus](http://sveinbjorn.org/platypus) - Create MacOS applications from command line scripts. ![Open Source][oss]
