@@ -81,7 +81,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 
 - [Geogebra](https://www.geogebra.org/) - GeoGebra for Teaching and Learning Math. ![Free][free]
 - [Jamovi](https://www.jamovi.org/) - free and open statistical software to bridge the gap between researcher and statistician. ![Open Source][oss]
-- [Manuscripts](https://www.manuscripts.io/) - A writing tool like nothing you have seen before. ![Free][free]
+- [MonsterWriter](https://www.monsterwriter.app/) - The best way to writing a thesis or note. ![Free][free] ![Dollar][mon]
 - [Mochi](https://mochi.cards/) - Take notes and make flashcards. ![Free][free]
 - [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Dollar][mon] ![Star][fav]
 - [Soulver 3](https://soulver.app/) - Notepad, meet calculator. ![Dollar][mon]
