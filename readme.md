@@ -711,6 +711,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Tot](https://tot.rocks/) - Collect & edit text on macOS, iOS, and iPadOS. ![Dollar][mon]
 - [Trilium](https://github.com/zadam/trilium) - Build your personal knowledge base. ![Open Source][oss]
 - [Yojimbo](http://www.barebones.com/products/Yojimbo/) - Effortless, reliable information organizer for macOS. ![Dollar][mon]
+- [NotePlan](https://noteplan.co) - Tasks, notes, and calendar - All in one place. ![Dollar][mon]
 
 ### Office Suites
 
