@@ -541,6 +541,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Aldente](https://github.com/davidwernhart/AlDente) - macOS tool to limit maximum charging percentage. ![Open Source][oss]
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) - The most awesome keep-awake app ever created for macOS.
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS. ![Open Source][oss]
+- [Badgeify](https://badgeify.app) - Add App Icon & Notifications to Your macOS Menu Bar. ![Dollar][mon]
 - [Bartender 4](https://www.macbartender.com/) - Take control of your menu bar. ![Dollar][mon]
 - [BitBar](https://www.getbidbar.com/) - Run terminal commands from the menu bar. ![Open Source][oss]
 - [Bunch](https://bunchapp.co/) - Your new favorite macOS automation tool. ![Free][free]
