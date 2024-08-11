@@ -509,6 +509,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [jrnl](http://jrnl.sh/) - Command-line journaling application. ![Open Source][oss]
 - [Linked](https://uselinked.com/) - Link your thoughts to days, distraction free. ![Open Source][oss]
 - [MacJournal 7](http://danschimpf.com/) - macOS journaling application. ![Free][free]
+- [Life Note](https://www.mylifenote.ai/) - Journal with the greatest minds in human history, don't be alone on your self-discovery journey. ![Dollar][mon]
 
 ### Machine Learning
 
