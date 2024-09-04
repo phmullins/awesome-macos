@@ -977,6 +977,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - All-in-One App/Settings menu bar app. ![Open Source][oss]
 - [OpeninTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Open the current directory in Terminal. ![Open Source][oss]
 - [Pastebox](https://tapbots.com/pastebot/) - Command Copy & Paste. ![Dollar][mon]
+- [PlugNPlayMac](https://github.com/Piero24/PlugNPlayMac) - A script to automate tasks when connect a device to your Mac. ![Open Source][oss]
 - [Pock](http://pock.pigigaldi.com/) - Display macOS Dock in Touch Bar. ![Open Source][oss]
 - [PrefsEditor](https://apps.tempel.org/PrefsEditor/) - A GUI for the 'defaults' command. ![Free][free]
 - [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac. ![Free][free]
