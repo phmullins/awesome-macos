@@ -1147,6 +1147,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Parallels Desktop 17](https://www.parallels.com/products/desktop/) - Run Windows on Mac without rebooting. ![Dollar][mon] ![Star][fav]
 - [Parallels Toolbox](https://www.parallels.com/products/toolbox/) - All-in-one solution with over 30 tools for macOS and Windows 10. ![Dollar][mon]
 - [PlayOnMac](https://www.playonmac.com/en/) - Wine wrapper for macOS. ![Free][free]
+- [Tart](https://tart.run/) - Virtualization toolset to build, run and manage macOS and Linux virtual machines on Apple Silicon.
 - [UTM](https://mac.getutm.app) - QEMU frontend for macOS. ![Open Source][oss]
 - [Vagrant Manager](http://vagrantmanager.com) - Vagrant Manager for mcOS.
 - [Veertu](https://veertu.com/) - Native Virtualization For macOS. ![Dollar][mon]
