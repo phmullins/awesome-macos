@@ -576,6 +576,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [WhichSpace](https://github.com/gechr/WhichSpace) - Active space menu bar icon for macOS. ![Open Source][oss]
 - [xbar](https://xbarapp.com) - Put anything in your macOS menu bar. ![Open Source][oss]
 - [XMenu](https://www.devontechnologies.com/apps/freeware) - Directly access all your apps from the manu bar. ![Free][free]
+- [NotchNook](https://lo.cafe/notchnook) - Interactive use of notch area  ![Dollar][mon] 
 
 ### Messenger Applications
 
@@ -1000,6 +1001,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Witch](https://manytricks.com/witch/) - ⌘-Tab Everything. ![Dollar][mon]
 - [xBench](http://xbench.com/) - The Only Benchmark You'll Ever Need. ![Free][free]
 - [Xrg](https://gaucho.software/Products/XRG/) - An open source system monitor for macOS. ![Open Source][oss]
+- [DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS. ![Open Source][oss]
 
 ### Task Management
 
