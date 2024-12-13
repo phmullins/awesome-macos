@@ -188,7 +188,6 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Disk Doctor](https://fiplab.com/apps/disk-doctor-for-mac) - Removes tons of unneeded files. ![Dollar][mon]
 - [Duplicate Detective](https://fiplab.com/apps/duplicate-detective-for-mac) - Remove duplicate files from your Mac. ![Dollar][mon]
 - [Monolingual](http://ingmarstein.github.io/Monolingual/) - Frees up disk space by removing unused languages files. ![Open Source][oss]
-- [RemoveX](https://removex.io) - Uninstaller tool for Mac computer. RemoveX has a beautifully UI using native design for MacOS. Save hours of time and remove your app in seconds. Do not make you think. ![Free][free] and ![Dollar][mon]
 - [TrashMe](http://www.jibapps.com/en/products/trashme/) - Uninstaller for the Mac with other great useful tools. ![Dollar][mon] ![Star][fav]
 
 ### Clipboard Managers
@@ -270,7 +269,6 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 
 - [BusyCal](https://www.busymac.com/busycal/) - Powerful, Elegant, Customizable Calendar for macOS. ![Dollar][mon]
 - [Calendars](https://readdle.com/calendars) - Own your time. ![Dollar][mon] 
-- [Day-O](https://shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Simple menu bar clock replacement.
 - [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without. ![Dollar][mon]
 - [Informant](https://www.pocketinformant.com/products/mac-organizer-app/) - The best calendar app for macOS. ![Dollar][mon]
 - [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar. ![Open Source][oss]
@@ -349,7 +347,6 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Canary](https://canarymail.io/) - Secure Email App for Mac and iPhone. ![Dollar][mon]
 - [eM Client](https://www.emclient.com) - Boost your email. Skyrocket your productivity. Free & ![Dollar][mon] ![Star][fav]
 - [FMail](https://fmail-app.fr/index.html?22050731) - The free native Mac application for Fastmail users. ![Free][free]
-- [FMail Light](https://fmail-app.fr/tabs/main.html) - Free native Mac application for Fastmail. ![Free][free]
 - [imap-backup](https://github.com/joeyates/imap-backup) - Backup IMAP accounts to disk. ![Open Source][oss] 
 - [MailMate](https://freron.com/) - IMAP email client for macOS. ![Dollar][mon]
 - [Mailspring](https://getmailspring.com/) - Boost your productivity and send better emails. ![Free][free]
@@ -586,7 +583,6 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Franz](https://meetfranz.com/) - Get back on top of your messaging. ![Free][free]
 - [Gitter](https://gitter.im/) - A chat and networking platform. ![Open Source][oss]
 - [Keybase Chat](https://keybase.io/download) - Crypto chat for everyone. ![Open Source][oss]
-- [Monal](https://monal.im/) - Secure XMPP chat client. ![Open Source][oss]
 - [Patchwork](https://github.com/ssbc/patchwork) - Decentralized messaging app built on top of Secure Scuttlebutt (SSB). ![Open Source][oss]
 - [Pony](https://www.ponymessenger.com/) - Pony is a messenger that delivers once a day. ![Free][free]
 - [Rambox](https://rambox.app/) - he only way to organize your workspace and boost your productivity. ![Free][free]
