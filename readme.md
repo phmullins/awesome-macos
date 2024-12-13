@@ -770,6 +770,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) - World's neatest Pomodoro timer for macOS menu bar. 🍅 ![Open Source][oss]
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. 🐳 ![Open Source][oss]
 - [HelperX](https://github.com/HelperXApp/HelperX) - All-in-one Utility and Productivity Software for macOS. ![Free][free] and ![Dollar][mon]
+- [Freeter](https://freeter.io/) - Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. ![Open Source][oss]
 
 ### Programming Languages
 
