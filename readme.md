@@ -1129,6 +1129,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Storyist](https://www.storyist.com/) - Full-Featured Word Processor. ![Dollar][mon]
 - [Ulysses](https://ulyssesapp.com/) - The Ultimate Writing App for Mac, iPad and iPhone. ![Dollar][mon]
 - [Taskade](https://apps.apple.com/us/app/taskade-manage-anything/id1490048917) - Free writing tool for outlining notes, managing tasks, and getting things done together in realtime. ![Free][free]
+- [ConniePad](https://conniepad.com/) - Comprehensive rich formatting personal note app for Jira & Confluence users. ![Dollar][mon]
 
 ### Video Utilities
 
