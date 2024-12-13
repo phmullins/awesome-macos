@@ -1167,7 +1167,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [VMware Fusion](http://www.vmware.com/products/fusion/) - Run Windows and Linux on your Mac. ![Dollar][mon]
 
 ### Author
-Created by [Patrick H. Mullins](http://www.pmullins.net). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
+Created by Patrick H. Mullins. You can find me on [Mastodon](https://mastodon.social/@pmullins).
 
 ### License
 Source is released under the MIT License (MIT) [license](license.md).
