@@ -439,7 +439,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 
 ### Game Development
 
-- [Blender](https://www.blender.org/) - A new era for content creation. ![Free][free]
+- [Blender](https://www.blender.org/) - A new era for content creation. ![Open Source][oss]
 - [Godot](https://godotengine.org/) - Free and open source game engine. Loved by indie devs. ![Open Source][oss]
 - [Unity](https://unity.com/) - The platform of choice for multiplayer hits. ![Free][free]
 - [Unreal Engine](https://www.unrealengine.com/en-US/) - The world’s most open and advanced real-time 3D creation tool. ![Free][free]
