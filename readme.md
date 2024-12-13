@@ -260,6 +260,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 ### Compression
 
 - [BetterZip 5](https://macitbetter.com/) - the next generation of archiving. ![Dollar][mon]
+- [Bandizip](https://en.bandisoft.com/bandizip/) - professional and fast archiver. ![Dollar][mon]
 - [Keka](https://www.keka.io/en/) - MacOS file archiver. Store more, share with privacy. ![Open Source][oss]
 - [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - Capable replacement for MacOS' default compression app. ![Star][fav]
 - [p7zip](http://p7zip.sourceforge.net/) - Open Source port of 7-Zip for POSIX systems. ![Open Source][oss]
@@ -875,6 +876,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [MullardVPN](https://mullvad.net/en/) - You have a right to privacy. ![Dollar][mon]
 - [Netiquette](https://objective-see.com/products/netiquette.html) - A network monitor. ![Free][free]
 - [OverSight](https://objective-see.com/products/oversight.html) - Monitors a mac's mic and webcam. ![Free][free]
+- [Oblivion](https://github.com/bepass-org/oblivion-desktop) - Free Internet Access allows crossing over internet restrictions. ![Open Source][oss]
 - [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. ![Dollar][mon]
 - [Pritunl](https://client.pritunl.com/) - Open Source OpenVPN Client. ![Open Source][oss]
 - [ReiKey](https://objective-see.com/products/reikey.html) - Scan and detect key loggers. ![Free][free]
