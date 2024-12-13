@@ -530,6 +530,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [MWeb](http://www.mweb.im/) - Pro Markdown writing and note taking editor. ![Dollar][mon]
 - [Notary](https://getnotary.app/) - Fast, desktop-first & Vim-friendly markdown editor. ![Open Source][oss]
 - [PanWriter](https://panwriter.com/) - Markdown editor with pandoc integration. ![Open Source][oss]
+- [RewriteBar](https://rewritebar.com/) - A menubar app that helps you rewrite text with the help of AI. ![Dollar][mon]
 - [Pine](https://lukakerr.github.io/Pine/) - Native markdown editor for macOS. ![Open Source][oss]
 - [Texts](http://www.texts.io/) - Separate Content from Formatting. Store in Markdown. ![Free][free]
 - [Typora](https://www.typora.io/) - Live markdown reader and a writer. ![Dollar][mon]
