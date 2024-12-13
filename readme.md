@@ -389,7 +389,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Gemini](https://macpaw.com/gemini) - The intelligent duplicate file finder. ![Dollar][mon]
 - [Hazel](https://www.noodlesoft.com/) - Automated Organization for Your Mac. ![Dollar][mon]
 - [HiFile](https://www.hifile.app/) - File manager for Windows, macOS and Linux. ![Dollar][mon]
-- [Marta](https://marta.yanex.org/) - File Manager for macOS. ![Free][free] ![Open Source][oss] ![Star][fav]
+- [Marta](https://marta.yanex.org/) - File Manager for macOS. ![Free][free] ![Star][fav]
 - [Mountain Duck](https://mountainduck.io/) - Cyberduck for mounting volumes in the file explorer. ![Dollar][mon]
 - [muCommander](https://www.mucommander.com/) - The easy to use file manager. ![Open Source][oss]
 - [NameChanger](https://mrrsoftware.com/namechanger/) - Rename a list of files quickly and easily. ![Free][free]
