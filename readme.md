@@ -1027,6 +1027,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [PowerShell](https://github.com/PowerShell/PowerShell) - Microsoft PowerShell for MacOS! ![Open Source][oss]
 - [Tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age. ![Open Source][oss]
 - [warp](https://www.warp.dev/) - The terminal that supercharges your developer workflow. ![Star][fav]
+- [wezterm](https://wezfurlong.org/wezterm/index.html) - Cross-platform terminal emulator and multiplexer written in Rust ![Open Source][oss]
 - [ZOC Terminal](https://www.emtec.com/zoc/) - Professional terminal emulation software for macOS. ![Dollar][mon]
 
 ### Text Editors
