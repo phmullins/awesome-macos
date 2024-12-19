@@ -385,6 +385,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [DCloner](https://www.pixelespressoapps.com/decloner/) - Reliable duplicate files finder. ![Dollar][mon]
 - [DCommander](https://devstorm-apps.com/dc/) - Advanced file manager for Mac. ![Dollar][mon]
 - [Double Commander](https://doublecmd.sourceforge.io/) - Cross-platform dual-pane file manager. ![Free][free] ![Open Source][oss]
+- [Folders](https://foldersapp.dev/) - A Windows Explorer-like file manager for macOS. ![Dollar][mon]
 - [ForkLift 3](http://binarynights.com/forklift/) - Advanced dual-pane FTP/file manager. ![Dollar][mon] ![Star][fav]
 - [Gemini](https://macpaw.com/gemini) - The intelligent duplicate file finder. ![Dollar][mon]
 - [Hazel](https://www.noodlesoft.com/) - Automated Organization for Your Mac. ![Dollar][mon]
