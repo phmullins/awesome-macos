@@ -866,6 +866,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [HoudahSpot 4](https://www.houdah.com/houdahSpot/) - Powerful File Search for Mac. ![Dollar][mon] ![Star][fav]
 - [ProFind](https://zeroonetwenty.com/profind/) - Find like a pro. ![Dollar][mon]
 - [Tembo](https://www.houdah.com/tembo/) - Friendly File Search Assistant. ![Dollar][mon]
+- [FileMinutes](https://www.fileminutes.com/) - Find files and take actions, all in one. ![Dollar][mon]
 
 ### Security
 
