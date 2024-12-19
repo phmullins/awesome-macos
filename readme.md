@@ -776,6 +776,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Whale](https://github.com/1000ch/whale) - Unofficial Trello app. 🐳 ![Open Source][oss]
 - [HelperX](https://github.com/HelperXApp/HelperX) - All-in-one Utility and Productivity Software for macOS. ![Free][free] and ![Dollar][mon]
 - [Freeter](https://freeter.io/) - Gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. ![Open Source][oss]
+- [Paste](https://pasteapp.io/) - Keep, search, and organize everything you copy across all your devices. ![Dollar][mon]
 
 ### Programming Languages
 
