@@ -550,7 +550,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [cpuinfo](https://github.com/yusukeshib/cpuinfo) - cpumeter menubar app for mac. ![Open Source][oss]
 - [De-Notch-ifier](https://www.publicspace.net/Denotchifier/index.html) - ![Dollar][mon]
 - [Displays](https://www.jibapps.com/apps/displays/) - Manage your monitors and more. ![Dollar][mon]
-- [Dropzone](https://aptonic.com/) - 
+- [Dropzone](https://aptonic.com/) - Simplifies file sharing, launching apps, and many other tasks. ![Dollar][mon]
 - [Forehead](https://goodsnooze.gumroad.com/l/nASbe) - Hide the notch and round the corners. Free &  ![Dollar][mon]
 - [FuzzyClock](https://github.com/m-schmidt/FuzzyClock) - Displays the time in your menubar. ![Open Source][oss]
 - [gSwitch](https://codyschrank.github.io/gSwitch/) - Control the GPU on dual-gpu MacBooks. ![Open Source][oss]
