@@ -367,6 +367,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) - Read Kindle books on your Mac. ![Free][free]
 - [Kitabu](https://www.kitabu.me/) - Kitabu is your EPUB reading application and cloud library. ![Free][free]
 - [Sigil](https://sigil-ebook.com/) — Sigil is a multi-platform EPUB ebook Editor ![Free][free]
+- [Simple Comic](https://github.com/MaddTheSane/Simple-Comic) - Reader for CBZ/CBR digital comics. ![Free][free]
 
 ### File Synchronization
 
