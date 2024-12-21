@@ -119,13 +119,12 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 
 Audio and Music players, Trackers, Digital Audio Workstation software.
 
-- [Auryo](https://auryo.com/) - A SoundCloud client for your desktop. ![Open Source][oss]
+- [Auryo](https://github.com/sneljo1/auryo) - A SoundCloud client for your desktop. ![Open Source][oss]
 - [Aural](https://github.com/kartik-venugopal/aural-player) - An audio player for macOS, inspired by Winamp. ![Open Source][oss]
 - [BitPerfect](http://bitperfectsound.com/) - The Audiophile Choice. ![Dollar][mon]
 - [Cider](https://cider.sh/) - OSS Apple Music client for Windows, Linux, macOS, and more. ![Open Source][oss] ![Star][fav]
 - [Cog](http://cogx.org/) - Audio player similar to Foobar 2000. ![Open Source][oss] ![Star][fav]
 - [Foobar2000](https://foobar2000.org/mac) - Freeware audio player for macOS. ![Free][free]
-- [Harmony](http://getharmony.xyz/) - Music player for Spotify, SoundCloud, Google Play and your local files. ![Dollar][mon]
 - [Idagio](https://about.idagio.com) - Streaming, reinvented for classical music. ![Free][free]
 - [Mous](https://github.com/bsdelf/mous) - Powerful audio player & converter for FreeBSD/Linux/macOS. ![Open Source][oss]
 - [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player. ![Open Source][oss]
